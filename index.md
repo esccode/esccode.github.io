@@ -1,7 +1,7 @@
 ---
 title: /
 layout: home
-permalink: /
+permalink: /jw
 ---
 ---
 
