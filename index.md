@@ -1,6 +1,6 @@
 ---
 title: /
-layout: default
+layout: home
 permalink: /jw
 ---
 ---
