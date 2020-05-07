@@ -1,7 +1,7 @@
 ---
 title: /
 layout: default
-permalink: /404.html
+permalink: /
 ---
 ---
 
