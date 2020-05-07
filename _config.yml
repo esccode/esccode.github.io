@@ -7,6 +7,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "keca13.github.io" # the base hostname & protocol for your site
 # Example Site settings
 
+github_username:  keca13
+
 #google_analytics: UA-NNNNNNNN-N
 
 header_pages:
