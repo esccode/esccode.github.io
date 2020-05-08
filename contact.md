@@ -5,7 +5,6 @@ permalink: /contact
 ---
 
 # Get in touch?
-{{email}}
 <form>
   <input type="text" id="name" name="name" placeholder="name:" autocomplete="off">
   <input type="text" id="email" name="email" placeholder="email:" autocomplete="off">
