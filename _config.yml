@@ -14,6 +14,7 @@ github_username:  keca13
 header_pages:
 - index.md
 - about.md
+- contact.md
 
 footer: 'follow me on <a href="https://github.com/keca13/">github</a>'
 
