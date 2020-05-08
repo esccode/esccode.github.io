@@ -12,7 +12,7 @@ github_username:  keca13
 #google_analytics: UA-NNNNNNNN-N
 
 header_pages:
-# - index.md
+- index.md
 - about.md
 
 footer: 'follow me on <a href="https://github.com/keca13/">github</a>'
