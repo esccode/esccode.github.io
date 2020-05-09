@@ -11,3 +11,9 @@ permalink: /contact
   <textarea rows="5" id="message" name="message" placeholder="message:" autocomplete="off"></textarea>
   <input type="submit" value="[ submit ]">
 </form>
+
+<form action="https://formspree.io/keca13@wp.pl">
+    <input type="text" name="name">
+    <input type="email" name="_replyto">
+    <input type="submit" value="Send">
+</form
