@@ -12,6 +12,8 @@ permalink: /contact
   <input type="submit" value="[ submit ]">
 </form>
 
+# next form
+
 <form action="https://formspree.io/keca13@wp.pl">
     <input type="text" name="name">
     <input type="email" name="_replyto">
