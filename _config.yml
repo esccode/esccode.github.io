@@ -16,7 +16,7 @@ header_pages:
 - about.md
 - contact.md
 
-footer: '<a href="https://github.com/keca13/">GitHub</a> | <a href="https://keca13.github.io/contact">Contact Form</a>'
+footer: '<a href="https://github.com/keca13/">GitHub</a> | <a href="https://keca13.github.io/contact">Contact</a>'
 
 #style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
