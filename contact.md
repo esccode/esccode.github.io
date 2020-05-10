@@ -13,6 +13,6 @@ permalink: /contact
 </form>
 
 # Wysyłąjąc emaila do mnie jednocześnie wyrażasz zgode na możliwość otrzymania ciekawych newsów w przyszłości ode mnie.
-# Ja zobowiązuje się na nie przekazywanie Twojego emaila nikomu.
+# Ja zobowiązuje się do nie przekazywanie Twojego emaila nikomu.
 # Zapraszam do kontaktu!
 
