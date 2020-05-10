@@ -4,13 +4,10 @@ title: /about
 permalink: /about/
 ---
 
-# Witam!
 
-Network Administrator w sieci IPCall (https://ipcall.pl).
+## Takie tam!
 
-## What is jekyll?
-
-Od wielu lat Zajmuje się telefonią IP.
-NA codzień ucze się programowania w pythonie, które staram sie wykorzystywać do automatyzacji pracy. 
+Od wielu lat zajmuje się telefonią IP.
+NA codzień ucze się programowania w pythonie, które staram sie wykorzystywać do automatyzacji mojej pracy. 
 
 
