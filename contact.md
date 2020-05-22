@@ -12,7 +12,7 @@ permalink: /contact
   <input type="submit" value="[ send ]">
 </form>
 
-# Wysyłąjąc emaila do mnie jednocześnie wyrażasz zgode na możliwość otrzymania ciekawych newsów w przyszłości ode mnie.
+# Wysyłąjąc emaila do mnie jednocześnie wyrażasz zgode na możliwość otrzymania ciekawych newsów w przyszłości.
 # Ja zobowiązuje się do nie przekazywanie Twojego emaila nikomu.
 # Zapraszam do kontaktu!
 
