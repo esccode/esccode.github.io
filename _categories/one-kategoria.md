@@ -1,6 +1,6 @@
 ---
 permalink: /one-kategoria.html
-layout: post
+layout: default
 category: 'one-category'
 ---
 
