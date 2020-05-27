@@ -1,7 +1,7 @@
 ---
-title: /
+title: / Home Page
 layout: default
-permalink: /
+permalink: /_posts
 ---
 ---
 
