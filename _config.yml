@@ -15,7 +15,7 @@ github_username:  keca13
 header_pages:
 - index.md
 - about.md
-- _categories/one-kategoria.md
+- /_categories/one-kategoria.md
 
 
 
