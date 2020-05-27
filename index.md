@@ -6,6 +6,6 @@ permalink: /
 ---
 
 # Witam!
-Network Administrator w sieci IPCall (https://ipcall.pl)to: {{my_link}}
+Network Administrator w sieci [IPCall ](https://ipcall.pl)
 
 Zapraszam do kontaktu.
