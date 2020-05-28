@@ -1,5 +1,5 @@
 ---
-title: keca13
+title: /
 layout: home
 permalink: /
 ---
