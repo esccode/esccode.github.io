@@ -1,0 +1,1 @@
+The Google Sheets API lets you read and modify any aspect of a spreadsheet. Spreadsheets have many settings that let you craft beautiful and functional sheets, so the API has many settings too. The API offers two main ways to interact with the spreadsheet:
