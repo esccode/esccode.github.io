@@ -1,6 +1,7 @@
 ---
 title: /contact
-layout: page
+#layout: page
+layout: contact
 permalink: /contact
 ---
 
