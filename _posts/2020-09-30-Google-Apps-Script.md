@@ -1,6 +1,6 @@
 ---
 layout: forms
-title: "Introduction to the Google Sheets API"
+title: "Introduction to the Google Apps Script"
 date: 2020-09-30 15:30:45 +0100 
 categories:
 ---
