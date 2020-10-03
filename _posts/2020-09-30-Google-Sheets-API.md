@@ -1,5 +1,5 @@
 ---
-layout: forms
+layout:
 title: "Introduction to the Google Sheets API"
 date: 2020-09-30 15:30:45 +0100 
 categories:
