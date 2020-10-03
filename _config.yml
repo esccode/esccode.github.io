@@ -1,6 +1,6 @@
 title: jw site
-email: jw@4gns.net
-my_link: https://ipcall.pl
+email: wieteskajacek.code@gmail.com
+ipcall: https://ipcall.pl
 description: > # this means to ignore newlines until "baseurl:"
   VoIP Administrator
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -21,7 +21,7 @@ header_pages:
 
 footer: 'follow me on <a href="https://github.com/keca13/">GitHub</a> | <a href="https://www.facebook.com/jacek.wieteska.184">Facebook</a>'
 
-#style: light # dark (default) or light
+style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
 
 collections:
