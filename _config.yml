@@ -19,7 +19,7 @@ header_pages:
 - rodo.md
 - contact.md
 
-footer: <center><p><a href="https://keca13.github.io/contact">Zapraszam do kontaktu!</a></p></center> 'follow me on <a href="https://github.com/keca13/">GitHub</a> | <a href="https://www.facebook.com/jacek.wieteska.184">Facebook</a>'
+footer: <center><p><a href="https://keca13.github.io/contact">Zapraszam do kontaktu!</a></p></center><hr> 'follow me on <a href="https://github.com/keca13/">GitHub</a> | <a href="https://www.facebook.com/jacek.wieteska.184">Facebook</a>'
 
 style: light # dark (default) or light
 #listen_for_clients_preferred_style: true # true or false (default)
