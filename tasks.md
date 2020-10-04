@@ -5,10 +5,10 @@ permalink: /tasks/
 ---
 
 
-## Takie tam!
+## Potrzebujesz coś zlecić, wypełnij formularz obiecuje się skontaktować.
 
-Od wielu lat zajmowałem się zawodowo telefonią IP: [Telefonia IPcall](https://developers.google.com/sheets/api/guides/concepts#a1_notation)
+Wysyłając emaila do mnie jednocześnie wyrażasz zgodę na przetwarzanie danych w celach kontaktu.
+Ja zobowiązuje się do nie przekazywanie Twoich danych nikomu.
+Administratorem danych jest użytkownik wieteskajacek.code@gmail.com.
 
-Ucze się programowania w języku [Python](https://www.python.org/), wykorzystuje to do automatyzacji mojej codziennej pracy.
-Ucze sie też ostatnio programowania na platformie Google: [Google Apps Script](https://developers.google.com/apps-script/overview)
 # Zapraszam do kontaktu!
