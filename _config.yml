@@ -19,8 +19,6 @@ header_pages:
 - rodo.md
 - contact.md
 
-RODO: "Wysyłając emaila do mnie jednocześnie wyrażasz zgodę na przetwarzanie danych w celach kontaktu<br>Ja zobowiązuje się do nie przekazywanie Twoich danych nikomu.<br>Administratorem danych jest użytkownik wieteskajacek.code@gmail.com"
-
 footer: 'follow me on <a href="https://github.com/keca13/">GitHub</a> | <a href="https://www.facebook.com/jacek.wieteska.184">Facebook</a>'
 
 style: light # dark (default) or light
