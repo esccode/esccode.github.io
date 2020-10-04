@@ -1,5 +1,5 @@
 ---
-title: /rodo
+title: /polityka
 layout: default
 permalink: /rodo
 ---
