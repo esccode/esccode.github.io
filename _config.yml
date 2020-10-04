@@ -1,7 +1,7 @@
 title: keca13
 email: wieteskajacek.code@gmail.com
 ipcall: https://ipcall.pl
-description: keca13, VoIP, IPPBX, Python, Google Apps Script, Support, # this means to ignore newlines until "baseurl:"
+description: ipcall, keca13, VoIP, IPPBX, Python, Google Apps Script, Support, # this means to ignore newlines until "baseurl:"
   
 baseurl: "/" # the subpath of your site, e.g. /blog
 
@@ -19,7 +19,7 @@ header_pages:
 - tasks.md
 - contact.md
 
-welcome: '<center><b><a href="https://keca13.github.io/contact">Zapraszam do kontaktu</a></b></center> | <center><b><a href="https://keca13.github.io/tasks">Zleć prace</a></b></center><hr>'
+welcome: '<center><b><a href="https://keca13.github.io/contact">Zapraszam do kontaktu</a></b></center> <br> <center><b><a href="https://keca13.github.io/tasks">Zleć prace</a></b></center><hr>'
 footer:  'follow me on <a href="https://github.com/keca13/">GitHub</a> | <a href="https://www.facebook.com/jacek.wieteska.184">Facebook</a>'
 
 style: light # dark (default) or light
