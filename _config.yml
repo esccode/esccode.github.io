@@ -19,7 +19,7 @@ header_pages:
 - tasks.md
 - contact.md
 
-welcome: '<center><b><a href="https://keca13.github.io/contact">Zapraszam do kontaktu!</a></b></center><hr>' | '<center><b><a href="https://keca13.github.io/tasks">Formularz na zlecenie</a></b></center><hr>'
+welcome: '<center><b><a href="https://keca13.github.io/contact">Zapraszam do kontaktu</a></b></center><hr>' | '<center><b><a href="https://keca13.github.io/tasks">Zleć prace</a></b></center><hr>'
 footer:  'follow me on <a href="https://github.com/keca13/">GitHub</a> | <a href="https://www.facebook.com/jacek.wieteska.184">Facebook</a>'
 
 style: light # dark (default) or light
