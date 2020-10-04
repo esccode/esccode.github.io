@@ -1,6 +1,6 @@
 ---
 
-title: /tasks
+title: tasks
 layout: tasks
 permalink: /tasks/
 ---
