@@ -3,8 +3,10 @@ title: /rodo
 layout: default
 permalink: /rodo
 ---
-Wysyłając emaila do mnie jednocześnie wyrażasz zgodę na przetwarzanie danych w celach kontaktu ze mną.
+# Ochrona danych osobowych
+
+Wysyłając emaila do mnie jednocześnie wyrażasz zgodę na przetwarzanie danych w celach kontaktowych tylko i wyłącznie z tobą.
 Ja zobowiązuje się do nie przekazywanie Twoich danych nikomu.
-Administratorem danych jest użytkownik wieteskajacek.code@gmail.com na platformie google.
+Administratorem danych jest użytkownik wieteskajacek.code@gmail.com na platformie [Google](https://policies.google.com/privacy).
 
 # Zapraszam do kontaktu!
