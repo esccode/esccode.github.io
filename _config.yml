@@ -1,11 +1,11 @@
 title: keca13
 email: wieteskajacek.code@gmail.com
 ipcall: https://ipcall.pl
-description: keca13, VoIP, IPPBX, Python Google Apps Script, Support, # this means to ignore newlines until "baseurl:"
+description: keca13, VoIP, IPPBX, Python, Google Apps Script, Support, # this means to ignore newlines until "baseurl:"
   
 baseurl: "/" # the subpath of your site, e.g. /blog
 
-url: "keca13.github.io" # the base hostname & protocol for your site
+url: "https://github.com/keca13" # the base hostname & protocol for your site
 # Example Site settings
 
 github_username:  keca13
