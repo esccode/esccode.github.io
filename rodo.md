@@ -1,5 +1,5 @@
 ---
-title: rodo
+title: /rodo
 layout: default
 permalink: /rodo
 ---
