@@ -1,5 +1,5 @@
 ---
-title: /polityka
+title: /privacy policy
 layout: default
 permalink: /rodo
 ---
