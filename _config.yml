@@ -15,8 +15,8 @@ github_username:  keca13
 header_pages:
 - index.md
 - about.md
-- tasks.md
 - rodo.md
+- tasks.md
 - contact.md
 
 welcome: '<center><b><a href="https://keca13.github.io/contact">Zapraszam do kontaktu!</a></b></center><hr>'
