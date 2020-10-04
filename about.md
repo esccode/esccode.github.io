@@ -11,5 +11,5 @@ Od wielu lat zajmowałem się zawodowo telefonią IP: [Telefonia IPcall](https:/
 
 Ucze się programowania w języku [Python](https://www.python.org/), wykorzystuje to do automatyzacji mojej codziennej pracy.
 Ucze sie też ostatnio programowania na platformie Google: [Google Apps Script](https://developers.google.com/apps-script/overview)
-# Zapraszam do kontaktu!
+
 
