@@ -1,6 +1,6 @@
 ---
 title: /contact
-layout: contact
+layout: 
 permalink: /contact
 ---
 
