@@ -22,7 +22,7 @@ header_pages:
 welcome: '<center><b><a href="https://keca13.github.io/contact">Zapraszam do kontaktu</a></b></center> <br> <center><b><a href="https://keca13.github.io/tasks">Zlec prace, oddzwonie!</a></b></center><hr>'
 footer:  ' <a href="https://github.com/keca13/">GitHub</a> | <a href="https://stackoverflow.com/users/14402262/keca13?tab=profile">Stack Overflow</a> | <a href="https://www.facebook.com/jacek.wieteska.184">Facebook</a> | <a href="https://keca13.github.io/feed.rss">RSS</a> | <a href="https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-subprocessors-and-cookies">Cookies on GitHub</a>'
 
-style:  dark (default) #or light
+style:  light #dark (default) #or light
 #listen_for_clients_preferred_style: true # true or false (default)
 
 collections:
