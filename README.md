@@ -1,99 +1,84 @@
-# jekyll-theme-console
+# Elementary
+This is my personal blog's Jekyll template that I've been optimizing for performance, accessibility, usability, readability and simplicity in general. 
 
-A jekyll theme with inspiration from linux consoles for hackers, developers and script kiddies.
+I personally do not approve of personal blogs bloated with hundreds of kilobytes of trackers and analytics code, and hence, this is an attempt at creating something that I'd be comfortable with using on my website.
 
-<img src="https://raw.githubusercontent.com/b2a3e8/jekyll-theme-console/master/screenrec-dark.gif" width="550" title="Screenshot">
+### Performance
+![](./tmp/perf-2.jpg)
 
-## Demo
+Images from my website (clockwise from top left)
 
-[https://b2a3e8.github.io/jekyll-theme-console/](https://b2a3e8.github.io/jekyll-theme-console/)
+- Perfect **100 Google Page Speed score** on both mobile and desktop
+- **Kindle's experimental browser** running the theme
+- Median load time (From Cloudflare) is **less than a second**
+- **100% cached** by Cloudflare CDN
 
-source code: [https://github.com/b2a3e8/jekyll-theme-console/tree/gh-pages](https://github.com/b2a3e8/jekyll-theme-console/tree/gh-pages)
+### Dark mode
+![](./tmp/dark-mode.gif)
 
+Note: Dark mode requires JavaScript
 
-## Installation
+### Scroll progress
+![](./tmp/scroll-progress.gif)
 
-First, follow the steps in [this Quickstart Guide](https://jekyllrb.com/docs/) if you're starting with Jekyll from scratch. Skip this if you already have an existing jekyll project.
+Note: Scroll progress requires JavaScript
 
-### Remote theme method for GitHub Pages
+### Demo
+<a href="https://elementary-jekyll.github.io/">https://elementary-jekyll.github.io/</a>
 
-Use this method for sites hosted with GitHub Pages only. To install:
+### Features
+- Lightweight, <10KB CSS, <3KB (optional) JavaScript + 15KB Open Sans font file + your content
+- Highly accessible with semantic HTML
+- Structured data ([schema.org](https://schema.org)) pre-added for blog posts
+- Dark mode (requires JavaScript for toggling class and saving user preference in cookies)
+- Reading progress slider on top (requires JavaScript)
+- JavaScript is optional (turn it off in `_config.yml`)
+- No request made to any third party
+- Any much more...
 
-1. Set `remote_theme` in your project's Jekyll `_config.yml` file:
-   
-   ```yaml
-   remote_theme: b2a3e8/jekyll-theme-console
-   ```
-
-### Gem-based method
-
-With Gem-based themes, directories such as the `assets`, `_layouts`, `_includes`, and `_sass` are stored in the themeâ€™s gem, hidden from your immediate view. Yet all of the necessary directories will be read and processed during Jekyllâ€™s build process.
-
-This allows for easier installation and updating as you don't have to manage any of the theme files. To install:
-
-1. Add this line to your Jekyll site's `Gemfile`:
-   
-   ```ruby
-   gem "jekyll-theme-console"
-   ```
-
-2. Fetch and update bundled gems by running the following [Bundler](http://bundler.io/) command:
-
-   ```bash
-   bundle
-   ```
-
-3. Set `theme` in your project's Jekyll `_config.yml` file:
-   
-   ```yaml
-   theme: jekyll-theme-console
-   ```
-   
-To update the theme run `bundle update`.
-
-## Usage
-
-In addition to jekyll's default configuration options, you can provide:
-- `header_pages` to specify which pages should be displayed in navbar
-- `footer` string, which will be inserted on the end of the page (doesn't support markup, but html)
-- `google_analytics` tracking id (tracking will be enabled only in production environments)
-- `listen_for_clients_preferred_style` boolean, used to allow users to choose theme based on their preferences (mostly affected by OS dark or light theme, details see https://developer.mozilla.org/en-US/docs/Web/CSS/@media/prefers-color-scheme)
-
-```yaml
-header_pages:
-  - index.md
-  - about.md
-
-style: dark # dark (default) or light
-listen_for_clients_preferred_style: true # true or false (default)
-
-footer: 'follow us on <a href="https://twitter.com/xxx">twitter</a>'
-
-google_analytics: UA-NNNNNNNN-N
+### Installation (Prerequisite: A working Jekyll site)
+- If you don't have a Jekyll site, read up how to create one here: [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
+- Add Elementary repository as a submodule to your Jekyll blog by running the following command.
 ```
+git submodule add git@github.com:abhn/Elementary.git elementary
+```
+- Tell Jekyll it has to use Elementary as theme by adding the following to your `_config.yml` (in case you're wondering where, just add it to the bottom on a new line). 
+```
+theme: elementary
+```
+- Add the following to your `Gemfile`
+```
+source 'https://rubygems.org'
+gem 'elementary', path: 'elementary'
+```
+- Run `bundle install` command in your project directory and make sure there are no errors
+- Add `./elementary` to `exclude` section of `_config.yml` so that the theme's files aren't compiled into the final site by adding the following to your `_config.yml` (if `exclude` key exists, just add a new item to it)
+```
+exclude:
+  - ./elementary
+```
+- Run command `bundle exec jekyll serve` to run local server (open browser to [http://localhost:4000](http://localhost:4000) to view the site).
+- Run command `bundle exec jekyll build` to output a production build to the `_site` directory.
 
-## Customization
+### Customization
+- You're free to make any edits to the theme's files in the submodule. You can also `git pull origin master` from the submodule directory to update the theme in case I push updates, but you don't have to.
+- In `_config.yml`, you can add new collections (groups of new content, so blog posts, news, pictures could all be their own collections with separate listing on index page)
 
-If you want to customize this theme, follow this steps:
-1. Fork this repository (you can use the fork as your own theme or directly as your website)
-2. Create or modify files in `_layouts` directory for html-based changes
-3. Create or modify files in `_sass` and `assets` for css-based changes
-   - You can change things which are used in light and dark theme (like font-size) in `_sass/base.scss`. You'll find style variables at the top.
-   - Style-specific definitions are in `_sass/_dark.scss` respectively in `_sass/_light.scss`. You can change things like background-color there.
+### Credits
+- Eric S Raymond (http://www.catb.org/~esr/hacker-emblem/glider.png) for the favicon
 
-## Contributing
+### License
+GNU GENERAL PUBLIC LICENSE Version 3
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/b2a3e8/jekyll-theme-console. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
+### Going v1.0
+When I started with the [original project](https://github.com/abhn/Elementary/releases/tag/v0.1) around 2 years ago, my goal was to get rid of all that unnecessary code and progressively add only the most essential bits. 
 
-## Development
+I feel like the theme is in good enough shape right now that I can call it a v1.0
 
-To set up your environment to develop this theme, run `bundle install`.
+-----
 
-Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
+### Original inspiration
 
-When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
-To add a custom directory to your theme-gem, please edit the regexp in `jekyll-theme-console.gemspec` accordingly.
+I recently read in a blog post that a personal blog has to be fast and lean. There's no reason for a personal blog to be bloated and take 2 seconds to load. That was when I reviewed my own blog code and started analyzing. I discovered that I was loading jQuery just for another jQuery plugin which just helped the images and videos to be mobile responsive. That was some 40KB of overhead, 2 additional requests which could have been prevented with just a `max-width: 100%` attribute to the culprit elements. Similarly, there was Disqus which loaded tonnes of scripts along with its own Google Analytics script. 
 
-## License
-
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
+I went on stripping weight from the code, and was left with something what you see here. Few extra CSS tweaks and Tadaa!

@@ -1,19 +1,23 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "en" }}">
-
-  {%- include head.html -%}
-
-  <body>
-    <div class="container">
-
-      {%- include header.html -%}
-      {%- include welcome.html -%}
-    <main>
-      {{ content }}
-    </main>
-    
-    {%- include footer.html -%}
-
-    </div>
-  </body>
+<html lang="en">
+{% include head.html %}
+<body>
+<div class="container">
+  {% include nav.html %}
+  <hr class="stylish"/>
+  {{ content }}
+</div>
+<footer>
+  <hr class="stylish"/>
+  {% include nav.html %}
+  <div>
+    Theme: <a href="https://github.com/abhn/Elementary">Elementary</a>
+    <br/>
+    <a>{{ site.name }}</a> &copy; {{ site.time | date: '%Y' }}
+  </div>
+</footer>
+{% if site.javascript_enabled %}
+  <script src="/assets/main.js"></script>
+{% endif %}
+</body>
 </html>
