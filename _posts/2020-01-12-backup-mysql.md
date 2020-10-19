@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "backup mysql database using python"
+title: "Backup mysql database"
 description: ""
 tags: "python, mysql, backup"
 
