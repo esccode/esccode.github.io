@@ -23,8 +23,7 @@ echo $STRING
 $ chmod +x hello_world.sh
 ./hello_world.sh
  ```
-
-##Simple Backup bash shell script
+## Simple Backup bash shell script
 
 ```
 #!/bin/bash
