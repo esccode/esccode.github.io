@@ -7,7 +7,9 @@ tags:
 
 [Bash Shell Script](https://linuxconfig.org/bash-scripting-tutorial)
 
-```$ which bash```
+```
+$ which bash
+```
 
 ```
 #!/bin/bash
@@ -22,7 +24,7 @@ $ chmod +x hello_world.sh
 ./hello_world.sh
  ```
 
- ##Simple Backup bash shell script
+##Simple Backup bash shell script
 
 ```
 #!/bin/bash
