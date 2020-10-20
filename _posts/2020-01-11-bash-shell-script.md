@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bash Shell Script
-tags: "linux, bash"
+tags: "linux bash"
 
 ---
 

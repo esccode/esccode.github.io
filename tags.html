@@ -11,7 +11,7 @@ title: Tags
     {% for tag in alltags %}
     	<li><a href="#{{ tag.name | slugify }}">{{ tag.name }} <span>{{ tag.size }}</span></a></li>
     {% endfor %}
-  
+  {% assign tags_list = nil %}
 </ul>
 
 {% for tag in alltags %}
