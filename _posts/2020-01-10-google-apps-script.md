@@ -2,7 +2,7 @@
 layout: post
 title: Google Apps Script
 tags: 
-- text
+- google apps script
 ---
 [Google Apps Script](https://developers.google.com/apps-script)
 
