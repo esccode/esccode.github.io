@@ -12,8 +12,6 @@ featured_posts:
     title: 'Featured post #1'
   - url: '#'
     title: 'Featured post #2'
-  - url: '#'
-    title: 'Featured post #3'
 
 collections:
   news:
