@@ -1,3 +1,5 @@
+---
+
 layout: post
 title: Analiza Danych
 tags: "python sql pandas"
