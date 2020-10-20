@@ -2,6 +2,7 @@
 layout: post
 title: Bash Shell Script
 tags: "linux, bash"
+
 ---
 
 [Bash Shell Script](https://linuxconfig.org/bash-scripting-tutorial)
