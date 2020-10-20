@@ -2,7 +2,7 @@
 layout: post
 title: "Python 3.8 whats new"
 description: ""
-tags: "python walrus operator"
+tags: "python walrus-operator"
 
 ---
 ## walrus operator in python 3.8
