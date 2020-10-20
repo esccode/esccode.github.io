@@ -7,9 +7,10 @@ tags:
 
 [Bash Shell Script](https://linuxconfig.org/bash-scripting-tutorial)
 
-```
+---
 $ which bash
-```
+
+---
 
 ```
 #!/bin/bash
