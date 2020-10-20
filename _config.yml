@@ -1,6 +1,6 @@
 title : Elementary - keca13 Blog
-name: 'Jacek Wieteska'
-description: 'ipcall, Praca zlecona, IT , jw, keca13, VoIP, IPPBX, Python, Google Apps Script, Support'
+name: 'Support IT'
+description: 'ipcall, help desk, IT, jw, keca13, VoIP, IPPBX, Python, Google Apps Script, Support'
 
 markdown: kramdown
 highlighter: rouge
@@ -19,7 +19,7 @@ collections:
     default_open: false
     output: true
   posts:
-    title: Oferta
+    title: W czy moge pomóc?
     default_open: true
     output: true
 
