@@ -1,15 +1,14 @@
 ---
 layout: post
 title: Bash Shell Script
-tags:
-- linux, bash
+tags: "linux, bash"
 ---
 
 [Bash Shell Script](https://linuxconfig.org/bash-scripting-tutorial)
 
----
-- $ which bash
----
+```
+$ which bash
+```
 
 ```
 #!/bin/bash
