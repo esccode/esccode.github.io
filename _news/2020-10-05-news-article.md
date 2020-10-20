@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Python 3.9.0 is now available
-tags: "news, python"
+tags: "python"
 
 ---
 
