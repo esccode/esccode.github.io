@@ -19,7 +19,7 @@ collections:
     default_open: false
     output: true
   posts:
-    title: Essays
+    title: Oferta
     default_open: true
     output: true
 
