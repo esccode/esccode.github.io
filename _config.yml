@@ -20,7 +20,7 @@ collections:
     output: true
   posts:
     title: W czy moge pomóc?
-    default_open: true
+    default_open: false
     output: true
 
 defaults:
