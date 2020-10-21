@@ -13,4 +13,4 @@ tags: "python sql pandas"
    3. bazy danych, exel, pliki csv
 
 
-   [Kontakt](https://keca13.github.io/tasks)
+  
