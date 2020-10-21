@@ -6,12 +6,12 @@ markdown: kramdown
 highlighter: rouge
 javascript_enabled: true
 
-featured_posts_title: Unrelated
+featured_posts_title: Kontakt
 featured_posts:
-  - url: '#'
-    title: 'Featured post #1'
-  - url: '#'
-    title: 'Featured post #2'
+  - url: 'https://keca13.github.io/tasks'
+    title: 'Zlecenie pracy'
+  - url: 'https://keca13.github.io/contact'
+    title: 'Kontakt'
 
 collections:
   news:
