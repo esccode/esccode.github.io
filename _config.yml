@@ -1,17 +1,17 @@
-title : Elementary - esccode Blog
-name: 'Support IT'
+title : EscCode
+name: 'Professional Support IT'
 description: 'ipcall, help desk, IT, jw, esccode, VoIP, IPPBX, Python, Google Apps Script, Support'
 
 markdown: kramdown
 highlighter: rouge
 javascript_enabled: true
 
-featured_posts_title: Kontakt
+featured_posts_title: contact
 featured_posts:
   - url: 'https://esccode.github.io/tasks'
-    title: 'Zlecenie pracy'
+    title: 'Get me a job'
   - url: 'https://esccode.github.io/contact'
-    title: 'Kontakt'
+    title: 'Contact'
 
 collections:
   news:
@@ -19,7 +19,7 @@ collections:
     default_open: false
     output: true
   posts:
-    title: W czy moge pomóc?
+    title: How can I help you?
     default_open: false
     output: true
 
