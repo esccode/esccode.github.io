@@ -1,7 +1,7 @@
 ---
 
 layout: post
-title: Data analysis
+title: Data Analysis
 tags: "python sql pandas"
 
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: IP telephony
+title: IP Telephony
 tags: "voip"
 
 ---
