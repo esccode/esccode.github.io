@@ -1,6 +1,6 @@
-title : Elementary - keca13 Blog
+title : Elementary - esccode Blog
 name: 'Support IT'
-description: 'ipcall, help desk, IT, jw, keca13, VoIP, IPPBX, Python, Google Apps Script, Support'
+description: 'ipcall, help desk, IT, jw, esccode, VoIP, IPPBX, Python, Google Apps Script, Support'
 
 markdown: kramdown
 highlighter: rouge
@@ -8,9 +8,9 @@ javascript_enabled: true
 
 featured_posts_title: Kontakt
 featured_posts:
-  - url: 'https://keca13.github.io/tasks'
+  - url: 'https://esccode.github.io/tasks'
     title: 'Zlecenie pracy'
-  - url: 'https://keca13.github.io/contact'
+  - url: 'https://esccode.github.io/contact'
     title: 'Kontakt'
 
 collections:

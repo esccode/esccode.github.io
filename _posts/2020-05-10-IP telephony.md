@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Telefonia IP
-tags: "voip"
+title: Voice over Internet Protocol
+tags: ""
 
 ---
 
-## Potrzebujesz:
+## How can I help you?
 
    1. centrali IP, telefonu IP
    2. przenieść numeracje
