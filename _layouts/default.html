@@ -12,8 +12,10 @@
   <hr class="stylish"/>
   {% include footer.html %}
   <div>
-    Hosted on: <a href="https://github.com/">GitHub</a> | Powered by: <a href="https://jekyllrb.com/">
-    Jekyll</a> | &copy; {{ site.time | date: '%Y' }} <a href="https://github.com/esccode">EscCode</a>
+     Powered by: <a href="https://jekyllrb.com/">
+    Jekyll</a> | &copy; {{ site.time | date: '%Y' }} <a href="https://github.com/esccode">EscCode</a> |
+    | <a class="nav-item" href="https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-subprocessors-and-cookies" target="_blank">cookies</a>
+  {% if site.javascript_enabled %}| <a class="nav-item dark-light-switch" href="#"></a>{% endif %}
   </div>
 </footer>
 {% if site.javascript_enabled %}
