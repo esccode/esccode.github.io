@@ -1,11 +1,11 @@
 title : EscCode
 name: 'EscCode'
-description: 'IT, Linux, Bash Script, VoIP, IPPBX, Python, Pandas, Google GSuit,, Support, SQL, Windows Serwer, Git.'
+description: 'IT, Support, Linux, Bash Script, Proxmox, PowerShell, VoIP, IPPBX, Python, Pandas, Google G Suit, Google Apps Script, SQL, Windows Serwer 2012, Git.'
 
 markdown: kramdown
 highlighter: rouge
 javascript_enabled: true
-
+ 
 featured_posts_title: contact
 featured_posts:
   - url: 'https://esccode.github.io/tasks'
