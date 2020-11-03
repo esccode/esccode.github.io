@@ -1,84 +1,75 @@
-# Elementary
-This is my personal blog's Jekyll template that I've been optimizing for performance, accessibility, usability, readability and simplicity in general. 
+# Particle Jekyll Theme
 
-I personally do not approve of personal blogs bloated with hundreds of kilobytes of trackers and analytics code, and hence, this is an attempt at creating something that I'd be comfortable with using on my website.
+![](./particle.jpg)
 
-### Performance
-![](./tmp/perf-2.jpg)
+This is a simple and minimalist template for Jekyll designed for developers that want to show of their portfolio.
 
-Images from my website (clockwise from top left)
+The Theme features:
 
-- Perfect **100 Google Page Speed score** on both mobile and desktop
-- **Kindle's experimental browser** running the theme
-- Median load time (From Cloudflare) is **less than a second**
-- **100% cached** by Cloudflare CDN
+- Gulp
+- SASS
+- Sweet Scroll
+- Particle.js
+- BrowserSync
+- Font Awesome and Devicon icons
+- Google Analytics
+- Info Customization
 
-### Dark mode
-![](./tmp/dark-mode.gif)
+## Basic Setup
 
-Note: Dark mode requires JavaScript
+1. [Install Jekyll](http://jekyllrb.com)
+2. Clone the particle theme: `git clone https://github.com/nrandecker/particle.git`
+3. Edit `_config.yml` to personalize your site.
 
-### Scroll progress
-![](./tmp/scroll-progress.gif)
+## Site and User Settings
 
-Note: Scroll progress requires JavaScript
+You have to fill some informations on `_config.yml` to customize your site.
 
-### Demo
-<a href="https://elementary-jekyll.github.io/">https://elementary-jekyll.github.io/</a>
-
-### Features
-- Lightweight, <10KB CSS, <3KB (optional) JavaScript + 15KB Open Sans font file + your content
-- Highly accessible with semantic HTML
-- Structured data ([schema.org](https://schema.org)) pre-added for blog posts
-- Dark mode (requires JavaScript for toggling class and saving user preference in cookies)
-- Reading progress slider on top (requires JavaScript)
-- JavaScript is optional (turn it off in `_config.yml`)
-- No request made to any third party
-- Any much more...
-
-### Installation (Prerequisite: A working Jekyll site)
-- If you don't have a Jekyll site, read up how to create one here: [https://jekyllrb.com/docs/](https://jekyllrb.com/docs/)
-- Add Elementary repository as a submodule to your Jekyll blog by running the following command.
 ```
-git submodule add git@github.com:abhn/Elementary.git elementary
+# Site settings
+description: A blog about lorem ipsum dolor sit amet
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://localhost:3000" # the base hostname & protocol for your site
+
+# User settings
+username: Lorem Ipsum
+user_description: Anon Developer at Lorem Ipsum Dolor
+user_title: Anon Developer
+email: anon@anon.com
+twitter_username: lorem_ipsum
+github_username:  lorem_ipsum
+gplus_username:  lorem_ipsum
 ```
-- Tell Jekyll it has to use Elementary as theme by adding the following to your `_config.yml` (in case you're wondering where, just add it to the bottom on a new line). 
-```
-theme: elementary
-```
-- Add the following to your `Gemfile`
-```
-source 'https://rubygems.org'
-gem 'elementary', path: 'elementary'
-```
-- Run `bundle install` command in your project directory and make sure there are no errors
-- Add `./elementary` to `exclude` section of `_config.yml` so that the theme's files aren't compiled into the final site by adding the following to your `_config.yml` (if `exclude` key exists, just add a new item to it)
-```
-exclude:
-  - ./elementary
-```
-- Run command `bundle exec jekyll serve` to run local server (open browser to [http://localhost:4000](http://localhost:4000) to view the site).
-- Run command `bundle exec jekyll build` to output a production build to the `_site` directory.
 
-### Customization
-- You're free to make any edits to the theme's files in the submodule. You can also `git pull origin master` from the submodule directory to update the theme in case I push updates, but you don't have to.
-- In `_config.yml`, you can add new collections (groups of new content, so blog posts, news, pictures could all be their own collections with separate listing on index page)
+**Don't forget to change your url before you deploy your site!**
 
-### Credits
-- Eric S Raymond (http://www.catb.org/~esr/hacker-emblem/glider.png) for the favicon
+## Color and Particle Customization
+- Color Customization
+  - Edit the sass variables
+- Particle Customization
+  - Edit the json data in particle function in app.js
+  - Refer to [Particle.js](https://github.com/VincentGarreau/particles.js/) for help
 
-### License
-GNU GENERAL PUBLIC LICENSE Version 3
+## Running the blog in local
 
-### Going v1.0
-When I started with the [original project](https://github.com/abhn/Elementary/releases/tag/v0.1) around 2 years ago, my goal was to get rid of all that unnecessary code and progressively add only the most essential bits. 
+In order to compile the assets and run Jekyll on local you need to follow those steps:
 
-I feel like the theme is in good enough shape right now that I can call it a v1.0
+- Install [NodeJS](https://nodejs.org/)
+- Install [Jekyll](https://jekyllrb.com): `sudo gem install bundler jekyll`
+- Install [Yarn](https://yarnpkg.com/): `npm install -g yarn`
+- Install dependencies: `yarn`
+- Run: `gulp`
 
------
+## Questions
 
-### Original inspiration
+Having any issues file a [GitHub Issue](https://github.com/nrandecker/particle/issues/new).
 
-I recently read in a blog post that a personal blog has to be fast and lean. There's no reason for a personal blog to be bloated and take 2 seconds to load. That was when I reviewed my own blog code and started analyzing. I discovered that I was loading jQuery just for another jQuery plugin which just helped the images and videos to be mobile responsive. That was some 40KB of overhead, 2 additional requests which could have been prevented with just a `max-width: 100%` attribute to the culprit elements. Similarly, there was Disqus which loaded tonnes of scripts along with its own Google Analytics script. 
+## License
 
-I went on stripping weight from the code, and was left with something what you see here. Few extra CSS tweaks and Tadaa!
+This theme is free and open source software, distributed under the The MIT License. So feel free to use this Jekyll theme anyway you want.
+
+## Credits
+
+This theme was partially designed with the inspiration from these fine folks
+- [Willian Justen](https://github.com/willianjusten/will-jekyll-template)
+- [Vincent Garreau](https://github.com/VincentGarreau/particles.js/)

@@ -1,27 +1,14 @@
 <!DOCTYPE html>
 <html lang="en">
-{% include head.html %}
-<body>
-<div class="container">
-  {% include nav.html %}
-  <hr class="stylish"/>
-  {% include navbottom.html %}
-  <hr class="stylish"/>
-  <br>
-  {{ content }}
-</div>
-<footer>
-  <hr class="stylish"/>
-  {% include footer.html %}
-  <div>
-     Powered by: <a href="https://jekyllrb.com/">
-    Jekyll</a> | &copy; {{ site.time | date: '%Y' }} <a href="https://github.com/esccode">EscCode</a>
-    | <a class="nav-item" href="https://docs.github.com/en/free-pro-team@latest/github/site-policy/github-subprocessors-and-cookies" target="_blank">Cookies</a>
-  {% if site.javascript_enabled %}| <a class="nav-item dark-light-switch" href="#"></a>{% endif %}
-  </div>
-</footer>
-{% if site.javascript_enabled %}
-  <script src="/assets/main.js"></script>
-{% endif %}
-</body>
-</html>
+  {% include head.html %}
+  <body>
+      {% include header.html %}
+      <section id="about">
+        {% include about.html %}
+      </section>
+      <section id="projects">
+        {% include projects.html %}
+      </section>
+        {{ content }}
+      {% include footer.html %}
+  </body>
