@@ -7,6 +7,9 @@ description: Dell PowerEdge R420, Linux, Bash Script, Proxmox, Docker, Windows S
 # User settings
 username: EscCode
 user_description: Dell PowerEdge R420, Linux, Bash Script, Proxmox, Docker, Windows Serwer 2012, PowerShell, VoIP, IPPBX, VoipSwitch, Python, Pandas, Google GSuit, Google Apps Script, SQL.
+code: Python, Bash Scripts, PowerShell Scripts
+data: MySQL, PostgreSQL, Sqlite3
+tools: Atom, Sublime Text, PowerShell ISE, Vim
 user_title: IT Support / Software Developer
 email: theesccode@gmail.com
 linkedin_username: https://www.linkedin.com/in/jacek-wieteska-b66b511b9/
