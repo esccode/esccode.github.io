@@ -1,12 +1,12 @@
 # Site settings
 title: The EscCode
-description: Linux, Bash Script, Proxmox, Docker, Windows Serwer 2012, PowerShell, VoIP, IPPBX, VoipSwitch, Python, Pandas, Google GSuit, Google Apps Script, SQL,
+description: Dell PowerEdge R420, Linux, Bash Script, Proxmox, Docker, Windows Serwer 2012, PowerShell, VoIP, IPPBX, VoipSwitch, Python, Pandas, Google GSuit, Google Apps Script, SQL,
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: EscCode
-user_description: Linux, Bash Script, Proxmox, Docker, Windows Serwer 2012, PowerShell, VoIP, IPPBX, VoipSwitch, Python, Pandas, Google GSuit, Google Apps Script, SQL.
+user_description: Dell PowerEdge R420, Linux, Bash Script, Proxmox, Docker, Windows Serwer 2012, PowerShell, VoIP, IPPBX, VoipSwitch, Python, Pandas, Google GSuit, Google Apps Script, SQL.
 user_title: IT Support / Software Developer
 email: theesccode@gmail.com
 linkedin_username: https://www.linkedin.com/in/jacek-wieteska-b66b511b9/
