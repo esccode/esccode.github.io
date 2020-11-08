@@ -1,6 +1,6 @@
 # Site settings
 title: The EscCode
-description: Dell PowerEdge R420, Linux, Bash Script, Proxmox, Docker, Windows Serwer 2012, PowerShell, VoIP, IPPBX, VoipSwitch, Python, Pandas, Google G-Suit, Google Apps Script, SQL.
+description: Dell PowerEdge, Linux, Bash Script, Proxmox, Docker, Windows Serwer 2012, PowerShell, VoIP, IPPBX, VoipSwitch, Python, Pandas, Google G-Suit, Google Apps Script, SQL, Git.
 
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
