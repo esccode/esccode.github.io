@@ -1,6 +1,6 @@
 # Site settings
 title: The EscCode
-description: Fast Learner, Critical thinking and problem solving, Profesionalna remote customer service,Python, Pandas, HTML, CSS, Git, GitHub, SQL, VoIP, VoIPSwitch, Asterisk PBX, PLICBD, Windows Server 2012,PowerShell Scripting, Dell PowerEdge, Linux/Unix, Bash Scripting, Proxmox, Docker, Networks Security, PuTTY, WinSCP, HeidiSQL, Wireshark, Kaspersky Serwer, Vim, Visual Studio Code, Driving License B
+description: Fast Learner, Critical thinking and problem solving, Profesionalna remote customer service, Python, Pandas, HTML, CSS, Git, GitHub, SQL, VoIP, VoIPSwitch, Asterisk PBX, PLICBD, Windows Server 2012, PowerShell Scripting, Dell PowerEdge, Linux/Unix, Bash Scripting, Proxmox, Docker, Networks Security, PuTTY, WinSCP, HeidiSQL, Wireshark, Kaspersky Serwer, Vim, Visual Studio Code, Driving License B
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
