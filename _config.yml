@@ -1,6 +1,6 @@
 # Site settings
 title: The EscCode
-description: Python, Pandas, HTML, CSS, Git, GitHub, SQL, VoIP, VoIPSwitch, Asterisk PBX, PLICBD, Windows Server 2012, PowerShell Scripting, Dell PowerEdge, Linux/Unix, Bash Scripting, Proxmox, Docker, Networks Security, PuTTY, MobaXterm, WinSCP, HeidiSQL, Wireshark, Kaspersky Serwer, Vim, Visual Studio Code
+description: BSA, Centreon, SCOM, CrowdStrike, SQL(HeidiSQL), VoIP( VoIPSwitch, Asterisk PBX, PLICBD, Elastix, Wireshark), Python(Pandas),  Linux/Unix(Bash, Proxmox, Docker, swk, ut, sed, grep)  MobaXterm, WinSCP , Kaspersky Serwer,  Visual Studio Code, Windows Server 2012, PowerShell, Dell PowerEdge,
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
