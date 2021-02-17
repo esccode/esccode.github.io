@@ -1,6 +1,6 @@
 # Site settings
 title: The EscCode
-description: BSA, Centreon, SCOM, CrowdStrike, SQL(HeidiSQL), VoIP( VoIPSwitch, Asterisk PBX, PLICBD, Elastix, Wireshark), Python(Pandas),  Linux/Unix(Bash, Proxmox, Docker, swk, cut, sed, grep)  MobaXterm, WinSCP , Kaspersky Serwer,  Visual Studio Code, Windows Server 2012, PowerShell, Dell PowerEdge,
+description: BSA, Centreon, SCOM, CrowdStrike, SQL(HeidiSQL), VoIP( VoIPSwitch, Asterisk PBX, PLICBD, Elastix, Wireshark), Python(Pandas,tkinter,fabric),  Linux/Unix(Proxmox, Docker, bash, swk, cut, sed, grep)  MobaXterm, WinSCP , Kaspersky Serwer,  Visual Studio Code, Windows Server 2012(PowerShell), Dell PowerEdge, RaspberryPi, Exel-2019(lookup,vlookup,if,iferror,sumif,sumifs,countif...etc.)
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
