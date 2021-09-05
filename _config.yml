@@ -1,6 +1,6 @@
 # Site settings
 title: The EscCode
-description: Ansible, BSA, Centreon, SCOM, CrowdStrike, SQL(HeidiSQL), VoIP( Proxmox, Dell PowerEdge, VoIPSwitch, Asterisk PBX, PLICBD, Juniper, Elastix PBX, Wireshark, Askozia PBX, Yealink, 3CX), Python(Pandas,tkinter,fabric), Perl(basic level), Bash,  AWK, Linux/Unix(CentOS, Ubuntu, debian, RedHat), VirtualBox, MobaXterm, mRemote, WinSCP , Kaspersky Serwer,  Visual Studio Code, Windows Server 2012(PowerShell), RaspberryPi, Exel-2019(lookup,vlookup,if,iferror,sumif,sumifs,countif...etc.),FritzBox, GitHub.
+description: Ansible, BMC, Centreon, SCOM, CrowdStrike, SQL(HeidiSQL), VoIP( Proxmox, Dell PowerEdge, VoIPSwitch, Asterisk PBX, PLICBD, Juniper, Elastix PBX, Wireshark, Askozia PBX, Yealink, 3CX), Python(Pandas,tkinter,fabric), Perl(basic level), Bash,  AWK, Linux/Unix(CentOS, Ubuntu, debian, RedHat), VirtualBox, MobaXterm, mRemote, WinSCP , Kaspersky Serwer,  Visual Studio Code, Windows Server 2012(PowerShell), RaspberryPi, Exel-2019(lookup,vlookup,if,iferror,sumif,sumifs,countif...etc.),FritzBox, GitHub.
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
