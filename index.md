@@ -82,7 +82,7 @@ _(deprecated, not recommended)_
 3. Delete the following unnecessary files/folders: `.github`, `LICENSE`, `screenshot.png`, `CNAME` and `alembic-jekyll-theme.gemspec`
 4. Run the command `bundle install` in the root of project to install the jekyll remote theme gem as a dependancy
 5. Run `bundle exec jekyll serve` to build and serve your site
-6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/daviddarnes/alembic/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
+6. Done! Use the [configuration](#configuration) documentation and the example [`_config.yml`](https://github.com/esccode/esccode.github.io/blob/master/_config.yml) file to set things like the navigation, contact form and social sharing buttons
 
 ## Customising
 
