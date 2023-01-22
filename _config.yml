@@ -27,10 +27,12 @@ title: 'Jacek Wieteska'
 description: 'This is my new website'
 permalink: pretty
 logo: "/assets/logos/logo.svg"
+email: "theesccode@gmail.com"
 
 # Pagination
 paginate: 5
 paginate_path: blog/page:num
+
 
 
 # 8. Site favicons & manifest icons
