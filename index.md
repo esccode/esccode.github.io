@@ -6,8 +6,8 @@ feature_text: |
   There isn't much going on here yet, but watch this space
 ---
 ## Features
-### Tech Writing
-### Copywriting
-### Documentation English/Polish
+#### Tech Writing
+#### Copywriting
+#### Documentation English/Polish
 
 
