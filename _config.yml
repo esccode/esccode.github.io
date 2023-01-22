@@ -129,7 +129,7 @@ navigation_header:
   url: /categories/
 - title: Search
   url: /search/
-- title: Repositories
+- title: Repos
   url: https://github.com/esccode/
 
 navigation_footer:
