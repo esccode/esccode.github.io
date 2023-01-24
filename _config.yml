@@ -61,7 +61,7 @@ navigation_header:
 navigation_footer:
 - title: Back to top
   url: "#top"
-- title: Contact
+- title: XContact
   url: /contact/
 
 # Collections
