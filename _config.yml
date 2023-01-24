@@ -62,7 +62,7 @@ navigation_footer:
 - title: Back to top
   url: "#top"
 - title: Contact
-  url: "theesccode@gmail.com"
+  url: /contact/
 
 # Collections
 collections:
