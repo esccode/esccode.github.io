@@ -30,7 +30,7 @@ logo: "/assets/logos/logo.svg"
 email: "theesccode@gmail.com"
 
 # Pagination
-paginate: 5
+paginate: 2
 paginate_path: blog/page:num
 
 
