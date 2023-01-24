@@ -15,9 +15,22 @@ This is my very first blog post. I haven't written anything yet but I'm sure I h
 >[Multi Markdown](https://fletcherpenney.net/multimarkdown/)
 
 >[RMarkdown](https://rmarkdown.rstudio.com/)
+
+>[iA Writer](https://ia.net/writer)
+
+>[Listacular](http://www.bloomingsoft.com/listacular/)
+
+>[REVEAL.JS](https://revealjs.com/)
+
+>[Ray Villalobos www ](https://raybo.org/)
+
 ---
 
 >[google doc link](https://docs.google.com/document/d/e/2PACX-1vQUg3pzF_9yRwJ5ReXYammA6Cwn_5-j4SpSHXHUN_mMOJkutk57E4WTPAxHXnuQIZSceQPvA3aZuK3i/pub?embedded=true)
+
+>[CommonMark](https://commonmark.org/)
+
+>[write app](http://writeapp.net/)
 
 ---
 
