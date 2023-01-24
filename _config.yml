@@ -63,8 +63,7 @@ navigation_footer:
   url: "#top"
 - title: Policy
   url: /privacy-policy/
-- title: Contact
-  url: /contact/
+
 
 # Collections
 collections:
