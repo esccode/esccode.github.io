@@ -23,7 +23,7 @@ plugins:
 # Site settings
 url: 'https://esccode.github.io/'
 baseurl: ''
-title: 'Jacek Wieteska'
+title: '@esccode'
 description: 'This is my new website'
 permalink: pretty
 logo: "/assets/logos/logo.svg"
