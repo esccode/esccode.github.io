@@ -12,6 +12,9 @@ This is my very first blog post. I haven't written anything yet but I'm sure I h
 
 >[Markdown Implementations](https://www.w3.org/community/markdown/wiki/MarkdownImplementations)
 
+>[Multi Markdown](https://fletcherpenney.net/multimarkdown/)
+
+>[RMarkdown](https://rmarkdown.rstudio.com/)
 ---
 
 >[google doc link](https://docs.google.com/document/d/e/2PACX-1vQUg3pzF_9yRwJ5ReXYammA6Cwn_5-j4SpSHXHUN_mMOJkutk57E4WTPAxHXnuQIZSceQPvA3aZuK3i/pub?embedded=true)
