@@ -48,6 +48,8 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # Header nav
 navigation_header:
+- title: Go to down
+  url: "#down"
 - title: Home
   url: /
 - title: About
