@@ -1,7 +1,7 @@
 
 
 ---
-> Plese do not hasitate contact me.
+> Plese do not hesitate contact me.
 
 ---
 >> @esccode
