@@ -48,8 +48,6 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 
 # Header nav
 navigation_header:
-- title: Go to down
-  url: "#down"
 - title: Home
   url: /
 - title: About
@@ -61,7 +59,7 @@ navigation_header:
 
 # Footer nav
 navigation_footer:
-- title: Back to top
+- title: Home
   url: "#top"
 - title: Policy
   url: /privacy-policy/
