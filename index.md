@@ -2,8 +2,8 @@
 title: Welcome to my website
 feature_image: "https://picsum.photos/1300/400?image=989"
 feature_text: |
-  ## Jacek Wieteska
-  There isn't much going on here yet, but watch this space
+  ## @esccode
+  Tech writing is my passion but base on my past, watch this space!.
 ---
 Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
 
@@ -31,7 +31,7 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 
 Here are a few examples of Alembic out in the wild being used in a variety of ways:
 
-- [bawejakunal.github.io](https://bawejakunal.github.io/)
+- [GAWK](https://github.com/esccode/markdown/blob/324bb843dcad16af685007db74ba24f69ead2ff6/awk.md "man gawk")
 - [case2111.github.io](https://case2111.github.io/)
 - [karateca.org](https://www.karateca.org/)
 

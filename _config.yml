@@ -23,14 +23,14 @@ plugins:
 # Site settings
 url: 'https://esccode.github.io/'
 baseurl: ''
-title: 'Jacek Wieteska'
+title: '@esccode'
 description: 'This is my new website'
 permalink: pretty
 logo: "/assets/logos/logo.svg"
 email: "theesccode@gmail.com"
 
 # Pagination
-paginate: 5
+paginate: 2
 paginate_path: blog/page:num
 
 
@@ -54,13 +54,16 @@ navigation_header:
   url: /about/
 - title: Blog
   url: /blog/
-- title: Repos
-  url: https://github.com/esccode
+- title: Categories
+  url: /categories/
 
 # Footer nav
 navigation_footer:
-- title: Back to top
+- title: Home
   url: "#top"
+- title: Policy
+  url: /privacy-policy/
+
 
 # Collections
 collections:
@@ -86,3 +89,14 @@ defaults:
       type: "pages"
     values:
       layout: page # Set the default layout for pages
+
+
+# Load custom fonts from fonts.google.com etc
+#
+# TIP: Try to keep the number of urls as low to reduce the performance cost
+#      If multiple fonts can be requested in a single url opt for this
+fonts:
+  preconnect_urls:
+    - https://fonts.gstatic.com
+  font_urls:
+    - https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&display=swap
