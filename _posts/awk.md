@@ -1,9 +1,8 @@
 ---
-title: "awk"
-author: Jacek Wieteska
-description: 'copy from man Ubuntu 20.04.5 LTS'
-date: January 22, 2023
-output: markdown
+title: MAN GAWK
+categories:
+- General
+feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
 ## NAME
