@@ -62,7 +62,9 @@ navigation_footer:
 - title: Back to top
   url: "#top"
 - title: Contact
-  url: /contact/
+  url: /contact
+- title: Policy
+  url: /privacy-policy/
 
 # Collections
 collections:
