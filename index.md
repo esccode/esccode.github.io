@@ -31,7 +31,7 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 
 Here are a few examples of Alembic out in the wild being used in a variety of ways:
 
-- [man awk doc](https://githab/esccode/markdown/awk.md)
+- [man awk](https://github.com/esccode/markdown/blob/324bb843dcad16af685007db74ba24f69ead2ff6/awk.md)
 - [case2111.github.io](https://case2111.github.io/)
 - [karateca.org](https://www.karateca.org/)
 
