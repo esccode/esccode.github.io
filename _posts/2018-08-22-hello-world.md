@@ -10,9 +10,14 @@ This is my very first blog post. I haven't written anything yet but I'm sure I h
 >[google doc link](https://docs.google.com/document/d/e/2PACX-1vQUg3pzF_9yRwJ5ReXYammA6Cwn_5-j4SpSHXHUN_mMOJkutk57E4WTPAxHXnuQIZSceQPvA3aZuK3i/pub?embedded=true)
 
 ---
->![social](/assets/default-social-image.png)
+>![social](/assets/default-social-image.png "default-social")
 
 ---
 
 
->![social](/assets/default-offline-image.png)
+>![social][offline]
+
+[offline]: /assets/default-offline-image.png "default-offline"
+
+
+>![imgur](https://i.imgur.com/LiJy1NX.mp4 "imgur mp4")
