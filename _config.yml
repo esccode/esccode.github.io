@@ -61,8 +61,8 @@ navigation_header:
 navigation_footer:
 - title: Back to top
   url: "#top"
-- title: <theesccode@gmail.com>
-  #url: "#top"
+- title: Contact
+  url: "theesccode@gmail.com"
 
 # Collections
 collections:
