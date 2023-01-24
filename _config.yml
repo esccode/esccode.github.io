@@ -54,8 +54,8 @@ navigation_header:
   url: /about/
 - title: Blog
   url: /blog/
-- title: Repos
-  url: https://github.com/esccode
+- title: Categories
+  url: /categories/
 
 # Footer nav
 navigation_footer:
