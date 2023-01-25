@@ -52,7 +52,7 @@ sass:
   style: compressed # Style compression
 permalink: pretty  # Permalink style (/YYYY/MM/DD/page-name/)
 excerpt_separator: <!-- more --> # Marks end of excerpt in posts
-timezone: Europe/London # Timezone for blog posts and alike
+timezone: Europe/Warsaw # Timezone for blog posts and alike
 
 # 5. Collections
 collections:
@@ -137,9 +137,9 @@ navigation_footer:
   url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/DavidDarnes
-  LinkedIn: https://www.linkedin.com/in/daviddarnes
-  GitHub: https://github.com/daviddarnes
+  #Twitter: https://twitter.com/
+  LinkedIn: https://www.linkedin.com/in/jacek-wieteska-b66b511b9/
+  GitHub: https://github.com/esccode
   link: https://darn.es
   RSS: /feed.xml
 
