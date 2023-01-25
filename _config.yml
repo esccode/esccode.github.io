@@ -137,8 +137,8 @@ navigation_footer:
   url: https://darn.es
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
-  Twitter: https://twitter.com/
-  LinkedIn: https://www.linkedin.com/
+  #Twitter: https://twitter.com/
+  #LinkedIn: https://www.linkedin.com/
   GitHub: https://github.com/esccode
   link: https://esccode.github.io
   RSS: /feed.xml
