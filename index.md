@@ -6,7 +6,7 @@ feature_text: |
   Tech writing is my passion but base on my past, watch this space!.
 ---
 
-{% include button.html text="GitHub" icon="github" link="https://github.com/esccode" color="#0366d6" %} 
+# {% include button.html text="GitHub" icon="github" link="https://github.com/esccode" color="#0366d6" %} 
 
 
 
