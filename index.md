@@ -9,7 +9,7 @@ Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather
 
 {% include button.html text="Repos" icon="github" link="https://github.com/esccode" color="#0366d6" %}  {% include button.html text="Linkedin" icon="linkedin" link="https://www.linkedin.com/in/jacek-wieteska-b66b511b9/" color="#0d94e7" %}
 
->[s](/blog/)
+{% include post-list.html %}
 
 ## Features
 
