@@ -7,12 +7,10 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 categories:
 - MAN
 - markdown
-excerpt: "[Markdown](_posts/2023-01-24-markdown.md) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
+excerpt: "text"
 ---
 
-Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get rolling immediately. Install it, configure it, tweak it, push it.
+Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form.[9] Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.  
+ * **[wiki source](https://en.wikipedia.org/wiki/Markdown)**, 
+* **[@esccode post](_posts/2023-01-24-markdown.md)**
 
-
-- Designed with **[Siteleaf](https://www.siteleaf.com/)** in mind
-- Has 9 of the most popular networks as performant sharing buttons
-- Has documentation
