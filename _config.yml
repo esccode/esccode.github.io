@@ -133,8 +133,8 @@ navigation_footer:
   url: "#top"
 - title: Policy
   url: /privacy-policy/
-- title: Created by David Darnes
-  url: https://darn.es
+- title: Created by @daviddarnes
+  url: https://github.com/daviddarnes/alembic
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   #Twitter: https://twitter.com/
