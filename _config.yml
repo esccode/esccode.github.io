@@ -140,7 +140,7 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Twitter: https://twitter.com/
   LinkedIn: https://www.linkedin.com/
   GitHub: https://github.com/esccode
-  link: https://theesccode.github.io
+  link: https://esccode.github.io
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
