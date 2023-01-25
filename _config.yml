@@ -37,9 +37,9 @@ plugins:
 # 3. Gem settings
 paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
-author: Jacek Wieteska # jekyll-seo-tag > default author
+author: @esccode # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: Jacek Wieteska # jekyll-seo-tag > real name
+  name: @esccode # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://github.com/esccode
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
@@ -138,9 +138,9 @@ navigation_footer:
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   #Twitter: https://twitter.com/
-  LinkedIn: https://www.linkedin.com/in/jacek-wieteska-b66b511b9/
+  #LinkedIn: https://www.linkedin.com/in/
   GitHub: https://github.com/esccode
-  link: https://darn.es
+  link: https://esccode.github.io
   RSS: /feed.xml
 
 sharing_links: # Appear at the bottom of single blog posts, add as desired. The value can be 'true' or the desired button colour
