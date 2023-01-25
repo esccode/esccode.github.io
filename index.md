@@ -15,10 +15,41 @@ image: "https://picsum.photos/2560/600?image=733"
 aside: true
 ---
 
->Markdown is a lightweight markup language for creating formatted text using a plain-text editor. John Gruber and Aaron Swartz created Markdown in 2004 as a markup language that is appealing to human readers in its source code form. Markdown is widely used in blogging, instant messaging, online forums, collaborative software, documentation pages, and readme files.  
+
+> _Originally from [Alembic - Wikipedia](https://en.wikipedia.org/wiki/Alembic)_
+
+>[Daring Fireball markdown](>[ScreenShot](https://app.prntscr.com/en/index.html))
+
+>[Markdown Implementations](https://www.w3.org/community/markdown/wiki/MarkdownImplementations)
+
+>[Multi Markdown](https://fletcherpenney.net/multimarkdown/)
+
+>[RMarkdown](https://rmarkdown.rstudio.com/)
+
+>[iA Writer](https://ia.net/writer)
+
+>[Listacular](http://www.bloomingsoft.com/listacular/)
+
+>[REVEAL.JS](https://revealjs.com/)
+
+>[Ray Villalobos www ](https://raybo.org/)
+
+---
+
+>[google doc link](https://docs.google.com/document/d/e/2PACX-1vQUg3pzF_9yRwJ5ReXYammA6Cwn_5-j4SpSHXHUN_mMOJkutk57E4WTPAxHXnuQIZSceQPvA3aZuK3i/pub?embedded=true)
+
+>[CommonMark](https://commonmark.org/)
+
+>[write app](http://writeapp.net/)
+
+---
+
+>[imgur](https://imgur.com/)
+
+---
+>![social](/assets/default-social-image.png "default-social")
 
 
-
-> [Wikipedia Markdown](https://en.wikipedia.org/wiki/Markdown)  
-> [@esccode Post](_posts/2023-01-24-markdown.md)
+---
+>[table generator](https://www.tablesgenerator.com/markdown_tables "table generator") 
 
