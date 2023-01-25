@@ -129,6 +129,10 @@ navigation_header:
   url: https://github.com/daviddarnes/alembic
 
 navigation_footer:
+- title: Home
+  url: "#top"
+- title: Policy
+  url: /privacy-policy/
 - title: Created by David Darnes
   url: https://darn.es
 
