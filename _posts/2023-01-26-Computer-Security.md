@@ -26,3 +26,5 @@ aside: true
 > A 1977 NIST publication introduced the `CIA triad` of confidentiality , integrity, and availability as a clear and simple way to describe key security goals. While still relevant , many more elaborate frameworks have since been proposed.
 
 > However, in the 1970s and 1980s, there were no grave computer threats becaouse computers and the internet were still developing, and security threats were easily identifiable. Most  often , threats came from malicious insiders who gained unauthorized access to sensitive documents and files. Although malware and network breaches existed during the early years, they did not use them for financial gain. By the second half of the 1970s, established computer firms like *IBM* started offering commercial access control systems and computer security software products.
+
+> One of the earliest examples of an attack on a computer network was the computer worm Creeper written by Bob Thomas at BBN, which propagated through the ARPANET in 1971. The program was purely experimental in nature and carried no malicious payload. A later program, Reaper, was created by Ray Tomlinson in 1972 and used to destroy Creeper.
