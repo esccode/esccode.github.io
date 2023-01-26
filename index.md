@@ -1,5 +1,5 @@
 ---
-title: 
+title: Technical writer
 categories:
 - MAN
 - markdown
