@@ -33,4 +33,4 @@ aside: true
 >
 > In 1988, one of the first computer worms, called *Morris worm* was distributed via the internet. It gained significant mainstream media attention.
 >
-> 
+> In 1993, Netscape started developing the protocol SSL, shortly after the National Center for Supercomputing Application(NCSA) launched Mosaic 1.0, the first web browser, in 1993. Netscape had SSL version 1.0 ready in 1994, but it was never released to the public due to many serious security vulnerabilities. These weakness included *reply attack* and a vulnerability that allowed hackers to alter unencrypted communications sent by users. However, in February 1995, Netscape launched Version 2.0.
