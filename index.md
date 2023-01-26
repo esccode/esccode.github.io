@@ -7,7 +7,7 @@ feature_text: |
   ## @esccode
   Tech writing is my passion but base on my past, watch this space!.
 excerpt: |
-  Home
+  Tech writing is my passion but base on my past, watch this space!
 
 #feature_image: "https://picsum.photos/2560/600?image=733"
 feature_image: "https://picsum.photos/1300/400?image=989"
