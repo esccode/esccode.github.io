@@ -7,7 +7,20 @@ excerpt: "A demo of Markdown and HTML includes"
 aside: true
 ---
 
-# Heading 1222
+## Heading 1
+- [Heading 1](#heading-1)
+- [Heading 2](#heading-2)
+  - [Heading 3](#heading-3)
+    - [Heading 4](#heading-4)
+      - [Heading 5](#heading-5)
+        - [Heading 6](#heading-6)
+- [HTML Includes](#html-includes)
+  - [Contact form](#contact-form)
+  - [Demo map embed](#demo-map-embed)
+  - [Button include](#button-include)
+  - [Icon include](#icon-include)
+  - [Video include](#video-include)
+  - [Image includes](#image-includes)
 
 ## Heading 2
 
@@ -27,11 +40,11 @@ Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *temp
 
 Duis aute irure dolor in [A link](https://david.darn.es "A link") reprehenderit in voluptate velit esse cillum **bold text** dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt _italicised text_ in culpa qui officia deserunt mollit anim id `some code` est laborum.
 
-* An item
-* An item
-* An item
-* An item
-* An item
+- An item
+- An item
+- An item
+- An item
+- An item
 
 1. Item one
 2. Item two
