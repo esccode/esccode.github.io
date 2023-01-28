@@ -13,6 +13,7 @@ aside: true
 ---
 
 ## Computer Security
+
 - [Computer Security](#computer-security)
 - [History](#history)
   - [Failed offensive strategy](#failed-offensive-strategy)

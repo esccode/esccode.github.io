@@ -13,6 +13,7 @@ aside: true
 ---
 
 ## Technical writer
+
 - [Technical writer](#technical-writer)
 - [History of the profession](#history-of-the-profession)
   - [Technical Writers \& UX Design](#technical-writers--ux-design)
