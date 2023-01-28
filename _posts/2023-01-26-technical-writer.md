@@ -1,5 +1,5 @@
 ---
-title: Technical writer
+title: Technical Writer Post
 categories:
 - general
 excerpt: |
