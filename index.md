@@ -51,7 +51,7 @@ aside: true
 
 > Proficient technical writers have the ability to create, assimilate, and convey technical material in a concise and effective manner. Thet may specialize in a particular area but must have good understanding of the products they describe. For example, API writers primarily work on API documents, while other technical writers specialize in electronic commerce, manufacturing, scientific, or medical material.
 > Technical writers gather information from many sources. Their information sources are usually scattered throughout an organization, which can range from developers to marketing departments.
-> Useful technical documents are measured by eight characteristics: "honesty, clarity, accuracy, comprehensiveness, accessibility, conciseness, professional appearance, and correctness." Technical writers are focused on using their careful research to create effective decuments that meet these eight characteristics.
+> Useful technical documents are measured by eight characteristics: \"**honesty, clarity, accuracy, comprehensiveness, accessibility, conciseness, professional appearance, and correctness.**\" Technical writers are focused on using their careful research to create effective decuments that meet these eight characteristics.
 
 ## Similar titles
 
