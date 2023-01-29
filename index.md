@@ -16,14 +16,14 @@ aside: true
 ---
 ## Content
 
-- [Content](#content)
-- [Skill set](#skill-set)
-- [Similar titles](#similar-titles)
-- [Wikipedia](#wikipedia)
+>- [Content](#content)
+> - [Skill set](#skill-set)
+> - [Similar titles](#similar-titles)
+> - [Wikipedia](#wikipedia)
 
 ## Skill set
 
-In addition to solid research, languages, writing, and revision skills, a technical writer may have skills in:
+> In addition to solid research, languages, writing, and revision skills, a technical writer may have skills in:
 
 - Business analysis
 - Computer scripting
@@ -44,11 +44,11 @@ In addition to solid research, languages, writing, and revision skills, a techni
 - Problem solving
 - User experience design
 
-A technical writer may apply their skills in the production of non-technical content, for example, writing high-level consumer information. Usually, a technical writer is not a subject-matter exper(SME), butinterviews SMEs and conduct the research necessary to write and compile technically accurate content. Technical writers complete both primary and secondary research to fully understand the topic.
+> A technical writer may apply their skills in the production of non-technical content, for example, writing high-level consumer information. Usually, a technical writer is not a subject-matter exper(SME), butinterviews SMEs and conduct the research necessary to write and compile technically accurate content. Technical writers complete both primary and secondary research to fully understand the topic.
 
 ## Similar titles
 
-Technical writers can have various job titles, including *technical communicator, informational developer, technical content developer or technical documentation specialist*. In the United Kingdom and some other countries, a technical writer is ofthen called a *technical author* or *knowledge author*.
+> Technical writers can have various job titles, including *technical communicator, informational developer, technical content developer or technical documentation specialist*. In the United Kingdom and some other countries, a technical writer is ofthen called a *technical author* or *knowledge author*.
 
 - Technical communicator
 - Technical author
