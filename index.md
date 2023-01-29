@@ -22,6 +22,7 @@ aside: true
 - [Similar titles](#similar-titles)
 - [References](#references)
 
+
 ## Skill set
 
 > In addition to solid research, languages, writing, and revision skills, a technical writer may have skills in:
