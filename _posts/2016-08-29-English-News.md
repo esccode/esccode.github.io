@@ -19,14 +19,12 @@ aside: true
 - [Croatia uses the euro](#croatia-uses-the-euro)
 - [Reference](#reference)
 
-
 ## Jacinda Ardern resigns
 
 > *25 January 2023*  
 > On Thursday, New Zealand's Prime Minister Jacinda Ardern announced that she would resign before 7th of February, 2023. The news surprised everyone because she was one of the most successful leaders of the country.
 > During her career, Ardern responded to the Christchurch mass shooting, the 2019 volcano eruption, and the COVID-19 pandemic.
 > Difficult words: **announce**(to say something in public), **resign**(to officially leave a job), **mass shooting** (an incident when an attacker kills people with a gun).
-
 
 ## Cows make electricity
 
