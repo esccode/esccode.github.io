@@ -1,5 +1,5 @@
 ---
-title: Interview Common Questions
+title: Interview
 categories:
 - wiki
 excerpt: |
