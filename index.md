@@ -44,7 +44,7 @@ aside: true
 - Problem solving
 - User experience design
 
-> A technical writer may apply their skills in the production of non-technical content, for example, writing high-level consumer information. Usually, a technical writer is not a subject-matter exper(SME), butinterviews SMEs and conduct the research necessary to write and compile technically accurate content. Technical writers complete both primary and secondary research to fully understand the topic.
+> A technical writer may apply their skills in the production of non-technical content, for example, writing high-level consumer information. Usually, a technical writer is not a subject-matter exper(SME), but interviews SMEs and conduct the research necessary to write and compile technically accurate content. Technical writers complete both primary and secondary research to fully understand the topic.
 
 ## Similar titles
 
