@@ -13,121 +13,84 @@ link: "https://en.wikipedia.org/wiki/Technical_writer"
 aside: true
 ---
 
-## Technical writer
+# Common Questions
 
-- [Technical writer](#technical-writer)
-- [History of the profession](#history-of-the-profession)
-  - [Technical Writers \& UX Design](#technical-writers--ux-design)
-- [Skill set](#skill-set)
-- [Characteristics](#characteristics)
-- [Roles and functions](#roles-and-functions)
-  - [Audience analysis](#audience-analysis)
-  - [Purpose](#purpose)
-  - [Context](#context)
-  - [Document design](#document-design)
-    - [Arrangement](#arrangement)
-    - [Emphasis](#emphasis)
-    - [Clarity](#clarity)
-    - [Conciseness](#conciseness)
-    - [Tone](#tone)
-    - [Ethos](#ethos)
-- [Qualifications](#qualifications)
-- [Methodology (document development life cycle)](#methodology-document-development-life-cycle)
-- [Environment](#environment)
-- [Career growth](#career-growth)
-- [Notable technical writers](#notable-technical-writers)
-- [Similar titles](#similar-titles)
-- [References](#references)
-- [External links](#external-links)
+- [Common Questions](#common-questions)
+  - [Tell me about yourself?](#tell-me-about-yourself)
+  - [What is your greatest strength?](#what-is-your-greatest-strength)
+  - [What is your greatest weakness?](#what-is-your-greatest-weakness)
+  - [Why should we hire you?](#why-should-we-hire-you)
+  - [Why do you want to work here?](#why-do-you-want-to-work-here)
+  - [Tell me about a time you showed leadership?](#tell-me-about-a-time-you-showed-leadership)
+  - [Tell me about a time you were successful on a team?](#tell-me-about-a-time-you-were-successful-on-a-team)
+  - [What would your co-workers say about you?](#what-would-your-co-workers-say-about-you)
+  - [Why do you want to leave your current role?](#why-do-you-want-to-leave-your-current-role)
+  - [Describe your most challenging project?](#describe-your-most-challenging-project)
+  - [Tell me about something you’ve accomplished that you are proud of.](#tell-me-about-something-youve-accomplished-that-you-are-proud-of)
+  - [Can you explain your employment gap?](#can-you-explain-your-employment-gap)
+  - [What are your salary expectations?](#what-are-your-salary-expectations)
+  - [What do you like to do outside of work?](#what-do-you-like-to-do-outside-of-work)
+  - [Tell me about a time you had to manage conflicting priorities?](#tell-me-about-a-time-you-had-to-manage-conflicting-priorities)
+  - [Where do you see yourself in 5 years?](#where-do-you-see-yourself-in-5-years)
+  - [Describe your leadership style?](#describe-your-leadership-style)
+  - [Tell me about a time you failed or made a mistake?](#tell-me-about-a-time-you-failed-or-made-a-mistake)
+  - [Tell me about a time you worked with a difficult person?](#tell-me-about-a-time-you-worked-with-a-difficult-person)
+  - [Tell me about a time you had to persuade someone?](#tell-me-about-a-time-you-had-to-persuade-someone)
+  - [Tell me about a time you disagreed with someone?](#tell-me-about-a-time-you-disagreed-with-someone)
+  - [Tell me about a time you created a goal and achieved it?](#tell-me-about-a-time-you-created-a-goal-and-achieved-it)
+  - [Tell me about a time you surpassed people’s expectations?](#tell-me-about-a-time-you-surpassed-peoples-expectations)
+  - [Tell me about a time you had to handle pressure?](#tell-me-about-a-time-you-had-to-handle-pressure)
+  - [Tell me about a time you had to learn something quickly?](#tell-me-about-a-time-you-had-to-learn-something-quickly)
+  - [Do you have any questions for me?](#do-you-have-any-questions-for-me)
 
+## Tell me about yourself?
 
+## What is your greatest strength?
 
-## History of the profession
+## What is your greatest weakness?
 
+## Why should we hire you?
 
+## Why do you want to work here?
 
-### Technical Writers & UX Design
+## Tell me about a time you showed leadership?
 
-## Skill set
+## Tell me about a time you were successful on a team?
 
-In addition to solid research, languages, writing, and revision skills, a technical writer may have skills in:
+## What would your co-workers say about you?
 
-- Business analysis
-- Computer scripting
-- Content management
-- Content design
-- Illustration/graphic design
-- Indexing
-- Information architecture
-- Information design
-- Localization/technical translation
-- Training
-- E-learning
-- User interfaces
-- Video editing
-- Website design/management
-- Hypertext Markup Language(HTML)
-- Usability testing
-- Problem solving
-- User experience design
+## Why do you want to leave your current role?
 
-A technical writer may apply their skills in the production of non-technical content, for example, writing high-level consumer information. Usually, a technical writer is not a subject-matter exper(SME), butinterviews SMEs and conduct the research necessary to write and compile technically accurate content. Technical writers complete both primary and secondary research to fully understand the topic.
+## Describe your most challenging project?
 
-## Characteristics
+## Tell me about something you’ve accomplished that you are proud of.
 
-## Roles and functions
+## Can you explain your employment gap?
 
-### Audience analysis
+## What are your salary expectations?
 
-### Purpose
+## What do you like to do outside of work?
 
-### Context
+## Tell me about a time you had to manage conflicting priorities?
 
-### Document design
+## Where do you see yourself in 5 years?
 
-#### Arrangement
+## Describe your leadership style?
 
-#### Emphasis
+## Tell me about a time you failed or made a mistake?
 
-#### Clarity
+## Tell me about a time you worked with a difficult person?
 
-#### Conciseness
+## Tell me about a time you had to persuade someone?
 
-#### Tone
+## Tell me about a time you disagreed with someone?
 
-#### Ethos
+## Tell me about a time you created a goal and achieved it?
 
-## Qualifications
+## Tell me about a time you surpassed people’s expectations?
 
-## Methodology (document development life cycle)
+## Tell me about a time you had to handle pressure?
 
-## Environment
+## Tell me about a time you had to learn something quickly?
 
-## Career growth
-
-## Notable technical writers
-
-## Similar titles
-
-Technical writers can have various job titles, including *technical communicator, informational developer, technical content developer or technical documentation specialist*. In the United Kingdom and some other countries, a technical writer is ofthen called a *technical author* or *knowledge author*.
-
-- Technical communicator
-- Technical author
-- Tech writer
-- Technical content developer
-- Content developer
-- Content designer
-- Technical information developer
-- Information architect
-- Information engineer
-- Information designer
-- Information developer
-- Documentation specialist
-- Documentation manager
-- Text engineer
-
-## References
-^ [Wikipedia, Technical Writer](https://en.wikipedia.org/wiki/Technical_writer "link" ).
-
-
-## External links
+## Do you have any questions for me?
