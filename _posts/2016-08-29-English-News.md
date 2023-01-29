@@ -3,7 +3,7 @@ title: English News
 categories:
 - EnglishNews
 excerpt: |
-  Visibly emotional, New Zealand's Prime Minister Jacinda Ardern announced she was stepping down ahead of a general election for later this year.
+  On Thursday, New Zealand's Prime Minister Jacinda Ardern announced that she would resign before 7th of February, 2023.
 feature_text: |
   ## feature text
 feature_image: "https://picsum.photos/2560/600?image=733"
