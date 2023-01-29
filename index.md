@@ -14,9 +14,7 @@ feature_image: "https://picsum.photos/1300/400?image=989"
 image: "https://picsum.photos/2560/600?image=733"
 aside: true
 ---
-## Content
 
-- [Content](#content)
 - [Skill set](#skill-set)
 - [Characteristics](#characteristics)
 - [Similar titles](#similar-titles)
