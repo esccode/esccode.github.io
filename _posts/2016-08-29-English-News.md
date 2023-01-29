@@ -1,7 +1,7 @@
 ---
 title: English News
 categories:
-- English-News
+- EnglishNews
 excerpt: |
 Jacinda Ardern resigns
 25 January 2023 , Level 2 
