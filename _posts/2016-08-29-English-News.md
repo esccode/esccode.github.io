@@ -2,6 +2,10 @@
 title: English News
 categories:
 - EnglishNews
+excerpt: |
+  Visibly emotional, New Zealand's Prime Minister Jacinda Ardern announced she was stepping down ahead of a general election for later this year.
+feature_text: |
+  ## feature text
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 aside: true
