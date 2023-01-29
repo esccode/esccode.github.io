@@ -1,5 +1,5 @@
 ---
-title: Technical writer rols
+title: Technical Writer Rols
 categories:
 - MAN
 - markdown
@@ -16,10 +16,11 @@ aside: true
 ---
 ## Content
 
->- [Content](#content)
-> - [Skill set](#skill-set)
-> - [Similar titles](#similar-titles)
-> - [Wikipedia](#wikipedia)
+- [Content](#content)
+- [Skill set](#skill-set)
+- [Characteristics](#characteristics)
+- [Similar titles](#similar-titles)
+- [Wikipedia](#wikipedia)
 
 ## Skill set
 
@@ -45,6 +46,12 @@ aside: true
 - User experience design
 
 > A technical writer may apply their skills in the production of non-technical content, for example, writing high-level consumer information. Usually, a technical writer is not a subject-matter exper(SME), but interviews SMEs and conduct the research necessary to write and compile technically accurate content. Technical writers complete both primary and secondary research to fully understand the topic.
+
+## Characteristics
+
+> Proficient technical writers have the ability to create, assimilate, and convey technical material in a concise and effective manner. Thet may specialize in a particular area but must have good understanding of the products they describe. For example, API writers primarily work on API documents, while other technical writers specialize in electronic commerce, manufacturing, scientific, or medical material.
+> Technical writers gather information from many sources. Their information sources are usually scattered throughout an organization, which can range from developers to marketing departments.
+> Useful technical documents are measured by eight characteristics: "honesty, clarity, accuracy, comprehensiveness, accessibility, conciseness, professional appearance, and correctness." Technical writers are focused on using their careful research to create effective decuments that meet these eight characteristics.
 
 ## Similar titles
 
