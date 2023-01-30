@@ -80,7 +80,7 @@ We value our people and empower them to work remotely. As we operate a *follow t
 <!-- more -->
 ## references
 
-- Originally from [CSS CORP](https://www.csscorp.com/company/)_  
+- Originally from [CSS CORP](https://www.csscorp.com/company/)
 
 - Originally from [Cybereason](https://www.cybereason.com/)
 
