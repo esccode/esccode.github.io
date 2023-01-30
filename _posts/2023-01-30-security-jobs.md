@@ -80,6 +80,8 @@ We value our people and empower them to work remotely. As we operate a *follow t
 <!-- more -->
 ## references
 
-_Originally from [CSS CORP](https://www.csscorp.com/company/)_  
-_Originally from [Cybereason](https://www.cybereason.com/)_  
-_Originally from [MOVATE](https://www.movate.com/)_
+- Originally from [CSS CORP](https://www.csscorp.com/company/)_  
+
+- Originally from [Cybereason](https://www.cybereason.com/)
+
+- Originally from [MOVATE](https://www.movate.com/)
