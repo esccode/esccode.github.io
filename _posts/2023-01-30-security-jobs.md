@@ -6,7 +6,6 @@ feature_text: |
   Cybersecurity rols feature text
 ---
 
-## L1 - Technical Support Engineer Job Description
 - [L1 - Technical Support Engineer Job Description](#l1---technical-support-engineer-job-description)
   - [Primary Responsibilities and Duties:\*\*](#primary-responsibilities-and-duties)
 - [Security Detection and Response Analyst EU Remote(aka Tier 1 Analyst)](#security-detection-and-response-analyst-eu-remoteaka-tier-1-analyst)
@@ -14,6 +13,9 @@ feature_text: |
   - [What we are looking for](#what-we-are-looking-for)
   - [Strong advantage to candidates with multiple EU languages](#strong-advantage-to-candidates-with-multiple-eu-languages)
 - [references](#references)
+
+
+## L1 - Technical Support Engineer Job Description
 
 ### Primary Responsibilities and Duties:**
 
