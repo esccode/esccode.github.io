@@ -7,6 +7,13 @@ feature_text: |
 ---
 
 ## L1 - Technical Support Engineer Job Description
+- [L1 - Technical Support Engineer Job Description](#l1---technical-support-engineer-job-description)
+  - [Primary Responsibilities and Duties:\*\*](#primary-responsibilities-and-duties)
+- [Security Detection and Response Analyst EU Remote(aka Tier 1 Analyst)](#security-detection-and-response-analyst-eu-remoteaka-tier-1-analyst)
+  - [What you'll be responsible for](#what-youll-be-responsible-for)
+  - [What we are looking for](#what-we-are-looking-for)
+  - [Strong advantage to candidates with multiple EU languages](#strong-advantage-to-candidates-with-multiple-eu-languages)
+- [references](#references)
 
 ### Primary Responsibilities and Duties:**
 
@@ -40,6 +47,33 @@ If you're looking to join an organisation deeply rooted in their values that emp
 Cybereason is looking for curious, diligent, technical people to be part of our Global Security Operations team. As a member of this elite team, you'll take an integral role, providing Managed Detection and Response(MDR) and Managed Extended Detection and Response (MXDR) service to large organisations around the globe. You'll be working closely with some of the best minds in incident response, malware analysis, and security research, partnering with our customers and partners to defend against the most advanced adversaries.
 
 We value our people and empower them to work remotely. As we operate a *follow the sun* global model we don't ask our people to work unsociable hours.
+
+### What you'll be responsible for  
+
+- Analysing, triaging, and remediating security incidents (MDR),
+- Applying your expertise to piece together the attack chain across customers complex environments including cloud, identity, email, network, and endpoint (MXDR)
+- Participating in various stages of incident investigations including taking decisive steps to respond to active breaches and protect our customers,
+- Engaging in customer-facing interactions at all levels from Security Operation Center(SOC) analysts to c-suite executives,
+- Working closely with internal company teams(such as Product, Customer Success, etc.)
+
+### What we are looking for
+
+- Previous experience in a Cyber Incident Response Team(CIRT)/SOC  environment 1+ years of experience is an advantage,
+- General familiarity with malware and its techniques(e.g. code injections, fileless execution, maintaining persistence),
+- Familiarity with static and behavioural malware analysis methods and tools(e.g., sandbox environments),
+- Background and experience in at least two of the following is an advantage:
+  - Endpoint security, malware analysis, threat hunting, penetration testing, incident response, reverse engineering, or digital forensics.
+- Familiarity with common operating system concepts(e.g. processes, threads, DLLs, parent-child process relationships, scheduled tasks),
+- Solid foundation in networking protocols and architectures
+- Experiences with a scripting languages(Python, Bash, Powershell, etc.)
+- Self-motivated and results-oriented; capable of leading and completing assignments without supervision
+- Strong organisational skills and ability to handle a wide range of tasks and re-prioritize them on short notice
+- Motivation to constantly improve processes and methodologies,
+- Able both independently as well collaborate within a team in a remote work setting,
+- Excellent interpersonal, verbal and written communication skills, ability to elucidate technical content to non-technical personnel,
+- Must have excellent English reading, writing, and speaking skills
+
+### Strong advantage to candidates with multiple EU languages
 
 <!-- more -->
 ## references
