@@ -12,7 +12,7 @@ feature_text: |
   - [What you'll be responsible for](#what-youll-be-responsible-for)
   - [What we are looking for](#what-we-are-looking-for)
   - [Strong advantage to candidates with multiple EU languages](#strong-advantage-to-candidates-with-multiple-eu-languages)
-- [references](#references)
+- [References](#references)
 
 ## L1 - Technical Support Engineer Job Description
 
@@ -73,7 +73,7 @@ feature_text: |
 ### Strong advantage to candidates with multiple EU languages
 
 <!-- more -->
-## references
+## References
 
 - Originally from [CSS CORP](https://www.csscorp.com/company/)
 
