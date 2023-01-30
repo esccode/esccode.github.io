@@ -29,8 +29,6 @@ feature_text: |
 - Excellent Written & Verbal communication skills
 - Ability to work a day shift with flexibility for on-call rotation a few times a month after hours.
 
-
 <!-- more -->
-
 
 _Originally from [Alembic - Wikipedia](https://en.wikipedia.org/wiki/Alembic)_
