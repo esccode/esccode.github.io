@@ -7,7 +7,7 @@ feature_text: |
 ---
 
 - [L1 - Technical Support Engineer Job Description](#l1---technical-support-engineer-job-description)
-  - [Primary Responsibilities and Duties:\*\*](#primary-responsibilities-and-duties)
+  - [Primary Responsibilities and Duties](#primary-responsibilities-and-duties)
 - [Security Detection and Response Analyst EU Remote(aka Tier 1 Analyst)](#security-detection-and-response-analyst-eu-remoteaka-tier-1-analyst)
   - [What you'll be responsible for](#what-youll-be-responsible-for)
   - [What we are looking for](#what-we-are-looking-for)
@@ -17,7 +17,7 @@ feature_text: |
 
 ## L1 - Technical Support Engineer Job Description
 
-### Primary Responsibilities and Duties:**
+### Primary Responsibilities and Duties
 
 - Troubleshoots all level 1 support from the Global Clients,
 - Provide exceptional customer service while responding to phone, e-mail and online requests for technical support,
