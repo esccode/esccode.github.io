@@ -15,6 +15,8 @@ feature_text: |
 - [Security information and Event Management(SIEM)](#security-information-and-event-managementsiem)
   - [Capabilities](#capabilities)
   - [Correlation rules examples](#correlation-rules-examples)
+- [High availability(HA)](#high-availabilityha)
+  - [Principles](#principles)
 - [References](#references)
 
 ## L1 - Technical Support Engineer Job Description
@@ -93,6 +95,18 @@ feature_text: |
 ### Correlation rules examples
 
 - **Brute Force Detection** is relatively straightforward. Brute forcing relates to continually trying to guess a variable. It most commonly refers to someone trying to constantly guess your password  - either manually or with a tool. However, it can refer to trying to guess URLs or important file locations on your system. An automated brute force is easy to detect as someone trying to enter their password 60 times in a minute is impossible.
+
+## High availability(HA)  
+
+> Is a characteristic of a system which aims to ensure an agreed level of operational performance, usually uptime, for a higher than normal period. *Availability* refers to the ability of the user community to obtain a service or good, access the system, whether to submit to perform routine daily activities. Availability refers to the ability of the user community to obtain a service or good, access the system, whether to submit new work, update or alter existing work, or collect the results of previous work. If a user cannot access the system, it is - from the user's point of view - *unavailable*. Generally the term **downtime** is used to refer to periods when a system is unavailable.
+
+### Principles
+
+1. Elimination of single points of failure. This means adding or building redundancy into the system so that failure of a component does not mean failure of the entire system.
+2. Reliable crossover. In *redundand system*(intent to be duplication of critical components), the crossover point itself tends to become a single point of failure. Reliable system must provide for reliable crossover.
+3. Detection of failures as they occur, If the two principles above are observed, then a user may never see a failure -  but the maintenance activity must.
+
+> Uptime and availability can be used synonymously as long as the items being discussed are kept consistent. That is, a system can be up, but its services are not available, as in the case of a **network outage**.
 
 <!-- more -->
 ## References
