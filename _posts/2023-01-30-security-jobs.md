@@ -87,6 +87,8 @@ feature_text: |
 - **Alerting**: the automated analysis of correlated events.
 - **Dashboards**: tools can take event data and turn it into informational charts to assist in seeing patterns, or identifying activity that is not forming a standard pattern.
 - **Compliance**: Applications can be employed to automate the gathering of compliance data, producing reports that adopt to existiong security, governance and auditing processes.
+- **Retention**: Employing long-term storage of historical data of facilitate correlation of data over time, and to provide the retention necessary for compliance requirements. The long term data retention is critical in forensic investigations as it is unlikly that the discovery of a network breach will be at the time of the breach occuring.
+- **Forensic analysis**: The ability to search across logs on diffrent nodes and time peeriods based on specific criteria. This mitigates having to aggregate log information in your head or having to search through thousands of logs.
 
 ### Correlation rules examples
 
