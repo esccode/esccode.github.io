@@ -17,6 +17,8 @@ feature_text: |
   - [Correlation rules examples](#correlation-rules-examples)
 - [High availability(HA)](#high-availabilityha)
   - [Principles](#principles)
+- [Man-n-the-middle attacks](#man-n-the-middle-attacks)
+  - [Example](#example)
 - [References](#references)
 
 ## L1 - Technical Support Engineer Job Description
@@ -107,6 +109,17 @@ feature_text: |
 3. Detection of failures as they occur, If the two principles above are observed, then a user may never see a failure -  but the maintenance activity must.
 
 > Uptime and availability can be used synonymously as long as the items being discussed are kept consistent. That is, a system can be up, but its services are not available, as in the case of a **network outage**.
+
+## Man-n-the-middle attacks
+
+> Is a cyberattack where the attacker secretly relays and possibly alters the communications between two parties who believe that they are directly communicating with each others, as the attacker  has inserted themselves between the two parties.
+
+### Example
+
+> Suppose Alice wishes to communicate with Bob. Meanhile , Mallory wishes to intercept the conversation to eavesdrop and optionally to deliver a false message to Bob.  
+> First, Alice asks Bob for his **public key**. If Bob sends his public to alicee, but Mallory is able to intercept it, an MITM attack can begin. Mallorysends Alice a forged message that appears to originate from Bob, but instead includes Mallory's public key.  
+> Alice. believing this public key to be Bob's, encrypts her message with Mallory's key and sends the enciphered
+
 
 <!-- more -->
 ## References
