@@ -118,7 +118,7 @@ feature_text: |
 
 > Suppose Alice wishes to communicate with Bob. Meanhile , Mallory wishes to intercept the conversation to eavesdrop and optionally to deliver a false message to Bob.  
 > First, Alice asks Bob for his **public key**. If Bob sends his public to alicee, but Mallory is able to intercept it, an MITM attack can begin. Mallorysends Alice a forged message that appears to originate from Bob, but instead includes Mallory's public key.  
-> Alice. believing this public key to be Bob's, encrypts her message with Mallory's key and sends the enciphered message back to Bob. Mallory again intercepts, deciphers the message using her private key, possibly alters it if she wants, and re-enciphers it using the public key shy intercepted from Bob when he originally tried to send it to Alice.
+> Alice. believing this public key to be Bob's, encrypts her message with Mallory's key and sends the enciphered message back to Bob. Mallory again intercepts, deciphers the message using her private key, possibly alters it if she wants, and re-enciphers it using the public key shy intercepted from Bob when he originally tried to send it to Alice. When Bob receives the newly enciphered message, he believs it came from Alice.
 >
 ![example MITM attack][def]
 
