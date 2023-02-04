@@ -41,9 +41,9 @@ aside: true
 
 *Difficult words*:  
 
-> - **dominate**(to control something),
-> - **VR**(virtual reality),
-> - **rival** (a person or thing that competes in the same activity).
+- **dominate**(to control something),
+- **VR**(virtual reality),
+- **rival** (a person or thing that competes in the same activity).
 
 ## Reference
 
