@@ -30,7 +30,7 @@ aside: true
 > Every, year, nuclear and climate experts meet and move the clock's hand. if the scientists think that the world is getting closer to a **catastrophe**, they move its hand closer to midnight.  
 > When the clock first started ticking, its hand was seven minutes before midnight. When the Soviet Union tested the first atomic bomb in 1949, scientists moved the clock's hand to three minutes to midnight. In 1991, the hand moved down to 17 minutes to midnight, the farthest it ever was.  
 > Since that time, the hand moved closer and closer to midnight because of the climate crisis and geopolitical problems. Last week, scientists moved the clock's hand to 90 seconds to midnight. We are closer to destroying the planet than ever before.  
-> *Difficult words*: **catastrophe** (a sudden tragic event), **climate crisis**(dangerous changes of the world's weather and impact of theese changes), **geopolitical** (the politics of a country or area).
+> *Difficult words*: **catastrophe** (a sudden tragic event), **climate crisis** (dangerous changes of the world's weather and impact of theese changes), **geopolitical** (the politics of a country or area).
 > 
 > 
 
