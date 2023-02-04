@@ -12,11 +12,11 @@ aside: true
 ---
 
 
-- [Jacinda Ardern resigns](#jacinda-ardern-resigns)
+- [Jacinda Ardern resigns - level 2](#jacinda-ardern-resigns---level-2)
 - [Doomsday Clock- level 2](#doomsday-clock--level-2)
 - [Reference](#reference)
 
-## Jacinda Ardern resigns
+## Jacinda Ardern resigns - level 2
 
 > *25 January 2023*  
 > On Thursday, New Zealand's Prime Minister Jacinda Ardern announced that she would resign before 7th of February, 2023. The news surprised everyone because she was one of the most successful leaders of the country.
