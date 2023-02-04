@@ -5,7 +5,7 @@ categories:
 excerpt: |
   On Thursday, New Zealand's Prime Minister Jacinda Ardern announced that she would resign before 7th of February, 2023.
 feature_text: |
-  ## feature text
+  ## English News feature text
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 aside: true
