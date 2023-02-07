@@ -55,6 +55,12 @@ I've been shipping consumer devices for the past two decades. Over the years, I'
 
 ## What is your greatest strength?
 
+Tips:
+
+- Be authentic - don't make up strengths that you think the employer wants to hear.
+- Tell a story about a work experience.
+- Be sure the strengths you share are aligned to the role you want.
+
 ## What is your greatest weakness?
 
 ## Why should we hire you?

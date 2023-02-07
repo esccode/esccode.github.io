@@ -16,6 +16,7 @@ aside: true
 - [Doomsday Clock- level 2](#doomsday-clock--level-2)
 - [Apple's new product - level 2](#apples-new-product---level-2)
 - [German tanks in Ukraine - level 2](#german-tanks-in-ukraine---level-2)
+- [A truck loses radioactive material -- level 2](#a-truck-loses-radioactive-material----level-2)
 - [Reference](#reference)
 
 ## Jacinda Ardern resigns - level 2
@@ -48,6 +49,12 @@ aside: true
 Ukraine asked for more modern tanks, but some countries were afraid to openly help Ukraine. Last week, Germany decides to send 14 modern tanks to Ukraine. Others countries will send their German tanks, too.This event will be the first time since World War II that German tanks will fight in Europe.  
 Other countries including Finland, Poland, and the United Kingdom are also thinking they may send tanks to Ukraine. Russia officials said that if they do it, they will have a terrible impact on Europe. Russia's **ambassador** in United States said that if the US sent to Russia, it would be an open provocation.  
 *Difficult words: **tank** (a very heavy vehicle to fight), ambassador (a person who lives in a foreign country and he represents his own), provocation (words or actions to make somebody else angry).
+
+## A truck loses radioactive material -- level 2
+
+A radioactive capsule contained Caesium-137; it fell of a truck and landed on the side of the road in a remote Australian region.  
+Mining company Rio Tinto uses the capsule to measure iron ore which comes from its mine in the Kimberley area. The company apologized for the accident and said that the capsule probably didn't pollute the area.  
+100 people spent one week searching for the capsule, but the task was very difficult. They had to search a 1,400-kilometer-long area along the highway. Authorrities warned people to stay at least five meters away from the capsule if they saw it. They could get radiation sickness or burns.
 
 ## Reference
 
