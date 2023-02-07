@@ -15,6 +15,7 @@ aside: true
 - [Jacinda Ardern resigns - level 2](#jacinda-ardern-resigns---level-2)
 - [Doomsday Clock- level 2](#doomsday-clock--level-2)
 - [Apple's new product - level 2](#apples-new-product---level-2)
+- [German tanks in Ukraine - level 2](#german-tanks-in-ukraine---level-2)
 - [Reference](#reference)
 
 ## Jacinda Ardern resigns - level 2
@@ -40,6 +41,13 @@ aside: true
 > The new product is a mixed-reality headset, and users will control it by eye and hand. Users will hold virtual meetings and play 3D videos. Currently, company Meta dominates the VR market, and Apple hopes that its product will bring a diffrent experience than its rival.  
 > Apple's team of a thousands people worked on the product for more than seven years, and it hopes to impress customers. The headset should be on sale later this year, and its price will be about 3,000 dolars.  
 > *Difficult words*:  **dominate**(to control something),**VR**(virtual reality), **rival** (a person or thing that competes in the same activity).
+
+## German tanks in Ukraine - level 2
+
+>For several months, Ukraine asked western countries for help to fight Russia.  
+Ukraine asked for more modern tanks, but some countries were afraid to openly help Ukraine. Last week, Germany decides to send 14 modern tanks to Ukraine. Others countries will send their German tanks, too.This event will be the first time since World War II that German tanks will fight in Europe.  
+Other countries including Finland, Poland, and the United Kingdom are also thinking they may send tanks to Ukraine. Russia officials said that if they do it, they will have a terrible impact on Europe. Russia's **ambassador** in United States said that if the US sent to Russia, it would be an open provocation.  
+*Difficult words: **tank** (a very heavy vehicle to fight), ambassador (a person who lives in a foreign country and he represents his own), provocation (words or actions to make somebody else angry).
 
 ## Reference
 
