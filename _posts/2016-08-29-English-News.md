@@ -54,7 +54,8 @@ Other countries including Finland, Poland, and the United Kingdom are also think
 
 A radioactive capsule contained Caesium-137; it fell of a truck and landed on the side of the road in a remote Australian region.  
 Mining company Rio Tinto uses the capsule to measure iron ore which comes from its mine in the Kimberley area. The company apologized for the accident and said that the capsule probably didn't pollute the area.  
-100 people spent one week searching for the capsule, but the task was very difficult. They had to search a 1,400-kilometer-long area along the highway. Authorrities warned people to stay at least five meters away from the capsule if they saw it. They could get radiation sickness or burns.
+100 people spent one week searching for the capsule, but the task was very difficult. They had to search a 1,400-kilometer-long area along the highway. Authorrities warned people to stay at least five meters away from the capsule if they saw it. They could get radiation sickness or burns.  
+*Difficult words*: **capsule** (a small container), **remote** (very far away), radiation (a dangerous energy from the smallest objects called atoms).
 
 ## Reference
 
