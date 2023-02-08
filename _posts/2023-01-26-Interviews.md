@@ -50,7 +50,7 @@ Tips:
 - Pull prominent skills the job description.
 - Be "SHE" (succinct, honest and engaging).
 
-Example:  
+Sample answer:  
 I've been shipping consumer devices for the past two decades. Over the years, I've built an expertise in firmware and bootloader designs. I've been lucky to have a few great mentors over the course of my career, and find a great deal of personal and professional satisfaction being able to do the same. I currently oversee a team of engineers and have helped grow several team member into managerial roles as well. Additionally, I like to stay active within the industry community, and recently spoke at DeveloperWeek conference. I've been happy at my current role, have managed many successful product launches, and really enjoy management. I'd like to use my expertise to deliver more impact on a growing company -- to help grow and shape team and culture -- and make a significant impact in the market. Why this answer worked well: The answer was a well-rounded snapshot of professional interests and strengths. It was clear that they're active in the industry, and likely have a strong network. An interests in mentorship shows a wilingness to invest time in the company, and energy into team members.
 
 ## What is your greatest strength?
@@ -66,6 +66,16 @@ Tips:
 ## Why should we hire you?
 
 ## Why do you want to work here?
+
+Tips
+
+- Make it about them first.
+- Show you've done your research.
+- Use this as a key opportunity to outshine the competition.
+- Speak from the heart.
+
+Sample answer  
+I understand that you're looking for a leader who can implement and scale your data analytics platform. Over the course of my career, I have implemented data analytics for 3 companies. Each had its own unique challenges and required me to learn, grow, and expand my skill set. I'm energized by new and complex challenges, and have the background, experience, and successful track record required to implement this system within your organization. The space in which your company operates is also of personal interest to me and I would love to contribute to it and help the company grow. When I started at my current company, I had a team of 4 people which I scaled to 28 people. I led the team in designing and building a big data platform for this big global company. Ultimately and building the user base from 100 to 1,200. I'm looking forward to th next chapter and challenge, and believe I can bring real value to this organization. Why this answer worked well: The answer detailed experience in helping growing organizations scale. It was clear that the candidate had personal interest in the company.
 
 ## Tell me about a time you showed leadership?
 
