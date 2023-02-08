@@ -17,6 +17,7 @@ aside: true
 - [Apple's new product - level 2](#apples-new-product---level-2)
 - [German tanks in Ukraine - level 2](#german-tanks-in-ukraine---level-2)
 - [A truck loses radioactive material -- level 2](#a-truck-loses-radioactive-material----level-2)
+- [China solar ban - level 2](#china-solar-ban---level-2)
 - [Reference](#reference)
 
 ## Jacinda Ardern resigns - level 2
@@ -56,6 +57,13 @@ A radioactive capsule contained Caesium-137; it fell of a truck and landed on th
 Mining company Rio Tinto uses the capsule to measure iron ore which comes from its mine in the Kimberley area. The company apologized for the accident and said that the capsule probably didn't pollute the area.  
 100 people spent one week searching for the capsule, but the task was very difficult. They had to search a 1,400-kilometer-long area along the highway. Authorrities warned people to stay at least five meters away from the capsule if they saw it. They could get radiation sickness or burns.  
 *Difficult words*: **capsule** (a small container), **remote** (very far away), radiation (a dangerous energy from the smallest objects called atoms).
+
+## China solar ban - level 2  
+
+Chinese media reported that the country would ban the outside sale of solar panel components.  
+China controls 75% of the world's solar supply chain, and Western countries are not very happy about the situation. The United States and Europe would like to have their own solar energy industry, but they currently depends on components from China. China's ban should cover photovoltaic technology but not China's solar panels themselves.  
+Before China controlled the market, Western countries had the right skills and knowledge for solar technology. If Western companies want to build factories for solar panel components, it will take them many years.  
+*Difficult words*: **component** (a part of a machine or vehicle), supply chain (all the people and companies who make and deliver a product), photovoltaic technology (materials and devices which change sunlight into electricity).
 
 ## Reference
 
