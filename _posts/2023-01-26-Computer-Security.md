@@ -107,7 +107,11 @@ aside: true
 
 ## Vulnerabilities and attack
 
+> A vulnerability is a **weakness** in design, implementation, operation, or internal control. Most of the vulnerabilities that have been discovered are documented in the **Common Vulnerabilities and Exposures**(CVE) database. An axploitable vulnerability is one for which at least one working attack or exploit exists. Vulnerabilities can be researched, reverse-engineered, hunted, or exploited using automated tools or customized scripts. To secure a computer system, it is important to understand the attacks that can be made against it, and these **threats** can typically be classified into one of these categories below:
+
 ### Backdoor
+
+A backdoor in a computer system, a cryptosystem or an algorithm, is any secret method of bypassing normal authentication or security controls. They may exists for many reasons, including original design or poor configuration. They may have been added by an authorized party to allow some legitimate access, or by an attacker for malicious reasons; but regardless of the motives for their existence, they create a vulnerability. Backdoors can be very hard to detect, and backdoors are usually discovered by someone aho has access to application source code or intimate knowledge of the operating system of the computer.
 
 ### Denial-of-service attack
 
