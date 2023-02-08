@@ -63,7 +63,7 @@ Mining company Rio Tinto uses the capsule to measure iron ore which comes from i
 Chinese media reported that the country would ban the outside sale of solar panel components.  
 China controls 75% of the world's solar supply chain, and Western countries are not very happy about the situation. The United States and Europe would like to have their own solar energy industry, but they currently depends on components from China. China's ban should cover photovoltaic technology but not China's solar panels themselves.  
 Before China controlled the market, Western countries had the right skills and knowledge for solar technology. If Western companies want to build factories for solar panel components, it will take them many years.  
-*Difficult words*: **component** (a part of a machine or vehicle), supply chain (all the people and companies who make and deliver a product), photovoltaic technology (materials and devices which change sunlight into electricity).
+*Difficult words*: **component** (a part of a machine or vehicle), **supply chain** (all the people and companies who make and deliver a product), **photovoltaic technology**(materials and devices which change sunlight into electricity).
 
 ## Reference
 
