@@ -18,6 +18,8 @@ aside: true
 - [German tanks in Ukraine - level 2](#german-tanks-in-ukraine---level-2)
 - [A truck loses radioactive material -- level 2](#a-truck-loses-radioactive-material----level-2)
 - [China solar ban - level 2](#china-solar-ban---level-2)
+- [A ship is too big -- level 2](#a-ship-is-too-big----level-2)
+- [Hong Kong needs tourists -- level 2](#hong-kong-needs-tourists----level-2)
 - [Reference](#reference)
 
 ## Jacinda Ardern resigns - level 2
@@ -63,7 +65,25 @@ Mining company Rio Tinto uses the capsule to measure iron ore which comes from i
 Chinese media reported that the country would ban the outside sale of solar panel components.  
 China controls 75% of the world's solar supply chain, and Western countries are not very happy about the situation. The United States and Europe would like to have their own solar energy industry, but they currently depends on components from China. China's ban should cover photovoltaic technology but not China's solar panels themselves.  
 Before China controlled the market, Western countries had the right skills and knowledge for solar technology. If Western companies want to build factories for solar panel components, it will take them many years.  
-*Difficult words*: **component** (a part of a machine or vehicle), **supply chain** (all the people and companies who make and deliver a product), **photovoltaic technology**(materials and devices which change sunlight into electricity).
+*Difficult words*: **component** (a part of a machine or vehicle), **supply chain** (all the people and companies who make and deliver a product), **photovoltaic technology**(materials and devices which change sunlight into electricity).  
+
+## A ship is too big -- level 2  
+
+A Dutch company is building a yacht for Jeff Bezos, the founder of Amazon. The problem is that the yacht is too big, and it cannot pass through Rotterdam to get to the ocean.  
+The yacht is 127 meters long, and it needs to go under a steel bridge. It is possible to lift a part of the bridge into the air, but it still is not enought. The company asked the Rotterdam municipality to dismantle the bridge, which made many people very angry. The bridge was a historical place, and workers repaired it in 2017.  
+The price of the yacht was about 430 milion dollars, and it was the biggest yacht in the world. Jeff Bezos said that he would pay for the work on the bridge.  
+
+*Difficult words*: **yacht** (a boat which people use for racing or for trips), **municipality** ( officials of a town or city), **dismantle** (to take apart a machine or structure into pieces).
+
+## Hong Kong needs tourists -- level 2
+
+> *09-02-2023*
+
+In 2019, almost 56 milion people visited Hong Kong. When the pandemic started, Hong Kong imposed very strict rules, and the country closed to visitors for three years.  
+In 2019, many protests happened, which hurt the city's reputation. In 2022, as a result, only 605,000 visitors came.  
+The city's leader started a campaign called 'Hello Hong Kong'. Many events will happen, so officials hope they will bring visitors to the city. Some events are a city marathon and a rugby match.
+
+*Difficult words*: impose (st start something or to control), reputation (the feeling people have about something), marathon (a long exciting race).
 
 ## Reference
 

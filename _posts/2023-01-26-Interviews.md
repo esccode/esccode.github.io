@@ -87,11 +87,20 @@ I understand that you're looking for a leader who can implement and scale your d
 
 ## Describe your most challenging project?
 
-## Tell me about something you’ve accomplished that you are proud of.
+## Tell me about something you’ve accomplished that you are proud of.  
 
 ## Can you explain your employment gap?
 
 ## What are your salary expectations?
+
+Tips:
+
+- Known the industry norms for similar jobs.
+- Talk about ranges, rather then exact numbers.
+- Make the case that you offer premium value.  
+
+*Sample answer:*
+Based on my current compensation and market research from resources like Glassdor and levels.fyi, I am seeking a base salary within the range of 7000 pln to 9000 pln. I have seen similar roles that are offering $[dollar amount].My specific experience and years in the field are closely aligned with this position, making me a strong candidate to be able to jump in and quickly add value. That said, i understand that this base salary range might be on the higher and of the spectrum for a growing company, and I;m willing to consider a lesser base paired with a signing bonus or increase in restricted stock units.
 
 ## What do you like to do outside of work?
 
