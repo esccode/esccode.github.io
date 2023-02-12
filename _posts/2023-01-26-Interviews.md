@@ -128,6 +128,14 @@ Based on my current compensation and market research from resources like Glassdo
 
 ## Do you have any questions for me?
 
+Tips
+
+- Come prepared with 3-5 thoughtful question.
+- Ask questions that show're engaged, intelligent and intrested.
+- Avoid no-brainer questions or ones related to salary / benefits.
+
+I do have a few questions. Thanks for asking. We talked a bit about your plans to invest in training opportunities for your current employees, especially those who will be managing the company's transition to a centralized billing system. I think that this is a great plan, and I'd love to support the curriculum development. Now, will most of the training modules be designed by this team? And will they be delivered in person, via webinar, or a video format? Or will you be using a hybrid approach? Why this answer worked well: She showed that she had been paying attention to the conversation. She wanted to delve a bit further into a topic that they've just discussed. She conveyed a lot of enthusiasm about supporting what sounds like a priority project for that organization.
+
 ## References
 
 [linkedin link](https://www.linkedin.com/interview-prep/assessments/urn:li:fsd_assessment:(1,a)/question/urn:li:fsd_assessmentQuestion:(10011,aq11)/)
