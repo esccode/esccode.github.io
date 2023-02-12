@@ -87,6 +87,14 @@ I understand that you're looking for a leader who can implement and scale your d
 
 ## Describe your most challenging project?
 
+Tips:
+
+- Have a clear story with a specific challenge.
+- Describe the negative impact if you hadn't resolve the issue.
+- Discuss action steps you took and talk about the positive impact.
+
+I was tasked with implementing a uniform data platform for a large, multinational company with tens of thousands of employees. It had to be done in such a way that it could be used by teams spread out all over the world. There were several challenges associated with implementing a platform of this size and importance. We had to make sure the platform would be well-adopted, add value, and be approved by the executive team. Besides the technical complexities of building such a platform, this project was also challenging because we had to influence global teams. To accomplish this, I created a high-level strategy. Then, I asked Senior VPs to nominate reports to form one global team that could represent the entire organisation. Ultimately, we succeeded in building a platform that was adopted globally, thanks to a strategic plan executed by a collaborative task force that incorporated both global needs and local aspirations. Why this answer worked well: Leading a project scale demonstrates the ability to provide high-level strategy while being capable of localizing the executions. The candidate detailed the complications of the project and athe action steps taken.
+
 ## Tell me about something you’ve accomplished that you are proud of.  
 
 ## Can you explain your employment gap?
