@@ -20,6 +20,7 @@ aside: true
 - [China solar ban - level 2](#china-solar-ban---level-2)
 - [A ship is too big -- level 2](#a-ship-is-too-big----level-2)
 - [Hong Kong needs tourists -- level 2](#hong-kong-needs-tourists----level-2)
+- [Qatar helps Turkey and Syria -- level 2](#qatar-helps-turkey-and-syria----level-2)
 - [Reference](#reference)
 
 ## Jacinda Ardern resigns - level 2
@@ -84,6 +85,15 @@ In 2019, many protests happened, which hurt the city's reputation. In 2022, as a
 The city's leader started a campaign called 'Hello Hong Kong'. Many events will happen, so officials hope they will bring visitors to the city. Some events are a city marathon and a rugby match.
 
 *Difficult words*: impose (st start something or to control), reputation (the feeling people have about something), marathon (a long exciting race).
+
+## Qatar helps Turkey and Syria -- level 2
+
+> *16-20-2023*
+> Qatar promised to send 10,000 mobile homes to Turkey and Syria.  
+> Soccer fans used these homes during the 2022 World Cup. Each cabin has 16 square meters, and there are two beds and furniture. Qatar will send the cabins to people who lost their homes after last week's earthquakes.  
+> Qatar always planned to donate the homes, but after the disaster in Turkey, the plans changed. The first batch of mobile homes already left Qatar, and they will arrive in Turkey soon. In November 2022, Qatar promised to give 6,000 mobile homes to homeless people in Kenya.  
+> *Dificult words:* **mobile home** (a building in which people live and which can be moved to another place), **donate** (to give money to people who need them), **batch** (a group of similar things).
+
 
 ## Reference
 

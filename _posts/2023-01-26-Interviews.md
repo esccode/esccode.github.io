@@ -126,6 +126,18 @@ Based on my current compensation and market research from resources like Glassdo
 
 ## Tell me about a time you disagreed with someone?
 
+**Describe the situation**
+Talk about the initial events that occured. What were the problems that you were experiencing? What needed to be solved and what resources did you have--or not have? This is a really key part of the store, so it should be about three to four sentences long.
+
+**Tips**:
+
+- Pick an example involving business practices - avoid personal quarrels.
+- Calmly explain both sides point of view.
+- Show how a compromise or a fuller understanding led to a good outcome.
+
+**Sample answer**
+My team was given a new goal: to sell our product to a new customer segment that we hadn't  served in the past. The group had strong opinions about the approach we should take. In spite of their voices, I had concerns about their strategy; I thought it may fail as it didn't align with the client's core needs. But I was in the minority and when I spoke up I wasn't heard. i needed to find another way to make the case to my teammates. I set up a focus group with a potential client so my team could understand the challenges and priorities of the people we aimed to serve. The great news was they saw that our planned product wouldn't meet these needs, but if we made some slight adjustment to the service, we could deliver something of real value. The team rallied behind this and got on board. We were ultimately successful in bringing this client onboard--and ten more! Why this answer worked well:She shared a succinct example of a time when her opinion was in the minority. She came up with a creative way to change her team's perspective. She used this new strategy and described how well it worked.
+
 ## Tell me about a time you created a goal and achieved it?
 
 ## Tell me about a time you surpassed people’s expectations?
