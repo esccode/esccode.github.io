@@ -85,6 +85,27 @@ I understand that you're looking for a leader who can implement and scale your d
 
 ## Why do you want to leave your current role?
 
+*Overview*
+Employers say they want to hire people who are running "to" a role as opposed to running "away." However, they are also interested in your honesty when things haven't worked out and will give people second chances when they demonstrate hunger.
+
+*Stay postitive*
+Employer want to see that youhave a good attitude in general. Resist the temptation to say bad things about your current job, employer, or boss.
+
+*Focus on where you'd like to go*
+You should come off as someone who is looking forward, not backward. Portray your intrests more in light of what you want to get out of your next role.
+
+*Bring it back to them.*
+Show them that you've done your homework about teir company, and relate what you tell them back to the specific job you've interviewing for.
+
+Tips
+
+- Don't talk negative about past roles or former bosses - employers don't wont to work with people who complain.
+- Be gracious when things haven't worked out in the past.
+- Share some of the ways you're working on improving.
+
+*Sample answer*
+I enjoy my current role and am not actually actively pursuing a change. I am however, very open to intellectually stimulating and challenging opportunities that will allow me to provide value.
+
 ## Describe your most challenging project?
 
 Tips:
