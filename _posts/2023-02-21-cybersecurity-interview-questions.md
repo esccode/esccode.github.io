@@ -44,6 +44,26 @@ This section features 15 general cybersecurity interview questions to ask your c
 
 ### 5 general cybersecurity interview questions and answers
 
+Here's our selection of five of the most crucial cybersecurity interview questions from the ones above, together with sample answear to help you gauge applicants' knowledge.  
+
+1. Explain what a hacker is?
+Candidates should understand that hackers seek to find and exploit computer weaknesses, using their through knowledge of network and IT systems.
+
+2. Which skills are important for cybersecurity professionals?
+Do your candidates know that knowledge of network and endpoint threat mitigation are two critical skills that cybersecurity professionals should have? Can they explain that knowledge of computer networks and cloud servers security is also essential for a cybersecurity role?
+
+3. Name two types of common cyberattacks?
+Two types of common cyberattacks that your candidates should know include web application attacks and system-based attacks:
+
+   - **Web application attacks** are malicious attempts to compromise a web application's security
+   - **System-based attacks** are attempts to spread malicious software through the computer via computer files
+  
+4. What do antivirus sensor system do?  
+Antivirus sensor systems are software tools used to find, mitigate, and get rid of a virus that computers may have. These sensors carry out regular checks to increase a system's security.  
+
+5. Explain what security auditing means?  
+Can your candidates explain that security auditing involves internal applications and operating system inspections to spot any security flaws and vulnerabilities? Strong candidates will explain that line-by-line code inspections can help perform the audit.
+
 ### 29 cybersecurity interview questions related to terms and definitions
 
 ### 5 critical cybersecurity interview questions and answers related to terms and definisions
