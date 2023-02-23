@@ -64,9 +64,49 @@ Antivirus sensor systems are software tools used to find, mitigate, and get rid 
 5. Explain what security auditing means?  
 Can your candidates explain that security auditing involves internal applications and operating system inspections to spot any security flaws and vulnerabilities? Strong candidates will explain that line-by-line code inspections can help perform the audit.
 
-### 29 cybersecurity interview questions related to terms and definitions
+### 29 cybersecurity interview questions related to terms and definitions  
+
+1. Explain what cryptography is.
+2. Explain what cybersecurity is.
+3. Explain what symmetric encryption is.
+4. Explain what asymmetric encryption is.
+5. What is IDS?
+6. What is IPS?
+7. Explain the difference between IDS and IPS.
+8. What is the CIA model?
+9. Explain what hashing is.
+10. Explain the difference between encryption and hashing.
+11. What is a firewall?
+12. Explain what vulnerability assessments are.
+13. Explain what penetration testing is.
+14. Explain what traceroute is.
+15. What is HIDS?
+16. What is NIDS?
+17. What is SSL encryption?
+18. What is an accidental data leak?
+19. What is an intentional data leak?
+20. What is a system hack?
+21. Explain what rutal force attacks are.
+22. Explain what a VPN is.
+23. What is a DDOS attack?
+24. What is an XSS attack?
+25. Explain what SSL does.
+26. Explain what TLS does?
+27. Explain what cognitive cybersecurity is.
+28. Explain the advantages of a VPN.
+29. Explain what phishing is.
 
 ### 5 critical cybersecurity interview questions and answers related to terms and definisions
+
+This section has five critical cybersecurity interview questions related to terms and definisions, along with answer to help you assess your applicants' knowledge.
+
+1. **Explain what cybersecurity is?**
+Knowledgeable candidates should be able to explain that cybersecurity is the process of protecting software and hardware from hackers and cyberattacks. For example, the process ensures that attackers cannot access sensitive information or exploit system vulnerabilities.  
+
+2. **Explain what cryptography is?**
+Can your applicants explain that cryptography involves securing digital information and data transmitted during communications?  
+Your applicants should know that cryptography ensures that only the recipent of the information and the sender can view the details of the message.
+
 
 ### 8 cybersecurity interviews questions related to cybersecurity process
 
