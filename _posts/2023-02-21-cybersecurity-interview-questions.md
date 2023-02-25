@@ -107,8 +107,28 @@ Knowledgeable candidates should be able to explain that cybersecurity is the pro
 Can your applicants explain that cryptography involves securing digital information and data transmitted during communications?  
 Your applicants should know that cryptography ensures that only the recipent of the information and the sender can view the details of the message.
 
+3. **What is a firewall?**
+Applicants should know that a firewall is a network security system that monitors and controls the network's traffic. Do your applicants know that firewalls mitigate remote system access and help prevent virus or malware attacks?
+
+4. **Explain what a VPN is.**
+VPN is an acronym that means virtual private network. Your applicants should know that VPNs create secure, encrypted connections when the client's data is sent to a different point.  
+They should be able to explain that the data first goes to the VPN, gets encrypted, and gets decrypted at a second point in the VPN. The  data then reaches the other device.
+
+5. **What is SSL encryption?**
+SSL, short for *secure sockets layer*, is a security technology that creates an encrypted link between browsers and web servers. Candidates may explain that SSL encryption works by protecting sensitive information used in online transactions.
 
 ### 8 cybersecurity interviews questions related to cybersecurity process
+
+This final section contains eight questions related to cybersecurity processes that your candidates should know and understand.  
+
+1. How do you set up a firewall?
+2. How do you secure servers?
+3. Which methods would you use to prevent a brute force attack?
+4. How do you prevent identity theft?
+5. When should you complete patch management processes?
+6. How would you prevent a DDOS attack?
+7. How would you prevent an XSS attack?
+8. How can you implement two-factor authentication?
 
 ### 5 vital cybersecurity interview questions and answers related to cybersecurity processes
 

@@ -21,6 +21,7 @@ aside: true
 - [A ship is too big -- level 2](#a-ship-is-too-big----level-2)
 - [Hong Kong needs tourists -- level 2](#hong-kong-needs-tourists----level-2)
 - [Qatar helps Turkey and Syria -- level 2](#qatar-helps-turkey-and-syria----level-2)
+- [Business world news -- level 2](#business-world-news----level-2)
 - [Reference](#reference)
 
 ## Jacinda Ardern resigns - level 2
@@ -94,6 +95,15 @@ The city's leader started a campaign called 'Hello Hong Kong'. Many events will 
 > Qatar always planned to donate the homes, but after the disaster in Turkey, the plans changed. The first batch of mobile homes already left Qatar, and they will arrive in Turkey soon. In November 2022, Qatar promised to give 6,000 mobile homes to homeless people in Kenya.  
 > *Dificult words:* **mobile home** (a building in which people live and which can be moved to another place), **donate** (to give money to people who need them), **batch** (a group of similar things).
 
+## Business world news -- level 2  
+
+*24-02-2023*
+These are some of the world's most important business news of this week.  
+One year ago, Russia invaded Ukraine, which changed the global business and energy market, and inflation rose in many countries. Politicians and military leaders met in Munich, Germany, to discuss further help to Ukraine.  
+It seems that Europe may get out of recession because activity is increasing. The European Central Bank is waiting for the latest data from stock markets. It will probably keep rising rates because inflation is very high.  
+In 2020, G20 countries agreed to change the debt payments of the poorest countries. This week, 20 finance ministers met to discuss debt payment of middle-income countries and the possibility of forgiving debts after vthe pandemic.
+
+*Difficult words:* **recession** (a period of low business activity), **stock market** (a place where people or companies buy and sell parts of other companies), **debt** (money which someone owes and has to pay back).
 
 ## Reference
 
