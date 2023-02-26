@@ -1,5 +1,5 @@
 ---
-title: BCross-site scripting
+title: Cross-site scripting
 categories:
 - cyber
 feature_text: |

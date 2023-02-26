@@ -130,7 +130,52 @@ This final section contains eight questions related to cybersecurity processes t
 7. How would you prevent an XSS attack?
 8. How can you implement two-factor authentication?
 
-### 5 vital cybersecurity interview questions and answers related to cybersecurity processes
+### 5 vital cybersecurity interview questions and answers related to cybersecurity processes  
+
+Here are five of the essential interview questions related to cybersecurity processes, along with answers you should listen for.  
+
+**How do you set up a firewall?**
+
+Applicants may explain that the following process is involved in setting up a firewall:
+
+- Secure the firewall by updating the firmware or completing the required configuration measures
+- Set up firewall zones and plan a structure
+- Create access lists to invite and grant access to verified users
+- Test the firewall to ensure it is configured to block the intended traffic
+- Maintain and continuously update the firewall
+  
+**How would you prevent a DDOS attack?**
+
+Candidates may outline the following four methods to prevent DDOS attacks:
+
+- Using services that work against DDOS attacks
+- Using firewalls and configuring routers
+- implementing load balancing methods
+- Monitoring traffic spikes
+
+**How would you prevent an XSS attack?**
+
+Can your candidates explain that preventing cross-site scripting attacks requires a few steps?  
+Applicants should be able to give some of the following examples:  
+
+- Using services or tools that work against XSS
+- Implementing XSS filters
+- Validating and sanitizing user inputs
+- Using special character encoding techniques  
+
+**How can you implement two-factor authentication?**
+
+Applicants should know that implementing two-factor authentication involves selecting an additional method of veryfying a user's identity. One example of such a method is smartphone verification.  
+
+Your applicant may also mention that authenticator apps are on the rise and help organizations minimize the use of verification codes.  
+
+**How do you prevent identity theft?**  
+
+A few key methods that candidates may mention when responding to this question include:  
+
+- Using strong unique passwords
+- Avoiding sharing confidential data online
+- Using the most uo-to date browser versions
 
 ## 10 tips for using cybersecurity interview effectively
 
