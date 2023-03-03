@@ -22,6 +22,7 @@ aside: true
 - [Hong Kong needs tourists -- level 2](#hong-kong-needs-tourists----level-2)
 - [Qatar helps Turkey and Syria -- level 2](#qatar-helps-turkey-and-syria----level-2)
 - [Business world news -- level 2](#business-world-news----level-2)
+- [A phone charges in 9 minutes -- level 2](#a-phone-charges-in-9-minutes----level-2)
 - [Reference](#reference)
 
 ## Jacinda Ardern resigns - level 2
@@ -104,6 +105,14 @@ It seems that Europe may get out of recession because activity is increasing. Th
 In 2020, G20 countries agreed to change the debt payments of the poorest countries. This week, 20 finance ministers met to discuss debt payment of middle-income countries and the possibility of forgiving debts after vthe pandemic.
 
 *Difficult words:* **recession** (a period of low business activity), **stock market** (a place where people or companies buy and sell parts of other companies), **debt** (money which someone owes and has to pay back).
+
+## A phone charges in 9 minutes -- level 2
+
+*03-03-3023*
+Chinese smartphone maker Realme introduced a new smartphone. The company says that it is possible to charge the phone fully in just nine minutes.  
+The GT3 phone has a special battery, which could be the world's fastest-charging battery. You only need 80 seconds to charge the phone to 20% capacity. When you charge the phone for just 30 seconds, you can make a two-hour call, listen to music for three and a half hours or watch ane TV episode. The battery has also very high durability. The company says that after 1,600 charge cycles, the battert still keeps 80% capacity.  
+According to Realme, GT3 has a special design and new faetures, which will change the world of smartphones.  
+*Difficult words:* **capacity** (the maximum amount which something can keep or produce), **durability** (how long something can last), **features** (a noticable or important part of something).
 
 ## Reference
 
