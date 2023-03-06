@@ -1,4 +1,4 @@
----
+ ---
 title: English News
 categories:
 - english
@@ -12,6 +12,8 @@ aside: true
 ---
 
 
+- [English News feature text](#english-news-feature-text)
+- [aside: true](#aside-true)
 - [Jacinda Ardern resigns - level 2](#jacinda-ardern-resigns---level-2)
 - [Doomsday Clock- level 2](#doomsday-clock--level-2)
 - [Apple's new product - level 2](#apples-new-product---level-2)
