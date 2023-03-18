@@ -116,6 +116,7 @@ The GT3 phone has a special battery, which could be the world's fastest-charging
 According to Realme, GT3 has a special design and new faetures, which will change the world of smartphones.  
 *Difficult words:* **capacity** (the maximum amount which something can keep or produce), **durability** (how long something can last), **features** (a noticable or important part of something).
 
+
 ## Reference
 
 [English in News](https://www.newsinlevels.com/)
