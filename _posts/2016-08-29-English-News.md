@@ -1,11 +1,11 @@
- ---
+---
 title: English News
 categories:
 - english
 excerpt: |
   On Thursday, New Zealand's Prime Minister Jacinda Ardern announced that she would resign before 7th of February, 2023.
 feature_text: |
-  ## English News feature text
+ ## English News feature text
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 aside: true
@@ -114,7 +114,18 @@ In 2020, G20 countries agreed to change the debt payments of the poorest countri
 Chinese smartphone maker Realme introduced a new smartphone. The company says that it is possible to charge the phone fully in just nine minutes.  
 The GT3 phone has a special battery, which could be the world's fastest-charging battery. You only need 80 seconds to charge the phone to 20% capacity. When you charge the phone for just 30 seconds, you can make a two-hour call, listen to music for three and a half hours or watch ane TV episode. The battery has also very high durability. The company says that after 1,600 charge cycles, the battert still keeps 80% capacity.  
 According to Realme, GT3 has a special design and new faetures, which will change the world of smartphones.  
-*Difficult words:* **capacity** (the maximum amount which something can keep or produce), **durability** (how long something can last), **features** (a noticable or important part of something).
+*Difficult words:* **capacity** (the maximum amount which something can keep or produce), **durability** (how long something can last), **features** (a noticable or important part of something).  
+
+## Two US banks collapse  
+
+*18-03-2023*  
+Last week, US Silicon Valley Bank failed, because it couldn't pay back customers' doposits.  
+
+Deposits of up to 250,000 dollars were insured, but the problem was that most customers had deposits of billions of dollars. US president Joe Biden said that the US banking system was safe, and he promised that customers would get their money back. After the bank failed, authorities closed another bank in New York. Experts said that similar things would repeat bacause banks took too much debt which they couldn't pay back.  
+
+European banks made tough regulations after the news, but they already lost 100 bilion dollars in one week.  
+
+*Difficult words:* **deposit**(money in a bank account), **insured** (covered by insurance in the event of damage or loss), **regulation** (an official rule which controls something).
 
 ## Reference
 
