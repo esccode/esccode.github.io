@@ -12,8 +12,6 @@ aside: true
 ---
 
 
-- [English News feature text](#english-news-feature-text)
-- [aside: true](#aside-true)
 - [Jacinda Ardern resigns - level 2](#jacinda-ardern-resigns---level-2)
 - [Doomsday Clock- level 2](#doomsday-clock--level-2)
 - [Apple's new product - level 2](#apples-new-product---level-2)
@@ -25,6 +23,8 @@ aside: true
 - [Qatar helps Turkey and Syria -- level 2](#qatar-helps-turkey-and-syria----level-2)
 - [Business world news -- level 2](#business-world-news----level-2)
 - [A phone charges in 9 minutes -- level 2](#a-phone-charges-in-9-minutes----level-2)
+- [Two US banks collapse](#two-us-banks-collapse)
+- [No rain and no food in Madagascar - level 1](#no-rain-and-no-food-in-madagascar---level-1)
 - [Reference](#reference)
 
 ## Jacinda Ardern resigns - level 2
@@ -125,7 +125,16 @@ Deposits of up to 250,000 dollars were insured, but the problem was that most cu
 
 European banks made tough regulations after the news, but they already lost 100 bilion dollars in one week.  
 
-*Difficult words:* **deposit**(money in a bank account), **insured** (covered by insurance in the event of damage or loss), **regulation** (an official rule which controls something).
+*Difficult words:* **deposit**(money in a bank account), **insured** (covered by insurance in the event of damage or loss), **regulation** (an official rule which controls something).  
+
+## No rain and no food in Madagascar - level 1
+
+*Thursday, March 23rd, 2023*
+Many people think that Madagascar is a beautiful island with green forests and many different animals. That is the past. Now, Madagascar has many problems.  
+People in southern Madagascar **cut down** almost all of the trees. The trees stop strong winds. Now, people cannot put **seeds** in the grounds. Winds blow the seeds away.  
+Another problem is no rain falls for many years. It happens because of **climate change**.  
+More than a million people need help. Scientists say that the situation will be even worse. There will be famine.. Famine is the situation when very many people have nothing to eat. Madagascar can be the first country where famine happens because of climate change.  
+*Difficult words:* **cut down** (to cut trees, and they fall to the ground), **seed** (the part of a plant from which a new plant grows), **climate change** (big changes in weather, which happen because the plant is getting warmer).
 
 ## Reference
 
