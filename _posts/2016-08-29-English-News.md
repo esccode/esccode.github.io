@@ -25,6 +25,7 @@ aside: true
 - [A phone charges in 9 minutes -- level 2](#a-phone-charges-in-9-minutes----level-2)
 - [Two US banks collapse](#two-us-banks-collapse)
 - [No rain and no food in Madagascar - level 1](#no-rain-and-no-food-in-madagascar---level-1)
+- [Bateries for electric cars](#bateries-for-electric-cars)
 - [Reference](#reference)
 
 ## Jacinda Ardern resigns - level 2
@@ -135,6 +136,14 @@ People in southern Madagascar **cut down** almost all of the trees. The trees st
 Another problem is no rain falls for many years. It happens because of **climate change**.  
 More than a million people need help. Scientists say that the situation will be even worse. There will be famine.. Famine is the situation when very many people have nothing to eat. Madagascar can be the first country where famine happens because of climate change.  
 *Difficult words:* **cut down** (to cut trees, and they fall to the ground), **seed** (the part of a plant from which a new plant grows), **climate change** (big changes in weather, which happen because the plant is getting warmer).
+
+## Bateries for electric cars
+
+*23 March, 2023*
+Volkswagen is the biggest carmaker in Europe. The company plans to invest in *mines*.  
+Volkswagen wants to control the *supply chain*. These days, carmakers do not want to depend on parts or materials from other companies. Soon, carmakers will make only electric cars. They will need raw materials for batteries. he problem is that mines do not produce enough materials. If carmakers control the mines, the situation will be easier for them.  
+Volkswagen wants to build battery *plants* in Europe and North America. It will send batteries to other carmakers.  
+*Difficult words*: *mine* (a place where people get coal or other materials from the ground), *supply chain* (all people and companies who make one product and ge it to customers), *plant* (a factory).
 
 ## Reference
 
