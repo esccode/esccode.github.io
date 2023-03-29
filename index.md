@@ -1,5 +1,5 @@
 ---
-title: Technical Writer Roles
+title: CompTIA Security+
 categories:
 - cyber
 feature_text: |
