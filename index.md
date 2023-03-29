@@ -1,10 +1,10 @@
 ---
 title: Technical Writer Roles
 categories:
-- wiki
+- cyber
 feature_text: |
   ## @esccode
-  PrepCompTIA Security+ Study Guide: Exam SY0-601
+  Cert Prep CompTIA Security+ Study Guide: Exam SY0-601
 excerpt: |
   #
 
