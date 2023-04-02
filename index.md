@@ -41,5 +41,6 @@ The table below lists the domains measures by this examination and the extent to
 
 [Comptia Web](https://www.comptia.org/certifications/security)
 [Cambrige PL Courses](https://cambridge.pl/cennik/)
+[Cambrige PL Exam](http://egzaminy-cambridge.pl/cennik-egzaminow/)
 
 ---
