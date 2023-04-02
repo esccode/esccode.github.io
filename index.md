@@ -40,7 +40,7 @@ The table below lists the domains measures by this examination and the extent to
 | CPE (Certificate of Proficiency in English) | C2 | 3 |  
 | CAE (Certificate in Advanced English) | C1 | 2 |  
 | FCE (First Certificate in English) | B2 | 1 |  
-| PET (Preliminary English Test) | B2 | 1 | Entry 3 |  
+| PET (Preliminary English Test) | B2 | Entry 3 |  
 | KET (Key English Test) | A2 | Entry 2 |
 
 ---
