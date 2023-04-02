@@ -1,7 +1,7 @@
 ---
 title: Interview Common Questions
 categories:
-- wiki
+- interview
 excerpt: |
   Excerpt: "Tell me about yourself?"
   
