@@ -35,6 +35,14 @@ The table below lists the domains measures by this examination and the extent to
 
 ## Cert Prep Pass English Exam FCE(B2) - CAE(C1)
 
+> | Examination | Council of Europe Framework Level | UK National Qualifications Framework Level |  
+|---|---|  
+| CPE (Certificate of Proficiency in English) | C2 | 3 |  
+| CAE (Certificate in Advanced English) | C1 | 2 |  
+| FCE (First Certificate in English) | B2 | 1 |  
+| PET (Preliminary English Test) | B2 | 1 | Entry 3 |  
+| KET (Key English Test) | A2 | Entry 2 |
+
 ---
 
 ## References
@@ -42,5 +50,6 @@ The table below lists the domains measures by this examination and the extent to
 [Comptia Web](https://www.comptia.org/certifications/security)
 [Cambrige PL Courses](https://cambridge.pl/cennik/)
 [Cambrige PL Exam](http://egzaminy-cambridge.pl/cennik-egzaminow/)
+[English Language Assessment](https://www.cambridgeenglish.org/)
 
 ---
