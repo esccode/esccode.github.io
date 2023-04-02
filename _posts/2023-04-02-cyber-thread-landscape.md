@@ -11,6 +11,33 @@ aside: true
 
 ## Cybersecurity Threat Landscape
 
+### Protect against Malware and Ransomware  
+
+1. Make Frequent Backups  
+2. Apply Security Updates and Patches
+3. Upgrade to Latest OS Versions  
+4. Install Firewalls
+5. Install Antimalware Software  
+
+### Protect against Phishing and Smishing  
+
+Social engineering attacks designes to trick users.
+
+1. Email Filtering  
+2. Block Bad Websites  
+3. Use a Password Manager
+4. Multifactor Authentication
+5. Security Training  
+
+### Protect against Business Email Compromise (BEC)  
+
+1. Email Filtering
+2. Enable MFA
+3. User Security Awareness Training
+4. Mark External Emails  
+
+### Protect against Botnet and DDoS attacks
+
 ### Protect against UNMANAGED IoT DEVICES
 
 Network asset inventory(skan like Nmap), NETWORK SEGMENTATION, BLOCK PORTS(e.g. telnet: 23), change default passwords, configure strong security, install software updates and patches,
