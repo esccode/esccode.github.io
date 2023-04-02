@@ -11,7 +11,6 @@ feature_text: |
 - [Security Detection and Response Analyst EU Remote(aka Tier 1 Analyst)](#security-detection-and-response-analyst-eu-remoteaka-tier-1-analyst)
   - [What you'll be responsible for](#what-youll-be-responsible-for)
   - [What we are looking for](#what-we-are-looking-for)
-  - [Strong advantage to candidates with multiple EU languages](#strong-advantage-to-candidates-with-multiple-eu-languages)
 - [Security information and Event Management(SIEM)](#security-information-and-event-managementsiem)
   - [Capabilities](#capabilities)
   - [Correlation rules examples](#correlation-rules-examples)
@@ -76,8 +75,6 @@ feature_text: |
 - Able both independently as well collaborate within a team in a remote work setting,
 - Excellent interpersonal, verbal and written communication skills, ability to elucidate technical content to non-technical personnel,
 - Must have excellent English reading, writing, and speaking skills
-
-### Strong advantage to candidates with multiple EU languages
 
 ## Security information and Event Management(SIEM)
 
