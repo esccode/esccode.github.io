@@ -16,9 +16,9 @@ aside: true
 
 - [Cert Prep CompTIA Security+ SY0-601](#cert-prep-comptia-security-sy0-601)
   - [Exam Objectives (Domains)](#exam-objectives-domains)
-- [Cert Prep Pass English Exam FCE(B2) - CAE(C1)](#cert-prep-pass-english-exam-fceb2---caec1)
-  - [FCE B2](#fce-b2)
-  - [CAE C1](#cae-c1)
+- [Cert Prep Cambridge English Qualifications](#cert-prep-cambridge-english-qualifications)
+  - [FCE(B2)](#fceb2)
+  - [CAE(C1)](#caec1)
 - [References](#references)
 
 ## Cert Prep CompTIA Security+ SY0-601
@@ -35,7 +35,7 @@ The table below lists the domains measures by this examination and the extent to
 
 ---
 
-## Cert Prep Pass English Exam FCE(B2) - CAE(C1)
+## Cert Prep Cambridge English Qualifications
 
 > | Examination | Council of Europe Framework Level | UK National Qualifications Framework Level |  
 |---|---|  
@@ -45,7 +45,7 @@ The table below lists the domains measures by this examination and the extent to
 | PET (Preliminary English Test) | B2 | Entry 3 |  
 | KET (Key English Test) | A2 | Entry 2 |  
 
-### FCE B2  
+### FCE(B2)
 
 | Key facts | |
 |---|---|
@@ -55,7 +55,7 @@ The table below lists the domains measures by this examination and the extent to
 | No. of papers: | 4 |  
 | Exam length: | About 3.5 hours |
 
-### CAE C1
+### CAE(C1)
 
 | Key facts | |
 |---|---|
