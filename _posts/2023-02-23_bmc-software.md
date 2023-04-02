@@ -3,7 +3,10 @@ title: BMC software
 categories:
 - bmc
 feature_text: |
-#
+ # BMC software feature text
+feature_image: "https://picsum.photos/2560/600?image=733"
+image: "https://picsum.photos/2560/600?image=733"
+aside: true
 ---
 
 - [BMC Software](#bmc-software)
@@ -30,4 +33,4 @@ The TrueSight suite utilizes AI and machine learning to provide insights and net
 
 ## External Link
 
-[BMC ](https://www.bmc.com/).
+[BMC](https://www.bmc.com/) by BMC
