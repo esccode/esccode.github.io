@@ -1,12 +1,12 @@
 ---
-title: CompTIA Security+
+title: My Personal Development Goles
 categories:
-- cyber
+- interview
 feature_text: |
   ## @esccode
-  Cert Prep CompTIA Security+ Study Guide: Exam SY0-601
+  ompTIA Security+ Study Guide: Exam SY0-601
 excerpt: |
-  #
+  # 
 
 #feature_image: "https://picsum.photos/2560/600?image=733"
 feature_image: "https://picsum.photos/1300/400?image=989"
@@ -14,11 +14,14 @@ image: "https://picsum.photos/2560/600?image=733"
 aside: true
 ---
 
-- [EXAM OBJECTIVES (DOMAINS)](#exam-objectives-domains)
+- [Cert Prep CompTIA Security+ Study Guide: Exam SY0-601](#cert-prep-comptia-security-study-guide-exam-sy0-601)
+  - [EXAM OBJECTIVES (DOMAINS)](#exam-objectives-domains)
+- [PASS ENGLISH EXAM FCE(B2)/CAE(C1)](#pass-english-exam-fceb2caec1)
 - [REFERENCES](#references)
 
+## Cert Prep CompTIA Security+ Study Guide: Exam SY0-601
 
-## EXAM OBJECTIVES (DOMAINS)
+### EXAM OBJECTIVES (DOMAINS)
 
 The table below lists the domains measures by this examination and the extent to which they are represented:  
 
@@ -28,8 +31,15 @@ The table below lists the domains measures by this examination and the extent to
 4.0 Operations and Incident Response 16%  
 5.0 Governance, Risk, and Compliance 14%  
 
+---
+
+## PASS ENGLISH EXAM FCE(B2)/CAE(C1)
+
+---
+
 ## REFERENCES
 
 [Exam link](https://www.comptia.org/certifications/security)
+[Cambrige Courses](https://cambridge.pl/cennik/)
 
 ---

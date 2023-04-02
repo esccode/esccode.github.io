@@ -1,6 +1,4 @@
 
----
-
 # Privacy Policy
 
 @esccode takes your privacy seriously. To better protect your privacy @esccode provide this privacy policy notice explaining the way your personal information is collected and used.
