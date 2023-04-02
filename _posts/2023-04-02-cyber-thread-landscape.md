@@ -38,11 +38,29 @@ Social engineering attacks designes to trick users.
 
 ### Protect against Botnet and DDoS attacks
 
-### Protect against UNMANAGED IoT DEVICES
+1. Use Firewalls or Web Application Firewalls
+2. Use Load Balancers or Content Delivery Network(CDNs)
+3. Use DDoS Defense Systems or Service Providers
+4. Use a Network Monitoring System
+5. Develop a Denial-of-Service Response Plan
+
+#### Conduct a DDoS Test
+
+#### System Protection
+
+- Install antimalware
+- Monitor system processes
+- Follow good security practices
+
+### Protect against Deepfakes
+
+### Protect against Insider Threats
+
+### Protect against Unmanaged IoT Devices
 
 Network asset inventory(skan like Nmap), NETWORK SEGMENTATION, BLOCK PORTS(e.g. telnet: 23), change default passwords, configure strong security, install software updates and patches,
 
-### Protect against shadow IT
+### Protect against Shadow IT
 
 IT asset inventory(run nmap scan), make sure users known correct IT processes, implement and enforce strong security policies, security monitoring(SIEM), network access control(NAC), cloud access security broker(CASB)
 
