@@ -9,15 +9,6 @@ aside: true
 ---
 
 
-## Reference
-
-[English in News](https://www.newsinlevels.com/)
-
-## CYBERSECURITY DICT
-
-ABNORMAL-nieprawidlowy, ACCOMPLISHED-osiagniete, CAPTIVE-jeniec, Chain of custody-lancuch dostaw, CONDUCTING-prowadzenia, DEPLOYING-wdraza, CAPTURED-zlapany, DECIVE-zawodzic, ENCOMPASSES-obejmuje, EVALUATING-oceniac,  FRAUDULENT-nieuczciwy, FUZZING-rozmyte, GUAGE-mierzy, HANDHELD-podreczny, IDENTITY-tozsamosc, INVOLVE-obejmoje, MALFORMED-znieksztalcony, MALICIOUS-zlosliwe, OCCURED-wystapił, REFLECT-odwzierciedla, REVOKED-uniewaznione, ROGUE-lobuz, SUITED-pasuje,  SELF-GRADING-samoocena, SPOOFING-falszowanie, SNIFFING-wachanie, THOROUGH-dokladny, VIOLATE-porusza, VOLATILITY-zmiennosc, SMISHING, PHISHING
-WIDESPREAD-rozpowszechnione, PREDICTIVE-prorocze, INDICATOR-wskaznik, PARTAKING IN-brac udzial, COMPLIANCE-zgodnosc, CUSTODIAN-opiekun, UTILITY-media, DEEPFAKES, MALWARE, RANSOMWARE, MFA, DEEPFAKES, SCAMMERS-oszustwa, FRAUD, INSIDER THREATS, SABOTAGE, FRAUD, THEFT, ESPIONAGE, BOTNET, OWASP(open web application security project), DETECT and PREVENT, notifie, zero days, log4j
-
 ## Cybersecurity Threat Landscape
 
 ### Protect against UNMANAGED IoT DEVICES
@@ -52,5 +43,11 @@ IT asset inventory(run nmap scan), make sure users known correct IT processes, i
     - Review the results of the SBOMs with your developers,
     - Confirm open-source software is still needed and updated,
     - Consider implementing a secure development standard
+
+## Reference
+
+[SANS BLOG](https://www.sans.org/blog/all-new-ouch-newsletter-out/)  
+[linkedin](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-sscp?autoSkip=true&autoplay=true&resume=false)
+
 
 ---
