@@ -2,6 +2,7 @@
 title: cyber interview questions
 categories:
 - cyber
+- interview
 feature_text: |
   #
 ---
