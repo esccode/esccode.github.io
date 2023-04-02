@@ -15,13 +15,13 @@ aside: true
 ---
 
 - [Cert Prep CompTIA Security+ Study Guide: Exam SY0-601](#cert-prep-comptia-security-study-guide-exam-sy0-601)
-  - [EXAM OBJECTIVES (DOMAINS)](#exam-objectives-domains)
-- [PASS ENGLISH EXAM FCE(B2) - CAE(C1)](#pass-english-exam-fceb2---caec1)
-- [REFERENCES](#references)
+  - [Exam Objectives (DOMAINS)](#exam-objectives-domains)
+- [Pass English Exam FCE(B2) - CAE(C1)](#pass-english-exam-fceb2---caec1)
+- [References](#references)
 
 ## Cert Prep CompTIA Security+ Study Guide: Exam SY0-601
 
-### EXAM OBJECTIVES (DOMAINS)
+### Exam Objectives (DOMAINS)
 
 The table below lists the domains measures by this examination and the extent to which they are represented:  
 
@@ -33,11 +33,11 @@ The table below lists the domains measures by this examination and the extent to
 
 ---
 
-## PASS ENGLISH EXAM FCE(B2) - CAE(C1)
+## Pass English Exam FCE(B2) - CAE(C1)
 
 ---
 
-## REFERENCES
+## References
 
 [Exam link](https://www.comptia.org/certifications/security)
 [Cambrige Courses](https://cambridge.pl/cennik/)
