@@ -1,10 +1,10 @@
 ---
-title: My Personal Development Goles
+title: Personal Goals
 categories:
 - interview
 feature_text: |
   ## @esccode
-  ompTIA Security+ Study Guide: Exam SY0-601
+  CompTIA Security+ / FCE(B2) - CAE(C1)
 excerpt: |
   # 
 
@@ -16,7 +16,7 @@ aside: true
 
 - [Cert Prep CompTIA Security+ Study Guide: Exam SY0-601](#cert-prep-comptia-security-study-guide-exam-sy0-601)
   - [EXAM OBJECTIVES (DOMAINS)](#exam-objectives-domains)
-- [PASS ENGLISH EXAM FCE(B2)/CAE(C1)](#pass-english-exam-fceb2caec1)
+- [PASS ENGLISH EXAM FCE(B2) - CAE(C1)](#pass-english-exam-fceb2---caec1)
 - [REFERENCES](#references)
 
 ## Cert Prep CompTIA Security+ Study Guide: Exam SY0-601
@@ -33,7 +33,7 @@ The table below lists the domains measures by this examination and the extent to
 
 ---
 
-## PASS ENGLISH EXAM FCE(B2)/CAE(C1)
+## PASS ENGLISH EXAM FCE(B2) - CAE(C1)
 
 ---
 
