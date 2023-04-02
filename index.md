@@ -4,7 +4,7 @@ categories:
 - interview
 feature_text: |
   ## @esccode
-  CompTIA Security+ / FCE(B2) - CAE(C1)
+  CompTIA Security+ / FCE(B2) || CAE(C1)
 excerpt: |
   # 
 
