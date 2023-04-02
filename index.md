@@ -17,7 +17,8 @@ aside: true
 - [Cert Prep CompTIA Security+ SY0-601](#cert-prep-comptia-security-sy0-601)
   - [Exam Objectives (Domains)](#exam-objectives-domains)
 - [Cert Prep Pass English Exam FCE(B2) - CAE(C1)](#cert-prep-pass-english-exam-fceb2---caec1)
-  - [C1](#c1)
+  - [FCE B2](#fce-b2)
+  - [CAE C1](#cae-c1)
 - [References](#references)
 
 ## Cert Prep CompTIA Security+ SY0-601
@@ -44,7 +45,17 @@ The table below lists the domains measures by this examination and the extent to
 | PET (Preliminary English Test) | B2 | Entry 3 |  
 | KET (Key English Test) | A2 | Entry 2 |  
 
-### C1
+### FCE B2  
+
+| Key facts | |
+|---|---|
+| CEFR level: | B2 |  
+| Scale score: | 160-179 |  
+| Test format: | Computer or paper-based |  
+| No. of papers: | 4 |  
+| Exam length: | About 3.5 hours |
+
+### CAE C1
 
 | Key facts | |
 |---|---|
