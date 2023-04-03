@@ -26,6 +26,7 @@ aside: true
 - [Two US banks collapse](#two-us-banks-collapse)
 - [No rain and no food in Madagascar - level 1](#no-rain-and-no-food-in-madagascar---level-1)
 - [Bateries for electric cars](#bateries-for-electric-cars)
+- [Baltic countries are scared of Russia -- level 1](#baltic-countries-are-scared-of-russia----level-1)
 - [Reference](#reference)
 
 ## Jacinda Ardern resigns - level 2
@@ -144,6 +145,19 @@ Volkswagen is the biggest carmaker in Europe. The company plans to invest in *mi
 Volkswagen wants to control the *supply chain*. These days, carmakers do not want to depend on parts or materials from other companies. Soon, carmakers will make only electric cars. They will need raw materials for batteries. he problem is that mines do not produce enough materials. If carmakers control the mines, the situation will be easier for them.  
 Volkswagen wants to build battery *plants* in Europe and North America. It will send batteries to other carmakers.  
 *Difficult words*: *mine* (a place where people get coal or other materials from the ground), *supply chain* (all people and companies who make one product and ge it to customers), *plant* (a factory).
+
+## Baltic countries are scared of Russia -- level 1
+
+*07-04-2022 07:00*
+The Baltic countries are three small countries between Russia and Belarus. They are Lithuania, Latvia and Estonia. These countries are a part of the Soviet Union in the past.  
+
+The Soviet Union has a lot of power in the 20th century. 15 countries belong to the Soviet Union. For example, they are Russia, Ukraine and Belorus.  
+
+The Soviet Union **falls apart** in 1991. Later, Russia wants some countries again. For example, Russia occupies Crimea in 2014. Now Russia attacks Ukraine.  
+
+The Baltic countries worry that Russia will attack them, too. It is a diffrent situation. They belong to the EU and NATO. Other NATO member will help them.  
+
+*Difficult words:* **fall apart**(to break into small things), **occupy**(to control something), **member**(a person or thing which is a part of a group of more similar persons or things).
 
 ## Reference
 
