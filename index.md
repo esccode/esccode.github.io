@@ -41,11 +41,14 @@ aside: true
 
 The table below lists the domains measures by this examination and the extent to which they are represented:  
 
-1.0 Attacks, Threats, Vulnerabilities 24%  
-2.0 Architecture abd Design 21%  
-3.0 Implementation 25%  
-4.0 Operations and Incident Response 16%  
-5.0 Governance, Risk, and Compliance 14%  
+| **Domain**| **Percentage of Examination** |
+|---|---|
+| 1.0 Attacks, Threats, Vulnerabilities | 24%  |
+| 2.0 Architecture abd Design | 21%  |
+| 3.0 Implementation | 25%  |
+| 4.0 Operations and Incident Response | 16%  |
+| 5.0 Governance, Risk, and Compliance | 14%  |
+| **Total** | 100% |
 
 ---
 
