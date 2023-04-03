@@ -54,6 +54,14 @@ Social engineering attacks designes to trick users.
 
 ### Protect against Deepfakes
 
+1. Train Users about Deepfakes
+2. Train Users to Spot Deepfakes
+3. Social Engineering: Sense of Urgency
+4. Social Engineering: Unusual Behavior
+5. Verify Financial Transactions
+6. Verify by Asking a Personal Question
+7. Ensure Finance Has Authorization Processes
+
 ### Protect against Insider Threats
 
 ### Protect against Unmanaged IoT Devices

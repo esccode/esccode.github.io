@@ -15,13 +15,27 @@ aside: true
 ---
 
 - [Cert Prep CompTIA Security+ SY0-601](#cert-prep-comptia-security-sy0-601)
+  - [Test Details](#test-details)
   - [Exam Objectives (Domains)](#exam-objectives-domains)
 - [Cert Prep Cambridge English Qualifications](#cert-prep-cambridge-english-qualifications)
   - [FCE(B2)](#fceb2)
   - [CAE(C1)](#caec1)
 - [References](#references)
 
-## Cert Prep CompTIA Security+ SY0-601
+## Cert Prep CompTIA Security+ SY0-601  
+
+### Test Details
+
+| Test Details | |
+|---|---|
+| Required exam | SY0-601 |
+| Number of questions | Maximum of 90 |
+| Types of questions | Multiple-choice and performance-based |
+| Length of test | 90 minutes |
+| Recommended experience | - At least 2 years of work experience in IT systems administration with a focus on security  
+- Hands-on technical information security experience 
+
+
 
 ### Exam Objectives (Domains)
 
@@ -37,7 +51,7 @@ The table below lists the domains measures by this examination and the extent to
 
 ## Cert Prep Cambridge English Qualifications
 
-> | Examination | Council of Europe Framework Level | UK National Qualifications Framework Level |  
+| Examination | Council of Europe Framework Level | UK National Qualifications Framework Level |  
 |---|---|  
 | CPE (Certificate of Proficiency in English) | C2 | 3 |  
 | CAE (Certificate in Advanced English) | C1 | 2 |  
