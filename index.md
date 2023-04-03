@@ -32,10 +32,8 @@ aside: true
 | Number of questions | Maximum of 90 |  
 | Types of questions | Multiple-choice and performance-based |  
 | Length of test | 90 minutes |  
-| Recommended experience | - At least 2 years of work experience in IT systems administration with a focus on security 
-- Hands-on technical information security experience |  
-
-
+| Recommended experience | - At least 2 years of work experience in IT systems administration with a focus on security - Hands-on technical information security experience - Broad knowledge of security concepts |  
+| Passing score | 750 (on a scale of 100-900) |  
 
 ### Exam Objectives (Domains)
 
