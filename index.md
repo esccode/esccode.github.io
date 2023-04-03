@@ -26,14 +26,14 @@ aside: true
 
 ### Test Details
 
-| Test Details | |
-|---|---|
-| Required exam | SY0-601 |
-| Number of questions | Maximum of 90 |
-| Types of questions | Multiple-choice and performance-based |
-| Length of test | 90 minutes |
+| Test Details | |  
+|---|---|  
+| Required exam | SY0-601 |  
+| Number of questions | Maximum of 90 |  
+| Types of questions | Multiple-choice and performance-based |  
+| Length of test | 90 minutes |  
 | Recommended experience | - At least 2 years of work experience in IT systems administration with a focus on security  
-- Hands-on technical information security experience 
+- Hands-on technical information security experience |  
 
 
 
