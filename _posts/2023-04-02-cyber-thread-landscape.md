@@ -84,6 +84,7 @@ Social engineering attacks designes to trick users.
 4. User Security Awareness Training
    - Teach users about acceptable use of organization's assets
    - Let users know that their activity is being monitored
+   - Remind users to report any suspicious activity
 
 #### Types of Malicious insider Attacks
 
