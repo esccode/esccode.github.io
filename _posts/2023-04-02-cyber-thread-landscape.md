@@ -102,7 +102,34 @@ Social engineering attacks designes to trick users.
 
 ### Protect against Unmanaged IoT Devices
 
-Network asset inventory(skan like Nmap), NETWORK SEGMENTATION, BLOCK PORTS(e.g. telnet: 23), change default passwords, configure strong security, install software updates and patches,
+1. Network-Level Protections  
+   - Network asset inventory(skan like Nmap)
+   - NETWORK SEGMENTATION
+   - BLOCK PORTS(e.g. telnet: 23)
+
+2. LoT Devices Protections
+   - Change default passwords
+   - Configure strong security
+   - Install software updates and patches
+
+
+#### Drivers of LoT Growth
+
+- Rise of cloud computing
+- Low cost of LoT devices
+- Common use of smartphones and tablets
+
+#### LoT Vulnerabilities
+
+- lack of antimalware or firewall
+- Default passwords
+- Easily exploid with simple scripts
+
+#### Mirai LoT Botnet
+
+- Simple script used default passwords
+- Vulnerable devices infected with malware
+- Used to conduct DDoS attacks
 
 ### Protect against Shadow IT
 
