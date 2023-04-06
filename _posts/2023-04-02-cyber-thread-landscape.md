@@ -64,6 +64,41 @@ Social engineering attacks designes to trick users.
 
 ### Protect against Insider Threats
 
+1. Identify Critical Assets
+   - IT systems essential for business or containing sensitive information, or both
+   - Ensure they are being properly protected and monitored
+   - Review and validate who has access to these assets
+
+2. Write and Enforce Policies and Processes
+   - Acceptable use policy
+   - Policy on the proper use of admin accounts
+   - Employee performance review process
+   - Process for addressing employee grievances
+   - Offboarding process
+
+3. Implement Technical Security Controls
+   - Monitor user activities
+   - Follow the least privilege principles
+   - Use network segmentation
+
+4. User Security Awareness Training
+   - Teach users about acceptable use of organization's assets
+   - Let users know
+
+#### Types of Malicious insider Attacks
+
+- Sabotage  
+- Fraud  
+- Theft  
+- Espionage  
+
+#### Types of Unintentional insider Threats  
+
+- Human error
+- Bad judgment  
+- Falling victim to a phishing attack or malware
+- Unintentionally aiding an attacker
+
 ### Protect against Unmanaged IoT Devices
 
 Network asset inventory(skan like Nmap), NETWORK SEGMENTATION, BLOCK PORTS(e.g. telnet: 23), change default passwords, configure strong security, install software updates and patches,
