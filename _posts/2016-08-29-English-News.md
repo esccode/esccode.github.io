@@ -27,6 +27,7 @@ aside: true
 - [No rain and no food in Madagascar - level 1](#no-rain-and-no-food-in-madagascar---level-1)
 - [Bateries for electric cars](#bateries-for-electric-cars)
 - [Baltic countries are scared of Russia -- level 1](#baltic-countries-are-scared-of-russia----level-1)
+- [Paris e-scooter ban - level 2](#paris-e-scooter-ban---level-2)
 - [Reference](#reference)
 
 ## Jacinda Ardern resigns - level 2
@@ -157,7 +158,17 @@ The Soviet Union **falls apart** in 1991. Later, Russia wants some countries aga
 
 The Baltic countries worry that Russia will attack them, too. It is a diffrent situation. They belong to the EU and NATO. Other NATO member will help them.  
 
-*Difficult words:* **fall apart**(to break into small things), **occupy**(to control something), **member**(a person or thing which is a part of a group of more similar persons or things).
+*Difficult words:* **fall apart**(to break into small things), **occupy**(to control something), **member**(a person or thing which is a part of a group of more similar persons or things).  
+
+## Paris e-scooter ban - level 2
+
+>*07-04-2023*
+In 2018, Paris became one of the first cities to introduce e-scooters. But some people say yhat the scooters do more harm than goods.  
+
+Critics of the battery-powered vehicles say that they get **involved** in many accidents. Riders often go at high speed, they move through traffic and often they don't wear helmets. In Paris, children as young as 12 can legally hire the scooter through a phone app.  
+The rising number of accidents which involved e-scooters led to a referendum on banning e-scooter. The referendum took place last week and 90% of voters voted against the scooter. But only 8% of **eligible** voters voted, which means that the referendum has no legal power. It is up to officials how they will deal with the result.  
+
+*Difficult words:* **involve** (to have something as a part), **referendum** (a vote in which all the people in a country or area give their opinion on something), **eligible** (when someone has the right to do something).
 
 ## Reference
 
