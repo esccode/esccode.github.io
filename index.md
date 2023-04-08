@@ -16,11 +16,11 @@ aside: true
 
 - [Cert Prep CompTIA Security+ SY0-601](#cert-prep-comptia-security-sy0-601)
   - [Test Details](#test-details)
-  - [Exam Objectives (Domains)](#exam-objectives-domains)
+  - [Exam Objectives(Domains)](#exam-objectivesdomains)
 - [Cert Prep CompTIA Data++ DA0-001](#cert-prep-comptia-data-da0-001)
   - [About the Exam](#about-the-exam)
   - [Test Details](#test-details-1)
-- [| Passing score | 775 (on a scale of 100-900) |](#-passing-score--775-on-a-scale-of-100-900-)
+  - [Exam Objectives(Domains)](#exam-objectivesdomains-1)
 - [Cert Prep Cambridge English Qualifications](#cert-prep-cambridge-english-qualifications)
   - [FCE(B2)](#fceb2)
   - [CAE(C1)](#caec1)
@@ -39,7 +39,7 @@ aside: true
 | Recommended experience | - At least 2 years of work experience in IT systems administration with a focus on security - Hands-on technical information security experience - Broad knowledge of security concepts |  
 | Passing score | 750 (on a scale of 100-900) |  
 
-### Exam Objectives (Domains)
+### Exam Objectives(Domains)
 
 The table below lists the domains measures by this examination and the extent to which they are represented:  
 
@@ -51,6 +51,8 @@ The table below lists the domains measures by this examination and the extent to
 | 4.0 Operations and Incident Response | 16%  |  
 | 5.0 Governance, Risk, and Compliance | 14%  |  
 | **Total** | 100% |  
+
+---
 
 ## Cert Prep CompTIA Data++ DA0-001
 
@@ -75,6 +77,20 @@ This is equivalent to 10-24 montjs of hands-on experience working in a business 
 | Length of test | 90 minutes |  
 | Recommended experience | - 18-24 months of experience in a report/business analyst job role - Exposure to databases and analitical tools - Basic understanding of statistics - Data visualization experience |  
 | Passing score | 775 (on a scale of 100-900) |
+
+### Exam Objectives(Domains)
+
+The table below lists the domains measures by this examination and the extent to which they are represented:  
+
+| **Domain**| **Percentage of Examination** |  
+|---|---|  
+| 1.0 Data Concepts and Environments | 15%  |  
+| 2.0 Data Mining | 25%  |  
+| 3.0 Data Analysis | 23%  |  
+| 4.0 Visualization | 23%  |  
+| 5.0 Data Governance, Quality, and Controls | 14%  |  
+| **Total** | 100% |
+
 ---
 
 ## Cert Prep Cambridge English Qualifications
