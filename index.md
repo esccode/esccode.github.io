@@ -23,6 +23,7 @@ aside: true
   - [About the Exam](#about-the-exam-1)
   - [Test Details](#test-details-1)
   - [Exam Objectives(Domains)](#exam-objectivesdomains-1)
+  - [Differentiate Yourself With Data](#differentiate-yourself-with-data)
   - [Jobs You Can Land With CompTIA Data+](#jobs-you-can-land-with-comptia-data)
 - [Cert Prep Cambridge English Qualifications](#cert-prep-cambridge-english-qualifications)
   - [FCE(B2)](#fceb2)
@@ -69,6 +70,7 @@ The table below lists the domains measures by this examination and the extent to
 
 ### Jobs that use CompTIA Security+
 
+| Rols|---|
 |---|---|
 | Security Administrator| Systems Administrator |  
 |---|---|  
@@ -117,9 +119,19 @@ The table below lists the domains measures by this examination and the extent to
 | 5.0 Data Governance, Quality, and Controls | 14%  |  
 | **Total** | 100% |
 
+### Differentiate Yourself With Data
+
+- *Better Analyze and Interpret Data*  
+Mine data more effectively. Analyze with rigor. Avoide confounding result.
+- *Communicate Insight*  
+Highlight what's important in reports that persuade, not confuse. Help drive better data-driven decisions.
+- *Demonstrate Competency*  
+Make yourself a valuable team member. Data leteracy means you're more employable and upwardly mobile.
+
 ### Jobs You Can Land With CompTIA Data+
 
-|---|---|
+| Rols|---|
+|---|---|  
 | Reporting Analyst| Operations Analyst |  
 |---|---|  
 | Marketing Analyst | Business Intelligence Analyst |  
