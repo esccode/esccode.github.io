@@ -1,5 +1,5 @@
 ---
-title: Personal Goals
+title: Personal Education Goals
 categories:
 - interview
 feature_text: |
