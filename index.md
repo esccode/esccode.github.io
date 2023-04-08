@@ -23,6 +23,7 @@ aside: true
   - [About the Exam](#about-the-exam-1)
   - [Test Details](#test-details-1)
   - [Exam Objectives(Domains)](#exam-objectivesdomains-1)
+  - [Jobs You Can Land With CompTIA Data+](#jobs-you-can-land-with-comptia-data)
 - [Cert Prep Cambridge English Qualifications](#cert-prep-cambridge-english-qualifications)
   - [FCE(B2)](#fceb2)
   - [CAE(C1)](#caec1)
@@ -115,6 +116,14 @@ The table below lists the domains measures by this examination and the extent to
 | 5.0 Data Governance, Quality, and Controls | 14%  |  
 | **Total** | 100% |
 
+### Jobs You Can Land With CompTIA Data+
+
+| Reporting Analyst| Operations Analyst |  
+|---|---|  
+| Marketing Analyst | Business Intelligence Analyst |  
+|---|---|  
+| Data Architect | Data Analyst |
+
 ---
 
 ## Cert Prep Cambridge English Qualifications
@@ -151,7 +160,7 @@ The table below lists the domains measures by this examination and the extent to
 
 ## References
 
-[Comptia Web](https://www.comptia.org/certifications/security)
+[Comptia Web](https://www.comptia.org/certifications)
 [Cambrige PL Courses](https://cambridge.pl/cennik/)
 [Cambrige PL Exam](http://egzaminy-cambridge.pl/cennik-egzaminow/)
 [English Language Assessment](https://www.cambridgeenglish.org/)
