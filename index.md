@@ -17,7 +17,7 @@ aside: true
 - [Cert Prep CompTIA Security+ SY0-601](#cert-prep-comptia-security-sy0-601)
   - [Test Details](#test-details)
   - [Exam Objectives(Domains)](#exam-objectivesdomains)
-- [Cert Prep CompTIA Data++ DA0-001](#cert-prep-comptia-data-da0-001)
+- [Cert Prep CompTIA Data+ DA0-001](#cert-prep-comptia-data-da0-001)
   - [About the Exam](#about-the-exam)
   - [Test Details](#test-details-1)
   - [Exam Objectives(Domains)](#exam-objectivesdomains-1)
@@ -54,7 +54,7 @@ The table below lists the domains measures by this examination and the extent to
 
 ---
 
-## Cert Prep CompTIA Data++ DA0-001
+## Cert Prep CompTIA Data+ DA0-001
 
 ### About the Exam
 
