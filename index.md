@@ -4,7 +4,7 @@ categories:
 - interview
 feature_text: |
   ## @esccode
-  CompTIA Security+ / FCE(B2) || CAE(C1)
+  CompTIA Security+ && CompTIA Data+ && / FCE(B2) || CAE(C1)
 excerpt: |
   # 
 
@@ -17,6 +17,10 @@ aside: true
 - [Cert Prep CompTIA Security+ SY0-601](#cert-prep-comptia-security-sy0-601)
   - [Test Details](#test-details)
   - [Exam Objectives (Domains)](#exam-objectives-domains)
+- [Cert Prep CompTIA Data++ DA0-001](#cert-prep-comptia-data-da0-001)
+  - [About the Exam](#about-the-exam)
+  - [Test Details](#test-details-1)
+- [| Passing score | 775 (on a scale of 100-900) |](#-passing-score--775-on-a-scale-of-100-900-)
 - [Cert Prep Cambridge English Qualifications](#cert-prep-cambridge-english-qualifications)
   - [FCE(B2)](#fceb2)
   - [CAE(C1)](#caec1)
@@ -48,6 +52,29 @@ The table below lists the domains measures by this examination and the extent to
 | 5.0 Governance, Risk, and Compliance | 14%  |  
 | **Total** | 100% |  
 
+## Cert Prep CompTIA Data++ DA0-001
+
+### About the Exam
+
+This exam will certify the successful candidate has the knowledge and skills required to transform business requirements in support of data-driven decision by:
+
+- Mining data
+- Manipulating data
+- Applying basic statistical methods
+- Analyzing complex dataset while adhering to governance and quality standars throught the entire data life cycle
+
+This is equivalent to 10-24 montjs of hands-on experience working in a business inteligence report/data analyst job role. These content examples are meant to clerify the test objectives and should not be constructed as a comprehensive listing of all the content of this examination.  
+
+### Test Details
+
+| Test Details | |  
+|---|---|  
+| Required exam | DA0-001 |  
+| Number of questions | Maximum of 90 |  
+| Types of questions | Multiple-choice and performance-based |  
+| Length of test | 90 minutes |  
+| Recommended experience | - 18-24 months of experience in a report/business analyst job role - Exposure to databases and analitical tools - Basic understanding of statistics - Data visualization experience |  
+| Passing score | 775 (on a scale of 100-900) |
 ---
 
 ## Cert Prep Cambridge English Qualifications
