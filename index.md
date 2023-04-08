@@ -4,7 +4,7 @@ categories:
 - interview
 feature_text: |
   ## @esccode
-  CompTIA Security+ && CompTIA Data+ && / FCE(B2) || CAE(C1)
+  CompTIA Security+ && CompTIA Data+ && FCE(B2) || CAE(C1)
 excerpt: |
   # 
 
@@ -18,6 +18,7 @@ aside: true
   - [About the Exam](#about-the-exam)
   - [Test Details](#test-details)
   - [Exam Objectives(Domains)](#exam-objectivesdomains)
+  - [Jobs that use CompTIA Security+](#jobs-that-use-comptia-security)
 - [Cert Prep CompTIA Data+ DA0-001](#cert-prep-comptia-data-da0-001)
   - [About the Exam](#about-the-exam-1)
   - [Test Details](#test-details-1)
@@ -64,6 +65,16 @@ The table below lists the domains measures by this examination and the extent to
 | 4.0 Operations and Incident Response | 16%  |  
 | 5.0 Governance, Risk, and Compliance | 14%  |  
 | **Total** | 100% |  
+
+### Jobs that use CompTIA Security+
+
+| Security Administrator| Systems Administrator |  
+|---|---|  
+| Helpdesk Manager/Analyst | Network / Cloud Engineer |  
+|---|---|  
+| Security Engineer/Analyst | DevOps / Software Developer |  
+|---|---|  
+| IT Auditors | IT Project Manager |  
 
 ---
 
