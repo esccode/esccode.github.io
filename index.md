@@ -126,7 +126,7 @@ Mine data more effectively. Analyze with rigor. Avoide confounding result.
 - *Communicate Insight*  
 Highlight what's important in reports that persuade, not confuse. Help drive better data-driven decisions.
 - *Demonstrate Competency*  
-Make yourself a valuable team member. Data leteracy means you're more employable and upwardly mobile.
+Make yourself a valuable team member. Data literacy means you're more employable and upwardly mobile.
 
 ### Jobs You Can Land With CompTIA Data+
 
