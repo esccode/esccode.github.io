@@ -64,9 +64,72 @@ Social engineering attacks designes to trick users.
 
 ### Protect against Insider Threats
 
+1. Identify Critical Assets
+   - IT systems essential for business or containing sensitive information, or both
+   - Ensure they are being properly protected and monitored
+   - Review and validate who has access to these assets
+
+2. Write and Enforce Policies and Processes
+   - Acceptable use policy
+   - Policy on the proper use of admin accounts
+   - Employee performance review process
+   - Process for addressing employee grievances
+   - Offboarding process
+
+3. Implement Technical Security Controls
+   - Monitor user activities
+   - Follow the least privilege principles
+   - Use network segmentation
+
+4. User Security Awareness Training
+   - Teach users about acceptable use of organization's assets
+   - Let users know that their activity is being monitored
+   - Remind users to report any suspicious activity
+
+#### Types of Malicious insider Attacks
+
+- Sabotage  
+- Fraud  
+- Theft  
+- Espionage  
+
+#### Types of Unintentional insider Threats  
+
+- Human error
+- Bad judgment  
+- Falling victim to a phishing attack or malware
+- Unintentionally aiding an attacker
+
 ### Protect against Unmanaged IoT Devices
 
-Network asset inventory(skan like Nmap), NETWORK SEGMENTATION, BLOCK PORTS(e.g. telnet: 23), change default passwords, configure strong security, install software updates and patches,
+1. Network-Level Protections  
+   - Network asset inventory(skan like Nmap)
+   - NETWORK SEGMENTATION
+   - BLOCK PORTS(e.g. telnet: 23)
+
+2. LoT Devices Protections
+   - Change default passwords
+   - Configure strong security
+   - Install software updates and patches
+
+
+#### Drivers of LoT Growth
+
+- Rise of cloud computing
+- Low cost of LoT devices
+- Common use of smartphones and tablets
+
+#### LoT Vulnerabilities
+
+- lack of antimalware or firewall
+- Default passwords
+- Easily exploid with simple scripts
+
+#### Mirai LoT Botnet
+
+- Simple script used default passwords
+- Vulnerable devices infected with malware
+- Used to conduct DDoS attacks
 
 ### Protect against Shadow IT
 
