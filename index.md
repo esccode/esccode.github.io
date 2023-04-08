@@ -15,10 +15,11 @@ aside: true
 ---
 
 - [Cert Prep CompTIA Security+ SY0-601](#cert-prep-comptia-security-sy0-601)
+  - [About the Exam](#about-the-exam)
   - [Test Details](#test-details)
   - [Exam Objectives(Domains)](#exam-objectivesdomains)
 - [Cert Prep CompTIA Data+ DA0-001](#cert-prep-comptia-data-da0-001)
-  - [About the Exam](#about-the-exam)
+  - [About the Exam](#about-the-exam-1)
   - [Test Details](#test-details-1)
   - [Exam Objectives(Domains)](#exam-objectivesdomains-1)
 - [Cert Prep Cambridge English Qualifications](#cert-prep-cambridge-english-qualifications)
@@ -26,7 +27,19 @@ aside: true
   - [CAE(C1)](#caec1)
 - [References](#references)
 
-## Cert Prep CompTIA Security+ SY0-601  
+## Cert Prep CompTIA Security+ SY0-601
+
+### About the Exam
+
+The CompTIA Security+ certification exam will verify the successful candidate has the knowledge and skills required to:
+
+- Assess the security posture of an enterprise environment and recommend and implement appropriate security solutions
+- Monitor and secure hybrid environments, including cloud, mobile, and LoT
+- Operate with an awareness of applicable laws and policies, including principles of governance, risk, and compliance
+- Identify, analyze, and respond to security events and incidents
+
+This is equivalent to two years of hands-on experience working in a security/systems administrator job role.  
+These content examples are meant to clerify the test objectives and should not be constructed as a comprehensive listing of all the content of this examination.
 
 ### Test Details
 
