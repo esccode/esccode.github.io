@@ -69,6 +69,7 @@ The table below lists the domains measures by this examination and the extent to
 
 ### Jobs that use CompTIA Security+
 
+|---|---| 
 | Security Administrator| Systems Administrator |  
 |---|---|  
 | Helpdesk Manager/Analyst | Network / Cloud Engineer |  
