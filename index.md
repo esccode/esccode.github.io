@@ -69,7 +69,7 @@ The table below lists the domains measures by this examination and the extent to
 
 ### Jobs that use CompTIA Security+
 
-|---|---| 
+|---|---|
 | Security Administrator| Systems Administrator |  
 |---|---|  
 | Helpdesk Manager/Analyst | Network / Cloud Engineer |  
@@ -119,6 +119,7 @@ The table below lists the domains measures by this examination and the extent to
 
 ### Jobs You Can Land With CompTIA Data+
 
+|---|---|
 | Reporting Analyst| Operations Analyst |  
 |---|---|  
 | Marketing Analyst | Business Intelligence Analyst |  
