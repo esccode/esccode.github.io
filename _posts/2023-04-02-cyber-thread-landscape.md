@@ -133,32 +133,59 @@ Social engineering attacks designes to trick users.
 
 ### Protect against Shadow IT
 
-IT asset inventory(run nmap scan), make sure users known correct IT processes, implement and enforce strong security policies, security monitoring(SIEM), network access control(NAC), cloud access security broker(CASB)
+#### Drivers of Shadow IT
+
+- Understaffed IT departments
+- Perception that IT is too slow or restrictive
+- Easy SaaS solutions  
+
+#### Shadow IT Risks
+
+- Data loss
+- Unpatched vulnerabilities
+- Lack of security compliance
+
+#### Fundamental Control
+
+- IT asset inventory(run nmap scan),
+- Make sure users known correct IT processes,
+- Implement and enforce strong security policies
+
+#### Technology Controls
+
+- Security monitoring(SIEM)
+- Network access control(NAC)
+- Cloud access security broker(CASB)
 
 ### Protect against Supply Chain Attacks and Third-Party Risks
 
-- Build TPRM(Third-party suppliers and vendors):  
-  - inventory third-party suppliers and vendors,  
-  - Determine which suppliers and vendors are business a.itical,  
-  - Identify all third parties who have access to your data systems,  
-  - Assign risk ratings to each of these third parties,  
-  - Identify alternatives to critical suppliers and implements security controls.
+#### Build TPRM(Third-party suppliers and vendors)
 
-- Security Controls for Third-Party Access:  
-  - Follow the least privilege principle,
-  - Require third parties to use MFA,
-  - Monitor third parties' activities when they access your systems,
-  - Revoke third-party access immediately when no longer needed,
-  - Verify that third parties have strong security controls in place
+- Inventory third-party suppliers and vendors,  
+- Determine which suppliers and vendors are business critical,  
+- Identify all third parties who have access to your data systems,  
+- Assign risk ratings to each of these third parties,  
+- Identify alternatives to critical suppliers and implements security controls.
 
-- Steps to Reduce Software Supply Chain Risks
-  - Conduct Software Code Inventories or Audits:  
-    - Work with developers to create a software bill of materials (SBOM),
-    - More information about SBOMs: [SBOM link](https://ntia.gov/sbom),
-    - Some companies can analyze developers' code to generate SBOMs,
-    - Review the results of the SBOMs with your developers,
-    - Confirm open-source software is still needed and updated,
-    - Consider implementing a secure development standard
+#### Security Controls for Third-Party Access
+
+- Follow the least privilege principle
+- Require third parties to use MFA
+- Monitor third parties' activities when they access your systems
+- Revoke third-party access immediately when no longer needed
+- Verify that third parties have strong security controls in place
+
+#### Steps to Reduce Software Supply Chain Risks
+
+1. Conduct Software Code Inventories or Audits
+   - Work with developers to create a software bill of materials (SBOM)
+   - More information about SBOMs: [SBOM link](https://ntia.gov/sbom)
+   - Some companies can analyze developers' code to generate SBOMs
+2. SBOMs and Secure Development Standard
+
+   - Review the results of the SBOMs with your developers
+   - Confirm open-source software is still needed and updated,
+   - Consider implementing a secure development standard
 
 ## Reference
 
