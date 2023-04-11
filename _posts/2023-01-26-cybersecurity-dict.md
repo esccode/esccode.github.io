@@ -18,6 +18,8 @@ WIDESPREAD-rozpowszechnione, PREDICTIVE-prorocze, INDICATOR-wskaznik, PARTAKING 
 
 ## CYBERSECURITY PHRASES
 
->- *Zero-Day Vulnerability*: a vulnerability in a product that has been discovered by at least one researcher but has not yet been patched by the vendor
+>- *Zero-Day Vulnerability*: a vulnerability in a product that has been discovered by at least one researcher but has not yet been patched by the vendor.  
+>- *Brutal- force attack:* In cryptography consists of an attacker submitting many passwords or passphrases with the hope of eventually guessing correctly. The attacker systematically checks all possible passwords and passphrases until the correct one is found.  
+>- *SQL injection(SQLi)* is a cyberattack that injects malicious SQL code into an application, allowing the attacker to view or modify a database. According to the Open Web Application Security Project(OWASP), injection attacks, which include SQL injections, were third most serious web application security risk in 2021.
 
 ---
