@@ -20,6 +20,7 @@ WIDESPREAD-rozpowszechnione, PREDICTIVE-prorocze, INDICATOR-wskaznik, PARTAKING 
 
 >- *Zero-Day Vulnerability*: a vulnerability in a product that has been discovered by at least one researcher but has not yet been patched by the vendor.  
 >- *Brutal- force attack:* In cryptography consists of an attacker submitting many passwords or passphrases with the hope of eventually guessing correctly. The attacker systematically checks all possible passwords and passphrases until the correct one is found.  
->- *SQL injection(SQLi)* is a cyberattack that injects malicious SQL code into an application, allowing the attacker to view or modify a database. According to the Open Web Application Security Project(OWASP), injection attacks, which include SQL injections, were third most serious web application security risk in 2021.
+>- *SQL injection(SQLi)* is a cyberattack that injects malicious SQL code into an application, allowing the attacker to view or modify a database. According to the Open Web Application Security Project(OWASP), injection attacks, which include SQL injections, were third most serious web application security risk in 2021.  
+>- *Vishing* is short for "voice phishing", which involves defrauding people over the phone, enticing them to divulge sensitive information. In this definition of vishing, the attacker attempts to grab the victim's data and use it for their own benefits - typicaly, to gain a financial advantage.
 
 ---
