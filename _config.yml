@@ -135,6 +135,8 @@ navigation_footer:
   url: /privacy-policy/
 - title: Dict
   url: /english/cyber/2023/03/04/eng-dict/
+- title: Cybersecurity Dict
+  url: /cyber/2023/01/26/cybersecurity-dict/
 - title: Created by @daviddarnes
   url: https://github.com/daviddarnes/alembic
 
