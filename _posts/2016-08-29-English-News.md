@@ -28,6 +28,7 @@ aside: true
 - [Bateries for electric cars](#bateries-for-electric-cars)
 - [Baltic countries are scared of Russia -- level 1](#baltic-countries-are-scared-of-russia----level-1)
 - [Paris e-scooter ban - level 2](#paris-e-scooter-ban---level-2)
+- [Ukrainian children come home -- level 2](#ukrainian-children-come-home----level-2)
 - [Reference](#reference)
 
 ## Jacinda Ardern resigns - level 2
@@ -168,7 +169,18 @@ In 2018, Paris became one of the first cities to introduce e-scooters. But some 
 Critics of the battery-powered vehicles say that they get **involved** in many accidents. Riders often go at high speed, they move through traffic and often they don't wear helmets. In Paris, children as young as 12 can legally hire the scooter through a phone app.  
 The rising number of accidents which involved e-scooters led to a referendum on banning e-scooter. The referendum took place last week and 90% of voters voted against the scooter. But only 8% of **eligible** voters voted, which means that the referendum has no legal power. It is up to officials how they will deal with the result.  
 
-*Difficult words:* **involve** (to have something as a part), **referendum** (a vote in which all the people in a country or area give their opinion on something), **eligible** (when someone has the right to do something).
+*Difficult words:* **involve** (to have something as a part), **referendum** (a vote in which all the people in a country or area give their opinion on something), **eligible** (when someone has the right to do something).  
+
+## Ukrainian children come home -- level 2  
+
+>*11-04-2023*  
+A **rescue mission** successfully **reunited** more than 30 children with their families in Ukraine.  
+
+These children stayed in areas which Russia occupied during the war. Russian authorities sent these children to summer camps which should last two weeks. But the children had to stay there for four to six months and they often moved from place to place. They stayed in separate buildings and they got information that their families didn't want them anymore.  
+
+The children traveled across four countries before they could meet with their families again. According to Ukrainian officials, Russia illegally **deported** nearly 19,500 children since February last year.
+
+*Difficult words*: **rescue mission** (an operation to find and bring to safety people in a difficult situation), **reunite** (to come together again), **deport** (to make someone leave a country).
 
 ## Reference
 
