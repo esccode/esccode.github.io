@@ -29,6 +29,7 @@ aside: true
 - [Baltic countries are scared of Russia -- level 1](#baltic-countries-are-scared-of-russia----level-1)
 - [Paris e-scooter ban - level 2](#paris-e-scooter-ban---level-2)
 - [Ukrainian children come home -- level 2](#ukrainian-children-come-home----level-2)
+- [UK public alert system -- level 2](#uk-public-alert-system----level-2)
 - [Reference](#reference)
 
 ## Jacinda Ardern resigns - level 2
@@ -181,6 +182,15 @@ These children stayed in areas which Russia occupied during the war. Russian aut
 The children traveled across four countries before they could meet with their families again. According to Ukrainian officials, Russia illegally **deported** nearly 19,500 children since February last year.
 
 *Difficult words*: **rescue mission** (an operation to find and bring to safety people in a difficult situation), **reunite** (to come together again), **deport** (to make someone leave a country).
+
+## UK public alert system -- level 2
+
+>*14-04-2023*
+On Sunday 23dr April at 3pm, milions of mobile phones in the UK will make a loud sound and vibrate as part of a test for a new public alert system which the government created.  
+
+The purpose of this system is to be used in **emergencies** like floods and wildfires. The sound will be similar to a normal incoming call, but it will last for 10 seconds and will sound like a **siren**. Only people with 4G and 5G mobile phones will receive the message, sound, and vibration. The timing of this test happens during important events like the London marathon and two Premier League footbol matches. Some people worry that the alert could distract drivers and also reveal the location of secret phones which some people at risk use to protect themselves.  
+
+*Difficult words:* **emergency** (a dangerous situation), **siren** (a device which makes a loud noise in case of danger), **alert** (quick warning of danger or problem).
 
 ## Reference
 
