@@ -129,15 +129,15 @@ navigation_header:
   url: https://github.com/esccode
 
 navigation_footer:
-- title: Home
+- title: home
   url: "#top"
-- title: Policy
+- title: policy
   url: /privacy-policy/
-- title: Dict
+- title: eng dict
   url: /english/cyber/2023/03/04/eng-dict/
-- title: Cybersecurity Dict
+- title: cyber dict
   url: /cyber/2023/01/26/cybersecurity-dict/
-- title: Created by @daviddarnes
+- title: daviddarnes
   url: https://github.com/daviddarnes/alembic
 
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
