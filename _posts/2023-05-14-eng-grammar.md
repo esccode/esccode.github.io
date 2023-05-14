@@ -15,7 +15,7 @@ aside: true
 5. **Pronouns**: These are are words that take the place of nouns in a sentence. Examples include *HE, SHE and IT.*
 6. **Prepositions**: These are words that show the relationship between a noun or pronoun and other words in a sentence. Example include *IN, ON and UNDER.*
 7. **Conjunctions**: These are words that connect words, phrases, or clauses in a sentence. Examples include *AND, BUT and OR.*
-8. Interjections: These are words that express strong emotions or feelings. Examples include *WOW, OH and OUCH.*
+8. **Interjections**: These are words that express strong emotions or feelings. Examples include *WOW, OH and OUCH.*
 
 ## Reference
 
