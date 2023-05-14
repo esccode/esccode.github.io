@@ -123,6 +123,8 @@ General ongoing, regural, habits, general truths, scheduled activity.
 ### Present Perfect
 An action started in the past that still true/relevant in the present.
 - I have been to school.
+- I've lost my keys.
+- Have you ever been to the United States.
 ### Present Continuous
 An action occuring now.
 - I am going to school
