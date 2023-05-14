@@ -26,7 +26,11 @@ aside: true
     - [AGREE WITH v AGREE TO](#agree-with-v-agree-to)
   - [Conjunctions](#conjunctions)
   - [Interjections](#interjections)
-  - [ARTICLES](#articles)
+  - [Articles](#articles)
+  - [Present Simple](#present-simple)
+  - [Present Perfect](#present-perfect)
+  - [Present Continuous](#present-continuous)
+  - [Present Perfect Continuous](#present-perfect-continuous)
 - [Reference](#reference)
 
 
@@ -96,8 +100,16 @@ These are words that connect words, phrases, or clauses in a sentence. Examples 
 ### Interjections  
 These are words that express strong emotions or feelings. Examples include *WOW, OH and OUCH.*
 
-### ARTICLES
+### Articles
 A, AN, THE
+
+### Present Simple
+
+### Present Perfect
+
+### Present Continuous
+
+### Present Perfect Continuous
 
 ## Reference
 
