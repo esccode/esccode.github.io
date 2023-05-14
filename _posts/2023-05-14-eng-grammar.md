@@ -82,6 +82,7 @@ These are words that show the relationship between a noun or pronoun and other w
 - I bought a gift **for** my friend.
 - I've been living in the US **for** 4 years.
 - Your flight is scheduled **for** May 31.
+- He was fired from job **for** being constantly late.
 
 #### AGREE WITH v AGREE TO
 - I agree with you.
