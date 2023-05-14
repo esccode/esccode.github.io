@@ -39,9 +39,9 @@ aside: true
   - [Future Perfect](#future-perfect)
   - [Future Continuous](#future-continuous)
   - [Future Perfect Continuous](#future-perfect-continuous)
-  - [Verbs Followed by the Gerund or the infinitives](#verbs-followed-by-the-gerund-or-the-infinitives)
-    - [Common Verbs + Gerund e.g verb + verb + ing](#common-verbs--gerund-eg-verb--verb--ing)
-    - [Common Verbs + infinitive e.g. verb + to + verb](#common-verbs--infinitive-eg-verb--to--verb)
+  - [Verbs followed by the gerund or the infinitives](#verbs-followed-by-the-gerund-or-the-infinitives)
+    - [Common verbs + gerund e.g verb + verb + ing](#common-verbs--gerund-eg-verb--verb--ing)
+    - [Common verbs + infinitive e.g. verb + to + verb](#common-verbs--infinitive-eg-verb--to--verb)
 - [Reference](#reference)
 
 
@@ -163,12 +163,13 @@ An activity occuring at a specific point in the future.
 An action at a certain point in the future, expressing duration.
 - I will have been going to school.
 
-### Verbs Followed by the Gerund or the infinitives
+### Verbs followed by the gerund or the infinitives
 
-#### Common Verbs + Gerund e.g verb + verb + ing  
+#### Common verbs + gerund e.g verb + verb + ing  
 go, enjoy, quit, discuss, mind, can't stand, suggest
-#### Common Verbs + infinitive e.g. verb + to + verb  
+#### Common verbs + infinitive e.g. verb + to + verb  
 promise, plan, refuse, want, need, decide, hope
+
 ## Reference
 
 [English in News](https://www.youtube.com/watch?v=QXVzmzhxWWc)
