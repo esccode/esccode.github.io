@@ -166,6 +166,7 @@ An action at a certain point in the future, expressing duration.
 ### Verbs followed by the gerund or the infinitives
 
 #### Common verbs + gerund e.g verb + verb + ing  
+
 | verb | verb | verb |  
 |---|---|---|  
 | go | enjoy | suggest |  
