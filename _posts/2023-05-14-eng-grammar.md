@@ -31,6 +31,14 @@ aside: true
   - [Present Perfect](#present-perfect)
   - [Present Continuous](#present-continuous)
   - [Present Perfect Continuous](#present-perfect-continuous)
+  - [Past Simple](#past-simple)
+  - [Past Perfect](#past-perfect)
+  - [Past Continuous](#past-continuous)
+  - [Past Perfect Continous](#past-perfect-continous)
+  - [Future Simple](#future-simple)
+  - [Future Perfect](#future-perfect)
+  - [Future Continous](#future-continous)
+  - [Future Perfect Continous](#future-perfect-continous)
 - [Reference](#reference)
 
 
@@ -103,13 +111,29 @@ These are words that express strong emotions or feelings. Examples include *WOW,
 ### Articles
 A, AN, THE
 
-### Present Simple
-
+### Present Simple  
+General ongoing, regural, scheduled activity.
+- I go to school.
 ### Present Perfect
 
 ### Present Continuous
 
 ### Present Perfect Continuous
+
+### Past Simple  
+Something that happend in the past.
+- I went to school.
+
+### Past Perfect
+### Past Continuous
+### Past Perfect Continous
+
+### Future Simple  
+An action to be completed at some point in the future.
+- I will go to school.
+### Future Perfect
+### Future Continous
+### Future Perfect Continous
 
 ## Reference
 
