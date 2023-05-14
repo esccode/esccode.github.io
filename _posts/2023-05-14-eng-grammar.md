@@ -44,6 +44,8 @@ aside: true
     - [Common verbs + gerund e.g verb + verb + ing](#common-verbs--gerund-eg-verb--verb--ing)
     - [Common verbs + infinitive e.g. verb + to + verb](#common-verbs--infinitive-eg-verb--to--verb)
   - [Countable and Uncountable](#countable-and-uncountable)
+  - [Comperative Forms](#comperative-forms)
+  - [Superlative Forms](#superlative-forms)
 - [Reference](#reference)
 
 
@@ -196,6 +198,23 @@ e.g. I promise to go.
 - uncountable name like water and countable name like minute.
 - use *most, much, lots of, some, a little* and *little* with uncountable nouns.
 - use *many, lots of, a lot of, several, some, not many, only a few* and *few* with countable nouns.
+
+### Comperative Forms
+than, -er, more
+
+Exceptions:
+| Adjective | Comparative | Adjective | Comparative |  
+| --- | --- | --- | --- |
+| Good | Better | Bad | Worse |
+### Superlative Forms
+-est, the most, 
+
+Exceptions:
+| Adjective | Superlative | Adjective | Superlative |
+| --- | --- | --- | --- |  
+| Good | The best | Bad | The worst |  
+
+
 
 ## Reference
 
