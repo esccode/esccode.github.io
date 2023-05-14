@@ -22,6 +22,8 @@ aside: true
     - [TO v THAN](#to-v-than)
     - [IN v INTO](#in-v-into)
     - [FOR v SIENCE](#for-v-sience)
+    - [TO v FOR](#to-v-for)
+    - [AGREE WITH v AGREE TO](#agree-with-v-agree-to)
   - [Conjunctions](#conjunctions)
   - [Interjections](#interjections)
 - [Reference](#reference)
@@ -74,7 +76,11 @@ These are words that show the relationship between a noun or pronoun and other w
 #### FOR v SIENCE
 - I've been vloging for 5 years already.
 - I've been vloging since 2012.
-- 
+#### TO v FOR
+
+#### AGREE WITH v AGREE TO
+- I agree with you.
+- I agree to your proposal, let's start a company together.
 
 ### Conjunctions
 These are words that connect words, phrases, or clauses in a sentence. Examples include *AND, BUT and OR.*
