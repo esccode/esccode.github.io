@@ -121,9 +121,11 @@ These are words that express strong emotions or feelings. Examples include *WOW,
 General ongoing, regural, habits, general truths, scheduled activity.
 - I go to school.
 ### Present Perfect
-
+An action started in the past that still true/relevant in the present.
+- I have been to school.
 ### Present Continuous
-
+An action occuring now.
+- I am going to school
 ### Present Perfect Continuous
 
 ### Past Simple  
