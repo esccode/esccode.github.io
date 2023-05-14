@@ -177,7 +177,7 @@ e.g. I go watching.
 #### Common verbs + infinitive e.g. verb + to + verb  
 
 | verb | verb | verb |  
-|--|--|--|  
+|---|---|---|  
 | promise | plan | refuse |  
 | want | need | decide |
 | hope | --- | --- |  
