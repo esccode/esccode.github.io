@@ -7,7 +7,7 @@ feature_text: |
 aside: true
 ---
 
-- [English grammar has several important parts of speach, including:](#english-grammar-has-several-important-parts-of-speach-including)
+- [English grammar](#english-grammar)
   - [Noun](#noun)
   - [Verb](#verb)
   - [Adjective](#adjective)
@@ -19,7 +19,7 @@ aside: true
 - [Reference](#reference)
 
 
-## English grammar has several important parts of speach, including:
+## English grammar
 
 ### Noun
 These are words that name people, places, thing, or ideas. Examples include *DOG, CAR, and LOVE*.  
