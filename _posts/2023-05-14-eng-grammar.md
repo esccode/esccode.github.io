@@ -14,6 +14,8 @@ aside: true
   - [Adverb](#adverb)
   - [Pronouns](#pronouns)
   - [Preposition](#preposition)
+    - [Preposition of time](#preposition-of-time)
+    - [Preposition of place](#preposition-of-place)
   - [Conjunctions](#conjunctions)
   - [Interjections](#interjections)
 - [Reference](#reference)
@@ -33,15 +35,20 @@ These are words that describe or modify verbs, adjectives, or other adverbs. Exa
 These are are words that take the place of nouns in a sentence. Examples include *HE, SHE and IT.*
 ### Preposition 
 These are words that show the relationship between a noun or pronoun and other words in a sentence. Example include *IN, ON and UNDER, AT, BESIDE, NEXT TO, BETWEEN, BELOW, ABOVE, OVER, BEHIND, UNDER, THROUGH, IN FRONT OF, IN THE MIDDLE, DURING, FOR, UNTIL/TILL, SINCE, FROM..TO, AGO, BEFORE, BY, AFTER, TO, BETWEEN..., WITHIN, PAST*
-- I stayed **in** the hotel during the eartgquake.
+
+#### Preposition of time
 - I'm going to study **for** two hours.
 - I'm **on** a diet till Christmas.
-- I'm **at** school.
-- The ball is **in** the box.
 - It's five **past** nine.
 - I have much to do **between now and** tomorrow.
 - Three days **to** Easter.
 - It's five **to** nine.
+- I stayed in the hotel **during** the eartgquake.
+- 
+#### Preposition of place
+- I'm **at** school.
+- The ball is **in** the box.
+- The ball is **on ** the box.
 
 ### Conjunctions
 These are words that connect words, phrases, or clauses in a sentence. Examples include *AND, BUT and OR.*
