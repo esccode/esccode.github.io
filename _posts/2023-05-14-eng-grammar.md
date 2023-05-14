@@ -42,7 +42,6 @@ These are words that show the relationship between a noun or pronoun and other w
 - I'm going to study **for** two hours.
 - I'm **on** a diet till Christmas.
 - It's five **past** nine.
-- I have much to do **between now and** tomorrow.
 - Three days **to** Easter.
 - It's five **to** nine.
 - I stayed in the hotel **during** the eartgquake.
@@ -53,10 +52,11 @@ These are words that show the relationship between a noun or pronoun and other w
 - The ball is **on ** the box.
 
 #### Beside v Besides
-- We were camping beside the river.
-- Besides, we need your support in this venture.
+- We were camping **beside** the river.
+- **Besides**, we need your support in this venture.
 #### Among v Between
-- She is very popular among her classmates.
+- She is very popular **among** her classmates.
+- I have much to do **between now and** tomorrow.
 
 ### Conjunctions
 These are words that connect words, phrases, or clauses in a sentence. Examples include *AND, BUT and OR.*
