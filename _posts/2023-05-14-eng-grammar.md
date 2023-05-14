@@ -78,7 +78,10 @@ These are words that show the relationship between a noun or pronoun and other w
 - I've been vloging since 2012.
 #### TO v FOR
 - I am going **to** Germany at the end of April.
-- IT's quarter **to** 2.
+- It's quarter **to** 2.
+- I bought a gift **for** my friend.
+- I've been living in the US **for** 4 years.
+
 #### AGREE WITH v AGREE TO
 - I agree with you.
 - I agree to your proposal, let's start a company together.
