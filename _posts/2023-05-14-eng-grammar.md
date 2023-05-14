@@ -77,7 +77,8 @@ These are words that show the relationship between a noun or pronoun and other w
 - I've been vloging for 5 years already.
 - I've been vloging since 2012.
 #### TO v FOR
-
+- I am going **to** Germany at the end of April.
+- IT's quarter **to** 2.
 #### AGREE WITH v AGREE TO
 - I agree with you.
 - I agree to your proposal, let's start a company together.
