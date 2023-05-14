@@ -34,11 +34,11 @@ aside: true
   - [Past Simple](#past-simple)
   - [Past Perfect](#past-perfect)
   - [Past Continuous](#past-continuous)
-  - [Past Perfect Continous](#past-perfect-continous)
+  - [Past Perfect Continuous](#past-perfect-continuous)
   - [Future Simple](#future-simple)
   - [Future Perfect](#future-perfect)
-  - [Future Continous](#future-continous)
-  - [Future Perfect Continous](#future-perfect-continous)
+  - [Future Continuous](#future-continuous)
+  - [Future Perfect Continuous](#future-perfect-continuous)
 - [Reference](#reference)
 
 
@@ -125,25 +125,40 @@ An action started in the past that still true/relevant in the present.
 - I have been to school.
 - I've lost my keys.
 - Have you ever been to the United States.
+- I've been to the UK.
 ### Present Continuous
 An action occuring now.
 - I am going to school
 ### Present Perfect Continuous
+An action from the past continuing in the presents.
+- I have been going to school.
 
 ### Past Simple  
 Something that happend in the past.
 - I went to school.
-
 ### Past Perfect
+An action that happened before another event in the past.
+- I had gome to school.
 ### Past Continuous
-### Past Perfect Continous
+An action that happened at a specific moment in the past.
+- I was going to school.
+### Past Perfect Continuous
+An action that happened before a certain time in the past.
+- I had been going to school.
+
 
 ### Future Simple  
 An action to be completed at some point in the future.
 - I will go to school.
 ### Future Perfect
-### Future Continous
-### Future Perfect Continous
+An action finishing in the future, before or at the time of another action.
+- I will have gone to school.
+### Future Continuous
+An activity occuring at a specific point in the future.
+- I will be going to school.
+### Future Perfect Continuous
+An action at a certain point in the future, expressing duration.
+- I will have been going to school.
 
 ## Reference
 
