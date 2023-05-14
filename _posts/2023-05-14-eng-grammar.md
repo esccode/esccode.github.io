@@ -113,6 +113,9 @@ These are words that express strong emotions or feelings. Examples include *WOW,
 - Use *THE* with a specific object.
 - The first time you speak of something use *A* or *AN*, the next time you repeat that object use THE.
 - DO NOT use *AN* article with countries, states, countries or provinces, lakes and mountaints excerpt when the country is a collection of states such as 'The United States.'
+- Use AN article with bodies of water, oceans, and seas.
+- DO NOT use AN article when you are speaking about things in general.
+- DO NOT use AN article when you are speaking about meals, places, and transport.
 
 ### Present Simple  
 General ongoing, regural, habits, general truths, scheduled activity.
