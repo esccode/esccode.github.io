@@ -83,10 +83,12 @@ These are words that show the relationship between a noun or pronoun and other w
 - I've been living in the US **for** 4 years.
 - Your flight is scheduled **for** May 31.
 - He was fired from job **for** being constantly late.
+- I travel **to** Russia.
+- I travel **for** work.
 
 #### AGREE WITH v AGREE TO
-- I agree with you.
-- I agree to your proposal, let's start a company together.
+- I **agree with** you.
+- I **agree to** your proposal, let's start a company together.
 
 ### Conjunctions
 These are words that connect words, phrases, or clauses in a sentence. Examples include *AND, BUT and OR.*
