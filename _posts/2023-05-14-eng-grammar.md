@@ -109,10 +109,13 @@ These are words that connect words, phrases, or clauses in a sentence. Examples 
 These are words that express strong emotions or feelings. Examples include *WOW, OH and OUCH.*
 
 ### Articles
-A, AN, THE
+- Use *A* and *AN* with not a specific object.
+- Use *THE* with a specific object.
+- The first time you speak of something use *A* or *AN*, the next time you repeat that object use THE.
+- DO NOT use *AN* article with countries, states, countries or provinces, lakes and mountaints excerpt when the country is a collection of states such as 'The United States.'
 
 ### Present Simple  
-General ongoing, regural, scheduled activity.
+General ongoing, regural, habits, general truths, scheduled activity.
 - I go to school.
 ### Present Perfect
 
