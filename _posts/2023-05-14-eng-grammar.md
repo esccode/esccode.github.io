@@ -39,6 +39,8 @@ aside: true
   - [Future Perfect](#future-perfect)
   - [Future Continuous](#future-continuous)
   - [Future Perfect Continuous](#future-perfect-continuous)
+  - [Verbs Followed by the Gerund or the infinitives](#verbs-followed-by-the-gerund-or-the-infinitives)
+    - [Common Verbs + Gerund e.g verb + verb + ing](#common-verbs--gerund-eg-verb--verb--ing)
 - [Reference](#reference)
 
 
@@ -159,7 +161,11 @@ An activity occuring at a specific point in the future.
 ### Future Perfect Continuous
 An action at a certain point in the future, expressing duration.
 - I will have been going to school.
-s
+
+### Verbs Followed by the Gerund or the infinitives
+
+#### Common Verbs + Gerund e.g verb + verb + ing
+
 ## Reference
 
 [English in News](https://www.youtube.com/watch?v=QXVzmzhxWWc)
