@@ -7,7 +7,7 @@ feature_text: |
 aside: true
 ---
 
-- [English grammar](#english-grammar)
+- [English grammar, parts of speech](#english-grammar-parts-of-speech)
   - [Noun](#noun)
   - [Verb](#verb)
   - [Adjective](#adjective)
@@ -29,7 +29,7 @@ aside: true
 - [Reference](#reference)
 
 
-## English grammar
+## English grammar, parts of speech
 
 ### Noun
 These are words that name people, places, thing, or ideas. Examples include *DOG, CAR, and LOVE*.  
