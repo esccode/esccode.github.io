@@ -12,6 +12,7 @@ aside: true
   - [Verb](#verb)
   - [Adjective](#adjective)
   - [Adverb](#adverb)
+    - [Adverbs of Frequency](#adverbs-of-frequency)
   - [Pronouns](#pronouns)
   - [Preposition](#preposition)
     - [Preposition of time](#preposition-of-time)
@@ -42,6 +43,7 @@ aside: true
   - [Verbs followed by the gerund or the infinitives](#verbs-followed-by-the-gerund-or-the-infinitives)
     - [Common verbs + gerund e.g verb + verb + ing](#common-verbs--gerund-eg-verb--verb--ing)
     - [Common verbs + infinitive e.g. verb + to + verb](#common-verbs--infinitive-eg-verb--to--verb)
+  - [Countable and Uncountable](#countable-and-uncountable)
 - [Reference](#reference)
 
 
@@ -54,7 +56,11 @@ These are words that describe or modify nouns or pronouns. Examples include *RUN
 ### Adjective  
 These are words that describe or modify nouns or pronouns. Examples include *HAPPY, RED, and TALL.*
 ### Adverb  
-These are words that describe or modify verbs, adjectives, or other adverbs. Examples include *QUICKLY, VERY, and QUITE.*
+These are words that describe or modify verbs, adjectives, or other adverbs. Examples include *QUICKLY, VERY, and QUITE.* 
+
+#### Adverbs of Frequency
+always, usually, aften, sometimes, occasionally, seldom, rarely, never
+
 ### Pronouns  
 These are are words that take the place of nouns in a sentence. Examples include *HE, SHE and IT.*
 ### Preposition 
@@ -184,6 +190,12 @@ e.g. I go watching.
 | hope | --- | --- |  
 
 e.g. I promise to go.
+
+### Countable and Uncountable
+- use *a/an* only with countable nouns preceded by am adjectives.
+- uncountable name like water and countable name like minute.
+- use *most, much, lots of, some, a little* and *little* with uncountable nouns.
+- use *many, lots of, a lot of, several, some, not many, only a few* and *few* with countable nouns.
 
 ## Reference
 
