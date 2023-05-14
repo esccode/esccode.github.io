@@ -16,14 +16,14 @@ aside: true
   - [Preposition](#preposition)
     - [Preposition of time](#preposition-of-time)
     - [Preposition of place](#preposition-of-place)
-    - [Beside v Besides](#beside-v-besides)
-    - [Among v Between](#among-v-between)
-    - [ON v UPON](#on-v-upon)
-    - [TO v THAN](#to-v-than)
-    - [IN v INTO](#in-v-into)
-    - [FOR v SIENCE](#for-v-sience)
-    - [TO v FOR](#to-v-for)
-    - [AGREE WITH v AGREE TO](#agree-with-v-agree-to)
+    - [*beside* v *besides*](#beside-v-besides)
+    - [*among* v *between*](#among-v-between)
+    - [*on* v *upon*](#on-v-upon)
+    - [*to* v *than*](#to-v-than)
+    - [*in* v *into*](#in-v-into)
+    - [*for* v *sience*](#for-v-sience)
+    - [*to* v *for*](#to-v-for)
+    - [*agree with* v *agree to*](#agree-with-v-agree-to)
   - [Conjunctions](#conjunctions)
   - [Interjections](#interjections)
   - [Articles](#articles)
@@ -66,42 +66,42 @@ These are words that show the relationship between a noun or pronoun and other w
 - I stayed in the hotel **during** the eartgquake.
 - 
 #### Preposition of place
-- I'm **at** school.
-- The ball is **in** the box.
-- The ball is **on** the box.
+- I'm *at* school.
+- The ball is *in* the box.
+- The ball is *on* the box.
 
-#### Beside v Besides
-- We were camping **beside** the river.
-- **Besides**, we need your support in this venture.
-#### Among v Between
-- She is very popular **among** her classmates.
-- I have much to do **between now and** tomorrow.
-#### ON v UPON
-- Once **upon** a time there was a girl...
-- Put your book **on** a table.
+#### *beside* v *besides*
+- We were camping *beside* the river.
+- *Besides*, we need your support in this venture.
+#### *among* v *between*
+- She is very popular *among* her classmates.
+- I have much to do *between now and* tomorrow.
+#### *on* v *upon*
+- Once *upon* a time there was a girl...
+- Put your book *on* a table.
 
-#### TO v THAN
+#### *to* v *than*
 
-#### IN v INTO
+#### *in* v *into*
 - I was sitting in the classroom.
 - He came in to me office.
 
-#### FOR v SIENCE
+#### *for* v *sience*
 - I've been vloging for 5 years already.
 - I've been vloging since 2012.
-#### TO v FOR
-- I am going **to** Germany at the end of April.
-- It's quarter **to** 2.
-- I bought a gift **for** my friend.
-- I've been living in the US **for** 4 years.
-- Your flight is scheduled **for** May 31.
-- He was fired from job **for** being constantly late.
-- I travel **to** Russia.
-- I travel **for** work.
+#### *to* v *for*
+- I am going *to* Germany at the end of April.
+- It's quarter *to* 2.
+- I bought a gift *for* my friend.
+- I've been living in the US *for* 4 years.
+- Your flight is scheduled *for* May 31.
+- He was fired from job *for* being constantly late.
+- I travel *to* Russia.
+- I travel *for* work.
 
-#### AGREE WITH v AGREE TO
-- I **agree with** you.
-- I **agree to** your proposal, let's start a company together.
+#### *agree with* v *agree to*
+- I *agree with* you.
+- I *agree to* your proposal, let's start a company together.
 
 ### Conjunctions
 These are words that connect words, phrases, or clauses in a sentence. Examples include *AND, BUT and OR, HOWEVER, ALTHOUGH, AFTER.*
@@ -159,7 +159,7 @@ An activity occuring at a specific point in the future.
 ### Future Perfect Continuous
 An action at a certain point in the future, expressing duration.
 - I will have been going to school.
-
+s
 ## Reference
 
 [English in News](https://www.youtube.com/watch?v=QXVzmzhxWWc)
