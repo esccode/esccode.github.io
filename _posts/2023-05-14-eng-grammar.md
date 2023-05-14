@@ -165,9 +165,9 @@ An action at a certain point in the future, expressing duration.
 
 ### Verbs Followed by the Gerund or the infinitives
 
-#### Common Verbs + Gerund e.g verb + verb + ing
+#### Common Verbs + Gerund e.g verb + verb + ing  
 go, enjoy, quit, discuss, mind, can't stand, suggest
-#### Common Verbs + infinitive e.g. verb + to + verb
+#### Common Verbs + infinitive e.g. verb + to + verb  
 promise, plan, refuse, want, need, decide, hope
 ## Reference
 
