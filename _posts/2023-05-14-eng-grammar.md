@@ -19,6 +19,9 @@ aside: true
     - [Beside v Besides](#beside-v-besides)
     - [Among v Between](#among-v-between)
     - [ON v UPON](#on-v-upon)
+    - [TO v THAN](#to-v-than)
+    - [IN v INTO](#in-v-into)
+    - [FOR v SIENCE](#for-v-sience)
   - [Conjunctions](#conjunctions)
   - [Interjections](#interjections)
 - [Reference](#reference)
@@ -61,6 +64,17 @@ These are words that show the relationship between a noun or pronoun and other w
 #### ON v UPON
 - Once **upon** a time there was a girl...
 - Put your book **on** a table.
+
+#### TO v THAN
+
+#### IN v INTO
+- I was sitting in the classroom.
+- He came in to me office.
+
+#### FOR v SIENCE
+- I've been vloging for 5 years already.
+- I've been vloging since 2012.
+- 
 
 ### Conjunctions
 These are words that connect words, phrases, or clauses in a sentence. Examples include *AND, BUT and OR.*
