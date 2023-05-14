@@ -91,7 +91,7 @@ These are words that show the relationship between a noun or pronoun and other w
 - I **agree to** your proposal, let's start a company together.
 
 ### Conjunctions
-These are words that connect words, phrases, or clauses in a sentence. Examples include *AND, BUT and OR.*
+These are words that connect words, phrases, or clauses in a sentence. Examples include *AND, BUT and OR, HOWEVER, ALTHOUGH.*
 ### Interjections  
 These are words that express strong emotions or feelings. Examples include *WOW, OH and OUCH.*
 
