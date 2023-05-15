@@ -75,7 +75,7 @@ These are words that show the relationship between a noun or pronoun and other w
 - Three days **to** Easter.
 - It's five **to** nine.
 - I stayed in the hotel **during** the eartgquake.
-- 
+
 #### Preposition of place
 - I'm *at* school.
 - The ball is *in* the box.
