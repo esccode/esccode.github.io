@@ -9,7 +9,6 @@ Feature text CompTIA Security+ Last Minute Review Guide (SY0-601)
 - [Domain 1: Threats, Attacks, and Vulnerabilities](#domain-1-threats-attacks-and-vulnerabilities)
 - [Reference](#reference)
 
-
 ## Domain 1: Threats, Attacks, and Vulnerabilities
 
 1. Compare and contrast different types of social engineering techniques.
@@ -37,8 +36,56 @@ Feature text CompTIA Security+ Last Minute Review Guide (SY0-601)
    - Pretexting
    - Influence campaigns
      - Hybrid warfare
+     - Social media
+   - Principles(reasons for effectiveness)
+     - Authority
+     - Intimidation
+     - Consensus
+     - Scarsity
+     - Familiarity
+     - Trust
+     - Urgency
 
 2. Given a scenario, analyze potential indicators to determine the type of attack.
+   - Malware
+     - Ransomware
+     - Trojans
+     - Worms
+     - Potentially unwanted programs(PUPs)
+     - Fileless viruses
+     - Command and control
+     - Bots
+     - Cryptomalware
+     - Logic bombs
+     - Spyware
+     - Keyloggers
+     - Remote access Trojan(RAT)
+     - Rookit
+     - Backdoor
+   - Password attack
+     - Spraying
+     - Dictionary
+     - Brute force
+       - Offline
+       - Online
+     - Rainbow table
+     - Plaintext/unencrypted
+   - Physical attacks
+     - Malicious Universal
+     - Serial Bus(USB) cable
+     - Malicious flash drive
+     - Card cloning
+     - Skimming
+   - Adversarial artificial intelligence(AI)
+     - Tained training data for machine learning(ML)
+     - Security of machine learning algorithms
+   - Supply-chain attacks
+   - Cloud-based vs. on-promises attacks
+   - Cryptographic attacks
+     - Birthday
+     - Collision
+     - Downgrade
+
 3. Given a scenario, analyze potential indicators associated with application attacks.
 4. Given a scenario, analyze potential indicators associated with network attacks.
 5. Explain different threat actors, vectors, and intelligence sources.
