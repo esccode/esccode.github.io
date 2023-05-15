@@ -88,6 +88,36 @@ Feature text CompTIA Security+ Last Minute Review Guide (SY0-601)
      - Downgrade
 
 3. Given a scenario, analyze potential indicators associated with application attacks.
+   - Privilege escalation
+   - Cross-site scripting
+   - Injections
+     - Structured query language(SQL)
+     - Dynamic-link linrary(DLL)
+     - Lightweight Directory
+     - Access Protocol(LDAP)
+     - Extensible Markup Language(XML)
+   - Pointer/object dereference
+   - Directory Traversal
+   - Buffer overflows
+   - Race conditions
+     - Time of check/time of use
+     - Error handling
+     - Improper input handling
+     - Reply attack
+       - Session replays
+     - Integer overflow
+     - Request forgeries
+       - Server-side
+       - Cross-site
+     - Application programming interface(API) attacks
+     - Resource exhaustion
+     - Memory leak
+     - Secure Socket Layer(SSL) stripping
+     - Driver manipulation
+       - Shimming
+       - Refactoring
+     - Pass the hash
+
 4. Given a scenario, analyze potential indicators associated with network attacks.
 5. Explain different threat actors, vectors, and intelligence sources.
 6. Explain the security concerns associated with various types of vulnerabilities.
