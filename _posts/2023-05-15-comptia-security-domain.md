@@ -153,9 +153,25 @@ feature_text: |
      - Bash
      - Macros
      - Visual Basic for Applications(VBA)
+
 5. Explain different threat actors, vectors, and intelligence sources.
 6. Explain the security concerns associated with various types of vulnerabilities.
+
+   - Cloud-based vs. on-promises vulnerabilities
+   - Zero-day
+   - Weak configuration
+   - Third-party risks
+   - Improper or weak patch management
+   - Legacy platforms
+   - Impacts
+
 7. Summarize the techniques used in security assessments.
+
+   - Threat hunting
+   - Vulnerability scans
+   - Syslog/Security information and event management(SIEM)
+   - Security orchestration, automation, and response(SOAR)
+
 8. Explain the techniques used in penetration testing.
    - Penetration testing
      - Known environment
