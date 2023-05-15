@@ -14,7 +14,7 @@ feature_text: |
 
 ## Domain 1: Threats, Attacks, and Vulnerabilities
 
-1. Compare and contrast different types of social engineering techniques.
+- 1.1 Compare and contrast different types of social engineering techniques.
    - Phishing
    - Smishing
    - Vishing
@@ -49,7 +49,7 @@ feature_text: |
      - Trust
      - Urgency
 
-2. Given a scenario, analyze potential indicators to determine the type of attack.
+- 1.2 Given a scenario, analyze potential indicators to determine the type of attack.
    - Malware
      - Ransomware
      - Trojans
@@ -89,7 +89,7 @@ feature_text: |
      - Collision
      - Downgrade
 
-3. Given a scenario, analyze potential indicators associated with application attacks.
+- 1.3 Given a scenario, analyze potential indicators associated with application attacks.
    - Privilege escalation
    - Cross-site scripting
    - Injections
@@ -120,8 +120,7 @@ feature_text: |
        - Refactoring
      - Pass the hash
 
-4. Given a scenario, analyze potential indicators associated with network attacks.
-
+- 1.4 Given a scenario, analyze potential indicators associated with network attacks.
    - Wireless
      - Evil twin
      - Rogue access point
@@ -154,16 +153,14 @@ feature_text: |
      - Macros
      - Visual Basic for Applications(VBA)
 
-5. Explain different threat actors, vectors, and intelligence sources.
-
+- 1.5 Explain different threat actors, vectors, and intelligence sources.
    - Actors and threats
    - Atributes or actors
    - Vectors
    - Threat intelligence sources
    - Research sources
 
-6. Explain the security concerns associated with various types of vulnerabilities.
-
+- 1.6 Explain the security concerns associated with various types of vulnerabilities.
    - Cloud-based vs. on-promises vulnerabilities
    - Zero-day
    - Weak configuration
@@ -172,14 +169,13 @@ feature_text: |
    - Legacy platforms
    - Impacts
 
-7. Summarize the techniques used in security assessments.
-
+- 1.7 Summarize the techniques used in security assessments.
    - Threat hunting
    - Vulnerability scans
    - Syslog/Security information and event management(SIEM)
    - Security orchestration, automation, and response(SOAR)
 
-8. Explain the techniques used in penetration testing.
+- 1.8 Explain the techniques used in penetration testing.
    - Penetration testing
      - Known environment
      - Unknown environment
