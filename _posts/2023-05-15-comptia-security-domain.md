@@ -168,10 +168,55 @@ feature_text: |
 ### 1.5 Explain different threat actors, vectors, and intelligence sources
 
 - Actors and threats
+  - Advanced persistent(APT)
+  - Insider threats
+  - State actors
+  - Hacktivists
+  - Script kiddies
+  - Criminal syndicates
+  - Hackers
+    - Authorized
+    - Unauthorized
+    - Semi-authorized
+  - Shadow IT
+  - Competitors
 - Atributes or actors
+  - Internal/external
+  - Level of sophistication/capability
+  - Resources/funding
+  - Intent/motivation
 - Vectors
+  - Direct access
+  - Wireless
+  - Email
+  - Supply chain
+  - Social media
+  - Removable media
+  - Cloud
 - Threat intelligence sources
+  - Open-source inteligence(OSINT)
+  - Closed/prioprietary
+  - Vulnerability databases
+  - Public/private information-sharing center
+  - Dark web
+  - Indicators of compromise
+  - Automated indicator Sharing (AIS)
+    - Structured Threat Information
+    - eXpression(STIX)/Trusted
+    - Automated eXchange of Inteligence Information(TAXII)
+    - Predictive analysis
+    - Threat maps
+    - File/code repositories
 - Research sources
+  - Vendor websites
+  - Vulnerability feeds
+  - Conferences
+  - Academic journals
+  - Request for comments(RFC)
+  - Local Industry groups
+  - Social media
+  - Threat feeds
+  - Adversary tactics, techniques, and procedures(TTP)
 
 ### 1.6 Explain the security concerns associated with various types of vulnerabilities
 
