@@ -114,8 +114,6 @@ Feature text CompTIA Security+ Last Minute Review Guide (SY0-601)
      - Blue team
      - White team
      - Purple team
-
-
 ## Reference
 
-[text](https://comptia.com)
+[CompTIA](https://comptia.org)
