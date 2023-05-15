@@ -3,9 +3,10 @@ title: CompTIA Security Domain
 categories:
 - cyber
 excerpt: |
-  ## CompTIA Security Domain excerpt
+## CompTIA Security Domain excerpt
 feature_text: |  
   ## CompTIA Security Domain feature text
+aside: true
 ---
 
 - [Domain 1: Threats, Attacks, and Vulnerabilities](#domain-1-threats-attacks-and-vulnerabilities)
