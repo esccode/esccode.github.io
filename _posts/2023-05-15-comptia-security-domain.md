@@ -7,6 +7,7 @@ Feature text CompTIA Security+ Last Minute Review Guide (SY0-601)
 ---
 
 - [Domain 1: Threats, Attacks, and Vulnerabilities](#domain-1-threats-attacks-and-vulnerabilities)
+- [Security+ (SY0-601) Acronym List](#security-sy0-601-acronym-list)
 - [Reference](#reference)
 
 ## Domain 1: Threats, Attacks, and Vulnerabilities
@@ -114,6 +115,16 @@ Feature text CompTIA Security+ Last Minute Review Guide (SY0-601)
      - Blue team
      - White team
      - Purple team
+
+## Security+ (SY0-601) Acronym List
+
+The following is a list of acronyms that appear on the Comptia Security+ exam Candidates are encouraged to review the complate list and attain a working knowledge of all listed acronyms as part of a comprehensive exam preparation program.
+
+|ACRONYM|DEFINITION|
+|---|---|
+|3DES|Triple Data Encryption|
+|AAA|Authentication, Authorization, and Accounting|
+
 ## Reference
 
 [CompTIA](https://comptia.org)
