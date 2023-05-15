@@ -223,10 +223,33 @@ feature_text: |
 - Cloud-based vs. on-promises vulnerabilities
 - Zero-day
 - Weak configuration
+  - Open permissions
+  - Unsecure root accounts
+  - Errors
+  - Weak encryptions
+  - Unsecure protocols
+  - Default settings
+  - Open ports and services
 - Third-party risks
+  - Vendor management
+    - System integration
+    - Lack of vendor support
+  - Supply chain
+  - Outsourced code development
+  - Data storage
 - Improper or weak patch management
+  - Firmware
+  - Operating system(OS)
+  - Applications
 - Legacy platforms
 - Impacts
+  - Data loss
+  - Data breaches
+  - Data exfiltration
+  - Identity theft
+  - Financial
+  - Reputation
+  - Availability loss
 
 ### 1.7 Summarize the techniques used in security assessments
 
