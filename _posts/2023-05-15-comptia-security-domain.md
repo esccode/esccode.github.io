@@ -6,6 +6,8 @@ excerpt: |
 ## CompTIA Security Domain excerpt
 feature_text: |  
   ## CompTIA Security Domain feature text
+feature_image: "https://picsum.photos/2560/600?image=733"
+image: "https://picsum.photos/2560/600?image=733"
 aside: true
 ---
 
