@@ -1,11 +1,11 @@
 ---
-title: Data Dict
+title: CompTIA Network Domain
 categories:
-- data
+- network
 excerpt: |
-  ## CompTIA Data+ Dict
+  ## CompTIA Network Domain excerpt
 feature_text: |  
-  ## data dict feature text
+  ## CompTIA Network Domain feature text
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 aside: true

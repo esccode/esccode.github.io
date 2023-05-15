@@ -1,9 +1,11 @@
 ---
-title: CompTIA Security+ Last Minute Review Guide (SY0-601)
+title: CompTIA Security Domain
 categories:
 - cyber
-feature_text: |
-Feature text CompTIA Security+ Last Minute Review Guide (SY0-601)
+excerpt: |
+  ## CompTIA Security Domain excerpt
+feature_text: |  
+  ## CompTIA Security Domain feature text
 ---
 
 - [Domain 1: Threats, Attacks, and Vulnerabilities](#domain-1-threats-attacks-and-vulnerabilities)

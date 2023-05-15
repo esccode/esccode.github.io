@@ -1,11 +1,11 @@
 ---
-title: Data Dict
+title: CompTIA Linux Domain
 categories:
-- data
+- linux
 excerpt: |
-  ## CompTIA Data+ Dict
+  ## CompTIA Linux Domain excerpt
 feature_text: |  
-  ## data dict feature text
+  ## CompTIA Linux Domain feature text
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 aside: true
