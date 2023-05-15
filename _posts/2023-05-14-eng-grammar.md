@@ -46,6 +46,8 @@ aside: true
   - [Countable and Uncountable](#countable-and-uncountable)
   - [Comperative Forms](#comperative-forms)
   - [Superlative Forms](#superlative-forms)
+  - [Strong words - So, Such, How, What](#strong-words---so-such-how-what)
+  - [Reported speech](#reported-speech)
 - [Reference](#reference)
 
 ## English grammar, parts of speech
@@ -273,6 +275,10 @@ Exceptions:
 | Adjective | Superlative | Adjective | Superlative |
 | --- | --- | --- | --- |  
 | Good | The best | Bad | The worst |  
+
+### Strong words - So, Such, How, What
+
+### Reported speech
 
 ## Reference
 
