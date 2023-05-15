@@ -124,6 +124,8 @@ The following is a list of acronyms that appear on the Comptia Security+ exam Ca
 |---|---|
 |3DES|Triple Data Encryption|
 |AAA|Authentication, Authorization, and Accounting|
+|ABAC|Attribute-based Access Control|
+|ACL|Access Control List|
 
 ## Reference
 
