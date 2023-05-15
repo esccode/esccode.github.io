@@ -155,6 +155,13 @@ feature_text: |
      - Visual Basic for Applications(VBA)
 
 5. Explain different threat actors, vectors, and intelligence sources.
+
+   - Actors and threats
+   - Atributes or actors
+   - Vectors
+   - Threat intelligence sources
+   - Research sources
+
 6. Explain the security concerns associated with various types of vulnerabilities.
 
    - Cloud-based vs. on-promises vulnerabilities
