@@ -121,6 +121,38 @@ feature_text: |
      - Pass the hash
 
 4. Given a scenario, analyze potential indicators associated with network attacks.
+
+   - Wireless
+     - Evil twin
+     - Rogue access point
+     - Bluesnarfing
+     - Bluejacking
+     - Disassociation
+     - Jamming
+     - Radio frequency identification(RFID)
+     - Near-field communication(NFC)
+     - Initialization vector(IV)
+   - On-path attack(previously known as man-in-the-middle attack/man-in-the-browser attack)
+   - Layer 2 attacks
+     - Address Resolution Protocol(ARP)poisoning
+     - Media access control(MAC) flooding
+     - MAC cloning
+   - Domain name system(DNS)
+     - Domain hijacking
+     - DNS poisoning
+     - Uniform Resource
+     - Loctor(URL) redirection
+     - Domain reputation
+   - Distributed denial-of-service(DDoS)
+     - Network
+     - Application
+     - Operational technology(OT)
+   - Malicious code or script execution
+     - PowerShell
+     - Python
+     - Bash
+     - Macros
+     - Visual Basic for Applications(VBA)
 5. Explain different threat actors, vectors, and intelligence sources.
 6. Explain the security concerns associated with various types of vulnerabilities.
 7. Summarize the techniques used in security assessments.
