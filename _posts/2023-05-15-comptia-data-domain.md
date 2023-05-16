@@ -23,9 +23,17 @@ aside: true
 ### 1.1 Identitfy basic concepts of data schemas and dimensions
 
 - Databases
+  - Relational
+  - Non-relational
 - Data mart/data warehousing/data lake
+  - Online transactional processing(OLTP)
+  - Online analytical processing(OLAP)
 - Schema concepts
+  - Snowflake
+  - Star
 - Slowly changing dimensions
+  - Keep current information
+  - Keep historical and current information
 
 ### 1.2 Compare and contrast different data types
 
