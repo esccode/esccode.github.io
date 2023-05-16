@@ -30,6 +30,7 @@ aside: true
   - [4.2 Given a scenario, use appropriate design components for reports and dashboards](#42-given-a-scenario-use-appropriate-design-components-for-reports-and-dashboards)
   - [4.3 Given a scenario, use appropriate methods for dashboards development](#43-given-a-scenario-use-appropriate-methods-for-dashboards-development)
   - [4.4 Given a scenario, apply the appropriate type of visualization](#44-given-a-scenario-apply-the-appropriate-type-of-visualization)
+  - [4.5 Compare and contrast types of reports](#45-compare-and-contrast-types-of-reports)
 - [Domain 5.0 Data Governance, Quality, and Controls](#domain-50-data-governance-quality-and-controls)
 - [CompTIA Data+ (DA0-001) Acronym List](#comptia-data-da0-001-acronym-list)
 - [Reference](#reference)
@@ -164,6 +165,8 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 ### 4.3 Given a scenario, use appropriate methods for dashboards development
 
 ### 4.4 Given a scenario, apply the appropriate type of visualization
+
+### 4.5 Compare and contrast types of reports
 
 ## Domain 5.0 Data Governance, Quality, and Controls
 
