@@ -21,6 +21,10 @@ aside: true
   - [2.3 Given a scenario, execute data manipulation techniques](#23-given-a-scenario-execute-data-manipulation-techniques)
   - [2.4 Explain common techniques for data manipulation and query optimization](#24-explain-common-techniques-for-data-manipulation-and-query-optimization)
 - [Domain 3.0 Data Analysis](#domain-30-data-analysis)
+  - [3.1 Given a scenario, apply the appropriate descriptive statistical methods](#31-given-a-scenario-apply-the-appropriate-descriptive-statistical-methods)
+  - [3.2 Explain the purpose of inferential statistical methods](#32-explain-the-purpose-of-inferential-statistical-methods)
+  - [3.3 Summarize types of analysis and key analysis techniques](#33-summarize-types-of-analysis-and-key-analysis-techniques)
+  - [3.4 Identify common data analytics tools](#34-identify-common-data-analytics-tools)
 - [Domain 4.0 Visualization](#domain-40-visualization)
 - [Domain 5.0 Data Governance, Quality, and Controls](#domain-50-data-governance-quality-and-controls)
 - [CompTIA Data+ (DA0-001) Acronym List](#comptia-data-da0-001-acronym-list)
@@ -136,6 +140,16 @@ aside: true
   - Execution plan
 
 ## Domain 3.0 Data Analysis
+
+### 3.1 Given a scenario, apply the appropriate descriptive statistical methods
+
+### 3.2 Explain the purpose of inferential statistical methods
+
+### 3.3 Summarize types of analysis and key analysis techniques
+
+### 3.4 Identify common data analytics tools
+
+The intent of this objectives is NOT to test specific vendor feature sets nor the purposes of the tools.
 
 ## Domain 4.0 Visualization
 
