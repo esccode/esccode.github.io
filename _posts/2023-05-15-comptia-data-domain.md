@@ -90,7 +90,22 @@ aside: true
 
 ### 2.3 Given a scenario, execute data manipulation techniques
 
+- Recoding data
+- Derived variables
+- Data merge
+- Data blending
+- Concatenation
+- Data append
+- Imputation
+- Reduction/aggregation
+- Transpose
+- Normalize data
+- Parsing/string manipulation
+
 ### 2.4 Explain common techniques for data manipulation and query optimization
+
+- Data manipulation
+- Query optimization
 
 ## CompTIA Data+ (DA0-001) Acronym List
 
