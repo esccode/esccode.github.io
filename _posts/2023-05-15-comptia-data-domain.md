@@ -75,7 +75,19 @@ aside: true
 ### 2.1 Explain data acquisition concepts
 
 - Integration
+  - Extract, transform, load(ETL)
+  - Extract, load, transform(ELT)
+  - Delta load
+  - Application programming
+  - Interfaces(APIs)
 - Data collection methods
+  - Web scraping
+  - Public databases
+  - Application programming
+  - Interface(API)/web services
+  - Survey
+  - Sampling
+  - Observation
 
 ### 2.2 Identify common reason for cleansing and profiling datasets
 
@@ -91,6 +103,8 @@ aside: true
 ### 2.3 Given a scenario, execute data manipulation techniques
 
 - Recoding data
+  - Numeric
+  - Categorical
 - Derived variables
 - Data merge
 - Data blending
@@ -105,7 +119,18 @@ aside: true
 ### 2.4 Explain common techniques for data manipulation and query optimization
 
 - Data manipulation
+  - Filtering
+  - Sorting
+  - Date functions
+  - Logical functions
+  - Aggregate functions
+  - System functions
 - Query optimization
+  - Parametrization
+  - Indexing
+  - Temporary table in the query set
+  - Subset of records
+  - Execution plan
 
 ## CompTIA Data+ (DA0-001) Acronym List
 
