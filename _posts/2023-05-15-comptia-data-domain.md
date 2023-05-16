@@ -32,6 +32,9 @@ aside: true
   - [4.4 Given a scenario, apply the appropriate type of visualization](#44-given-a-scenario-apply-the-appropriate-type-of-visualization)
   - [4.5 Compare and contrast types of reports](#45-compare-and-contrast-types-of-reports)
 - [Domain 5.0 Data Governance, Quality, and Controls](#domain-50-data-governance-quality-and-controls)
+  - [5.1 Summarize important data governance concepts](#51-summarize-important-data-governance-concepts)
+  - [5.2 Given a scenario, apply data quality control concepts](#52-given-a-scenario-apply-data-quality-control-concepts)
+  - [5.3 Explain master data management (MDM) concepts](#53-explain-master-data-management-mdm-concepts)
 - [CompTIA Data+ (DA0-001) Acronym List](#comptia-data-da0-001-acronym-list)
 - [Reference](#reference)
 
@@ -169,6 +172,12 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 ### 4.5 Compare and contrast types of reports
 
 ## Domain 5.0 Data Governance, Quality, and Controls
+
+### 5.1 Summarize important data governance concepts
+
+### 5.2 Given a scenario, apply data quality control concepts
+
+### 5.3 Explain master data management (MDM) concepts
 
 ## CompTIA Data+ (DA0-001) Acronym List
 
