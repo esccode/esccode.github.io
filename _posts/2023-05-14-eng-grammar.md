@@ -97,6 +97,7 @@ These are words that show the relationship between a noun or pronoun and other w
 - The shelf is *above* the TV.
 - They put the mat *over* the table.
 - He is *in front of* the store.
+- I am parked beside the red car.
 
 #### *beside* v *besides*
 
