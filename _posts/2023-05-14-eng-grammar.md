@@ -46,7 +46,6 @@ aside: true
   - [Countable and Uncountable](#countable-and-uncountable)
   - [Comperative Forms](#comperative-forms)
   - [Superlative Forms](#superlative-forms)
-  - [Reported speech](#reported-speech)
 - [Reference](#reference)
 
 ## English grammar, parts of speech
@@ -276,10 +275,6 @@ Exceptions:
 | Adjective | Superlative | Adjective | Superlative |
 | --- | --- | --- | --- |  
 | Good | The best | Bad | The worst |  
-
-### Reported speech
-
-will->would, can->could, may->might, may->could, must-> had to, shall->should
 
 ## Reference
 
