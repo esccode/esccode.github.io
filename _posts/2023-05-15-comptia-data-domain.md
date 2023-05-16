@@ -26,6 +26,10 @@ aside: true
   - [3.3 Summarize types of analysis and key analysis techniques](#33-summarize-types-of-analysis-and-key-analysis-techniques)
   - [3.4 Identify common data analytics tools](#34-identify-common-data-analytics-tools)
 - [Domain 4.0 Visualization](#domain-40-visualization)
+  - [4.1 Given a scenario, translate business requirements to form a report](#41-given-a-scenario-translate-business-requirements-to-form-a-report)
+  - [4.2 Given a scenario, use appropriate design components for reports and dashboards](#42-given-a-scenario-use-appropriate-design-components-for-reports-and-dashboards)
+  - [4.3 Given a scenario, use appropriate methods for dashboards development](#43-given-a-scenario-use-appropriate-methods-for-dashboards-development)
+  - [4.4 Given a scenario, apply the appropriate type of visualization](#44-given-a-scenario-apply-the-appropriate-type-of-visualization)
 - [Domain 5.0 Data Governance, Quality, and Controls](#domain-50-data-governance-quality-and-controls)
 - [CompTIA Data+ (DA0-001) Acronym List](#comptia-data-da0-001-acronym-list)
 - [Reference](#reference)
@@ -152,6 +156,14 @@ aside: true
 The intent of this objectives is NOT to test specific vendor feature sets nor the purposes of the tools.
 
 ## Domain 4.0 Visualization
+
+### 4.1 Given a scenario, translate business requirements to form a report
+
+### 4.2 Given a scenario, use appropriate design components for reports and dashboards
+
+### 4.3 Given a scenario, use appropriate methods for dashboards development
+
+### 4.4 Given a scenario, apply the appropriate type of visualization
 
 ## Domain 5.0 Data Governance, Quality, and Controls
 
