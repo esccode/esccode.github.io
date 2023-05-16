@@ -175,6 +175,15 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 
 ### 5.1 Summarize important data governance concepts
 
+- Access requirements
+- Security requirements
+- Storage environment requirements
+- Use requirements
+- Entity relationship requirements
+- Data classification
+- Jurisdiction requirements
+- Data breach reporting
+
 ### 5.2 Given a scenario, apply data quality control concepts
 
 ### 5.3 Explain master data management (MDM) concepts
