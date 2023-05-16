@@ -74,7 +74,19 @@ aside: true
 
 ### 2.1 Explain data acquisition concepts
 
+- Integration
+- Data collection methods
+
 ### 2.2 Identify common reason for cleansing and profiling datasets
+
+- Duplicate data
+- Redundant data
+- Missing values
+- Invalid data
+- Non-parametric data
+- Data outliers
+- Specification mismatch
+- Data type validation
 
 ### 2.3 Given a scenario, execute data manipulation techniques
 
