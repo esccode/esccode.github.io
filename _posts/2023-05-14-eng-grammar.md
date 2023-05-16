@@ -94,6 +94,8 @@ These are words that show the relationship between a noun or pronoun and other w
 - I'm *at* school.
 - The ball is *in* the box.
 - The ball is *on* the box.
+- The shelf is *above* the TV.
+- They put the mat *over* the table.
 
 #### *beside* v *besides*
 
