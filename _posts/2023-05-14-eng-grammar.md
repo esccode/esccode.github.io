@@ -46,6 +46,7 @@ aside: true
   - [Countable and Uncountable](#countable-and-uncountable)
   - [Comperative Forms](#comperative-forms)
   - [Superlative Forms](#superlative-forms)
+  - [Reported speech](#reported-speech)
 - [Reference](#reference)
 
 ## English grammar, parts of speech
@@ -194,9 +195,11 @@ An action that happened before another event in the past.
 - I had gome to school.
 
 ### Past Continuous
+
 An action that happened at a specific moment in the past.
-- I was going to school.
-- 
+
+- I was going to school
+
 ### Past Perfect Continuous
 
 An action that happened before a certain time in the past.
@@ -273,6 +276,10 @@ Exceptions:
 | Adjective | Superlative | Adjective | Superlative |
 | --- | --- | --- | --- |  
 | Good | The best | Bad | The worst |  
+
+### Reported speech
+
+will->would, can->could, may->might, may->could, must-> had to, shall->should
 
 ## Reference
 
