@@ -163,6 +163,14 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 
 ### 4.1 Given a scenario, translate business requirements to form a report
 
+- Data content
+- Filtering
+- Views
+- Date range
+- Frequency
+- Audience for report
+  - Distribution list
+
 ### 4.2 Given a scenario, use appropriate design components for reports and dashboards
 
 ### 4.3 Given a scenario, use appropriate methods for dashboards development
