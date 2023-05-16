@@ -11,18 +11,87 @@ image: "https://picsum.photos/2560/600?image=733"
 aside: true
 ---
 
-- [DATA DICT](#data-dict)
-- [waiting room](#waiting-room)
-- [DATA PHRASES](#data-phrases)
+- [Domain 1.0 Data Concepts and Environments](#domain-10-data-concepts-and-environments)
+  - [1.1 Identitfy basic concepts of data schemas and dimensions](#11-identitfy-basic-concepts-of-data-schemas-and-dimensions)
+  - [1.2 Compare and contrast different data types](#12-compare-and-contrast-different-data-types)
+  - [1.3 Compare and contrast common data structures and file formats](#13-compare-and-contrast-common-data-structures-and-file-formats)
+- [CompTIA Data+ (DA0-001) Acronym List](#comptia-data-da0-001-acronym-list)
+- [Reference](#reference)
 
-## DATA DICT
+## Domain 1.0 Data Concepts and Environments
 
-> filtering, swap-zamienic,
+### 1.1 Identitfy basic concepts of data schemas and dimensions
 
-## waiting room  
+- Databases
+- Data mart/data warehousing/data lake
+- Schema concepts
+- Slowly changing dimensions
 
-> transpositing, aggregation, normalization, parsing, concatenation, trimming, case conversion
+### 1.2 Compare and contrast different data types
 
-## DATA PHRASES
+- Data
+- Numeric
+- Alphanumeric
+- Currency
+- Text
+- Discrete vs. continuous
+- Categorical/dimension
+- Images
+- Audio
+- Video
+
+### 1.3 Compare and contrast common data structures and file formats
+
+- Structures
+  - Structured
+    - Defined rows/columns
+    - Key value pairs
+  - Unstructured
+    - Undefined fields
+    - Machine data
+- Data file formats
+  - Text/Flat file
+    - Tab delimited
+    - Comma delimited
+  - JavaScript Object Notation(JSON)
+  - Extensible Markup Language(XML)
+  - Hypertext Markup Language(HTML)
+
+## CompTIA Data+ (DA0-001) Acronym List
+
+The following is a list of acronyms that appear on the CompTIA Data+ exam. Candidates are encourage to review the complate list and attain a working knowledge of all listed acronyms as a part of a comprehensive exam preparation program.
+
+|ACRONYM|DEFINITION|
+|---|---|
+|ANOVA|Analysis of Variance|
+|API|Application Programming Interface|
+|AWS|Amazon Web Services|
+|BI|Business Intelligence|
+|CRM|Customer Relationship Management|
+|CSV|Comma-separated Values|
+|ELT|Extract, Load, Transform|
+|ETL|Extract, Transform, Load|
+|FAQs|Frequently Asked Question|
+|GDPR|General Data Protection Regulation|
+|HTML|Hypertext Markup Language|
+|JSON|JavaScript Object Notation|
+|KPI|Key Performance Indicator|
+|MDM|Master Data Management|
+|NoSQL| Not Only Structured Query Language|
+|OLAP|Online Analytical Processing|
+|OLTP|Online Transaction Processing|
+|P&L|Profit and Loss|
+|PCI|Payment Card Industry|
+|PDF|Portable Document Format|
+|PHI|Personal Health Information|
+|PII|Personally Identifiable Information|
+|RDBMS|Relational Database Management System|
+|SDLC|Software Development Life Cycle|
+|SQL|Structured Query Language|
+|XML|Extensible Markup Language|
+
+## Reference
+
+[CompTIA](https://comptia.org)
 
 ---
