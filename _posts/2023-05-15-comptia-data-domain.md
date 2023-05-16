@@ -20,6 +20,9 @@ aside: true
   - [2.2 Identify common reason for cleansing and profiling datasets](#22-identify-common-reason-for-cleansing-and-profiling-datasets)
   - [2.3 Given a scenario, execute data manipulation techniques](#23-given-a-scenario-execute-data-manipulation-techniques)
   - [2.4 Explain common techniques for data manipulation and query optimization](#24-explain-common-techniques-for-data-manipulation-and-query-optimization)
+- [Domain 3.0 Data Analysis](#domain-30-data-analysis)
+- [Domain 4.0 Visualization](#domain-40-visualization)
+- [Domain 5.0 Data Governance, Quality, and Controls](#domain-50-data-governance-quality-and-controls)
 - [CompTIA Data+ (DA0-001) Acronym List](#comptia-data-da0-001-acronym-list)
 - [Reference](#reference)
 
@@ -131,6 +134,12 @@ aside: true
   - Temporary table in the query set
   - Subset of records
   - Execution plan
+
+## Domain 3.0 Data Analysis
+
+## Domain 4.0 Visualization
+
+## Domain 5.0 Data Governance, Quality, and Controls
 
 ## CompTIA Data+ (DA0-001) Acronym List
 
