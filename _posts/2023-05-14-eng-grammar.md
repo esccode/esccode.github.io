@@ -46,6 +46,8 @@ aside: true
   - [Countable and Uncountable](#countable-and-uncountable)
   - [Comperative Forms](#comperative-forms)
   - [Superlative Forms](#superlative-forms)
+  - [Reported Speech](#reported-speech)
+  - [Reporting verbs](#reporting-verbs)
 - [Reference](#reference)
 
 ## English grammar, parts of speech
@@ -275,6 +277,10 @@ Exceptions:
 | Adjective | Superlative | Adjective | Superlative |
 | --- | --- | --- | --- |  
 | Good | The best | Bad | The worst |  
+
+### Reported Speech
+
+### Reporting verbs
 
 ## Reference
 
