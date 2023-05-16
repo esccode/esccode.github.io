@@ -186,6 +186,12 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 
 ### 5.2 Given a scenario, apply data quality control concepts
 
+- Circumstances to check for quality
+- Automated validation
+- Data quality dimensions
+- Data quality rule and metrics
+- Methods to validate quality
+
 ### 5.3 Explain master data management (MDM) concepts
 
 ## CompTIA Data+ (DA0-001) Acronym List
