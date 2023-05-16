@@ -194,6 +194,9 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 
 ### 5.3 Explain master data management (MDM) concepts
 
+- Processes
+- Circumstances for MDM
+
 ## CompTIA Data+ (DA0-001) Acronym List
 
 The following is a list of acronyms that appear on the CompTIA Data+ exam. Candidates are encourage to review the complate list and attain a working knowledge of all listed acronyms as a part of a comprehensive exam preparation program.
