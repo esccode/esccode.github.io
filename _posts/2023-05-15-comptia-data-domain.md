@@ -173,9 +173,32 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 
 ### 4.2 Given a scenario, use appropriate design components for reports and dashboards
 
+- Report cover page
+- Design elements
+- Documentation elements
+
 ### 4.3 Given a scenario, use appropriate methods for dashboards development
 
+- Dashboard considerations
+- Development process
+- Delivery considerations
+
+
 ### 4.4 Given a scenario, apply the appropriate type of visualization
+
+- Line chart
+- Pie chart
+- Bubble chart
+- Scatter plot
+- Bar chart
+- Histogram
+- Waterfall
+- Heat map
+- Geographic map
+- Tree map
+- Stacked chart
+- Infographic
+- Word cloud
 
 ### 4.5 Compare and contrast types of reports
 
