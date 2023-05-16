@@ -15,6 +15,11 @@ aside: true
   - [1.1 Identitfy basic concepts of data schemas and dimensions](#11-identitfy-basic-concepts-of-data-schemas-and-dimensions)
   - [1.2 Compare and contrast different data types](#12-compare-and-contrast-different-data-types)
   - [1.3 Compare and contrast common data structures and file formats](#13-compare-and-contrast-common-data-structures-and-file-formats)
+- [Domain 2.0 Data Mining](#domain-20-data-mining)
+  - [2.1 Explain data acquisition concepts](#21-explain-data-acquisition-concepts)
+  - [2.2 Identify common reason for cleansing and profiling datasets](#22-identify-common-reason-for-cleansing-and-profiling-datasets)
+  - [2.3 Given a scenario, execute data manipulation techniques](#23-given-a-scenario-execute-data-manipulation-techniques)
+  - [2.4 Explain common techniques for data manipulation and query optimization](#24-explain-common-techniques-for-data-manipulation-and-query-optimization)
 - [CompTIA Data+ (DA0-001) Acronym List](#comptia-data-da0-001-acronym-list)
 - [Reference](#reference)
 
@@ -64,6 +69,16 @@ aside: true
   - JavaScript Object Notation(JSON)
   - Extensible Markup Language(XML)
   - Hypertext Markup Language(HTML)
+
+## Domain 2.0 Data Mining
+
+### 2.1 Explain data acquisition concepts
+
+### 2.2 Identify common reason for cleansing and profiling datasets
+
+### 2.3 Given a scenario, execute data manipulation techniques
+
+### 2.4 Explain common techniques for data manipulation and query optimization
 
 ## CompTIA Data+ (DA0-001) Acronym List
 
