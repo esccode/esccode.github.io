@@ -183,7 +183,6 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 - Development process
 - Delivery considerations
 
-
 ### 4.4 Given a scenario, apply the appropriate type of visualization
 
 - Line chart
@@ -201,6 +200,11 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 - Word cloud
 
 ### 4.5 Compare and contrast types of reports
+
+- Static vs. dynamic reports
+- Ad-hoc/one-time report
+- Self-service/on-demand
+- Recuring reports
 
 ## Domain 5.0 Data Governance, Quality, and Controls
 
