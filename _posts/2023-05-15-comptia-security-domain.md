@@ -153,7 +153,7 @@ aside: true
   - MAC cloning
 - Domain name system(DNS)
   - Domain hijacking
-  - DNS poisoning (attacker alter the domain-name-to-IP-address mapping in a DNS system)
+  - **DNS poisoning** (attacker alter the domain-name-to-IP-address mapping in a DNS system)
   - Uniform Resource
   - Loctor(URL) redirection
   - Domain reputation
