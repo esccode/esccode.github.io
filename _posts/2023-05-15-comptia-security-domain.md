@@ -130,8 +130,8 @@ aside: true
 - Memory leak
 - Secure Socket Layer(SSL) stripping
 - Driver manipulation
-  - Shimming (Small library that handle the operation itself, change the arguments passed, or redirect the request elsewhere)
-  - Refactoring (Identify the flow and then modify the internal structured code)
+  - **Shimming** (Small library that handle the operation itself, change the arguments passed, or redirect the request elsewhere)
+  - **Refactoring** (Identify the flow and then modify the internal structured code)
 - Pass the hash (attacker captures a password hash and then passes it through for authentication and lateral access)
 
 ### 1.4 Given a scenario, analyze potential indicators associated with network attacks
