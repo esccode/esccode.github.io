@@ -107,15 +107,15 @@ aside: true
 - Privilege escalation
 - Cross-site scripting
 - Injections
-- Structured query language(SQL)
-- Dynamic-link linrary(DLL)
-- Lightweight Directory
-- Access Protocol(LDAP)
-- Extensible Markup Language(XML)
+  - Structured query language(SQL)
+  - Dynamic-link library(DLL)
+  - Lightweight Directory Access Protocol(LDAP)
+  - Extensible Markup Language(XML)
 - Pointer/object dereference
 - Directory Traversal
 - Buffer overflows
 - Race conditions
+  - Time of check/time of use
 - Time of check/time of use
 - Error handling
 - Improper input handling
