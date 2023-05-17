@@ -50,7 +50,7 @@ aside: true
   - Non-relational
 - Data mart/data warehousing/data lake
   - Online transactional processing(**OLTP**) (A class of software that allows large numbers of database transactions in real time, typically over the internet)
-  - Online analytical processing(OLAP)
+  - Online analytical processing(**OLAP**)(A class of software that allows complex analysis to be conducted on large databases without negatively affecting transactional systems)
 - Schema concepts
   - Snowflake
   - Star
