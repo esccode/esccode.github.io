@@ -157,7 +157,7 @@ aside: true
   - Uniform Resource
   - Loctor(URL) redirection
   - Domain reputation
-- Distributed denial-of-service(DDoS)
+- Distributed denial-of-service(DDoS) (**DoS** is a resource consumption attack, **DDoS** is use multiple compromised computer systems as source of attack traffic)
   - Network
   - Application
   - Operational technology(OT)
