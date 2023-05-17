@@ -142,7 +142,7 @@ aside: true
   - **Bluesnarfing** (data theft using Bluetooth)
   - **Bluejacking** (pranksters to push unsolicited messages to engage/ennoy other nearby Bluetooth)
   - Disassociation (break the wireless connection)
-  - Jamming
+  - **Jamming** (a Dos attack that using channel by occupying the channel)
   - Radio frequency identification(RFID)
   - Near-field communication(NFC)
   - Initialization vector(IV)
