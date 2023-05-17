@@ -36,6 +36,9 @@ aside: true
   - [5.2 Given a scenario, apply data quality control concepts](#52-given-a-scenario-apply-data-quality-control-concepts)
   - [5.3 Explain master data management (MDM) concepts](#53-explain-master-data-management-mdm-concepts)
 - [CompTIA Data+ (DA0-001) Acronym List](#comptia-data-da0-001-acronym-list)
+- [CompTIA Data+ Proposed Hardware and Software List](#comptia-data-proposed-hardware-and-software-list)
+  - [Hardware](#hardware)
+  - [Software](#software)
 - [Reference](#reference)
 
 ## Domain 1.0 Data Concepts and Environments
@@ -234,7 +237,7 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 
 ## CompTIA Data+ (DA0-001) Acronym List
 
-The following is a list of acronyms that appear on the CompTIA Data+ exam. Candidates are encourage to review the complate list and attain a working knowledge of all listed acronyms as a part of a comprehensive exam preparation program.
+> The following is a list of acronyms that appear on the CompTIA Data+ exam. Candidates are encourage to review the complate list and attain a working knowledge of all listed acronyms as a part of a comprehensive exam preparation program.
 
 |ACRONYM|DEFINITION|
 |---|---|
@@ -264,6 +267,14 @@ The following is a list of acronyms that appear on the CompTIA Data+ exam. Candi
 |SDLC|Software Development Life Cycle|
 |SQL|Structured Query Language|
 |XML|Extensible Markup Language|
+
+## CompTIA Data+ Proposed Hardware and Software List
+
+> CompTIA has included this sample list of hardware and software to assist candidates as they prepare for the Data+ exam. This list may also be helpful for training companies that wish to create a lab component for their training offering. The bulleted lists below each each topic are samples and not exhaustive.
+
+### Hardware
+
+### Software
 
 ## Reference
 
