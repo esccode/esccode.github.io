@@ -63,10 +63,10 @@ aside: true
 
 ### 1.2 Given a scenario, analyze potential indicators to determine the type of attack
 
-- Malware
+- **Malware**
   - Ransomware
   - Trojans
-  - Worms
+  - Worms (Spreads between systems by exploiting vulnerabilities;no user action require)
   - Potentially unwanted programs(PUPs)
   - Fileless viruses
   - Command and control
@@ -78,7 +78,7 @@ aside: true
   - Remote access Trojan(RAT)
   - Rookit
   - Backdoor
-- Password attack
+- **Password attack**
   - Spraying
   - Dictionary
   - Brute force
@@ -86,18 +86,18 @@ aside: true
     - Online
   - Rainbow table
   - Plaintext/unencrypted
-- Physical attacks
+- **Physical attacks**
   - Malicious Universal
   - Serial Bus(USB) cable
   - Malicious flash drive
   - Card cloning
   - Skimming
-- Adversarial artificial intelligence(AI)
+- **Adversarial artificial intelligence(AI)**
   - Tained training data for machine learning(ML)
   - Security of machine learning algorithms
-- Supply-chain attacks
-- Cloud-based vs. on-promises attacks
-- Cryptographic attacks
+- **Supply-chain attacks**
+- **Cloud-based vs. on-promises attacks**
+- **Cryptographic attacks**
   - Birthday
   - Collision
   - Downgrade
