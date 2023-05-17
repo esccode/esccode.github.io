@@ -137,11 +137,11 @@ aside: true
 ### 1.4 Given a scenario, analyze potential indicators associated with network attacks
 
 - Wireless
-  - Evil twin
+  - Evil twin ( a malicious fake wireless access point)
   - Rogue access point
   - **Bluesnarfing** (data theft using Bluetooth)
   - **Bluejacking** (pranksters to push unsolicited messages to engage/ennoy other nearby Bluetooth)
-  - Disassociation
+  - Disassociation (break the wireless connection)
   - Jamming
   - Radio frequency identification(RFID)
   - Near-field communication(NFC)
