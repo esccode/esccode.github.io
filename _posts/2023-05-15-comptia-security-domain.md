@@ -131,9 +131,9 @@ aside: true
 - Secure Socket Layer(SSL) stripping
 - Driver manipulation
   - Shimming
-    - small library that handle the operation itself, change the arguments passed, or redirect the request elsewhere
+    - Small library that handle the operation itself, change the arguments passed, or redirect the request elsewhere
   - Refactoring
-    - identify the flow and yhen modify the internal structured code
+    - Identify the flow and yhen modify the internal structured code
 - Pass the hash
 
 ### 1.4 Given a scenario, analyze potential indicators associated with network attacks
