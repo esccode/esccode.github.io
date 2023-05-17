@@ -143,9 +143,9 @@ aside: true
   - **Bluejacking** (pranksters to push unsolicited messages to engage/ennoy other nearby Bluetooth)
   - Disassociation (break the wireless connection)
   - **Jamming** (a DoS attack that using channel by occupying the channel)
-  - Radio frequency identification(RFID)
-  - Near-field communication(NFC)
-  - Initialization vector(IV)
+  - Radio frequency identification(**RFID**) (commonly used in access badge systems)
+  - Near-field communication(**NFC**) (the touch pay system at the grocery)
+  - Initialization vector(**IV**) (modifies the initialization vector of an encrypted wireless packet during transmission)
 - **On-path attack**(previously known as man-in-the-middle attack/man-in-the-browser attack)
 - Layer 2 attacks
   - Address Resolution Protocol(ARP)poisoning
