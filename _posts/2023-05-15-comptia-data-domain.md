@@ -214,21 +214,63 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 ### 5.1 Summarize important data governance concepts
 
 - Access requirements
+  - Role-based
+  - User group-based
+  - Data use agreements
+  - Release approvals
 - Security requirements
+  - Data encryption
+  - Data transmission
+  - De-identify data/data masking
 - Storage environment requirements
+  - Shared drive vs. cloud based vs. local storage
 - Use requirements
+  - Acceptable use policy
+  - Data processing
+  - Data deletion
+  - Data retention
 - Entity relationship requirements
+  - Record link restrictions
+  - Data constraints
+  - Cardinality
 - Data classification
+  - Personally identifiable information(PII)
+  - Personal health information(PHI)
+  - Payment card industry(PCI)
 - Jurisdiction requirements
+  - Impact of industry and governmental regulations
 - Data breach reporting
+  - Escalate to appropriate authority
 
 ### 5.2 Given a scenario, apply data quality control concepts
 
 - Circumstances to check for quality
+  - Data acquisition/data source
+  - Data transformation/intrahops
+    - Pass through
+    - Conversion
+  - Data manipulation
+  - Final product (report/dashboard, etc.)
 - Automated validation
+  - Data field to data type validation
+  - Number of data points
 - Data quality dimensions
+  - Data consistency
+  - Data accuracy
+  - completeness
+  - Data integrity
+  - Data attribute limitations
 - Data quality rule and metrics
+  - Conformity
+  - Non-conformity
+  - Rows passed
+  - Rows failed
 - Methods to validate quality
+  - Cross-validation
+  - Sample/spot check
+  - Reasonable expectations
+  - Data proiling
+  - Data audits
 
 ### 5.3 Explain master data management (MDM) concepts
 
@@ -237,6 +279,9 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
   - Standardization of data field names
   - Data dictionary
 - Circumstances for MDM
+  - Mergers and acquisitions
+  - Compliance with policies and regulations
+  - Streamline data access
 
 ## CompTIA Data+ (DA0-001) Acronym List
 
