@@ -45,7 +45,7 @@ aside: true
 
 ## CompTIA Project+ PKO-005 Proposed Hardware and Software List
 
-CompTIA has included this sample list of hardware and software to assist candidates as they prepare for the Project+ PKO-005 exam. This list may also be helpful for training companies that wish to create a lab component for their training offering. The bulleted lists below each topic are sample lists and not exhaustive.
+> CompTIA has included this sample list of hardware and software to assist candidates as they prepare for the Project+ PKO-005 exam. This list may also be helpful for training companies that wish to create a lab component for their training offering. The bulleted lists below each topic are sample lists and not exhaustive.
 
 ### Equipment
 
