@@ -139,14 +139,14 @@ aside: true
 - Wireless
   - Evil twin
   - Rogue access point
-  - Bluesnarfing
-  - Bluejacking
+  - **Bluesnarfing** (data theft using Bluetooth)
+  - **Bluejacking** (pranksters to push unsolicited messages to engage/ennoy other nearby Bluetooth)
   - Disassociation
   - Jamming
   - Radio frequency identification(RFID)
   - Near-field communication(NFC)
   - Initialization vector(IV)
-- On-path attack(previously known as man-in-the-middle attack/man-in-the-browser attack)
+- **On-path attack**(previously known as man-in-the-middle attack/man-in-the-browser attack)
 - Layer 2 attacks
   - Address Resolution Protocol(ARP)poisoning
   - Media access control(MAC) flooding
