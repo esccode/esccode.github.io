@@ -21,7 +21,7 @@ aside: true
 
 ## CompTIA Project+ PKO-005 Acronym List
 
-
+> The following is a list of acronyms that appear on the CompTIA Project+ PK0-005 exam. Candidates are encouraged to review the complate list and attain a working knowledge of all listed acronyms as part of a comprehensive exam preparation program.
 
 |ACRONYM|DEFINITION|
 |---|---|
