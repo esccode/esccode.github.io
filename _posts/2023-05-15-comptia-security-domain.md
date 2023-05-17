@@ -65,7 +65,7 @@ aside: true
 
 - **Malware**
   - Ransomware
-  - Trojans
+  - Trojans (Masquerades as desirable software to trick user into installing it)
   - Worms (Spreads between systems by exploiting vulnerabilities;no user action require)
   - Potentially unwanted programs(PUPs)
   - Fileless viruses
