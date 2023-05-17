@@ -288,6 +288,8 @@ Exceptions:
 
 ### Reporting verbs
 
+recommend, suggest, remind, warn, promise, insist, 
+
 ## Reference
 
 [English in News](https://www.youtube.com/watch?v=QXVzmzhxWWc)
