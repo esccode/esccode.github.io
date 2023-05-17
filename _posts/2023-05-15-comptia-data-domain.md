@@ -233,6 +233,9 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 ### 5.3 Explain master data management (MDM) concepts
 
 - Processes
+  - Consolidation of multiple data fields
+  - Standardization of data field names
+  - Data dictionary
 - Circumstances for MDM
 
 ## CompTIA Data+ (DA0-001) Acronym List
