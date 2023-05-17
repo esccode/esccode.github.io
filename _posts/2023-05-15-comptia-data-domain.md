@@ -48,7 +48,7 @@ aside: true
 - Databases
   - Relational
   - Non-relational
-- Data mart/data warehousing/data lake
+- Data mart/**data warehousing**/data lake (DW. is a technology that is dedicated to the storage of company data from a wide range of sources for reporting and decision-making purposes, DM. is a subset of the data warehouse that is dedicated to a specific department or group)
   - Online transactional processing(**OLTP**) (A class of software that allows large numbers of database transactions in real time, typically over the internet)
   - Online analytical processing(**OLAP**)(A class of software that allows complex analysis to be conducted on large databases without negatively affecting transactional systems)
 - Schema concepts
