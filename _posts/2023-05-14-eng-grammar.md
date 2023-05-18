@@ -50,6 +50,8 @@ aside: true
   - [Reporting verbs](#reporting-verbs)
 - [First Conditional](#first-conditional)
 - [Phrasal Verbs](#phrasal-verbs)
+- [Grammar Drill - I Wish...+Would](#grammar-drill---i-wishwould)
+- [Confusing Pairs of Words](#confusing-pairs-of-words)
 - [Reference](#reference)
 
 ## English grammar, parts of speech
@@ -316,6 +318,43 @@ recommend, suggest, remind, warn, promise, insist, tell
 - Without the proper glue, the chair will just **fall apart** again.
 - I hate it when we **are apart**.
 - Her quick intelligence always **set her apart** from the others.
+
+## Grammar Drill - I Wish...+Would
+
+- I wish people wouldn't be late
+- I wish Kim wouldn't talk that much
+
+## Confusing Pairs of Words
+
+- Advice vs. Advise
+  - **piece of advice**
+  - she **advised** me
+- Affect vs. Effect
+  - habits will **affect** your studies
+  - **the effects** of your actions
+- Breathe vs. Breath
+  - you **don't breathe**, then you are dead
+  - could see his **breath** in the cold air
+- Lay vs. lie
+  - Lay the pencil on the table
+  - I have a headache, so I'm going to lie down for a while
+- Raised vs. Rose(the past tense of rise)
+  - He raised his hand
+  - THe aircraft rose from the ground
+- Borrow vs. Lend
+  - Laura used to borrow money from me
+  - I have lend my CD to anyone.
+- Listen vs. Hear
+  - I suddenly heard a loud noise
+  - Listen to this song.
+- Compliment vs. Complement
+  - I complimented my sister on her delicious cooking.
+  - My blue tie really complements my white shirt.
+
+- Lose vs. Loose
+  - She will lose her money if she gambles with it
+  - A loose sweater feels very comfortable
+
 
 ## Reference
 
