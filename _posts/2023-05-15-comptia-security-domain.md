@@ -286,8 +286,8 @@ aside: true
 ### 1.8 Explain the techniques used in penetration testing
 
 - **Penetration testing**
-  - Known environment
-  - Unknown environment
+  - Known environment(white box test)
+  - Unknown environment(black box test)
   - Partially known environment
   - Rules of engagement
   - Lateral movement
