@@ -48,6 +48,8 @@ aside: true
   - [Superlative Forms](#superlative-forms)
   - [Reported Speech](#reported-speech)
   - [Reporting verbs](#reporting-verbs)
+- [First Conditional](#first-conditional)
+- [Phrasal Verbs](#phrasal-verbs)
 - [Reference](#reference)
 
 ## English grammar, parts of speech
@@ -288,7 +290,32 @@ Exceptions:
 
 ### Reporting verbs
 
-recommend, suggest, remind, warn, promise, insist, 
+recommend, suggest, remind, warn, promise, insist, tell
+
+## First Conditional
+
+- If you don't give me back my sweater right now, I'**m going to** scream!
+- If you need someone to help you move, I **might** be able to help.
+- If you get a new job, you **should** really buy nicer clothes!
+- I **can** get you a ticket to the Madonna concert if you want to go!
+- **Remember** to buy some bananas if you go to the supermarket.
+
+- Alternatives for 'if':
+  - Providing / provided
+  - Unless
+    - You won't get any dessert **unless** you put your toys away.
+  - As soon as / as long
+  - On condition
+  - When
+  - Should
+
+## Phrasal Verbs
+
+- His plan **fell through** for lack of money.
+- She **took** her bicycle **apart** to clean it.
+- Without the proper glue, the chair will just **fall apart** again.
+- I hate it when we **are apart**.
+- Her quick intelligence always **set her apart** from the others.
 
 ## Reference
 

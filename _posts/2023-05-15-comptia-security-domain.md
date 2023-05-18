@@ -64,14 +64,14 @@ aside: true
 ### 1.2 Given a scenario, analyze potential indicators to determine the type of attack
 
 - **Malware**
-  - Ransomware
-  - Trojans (Masquerades as desirable software to trick user into installing it)
-  - Worms (Spreads between systems by exploiting vulnerabilities;no user action require)
-  - Potentially unwanted programs(PUPs)
-  - Fileless viruses
+  - **Ransomware**
+  - **Trojans** (Masquerades as desirable software to trick user into installing it)
+  - **Worms** (Spreads between systems by exploiting vulnerabilities;no user action require)
+  - Potentially unwanted programs(**PUPs**)
+  - **Fileless** viruses
   - Command and control
   - Bots
-  - Cryptomalware
+  - **Cryptomalware**
   - Logic bombs
   - Spyware
   - Keyloggers
@@ -98,8 +98,8 @@ aside: true
 - **Supply-chain attacks**
 - **Cloud-based vs. on-promises attacks**
 - **Cryptographic attacks**
-  - Birthday
-  - Collision
+  - **Birthday**(an attempt to find collisions in hash functions)
+  - **Collision** (replay attack - an attempt to reuse authentication requests)
   - Downgrade
 
 ### 1.3 Given a scenario, analyze potential indicators associated with application attacks
@@ -158,9 +158,9 @@ aside: true
   - Loctor(URL) redirection
   - Domain reputation
 - Distributed denial-of-service(DDoS) (**DoS** is a resource consumption attack, **DDoS** is use multiple compromised computer systems as source of attack traffic)
-  - Network
-  - Application
-  - Operational technology(OT)
+  - Network (targeting flaws in network protocols)
+  - Application (exploit weaknesses in the application layer (layer 7))
+  - Operational technology(OT) (targets the weaknesses of software and hardware devices)
 - Malicious code or script execution
   - PowerShell
   - Python
@@ -181,7 +181,7 @@ aside: true
     - Authorized
     - Unauthorized
     - Semi-authorized
-  - Shadow IT
+  - Shadow IT (often done with good intensions)
   - Competitors
 - Atributes or actors
   - Internal/external
@@ -207,7 +207,7 @@ aside: true
     - Structured Threat Information
     - eXpression(STIX)/Trusted
     - Automated eXchange of Inteligence Information(TAXII)
-    - Predictive analysis
+    - Predictive analysis(a mix of automation and human intelligence)
     - Threat maps
     - File/code repositories
 - Research sources
@@ -224,7 +224,7 @@ aside: true
 ### 1.6 Explain the security concerns associated with various types of vulnerabilities
 
 - Cloud-based vs. on-promises vulnerabilities
-- Zero-day
+- **Zero-day** (an attack that uses a vulnerability that is either unknow to anyone but  the attacker or known anly to a limited group of people)
 - Weak configuration
   - Open permissions
   - Unsecure root accounts
