@@ -256,12 +256,12 @@ aside: true
 
 ### 1.7 Summarize the techniques used in security assessments
 
-- Threat hunting
+- **Threat hunting**
   - **Inteligence fusion**(involves industry and government)
   - Threat feeds()
   - Advisories and bulletins()
   - Maneuver
-- Vulnerability scans
+- **Vulnerability scans**
   - False positives
   - False negatives
   - Log reviews
@@ -272,7 +272,7 @@ aside: true
   - Network
   - Common Vulnerabilities and Exposure(CVE)/Common Vulnerability Scoring System(CVSS) (The CVE list feeds into the NVD)
   - Configuration review
-- Syslog/Security information and event management(SIEM)
+- **Syslog/Security information and event management(SIEM)**
   - Review reports
   - Packet capture
   - Data inputs
@@ -281,7 +281,7 @@ aside: true
   - Security monitoring
   - Log aggregation
   - Log collectors
-- Security orchestration, automation, and response(SOAR) ()
+- **Security orchestration, automation, and response(SOAR)** ()
 
 ### 1.8 Explain the techniques used in penetration testing
 
