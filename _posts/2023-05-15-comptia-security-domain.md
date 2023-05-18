@@ -257,9 +257,9 @@ aside: true
 ### 1.7 Summarize the techniques used in security assessments
 
 - Threat hunting
-  - Inteligence fusion
-  - Threat feeds
-  - Advisories and bulletins
+  - **Inteligence fusion**(involves industry and government)
+  - Threat feeds()
+  - Advisories and bulletins()
   - Maneuver
 - Vulnerability scans
   - False positives
