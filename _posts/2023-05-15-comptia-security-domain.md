@@ -270,18 +270,18 @@ aside: true
   - Application
   - Web application
   - Network
-  - Common Vulnerabilities and Exposure(CVE)/Common Vulnerability Scoring System(CVSS)
+  - Common Vulnerabilities and Exposure(CVE)/Common Vulnerability Scoring System(CVSS) (The CVE list feeds into the NVD)
   - Configuration review
 - Syslog/Security information and event management(SIEM)
   - Review reports
   - Packet capture
   - Data inputs
   - User behavior analysis
-  - Sentiment analysis
+  - Sentiment analysis(Artificial intelligence and machine learning)
   - Security monitoring
   - Log aggregation
   - Log collectors
-- Security orchestration, automation, and response(SOAR)
+- Security orchestration, automation, and response(SOAR) ()
 
 ### 1.8 Explain the techniques used in penetration testing
 
@@ -318,6 +318,13 @@ The following is a list of acronyms that appear on the Comptia Security+ exam Ca
 |AAA|Authentication, Authorization, and Accounting|
 |ABAC|Attribute-based Access Control|
 |ACL|Access Control List|
+|||
+|||
+|UEBA|User and Entity Behavior Analytics|
+|||
+|||
+|||
+|||
 
 ## Reference
 
