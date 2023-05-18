@@ -285,7 +285,7 @@ aside: true
 
 ### 1.8 Explain the techniques used in penetration testing
 
-- Penetration testing
+- **Penetration testing**
   - Known environment
   - Unknown environment
   - Partially known environment
@@ -296,13 +296,13 @@ aside: true
   - Cleanup
   - Bug bounty
   - Pivoting
-- Passive and active reconnaissance
+- **Passive and active reconnaissance**
   - Drones
   - War flying
   - War driving
   - Footprinting
   - OSINT
-- Exercise types
+- **Exercise types**
   - Red team
   - Blue team
   - White team
