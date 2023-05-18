@@ -288,7 +288,7 @@ aside: true
 - **Penetration testing**
   - Known environment(white box test)
   - Unknown environment(black box test)
-  - Partially known environment
+  - Partially known environment(limited information)
   - Rules of engagement
   - Lateral movement
   - Privilege escalation
