@@ -230,14 +230,14 @@ aside: true
   - Unsecure root accounts
   - Errors
   - Weak encryptions
-  - Unsecure protocols
+  - **Unsecure protocols** (telnet, SNMPv1/v2,ftp)
   - Default settings
   - Open ports and services
 - Third-party risks
   - Vendor management
     - System integration
     - Lack of vendor support
-  - Supply chain
+  - **Supply chain**(include: supplier, manufacturers,distributors and customers)
   - Outsourced code development
   - Data storage
 - Improper or weak patch management
