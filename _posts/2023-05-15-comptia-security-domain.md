@@ -235,7 +235,7 @@ aside: true
   - Open ports and services
 - Third-party risks
   - Vendor management
-    - System integration
+    - System integration(potential for increased risk of insider attack)
     - Lack of vendor support
   - **Supply chain**(include: supplier, manufacturers,distributors and customers)
   - Outsourced code development
