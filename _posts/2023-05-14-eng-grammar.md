@@ -53,6 +53,7 @@ aside: true
 - [Grammar Drill - I Wish...+Would](#grammar-drill---i-wishwould)
 - [Confusing Pairs of Words](#confusing-pairs-of-words)
 - [Narrative Tenses](#narrative-tenses)
+- [Grammar Drill - I Wish... - Past Simple/Past Perfect](#grammar-drill---i-wish---past-simplepast-perfect)
 - [Reference](#reference)
 
 ## English grammar, parts of speech
@@ -364,6 +365,17 @@ recommend, suggest, remind, warn, promise, insist, tell
 ## Narrative Tenses
 
 - Past perfect should start before past simple
+
+## Grammar Drill - I Wish... - Past Simple/Past Perfect
+
+- Past Perfect
+  - I wish I had bought that dress
+  - I wish I had never met him
+  - I wish you hadm't lied to me
+- Past Simple
+  - I wish I were a doctor
+  - I wish I didn\t live abroad
+  - I wish you called me more often
 
 ## Reference
 
