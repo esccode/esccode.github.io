@@ -288,7 +288,7 @@ aside: true
 - **Penetration testing**
   - Known environment(white box test)
   - Unknown environment(black box test)
-  - Partially known environment(limited information)
+  - Partially known environment(limited information, grey box test)
   - Rules of engagement
   - Lateral movement
   - Privilege escalation
@@ -297,11 +297,15 @@ aside: true
   - Bug bounty
   - Pivoting
 - **Passive and active reconnaissance**
+- passive
   - Drones
-  - War flying
-  - War driving
-  - Footprinting
+  - War flying(combine war driving with a drones)
+  - War driving()
   - OSINT
+  - Footprinting
+- active
+  - Footprinting(includes active and passive methods)
+  
 - **Exercise types**
   - Red team
   - Blue team
