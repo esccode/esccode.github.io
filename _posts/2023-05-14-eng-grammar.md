@@ -52,6 +52,7 @@ aside: true
 - [Phrasal Verbs](#phrasal-verbs)
 - [Grammar Drill - I Wish...+Would](#grammar-drill---i-wishwould)
 - [Confusing Pairs of Words](#confusing-pairs-of-words)
+- [Narrative Tenses](#narrative-tenses)
 - [Reference](#reference)
 
 ## English grammar, parts of speech
@@ -203,7 +204,7 @@ Something that happend in the past.
 
 An action that happened before another event in the past.
 
-- I had gome to school.
+- I had gone to school.
 
 ### Past Continuous
 
@@ -354,6 +355,7 @@ recommend, suggest, remind, warn, promise, insist, tell
   - She will **lose** her money if she gambles with it
   - A **loose** sweater feels very comfortable
 
+## Narrative Tenses
 
 ## Reference
 
