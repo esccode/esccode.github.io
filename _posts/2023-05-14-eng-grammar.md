@@ -314,11 +314,17 @@ recommend, suggest, remind, warn, promise, insist, tell
 
 ## Phrasal Verbs
 
-- His plan **fell through** for lack of money.
-- She **took** her bicycle **apart** to clean it.
-- Without the proper glue, the chair will just **fall apart** again.
-- I hate it when we **are apart**.
-- Her quick intelligence always **set her apart** from the others.
+- apart
+  - His plan **fell through** for lack of money.
+  - She **took** her bicycle **apart** to clean it.
+  - Without the proper glue, the chair will just **fall apart** again.
+  - I hate it when we **are apart**.
+  - Her quick intelligence always **set her apart** from the others.
+- back
+  - The Irish problem goes back to the 17th century
+  - That smell takes me back to my first school
+  - Don't lend him any money.You'll never get it back
+  - I'll phone you back in five minutes.
 
 ## Grammar Drill - I Wish...+Would
 
@@ -356,6 +362,8 @@ recommend, suggest, remind, warn, promise, insist, tell
   - A **loose** sweater feels very comfortable
 
 ## Narrative Tenses
+
+- Past perfect should start before past simple
 
 ## Reference
 
