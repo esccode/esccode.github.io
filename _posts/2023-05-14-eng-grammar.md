@@ -350,10 +350,9 @@ recommend, suggest, remind, warn, promise, insist, tell
 - Compliment vs. Complement
   - I complimented my sister on her delicious cooking.
   - My blue tie really complements my white shirt.
-
 - Lose vs. Loose
-  - She will lose her money if she gambles with it
-  - A loose sweater feels very comfortable
+  - She will **lose** her money if she gambles with it
+  - A **loose** sweater feels very comfortable
 
 
 ## Reference
