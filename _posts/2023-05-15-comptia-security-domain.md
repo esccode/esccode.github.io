@@ -307,10 +307,10 @@ aside: true
   - Footprinting(includes active and passive methods)
   
 - **Exercise types**
-  - Red team
-  - Blue team
-  - White team
-  - Purple team
+  - Red team(offense)
+  - Blue team(defense)
+  - White team(judge / referee)
+  - Purple team(process improvement)
 
 ## Security+ (SY0-601) Acronym List
 
