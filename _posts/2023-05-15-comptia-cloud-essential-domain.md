@@ -1,11 +1,11 @@
 ---
-title: Data Dict
+title: CompTIA Cloud Essential Domain
 categories:
-- data
+- cloud
 excerpt: |
 ## CompTIA Data+ Dict
 feature_text: |  
-  ## data dict features
+  ## CompTIA Cloud Essential Domain features
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 aside: true
