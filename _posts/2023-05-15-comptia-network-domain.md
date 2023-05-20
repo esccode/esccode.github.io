@@ -5,7 +5,7 @@ categories:
 excerpt: |
 ## CompTIA Network Domain excerpt
 feature_text: |  
-  ## CompTIA Network Domain feature text
+  ## CompTIA Network Domain features
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 aside: true

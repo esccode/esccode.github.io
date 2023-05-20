@@ -5,7 +5,7 @@ categories:
 excerpt: |
 ## CompTIA Project Domain excerpt 
 feature_text: |
-  ## CompTIA Project Domain feature text
+  ## CompTIA Project Domain features
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 aside: true

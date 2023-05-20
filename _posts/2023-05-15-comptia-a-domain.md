@@ -5,7 +5,7 @@ categories:
 excerpt: |
 ## CompTIA A+ Domain excerpt
 feature_text: |  
-  ## CompTIA A+ Domain feature text
+  ## CompTIA A+ Domain features
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 aside: true
