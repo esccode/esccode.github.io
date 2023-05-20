@@ -63,6 +63,22 @@ aside: true
 
 ## CompTIA A+ Core (220-1102) Acronym List
 
+> The following is a list of acronyms that appear on the CompTIA A+ Core 2(220-1102) exam. Candidates are encouraged to review the complete list and attain knowledge of all listed acronyms as part of a comprehensive exam preparation program.
+
+|ACRONYM|DEFINITION|
+|---|---|
+|AAA|Authentication,Authorization, and Accounting|
+|AC|Alternating Current|
+|ACL|Access Control List|
+|ADF|Automatic Document Feeder|
+|AES|Advanced Encryption Standard|
+|AP|Access Point|
+|||
+|||
+|||
+|||
+|||
+
 ## CompTIA A+ Core (220-1102) Proposed Hardware and Software List
 
 ## References
