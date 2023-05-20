@@ -3,7 +3,7 @@ title: CompTIA A+ Domain
 categories:
 - cyber
 excerpt: |
-  ## CompTIA A+ Domain excerpt
+## CompTIA A+ Domain excerpt
 feature_text: |  
   ## CompTIA A+ Domain feature text
 feature_image: "https://picsum.photos/2560/600?image=733"

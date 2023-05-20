@@ -3,7 +3,7 @@ title: CompTIA Data+ Domain
 categories:
 - data
 excerpt: |
-  ## CompTIA Data+ Domain excerpt
+## CompTIA Data+ Domain excerpt
 feature_text: |  
   ## CompTIA Data+ Domain feature text
 feature_image: "https://picsum.photos/2560/600?image=733"
