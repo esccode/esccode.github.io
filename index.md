@@ -11,7 +11,7 @@ excerpt: |
 #feature_image: "https://picsum.photos/2560/600?image=733"
 feature_image: "https://picsum.photos/1300/400?image=989"
 image: "https://picsum.photos/2560/600?image=733"
-aside: true
+aside: false
 ---
 
 - [Cert Prep CompTIA Security+ SY0-601](#cert-prep-comptia-security-sy0-601)
