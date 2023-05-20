@@ -40,7 +40,6 @@ aside: true
 - [CompTIA A+ Core (220-1102) Proposed Hardware and Software List](#comptia-a-core-220-1102-proposed-hardware-and-software-list)
 - [References](#references)
 
-
 ## Domain 1.0 Operating Systems
 
 ### 1.1 Identify basic features of Microsoft Windows editions
@@ -163,13 +162,18 @@ aside: true
 |ADF|Automatic Document Feeder|
 |AES|Advanced Encryption Standard|
 |AP|Access Point|
-|||
+|APFS|Apple File System|
 |||
 |||
 |||
 |||
 
 ## CompTIA A+ Core (220-1102) Proposed Hardware and Software List
+
+- Equipment
+- Spare parts/hardware
+- Tools
+- Software
 
 ## References
 
