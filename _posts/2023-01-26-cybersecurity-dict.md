@@ -1,6 +1,7 @@
 ---
-title: Cybersecurity Dict
+title: Cybersecurity Dictionary
 categories:
+- dict
 - cyber
 excerpt: |
   ## Cybersecurity Dict excerpt
