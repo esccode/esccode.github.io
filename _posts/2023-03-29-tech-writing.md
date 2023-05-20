@@ -1,7 +1,7 @@
 ---
 title: Technical Writer Roles
 categories:
-- writing
+- trainer
 feature_text: |
   ## Tech writing
   Tech writing is my new skills direction but base on my past, watch this space!.
