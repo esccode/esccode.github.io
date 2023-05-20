@@ -11,7 +11,7 @@ image: "https://picsum.photos/2560/600?image=733"
 aside: true
 ---
 
-- [Domain 1: Threats, Attacks, and Vulnerabilities](#domain-1-threats-attacks-and-vulnerabilities)
+- [Domain 1.0 Threats, Attacks, and Vulnerabilities](#domain-10-threats-attacks-and-vulnerabilities)
   - [1.1 Compare and contrast different types of social engineering techniques](#11-compare-and-contrast-different-types-of-social-engineering-techniques)
   - [1.2 Given a scenario, analyze potential indicators to determine the type of attack](#12-given-a-scenario-analyze-potential-indicators-to-determine-the-type-of-attack)
   - [1.3 Given a scenario, analyze potential indicators associated with application attacks](#13-given-a-scenario-analyze-potential-indicators-associated-with-application-attacks)
@@ -23,7 +23,7 @@ aside: true
 - [Security+ (SY0-601) Acronym List](#security-sy0-601-acronym-list)
 - [Reference](#reference)
 
-## Domain 1: Threats, Attacks, and Vulnerabilities
+## Domain 1.0 Threats, Attacks, and Vulnerabilities
 
 ### 1.1 Compare and contrast different types of social engineering techniques
 
