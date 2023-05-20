@@ -35,7 +35,7 @@ plugins:
 - jemoji
 
 # 3. Gem settings
-paginate: 3 # jekyll-paginate > items per page
+paginate: 4 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 author: esccode # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
@@ -131,10 +131,10 @@ navigation_footer:
   url: "#top"
 - title: policy
   url: /privacy-policy/
-- title: eng dict
-  url: /english/cyber/2023/03/04/eng-dict/
-- title: cyber dict
-  url: /cyber/2023/01/26/cybersecurity-dict/
+- title: blog
+  url: /blog/
+- title: categories
+  url: /categories/
 - title: daviddarnes
   url: https://github.com/daviddarnes/alembic
 
