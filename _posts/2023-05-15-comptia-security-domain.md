@@ -34,6 +34,7 @@ aside: true
 - [Domain 5.0 Governance, Risk, and Compliance](#domain-50-governance-risk-and-compliance)
   - [5.2 Explain the importance of applicable regulations, standards, or frameworks that impact organizational security posture](#52-explain-the-importance-of-applicable-regulations-standards-or-frameworks-that-impact-organizational-security-posture)
 - [Security+ (SY0-601) Acronym List](#security-sy0-601-acronym-list)
+- [Security+ Proposed Hardware and Software List](#security-proposed-hardware-and-software-list)
 - [Reference](#reference)
 
 ## Domain 1.0 Threats, Attacks, and Vulnerabilities
@@ -420,11 +421,20 @@ The following is a list of acronyms that appear on the Comptia Security+ exam Ca
 |ACL|Access Control List|
 |CSF|Cybersecurity Framework|
 |NIST|National Institute of Standards and Technology|
+|RMF|Risk Management Framework|
 |UEBA|User and Entity Behavior Analytics|
 |||
 |||
 |||
 |||
+
+## Security+ Proposed Hardware and Software List
+
+> CompTIA has included this sample list of hardware and software to assist candidates as they prepare for the Security+ exam. This list may also be helpful for training companies that wish to create a lab component for their training offering. The bulleted lists below each topic are sample lists and are not exhaustive.
+
+- Hardware
+- Software
+- Other
 
 ## Reference
 
