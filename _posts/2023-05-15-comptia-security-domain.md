@@ -20,6 +20,19 @@ aside: true
   - [1.6 Explain the security concerns associated with various types of vulnerabilities](#16-explain-the-security-concerns-associated-with-various-types-of-vulnerabilities)
   - [1.7 Summarize the techniques used in security assessments](#17-summarize-the-techniques-used-in-security-assessments)
   - [1.8 Explain the techniques used in penetration testing](#18-explain-the-techniques-used-in-penetration-testing)
+- [Domain 2.0 Architecture and Design](#domain-20-architecture-and-design)
+  - [2.1 Explain the importance of security concepts in an enterprise environment](#21-explain-the-importance-of-security-concepts-in-an-enterprise-environment)
+  - [2.2 Summarize virtualization and cloude computing concepts](#22-summarize-virtualization-and-cloude-computing-concepts)
+  - [2.3 Summarize secure application development, deployment, and automation concepts](#23-summarize-secure-application-development-deployment-and-automation-concepts)
+  - [2.4 Summarize authentication and authorization design concepts](#24-summarize-authentication-and-authorization-design-concepts)
+  - [2.5 Given a scenario, implement cybersecurity resilience](#25-given-a-scenario-implement-cybersecurity-resilience)
+  - [2.6 Explain the security implications of embedded and specialized systems](#26-explain-the-security-implications-of-embedded-and-specialized-systems)
+  - [2.7 Explain the importance of physical security controls](#27-explain-the-importance-of-physical-security-controls)
+  - [2.8 Summarize the basic of cryptographic concepts](#28-summarize-the-basic-of-cryptographic-concepts)
+- [Domain 3.0 Implementation](#domain-30-implementation)
+- [Domain 4.0 Operations and Incident Response](#domain-40-operations-and-incident-response)
+- [Domain 5.0 Governance, Risk, and Compliance](#domain-50-governance-risk-and-compliance)
+  - [5.2 Explain the importance of applicable regulations, standards, or frameworks that impact organizational security posture](#52-explain-the-importance-of-applicable-regulations-standards-or-frameworks-that-impact-organizational-security-posture)
 - [Security+ (SY0-601) Acronym List](#security-sy0-601-acronym-list)
 - [Reference](#reference)
 
@@ -312,6 +325,89 @@ aside: true
   - White team(judge / referee)
   - Purple team(process improvement)
 
+## Domain 2.0 Architecture and Design
+
+### 2.1 Explain the importance of security concepts in an enterprise environment
+
+- Configuration management
+- Data sovereignty
+- Data protection
+- Geographical considerations
+- Response and recovery controls
+- Secure Sockets Layer(SSL)/Transport Layer Security(TLS)inspections
+- Hashing
+- API considerations
+- Site resiliency
+- Deception and disruption
+
+### 2.2 Summarize virtualization and cloude computing concepts
+
+- Cloud models
+- Cloud service providers
+- Managed service provider(MSP)/managed security service provider(MSSP)
+- On-promises vs. off-premises
+- Fog computing
+- Edge computing
+- Thin client
+- Containers
+- Microservices/API
+- Infrastructure as code
+- Serverless architecture
+- Services integration
+- REsource policies
+- Transit gateway
+- Virtualization
+
+### 2.3 Summarize secure application development, deployment, and automation concepts
+
+- Environment
+- Provisioning and deprovisioning
+- Integrity measurement
+- Secure coding techniques
+- Open Web Application Security Project(OWASP)
+- Software diversity
+- Automation/scripting
+- Elasticity
+- Scalability
+- Version control
+
+### 2.4 Summarize authentication and authorization design concepts
+
+- Authentication methods
+- Biometrics
+- Multifactor authentication(MFA) factors and attributes
+- Authentications authorization, and accounting(AAA)
+- Cloud vs. on-premises requirements
+
+### 2.5 Given a scenario, implement cybersecurity resilience
+
+- Redundancy
+- Replication
+- On-premises vs. cloud
+- Backup types
+- Non-persistence
+- High availability
+- Restoration order
+- Diversity
+
+### 2.6 Explain the security implications of embedded and specialized systems
+
+### 2.7 Explain the importance of physical security controls
+
+### 2.8 Summarize the basic of cryptographic concepts
+
+## Domain 3.0 Implementation
+
+## Domain 4.0 Operations and Incident Response
+
+## Domain 5.0 Governance, Risk, and Compliance
+
+### 5.2 Explain the importance of applicable regulations, standards, or frameworks that impact organizational security posture
+
+- Regulations, standards, and legislations
+- Key frameworks
+- Benchmarks/secure configuration guides
+
 ## Security+ (SY0-601) Acronym List
 
 The following is a list of acronyms that appear on the Comptia Security+ exam Candidates are encouraged to review the complate list and attain a working knowledge of all listed acronyms as part of a comprehensive exam preparation program.
@@ -322,8 +418,8 @@ The following is a list of acronyms that appear on the Comptia Security+ exam Ca
 |AAA|Authentication, Authorization, and Accounting|
 |ABAC|Attribute-based Access Control|
 |ACL|Access Control List|
-|||
-|||
+|CSF|Cybersecurity Framework|
+|NIST|National Institute of Standards and Technology|
 |UEBA|User and Entity Behavior Analytics|
 |||
 |||
