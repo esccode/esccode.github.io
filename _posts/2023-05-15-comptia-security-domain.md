@@ -393,6 +393,20 @@ aside: true
 
 ### 2.6 Explain the security implications of embedded and specialized systems
 
+- Embedded systems
+- Supervisory control and data acquisition(SCADA)/industrial control system(ICS)
+- Internet of Things(loT)
+- Specialized
+- Voice over IP(VoIP)
+- Heating, ventilation, air conditioning(HVAC)
+- Drones
+- Multifunction printer(MFP)
+- Real-time operating system(RTOS)
+- Surveillance systems
+- System on chip(SoC)
+- Communication considerations
+- Constraints
+
 ### 2.7 Explain the importance of physical security controls
 
 ### 2.8 Summarize the basic of cryptographic concepts
@@ -420,6 +434,7 @@ The following is a list of acronyms that appear on the Comptia Security+ exam Ca
 |ABAC|Attribute-based Access Control|
 |ACL|Access Control List|
 |CSF|Cybersecurity Framework|
+|CSIRT|Computer Security Incident Response Team|
 |NIST|National Institute of Standards and Technology|
 |RMF|Risk Management Framework|
 |UEBA|User and Entity Behavior Analytics|
