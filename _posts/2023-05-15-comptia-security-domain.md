@@ -32,6 +32,7 @@ aside: true
 - [Domain 3.0 Implementation](#domain-30-implementation)
 - [Domain 4.0 Operations and Incident Response](#domain-40-operations-and-incident-response)
 - [Domain 5.0 Governance, Risk, and Compliance](#domain-50-governance-risk-and-compliance)
+- [5.1 Compare and contrast various types of control](#51-compare-and-contrast-various-types-of-control)
   - [5.2 Explain the importance of applicable regulations, standards, or frameworks that impact organizational security posture](#52-explain-the-importance-of-applicable-regulations-standards-or-frameworks-that-impact-organizational-security-posture)
 - [Security+ (SY0-601) Acronym List](#security-sy0-601-acronym-list)
 - [Security+ Proposed Hardware and Software List](#security-proposed-hardware-and-software-list)
@@ -417,11 +418,40 @@ aside: true
 
 ## Domain 5.0 Governance, Risk, and Compliance
 
+## 5.1 Compare and contrast various types of control
+
+- Category
+  - Managerial
+  - Operational
+  - Technical
+- Control type
+  - Preventive
+  - Detective
+  - Corrective
+  - Deterrent
+  - Compensating
+  - Physical
+
 ### 5.2 Explain the importance of applicable regulations, standards, or frameworks that impact organizational security posture
 
 - Regulations, standards, and legislations
+  - General Data Protection Regulation(GDPR)
+  - National,territory, or state laws
+  - Payment Card Industry Data Security Standard (PCI DSS)
 - Key frameworks
+  - Center for Internet Security(CSI)
+  - National Institute of Standards and Technology(NIST) Risk Management Framework(RMF)/Cybersecurity Framework(CSF)
+  - International Organization for Standardization(ISO)27001/27002/27701/31000
+  - SSAE SOC2 Type I/II
+  - Cloud security alliance
+  - Cloud control matrix
+  - Reference architecture
 - Benchmarks/secure configuration guides
+  - Platform/vendor-specific guides
+    - Web server
+    - OS
+    - Paalication server
+    - Network infrastructure devices
 
 ## Security+ (SY0-601) Acronym List
 
@@ -437,6 +467,7 @@ The following is a list of acronyms that appear on the Comptia Security+ exam Ca
 |CSIRT|Computer Security Incident Response Team|
 |NIST|National Institute of Standards and Technology|
 |RMF|Risk Management Framework|
+|TTP|tactic, technique, or procedure|
 |UEBA|User and Entity Behavior Analytics|
 |||
 |||
