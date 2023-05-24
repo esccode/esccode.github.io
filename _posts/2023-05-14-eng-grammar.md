@@ -54,6 +54,7 @@ aside: true
 - [Confusing Pairs of Words](#confusing-pairs-of-words)
 - [Narrative Tenses](#narrative-tenses)
 - [Grammar Drill - I Wish... - Past Simple/Past Perfect](#grammar-drill---i-wish---past-simplepast-perfect)
+- [Grammar Drill - Wish \& Should for Regrets](#grammar-drill---wish--should-for-regrets)
 - [Reference](#reference)
 
 ## English grammar, parts of speech
@@ -376,6 +377,8 @@ recommend, suggest, remind, warn, promise, insist, tell
   - I wish I were a doctor
   - I wish I didn\t live abroad
   - I wish you called me more often
+
+## Grammar Drill - Wish & Should for Regrets
 
 ## Reference
 

@@ -54,6 +54,15 @@ aside: true
 
 ### 1.6 Given a scenario, configure Microsoft Windows networking features on a client/desktop
 
+- Workgroup vs. domain setup
+- Local OS firewall settings
+- Client network configuration
+- Establish network connections
+- Proxy settings
+- Public network vs. private network
+- File Explorer navigation - network path
+- Metered connections and limitations
+
 ### 1.7 Given a scenario, apply application installation and configuration concepts
 
 ### 1.8 Explain common OS types and their purposes
