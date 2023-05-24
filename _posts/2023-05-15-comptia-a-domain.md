@@ -55,9 +55,24 @@ aside: true
 ### 1.6 Given a scenario, configure Microsoft Windows networking features on a client/desktop
 
 - Workgroup vs. domain setup
+  - Shared resources
+  - Printers
+  - File servers
+  - Mapped drives
 - Local OS firewall settings
+  - Application restrictions and exceptions
+  - Configuration
 - Client network configuration
+  - Internet Protocol(IP) addressing scheme
+  - Domain Name System(DNS) setting
+  - Subnet mask
+  - Gateway
+  - Static vs. dynamic
 - Establish network connections
+  - Virtual private network(VPN)
+  - Wireless
+  - Wired
+  - Wireless wide area network(WWAN)
 - Proxy settings
 - Public network vs. private network
 - File Explorer navigation - network path
