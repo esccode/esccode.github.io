@@ -167,8 +167,24 @@ aside: true
 ### 2.9 Given a scenario, configure appropriate security setting on small office/home office (SOHO) wireless and wired networks
 
 - Home router settings
+  - Change default password
+  - IP filtering
+  - Firmware updates
+  - Content filtering
+  - Physical placement/secure locations
+  - Dynamic Host Configurations Protocol(DHCP) reservations
+  - Static wide-area network(WAN) IP
+  - Universal Plug and Play(UPnP)
+  - Screened subnet
 - Wireless specific
+  - Changing the service set identifier(SSID)
+  - Disabling SSID broadcast
+  - Encryption settings
+  - Disabling guest access
+  - Changing channels
 - Firewall settings
+  - Disabling unused ports
+  - Port forwarding/mapping
 
 ### 2.10 Given a scenario, install and configure browsers and relevant security settings
 
