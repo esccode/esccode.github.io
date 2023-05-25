@@ -101,7 +101,15 @@ aside: true
 ### 2.2 Compare and contrast wireless security protocols and authentication methods
 
 - Protocols and encryption
+  - WiFi Protected Access 2(WPA2)
+  - WPA3
+  - Temporal Key Integrity Protocol(TKIP)
+  - Advanced Encryption Standard(AES)
 - Authentication
+  - Remote Authentication Dial-In User Service(RADIUS)
+  - Terminal Access Controller Access-Control System(TACACS+)
+  - Kerberos
+  - Multifactor
 
 ### 2.3 Given a scenario, detect, remove, and prevent malware using the appropriate tools and methods
 
