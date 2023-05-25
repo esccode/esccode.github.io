@@ -103,8 +103,8 @@ aside: true
 - Protocols and encryption
   - WiFi Protected Access 2(WPA2)
   - WPA3
-  - Temporal Key Integrity Protocol(TKIP)
-  - Advanced Encryption Standard(AES)
+  - Temporal Key Integrity Protocol(TKIP)(**TKIP is WPA**)
+  - Advanced Encryption Standard(AES)(**AES is WPA2**)
 - Authentication
   - Remote Authentication Dial-In User Service(RADIUS)
   - Terminal Access Controller Access-Control System(TACACS+)
