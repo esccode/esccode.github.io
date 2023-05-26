@@ -149,6 +149,11 @@ aside: true
 ### 2.7 Explain common methods for securing mobile and embedded devices
 
 - Screen locks
+  - Facial recognition
+  - PIN codes
+  - Fingerprint
+  - Pattern
+  - Swipe
 - Remote wipes
 - Locator applications
 - OS updates
@@ -158,6 +163,8 @@ aside: true
 - Antivirus.anti-malware
 - Firewall
 - Policies and procedures
+  - BYOD vs. corporate owned
+  - Profile security requirements
 - Internet of Things(loT)
 
 ### 2.8 Given a scenario, use common data destruction and disposal methods
@@ -241,6 +248,20 @@ aside: true
 - Equipment
 - Spare parts/hardware
 - Tools
+  - Screwdriver
+  - Multimeter
+  - Wire cutters
+  - Punchdown tool
+  - Crimper
+  - Power supply tester
+  - Cable stripper
+  - Standard technician toolkit
+  - Electrostatic discharge (ESD) strap
+  - Thermal paste
+  - Cable tester
+  - Cable toner
+  - WiFi analyzer
+  - Serial advanced technology attachment(SATA) to USB connectors
 - Software
 
 ## References
