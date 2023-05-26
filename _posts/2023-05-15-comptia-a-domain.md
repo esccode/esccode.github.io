@@ -36,6 +36,7 @@ aside: true
   - [2.10 Given a scenario, install and configure browsers and relevant security settings](#210-given-a-scenario-install-and-configure-browsers-and-relevant-security-settings)
 - [Domain 3.0 Software Troubleshooting](#domain-30-software-troubleshooting)
 - [Domain 4.0 Operational Procedures](#domain-40-operational-procedures)
+  - [4.9 Given a scenario, use remote access technologies](#49-given-a-scenario-use-remote-access-technologies)
 - [CompTIA A+ Core (220-1102) Acronym List](#comptia-a-core-220-1102-acronym-list)
 - [CompTIA A+ Core (220-1102) Proposed Hardware and Software List](#comptia-a-core-220-1102-proposed-hardware-and-software-list)
 - [References](#references)
@@ -197,6 +198,22 @@ aside: true
 ## Domain 3.0 Software Troubleshooting
 
 ## Domain 4.0 Operational Procedures
+
+### 4.9 Given a scenario, use remote access technologies
+
+- Methods/tools
+  - RDP
+  - VPN
+  - Virtual network computer(VNC)
+  - Secure Shell(SSH)
+  - Remote monitoring and management(RMM)
+  - Microsoft Remote Assistance(MSRA)
+  - Third-party tools
+    - Screen-sharing software
+    - Video-conferencing software
+    - File transfer software
+    - Desktop management software
+- Security considerations of each access method
 
 ## CompTIA A+ Core (220-1102) Acronym List
 
