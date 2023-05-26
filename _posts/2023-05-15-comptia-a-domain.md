@@ -198,10 +198,21 @@ aside: true
 ### 2.10 Given a scenario, install and configure browsers and relevant security settings
 
 - Browser download/installation
+  - Trusted sources
+    - Hashing
+  - Untrusted sources
 - Extensions and plug-ins
+  - Trusted sources
+  - Untrusted sources
 - Password managers
 - Secure connections/site - valid certificates
 - Settings
+  - Pop-up blocker
+  - Clearing browsing data
+  - Clearing cache
+  - Private-browsing mode
+  - Sign-in/browser data synchronization
+  - Ad blocker
 
 ## Domain 3.0 Software Troubleshooting
 
