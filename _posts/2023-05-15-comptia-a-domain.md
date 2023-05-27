@@ -108,9 +108,34 @@ aside: true
   - Bollards(słupki)
   - Fences
 - Physical security for staff
+  - Key fobs(bryloczki)
+  - Smart cards
+  - Keys
+  - Biometrics
+    - Retina scanner
+    - Fingerprint scanner
+    - Palmprint scanner
+  - Lighting
+  - Magnetometers
 - Logical security
+  - Principle of least privilege
+  - Access control lists(ACLs)
+  - Multifactor authentication(MFA)
+  - Email
+  - Hard token
+  - Soft token
+  - Short message service(SMS)
+  - Voice call
+  - Authenticator application
 - Mobile device management(MDM)
 - Active Directory
+  - Login script
+  - Domain
+  - Group Policy/updates
+  - Organizational units
+  - Home folder
+  - Folder redirection
+  - Security group
 
 ### 2.2 Compare and contrast wireless security protocols and authentication methods
 
