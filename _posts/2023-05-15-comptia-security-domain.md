@@ -132,7 +132,6 @@ aside: true
 - Buffer overflows
 - Race conditions
   - Time of check/time of use
-- Time of check/time of use
 - Error handling
 - Improper input handling
 - Reply attack
