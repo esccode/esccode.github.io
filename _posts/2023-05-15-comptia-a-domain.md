@@ -35,6 +35,8 @@ aside: true
   - [2.9 Given a scenario, configure appropriate security setting on small office/home office (SOHO) wireless and wired networks](#29-given-a-scenario-configure-appropriate-security-setting-on-small-officehome-office-soho-wireless-and-wired-networks)
   - [2.10 Given a scenario, install and configure browsers and relevant security settings](#210-given-a-scenario-install-and-configure-browsers-and-relevant-security-settings)
 - [Domain 3.0 Software Troubleshooting](#domain-30-software-troubleshooting)
+  - [3.4 Given a scenario, troubleshoot common mobile OS and application issues](#34-given-a-scenario-troubleshoot-common-mobile-os-and-application-issues)
+  - [3.5 Given a scenario, troubleshoot common mobile OS and application security issues](#35-given-a-scenario-troubleshoot-common-mobile-os-and-application-security-issues)
 - [Domain 4.0 Operational Procedures](#domain-40-operational-procedures)
   - [4.8 Identify the basics of scripting](#48-identify-the-basics-of-scripting)
   - [4.9 Given a scenario, use remote access technologies](#49-given-a-scenario-use-remote-access-technologies)
@@ -215,6 +217,42 @@ aside: true
   - Ad blocker
 
 ## Domain 3.0 Software Troubleshooting
+
+### 3.4 Given a scenario, troubleshoot common mobile OS and application issues
+
+- Common symptoms
+  - Application fails to launch
+  - Application fails to close/crashes
+  - Application fails to update
+  - Slow to respond
+  - OS fails to update
+  - Battery life issues
+  - Randomly reboots
+  - Connectivity issues
+    - Bluetooth
+    - WiFi
+    - Near-field communication(NFC)
+    - AirDrop
+  - Screen does not autorotate
+
+### 3.5 Given a scenario, troubleshoot common mobile OS and application security issues
+
+- Security concerns
+  - Android package(APK) source
+  - Developer mode
+  - Root access/jailbreak
+  - Bootleg/malicious application
+    - Application spoofing
+- Common symptoms
+  - High network traffic
+  - Sluggish response time
+  - Data-usage limit notification
+  - Limited Internet connectivity
+  - No internet connectivity
+  - High number of ads
+  - Fake security warnings
+  - Unexpected application behavior
+  - Leaked personal files/data
 
 ## Domain 4.0 Operational Procedures
 
