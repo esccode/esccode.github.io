@@ -31,6 +31,7 @@ aside: true
   - [2.8 Summarize the basic of cryptographic concepts](#28-summarize-the-basic-of-cryptographic-concepts)
 - [Domain 3.0 Implementation](#domain-30-implementation)
 - [Domain 4.0 Operations and Incident Response](#domain-40-operations-and-incident-response)
+  - [4.1 Given a scenario, use the appropriate tool to assess organizational security](#41-given-a-scenario-use-the-appropriate-tool-to-assess-organizational-security)
 - [Domain 5.0 Governance, Risk, and Compliance](#domain-50-governance-risk-and-compliance)
 - [5.1 Compare and contrast various types of control](#51-compare-and-contrast-various-types-of-control)
   - [5.2 Explain the importance of applicable regulations, standards, or frameworks that impact organizational security posture](#52-explain-the-importance-of-applicable-regulations-standards-or-frameworks-that-impact-organizational-security-posture)
@@ -447,6 +448,55 @@ aside: true
 ## Domain 3.0 Implementation
 
 ## Domain 4.0 Operations and Incident Response
+
+### 4.1 Given a scenario, use the appropriate tool to assess organizational security
+
+- Network reconnaissance and discovery
+  - tracert/traceroute
+  - nslookup/dig
+  - ipconfig/ifconfig
+  - nmap
+    - TCP SYN (-sS)—this is a fast technique also referred to as half-open scanning, as the scanning host requests a connection without acknowledging it. The target's response to the scan's SYN packet identifies the port state.
+    - UDP scans (-sU)—scan UDP ports. As these do not use ACKs, Nmap needs to wait for a response or timeout to determine the port state, so UDP scanning can take a long time. A UDP scan can be combined with a TCP scan.
+    - Port range (-p)—by default, Nmap scans 1000 commonly used ports, as listed in its configuration file. Use the -p argument to specify a port range.
+  - ping/pathping
+  - hping
+  - netstat
+  - IP scanners
+  - arp
+  - route
+  - curl
+  - theHarvester
+  - sniper
+  - scanless
+  - dnsenum
+  - Nessus
+  - Cuckoo
+- File manipulation
+  - head
+  - tail
+  - cat
+  - grep
+  - chmod
+  - logger
+- Shell and script environments
+  - SSH
+  - PowerShell
+  - Python
+  - OpenSSL
+- Packet capture and replay
+  - Tcpreplay
+  - Tcpdump
+  - Wireshark
+- Forensics
+  - dd
+  - Memdump
+  - WinHex
+  - FTK imager
+  - Autopsy
+- Exploitation frameworks
+- Password crackers
+- Data sanitization
 
 ## Domain 5.0 Governance, Risk, and Compliance
 

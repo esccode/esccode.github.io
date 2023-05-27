@@ -54,6 +54,9 @@ aside: true
 - [Confusing Pairs of Words](#confusing-pairs-of-words)
 - [Narrative Tenses](#narrative-tenses)
 - [Grammar Drill - I Wish... - Past Simple/Past Perfect](#grammar-drill---i-wish---past-simplepast-perfect)
+- [Grammar Drill - Wish \& Should for Regrets](#grammar-drill---wish--should-for-regrets)
+- [Passive voice](#passive-voice)
+- [Narrative tenses in the Past perfect continues](#narrative-tenses-in-the-past-perfect-continues)
 - [Reference](#reference)
 
 ## English grammar, parts of speech
@@ -371,11 +374,17 @@ recommend, suggest, remind, warn, promise, insist, tell
 - Past Perfect
   - I wish I had bought that dress
   - I wish I had never met him
-  - I wish you hadm't lied to me
+  - I wish you hadn't lied to me
 - Past Simple
   - I wish I were a doctor
   - I wish I didn\t live abroad
   - I wish you called me more often
+
+## Grammar Drill - Wish & Should for Regrets
+
+## Passive voice
+
+## Narrative tenses in the Past perfect continues
 
 ## Reference
 
