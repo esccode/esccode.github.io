@@ -132,7 +132,6 @@ aside: true
 - Buffer overflows
 - Race conditions
   - Time of check/time of use
-- Time of check/time of use
 - Error handling
 - Improper input handling
 - Reply attack
@@ -313,13 +312,13 @@ aside: true
   - Bug bounty
   - Pivoting
 - **Passive and active reconnaissance**
-- passive
+- Passive
   - Drones
   - War flying(combine war driving with a drones)
   - War driving()
   - OSINT
   - Footprinting
-- active
+- Active
   - Footprinting(includes active and passive methods)
   
 - **Exercise types**
@@ -333,19 +332,47 @@ aside: true
 ### 2.1 Explain the importance of security concepts in an enterprise environment
 
 - Configuration management
+  - Diagrams
+  - Baseline configuration
+  - Standard naming conventions
+  - Internet protocol(IP) scheme
 - Data sovereignty
 - Data protection
+  - Data loss prevention(DLP)
+  - Masking
+  - Encryption
+  - At rest
+  - In transit/motion
+  - In processing
+  - Tokenization
+  - Rights management
 - Geographical considerations
 - Response and recovery controls
 - Secure Sockets Layer(SSL)/Transport Layer Security(TLS)inspections
 - Hashing
 - API considerations
 - Site resiliency
+  - Hot site
+  - Cold site
+  - Warm site
 - Deception and disruption
+  - Honeypots
+  - Honeyfiles
+  - Honeynets
+  - Fake telemetry
+  - DNS sinkhole
 
 ### 2.2 Summarize virtualization and cloude computing concepts
 
 - Cloud models
+  - Infrastructure as a service(IaaS)
+  - Platform as a service(PaaS)
+  - Software as a service(SaaS)
+  - Anything as a service(XaaS)
+  - Public
+  - Community
+  - Private
+  - Hybrid
 - Cloud service providers
 - Managed service provider(MSP)/managed security service provider(MSSP)
 - On-promises vs. off-premises
@@ -355,11 +382,15 @@ aside: true
 - Containers
 - Microservices/API
 - Infrastructure as code
+  - Software-defined networking(SDN)
+  - Software-defined visibility(SDV)
 - Serverless architecture
 - Services integration
-- REsource policies
+- Resource policies
 - Transit gateway
 - Virtualization
+  - Virtual machine(VM) sprawl avoidance
+  - VM escape protection
 
 ### 2.3 Summarize secure application development, deployment, and automation concepts
 
