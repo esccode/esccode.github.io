@@ -97,6 +97,16 @@ aside: true
 ### 2.1 Summarize various security measures and their purposes
 
 - Physical security
+  - Access control vestibule
+  - Badge reader
+  - Video surveillance(nadzór)
+  - Alarm systems
+  - Motion sensors
+  - Door locks
+  - Equipment locks
+  - Guards
+  - Bollards(słupki)
+  - Fences
 - Physical security for staff
 - Logical security
 - Mobile device management(MDM)
