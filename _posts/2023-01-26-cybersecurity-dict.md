@@ -81,7 +81,7 @@ resemble-przypominac, remediate-zaradzic
 
 ### S
 
-surveillance-nadzór,scarcity-niedostatek,SOPHISTICATED ATTACKERS-wyrafinowani napastnicy,SNIFFING-wachanie,SUITED-pasuje,SELF-GRADING-samoocena,Severity of the security brech-waga naruszenia bezpieczenstwa,Severity of the event-waga zdarzenia
+Surveillance-nadzór,Scarcity-niedostatek,SOPHISTICATED ATTACKERS-wyrafinowani napastnicy,SNIFFING-wachanie,SUITED-pasuje,SELF-GRADING-samoocena,Severity of the security brech-waga naruszenia bezpieczenstwa,Severity of the event-waga zdarzenia,SCAM-oszustwo
 
 ### U
 
