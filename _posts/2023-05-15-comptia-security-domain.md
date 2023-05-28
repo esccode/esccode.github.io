@@ -309,7 +309,7 @@ aside: true
   - Privilege escalation
   - Persistence
   - Cleanup
-  - Bug bounty
+  - Bug bounty(rewards are given for reporting  vulnerabilities)
   - Pivoting
 - **Passive and active reconnaissance**
 - Passive

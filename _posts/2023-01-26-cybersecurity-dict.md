@@ -21,6 +21,7 @@ aside: true
   - [F](#f)
   - [I](#i)
   - [N](#n)
+  - [R](#r)
   - [S](#s)
 - [waiting room](#waiting-room)
 - [CYBERSECURITY PHRASES](#cybersecurity-phrases)
@@ -40,7 +41,7 @@ CAPTIVE-jeniec, Chain of custody-lancuch dostaw, CONDUCTING-prowadzenia,CAPTURED
 ### D
 
 DECIVE-zawodzic,DEPLOYING-wdraza, DISCLOSURE-ujawnienie, DESTRUCTION-opposite of availability,DIVULGE-ujawniac, dataset-zestaw danych, due-diligence-nalezyta starannosc,
-DATA ACQUISITION-pozyskiwanie danych,data compromise-kompromitacja danych,DEEPFAKES-?,deterrent-odstraszajacy
+DATA ACQUISITION-pozyskiwanie danych,data compromise-kompromitacja danych,DEEPFAKES-?,deterrent-odstraszajacy,drawback-wada
 
 ### E
 
@@ -57,6 +58,10 @@ inheritance-dziedzictwo,intimidation-zastraszanie,INDICATOR-wskaznik,intact-nien
 ### N
 
 nefarious-nikczemny
+
+### R
+
+resemble-przypominac
 
 ### S
 
