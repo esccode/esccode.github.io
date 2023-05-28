@@ -202,10 +202,27 @@ aside: true
 ### 2.5 Given a scenario, manage and configure basic security settings in the Microsoft Windows OS
 
 - Defender Antivirus
+  - Active/deactivate
+  - Updated definitions
 - Firewall
+  - Activate/deactivate
+  - Port security
+  - Application security
 - User and groups
+  - Local vs. Microsoft account
+  - Atandard account
+  - Administrator
+  - Guest user
+  - Power user
 - Login OS options
+  - Username and password
+  - Personal Identification number(PIN)
+  - Fingerprint
+  - Facial recognitions
+  - Single sign-on(SSO)
 - NTFS vs. share permissions
+  - File and folder attributes
+  - inheritance
 - Run as administrator vs. standard user
 - BitLocker
 - BitLocker To Go
