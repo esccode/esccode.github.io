@@ -46,7 +46,7 @@ DATA ACQUISITION-pozyskiwanie danych,data compromise-kompromitacja danych,DEEPFA
 
 ### E
 
-ENCOMPASSES-obejmuje, EVALUATING-oceniac, EMBEDED-osadzone,ENTICING-necac
+ENCOMPASSES-obejmuje, EVALUATING-oceniac, EMBEDED-osadzone,ENTICING-necac,explicit-wyrazny
 
 ### F
 
