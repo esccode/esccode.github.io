@@ -233,8 +233,22 @@ aside: true
 
 - Data-at-rest encryption
 - Password best practices
+  - Complexity requirements
+    - Length
+    - Character types
+  - Expiration requirements
+  - Basic input/output system (BIOS)/Unified Extensible Firmware Interfact(UEFI) passwords
 - End-user best practices
+  - User screensaver locks
+  - Log off when not in use
+  - Secure/protect critical hardware(e.g. laptops)
+  - Secure personally identifiable information(PII) and passwords
 - Account management
+  - Restrict user permissions
+  - Restrict login times
+  - Disable guest account
+  - Use failed attempts lockout
+  - Use timeout/screen lock
 - Change default administrator's user account/password
 - Disable AutoRun
 - Disable AutoPlay
