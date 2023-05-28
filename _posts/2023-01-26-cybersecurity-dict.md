@@ -20,6 +20,7 @@ aside: true
   - [E](#e)
   - [F](#f)
   - [I](#i)
+  - [L](#l)
   - [N](#n)
   - [R](#r)
   - [S](#s)
@@ -55,13 +56,17 @@ FRAUDULENT-nieuczciwy, FUZZING-rozmyte,
 
 inheritance-dziedzictwo,intimidation-zastraszanie,INDICATOR-wskaznik,intact-nienaruszony
 
+### L
+
+Lateral-boczny
+
 ### N
 
 nefarious-nikczemny
 
 ### R
 
-resemble-przypominac
+resemble-przypominac, remediate-zaradzic
 
 ### S
 
