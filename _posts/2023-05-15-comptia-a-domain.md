@@ -277,8 +277,17 @@ aside: true
 ### 2.8 Given a scenario, use common data destruction and disposal methods
 
 - Physical destruction
+  - Drilling
+  - Shredding
+  - Degaussing
+  - Incinerating
 - Recycling or repurposing best practices
+  - Erasing/wiping
+  - Low-level formatting
+  - Standard formatting
 - Outsourcing concepts
+  - Third-party vendor
+  - Certification of destruction/recycling
 
 ### 2.9 Given a scenario, configure appropriate security setting on small office/home office (SOHO) wireless and wired networks
 
