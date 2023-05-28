@@ -61,7 +61,7 @@ aside: true
 - Credential harvesting
 - Reconnaissance
 - Hoax
-- Impersonation
+- Impersonation(simply means pretending to be someone else)
 - Watering hole attack
 - Typosquatting
 - Pretexting
