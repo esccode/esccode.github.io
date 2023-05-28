@@ -19,6 +19,7 @@ aside: true
   - [D](#d)
   - [E](#e)
   - [F](#f)
+  - [N](#n)
 - [waiting room](#waiting-room)
 - [CYBERSECURITY PHRASES](#cybersecurity-phrases)
 
@@ -26,28 +27,33 @@ aside: true
 
 ### A
 
-availability-dostepnosc,ABNORMAL-nieprawidlowy, ACCOMPLISHED-osiagniete,
+availability-dostepnosc,ABNORMAL-nieprawidlowy, ACCOMPLISHED-osiagniete,ALTERATION(opposite of integrity)-zmiana,AVAILABILITY-dostepnosc,  admissible-dopuszczony,adversary-przeciwnik
 
 ### B
 
 ### C
 
-CAPTIVE-jeniec, Chain of custody-lancuch dostaw, CONDUCTING-prowadzenia,CAPTURED-zlapany, constraints-ograniczenia,credential harvesting-zbieranie danych uwierzytelniajacych,counterintelligence-kontrwywiad,concealed-ukryty,COMPLIANCE-zgodnosc, CUSTODIAN-opiekun,
+CAPTIVE-jeniec, Chain of custody-lancuch dostaw, CONDUCTING-prowadzenia,CAPTURED-zlapany, constraints-ograniczenia,credential harvesting-zbieranie danych uwierzytelniajacych,counterintelligence-kontrwywiad,concealed-ukryty,COMPLIANCE-zgodnosc, CUSTODIAN-opiekun,countermeasure-srodki zaradcze,CONFIDENTIALITY-poufnosc,CONSENSUS-zgoda,circumvented-ominiety
 
 ### D
 
-DECIVE-zawodzic,DEPLOYING-wdraza, DISCLOSURE-ujawnienie, DESTRUCTION-opposite of availability,DIVULGE-ujawniac, dataset-zestaw danych, due-diligence-nalezyta starannosc
+DECIVE-zawodzic,DEPLOYING-wdraza, DISCLOSURE-ujawnienie, DESTRUCTION-opposite of availability,DIVULGE-ujawniac, dataset-zestaw danych, due-diligence-nalezyta starannosc,
+DATA ACQUISITION-pozyskiwanie danych,data compromise-kompromitacja danych,DEEPFAKES-?,
 
 ### E
 
-ENCOMPASSES-obejmuje, EVALUATING-oceniac, EMBEDED-osadzone,
+ENCOMPASSES-obejmuje, EVALUATING-oceniac, EMBEDED-osadzone,ENTICING-necac
 
 ### F
 
 FRAUDULENT-nieuczciwy, FUZZING-rozmyte,
 
+### N
 
-precautions-srodki ostroznosci,     GUAGE-mierzy, HANDHELD-podreczny, IDENTITY-tozsamosc, INVOLVE-obejmoje, MALFORMED-znieksztalcony, MALICIOUS-zlosliwe, OCCURED-wystapił, REFLECT-odwzierciedla, REVOKED-uniewaznione, ROGUE-lobuz, SUITED-pasuje,  SELF-GRADING-samoocena, SPOOFING-falszowanie, SNIFFING-wachanie, THOROUGH-dokladny, VIOLATE-porusza, VOLATILITY-zmiennosc, CONSENSUS-zgoda, RESIDES-mieszka, MITIGATE-lagodzic, REVEAL-ujawnia, SMISHING, PHISHING, WIDESPREAD-rozpowszechnione, PREDICTIVE-prorocze, INDICATOR-wskaznik, PARTAKING IN-brac udzial,  UTILITY-media, DEEPFAKES, MALWARE, RANSOMWARE, MFA, DEEPFAKES, SCAMMERS-oszustwa, FRAUD, INSIDER THREATS, SABOTAGE, THEFT, ESPIONAGE, BOTNET, OWASP(open web application security project), DETECT and PREVENT, , Actor-Action, RESEMBLE-przypominac, POSE A GREATEST RISK-stwarzac najwieksze zagrozenie, SOPHISTICATED ATTACKERS-wyrafinowani napastnicy, ENTICING-necac,   RETRIEVE-odzyskac, ALTERATION(opposite of integrity)-zmiana, , CONFIDENTIALITY-poufnosc, INTEGRITY-uczciwosc, AVAILABILITY-dostepnosc, DATA ACQUISITION-pozyskiwanie danych, admissible-dopuszczony, subdue-pokonac, violation-naruszenie, severity of the event-waga zdarzenia, warrant-nakaz, order of volatility-rzad zmiennosci, swap-wymienic, law enforcement-egzekwowanie prawa, seize-chwycic, seized-zajete, perpetrator to forge-sprawca falszowania, severity of the security brech-waga naruszenia bezpieczenstwa, data compromise-kompromitacja danych, circumvented-ominiety, intact-nienaruszony, deterrent-odstraszajacy, portability-ruchliwosc, prioprietary-prawnie zastrzezone, render-oddac/udzielac, , preventative-zapobiegawcze, adversary-przeciwnik, violating-naruszenie, reasonable-rozsadny,espionage-szpiegostwo,,pose a risk-stwarzac ryzyko,countermeasure-srodki zaradcze, intimidation-zastraszanie, hoax-zart, scarcity-niedostatek,deter-powstrzymac, 
+nefarious-nikczemny
+
+
+precautions-srodki ostroznosci,GUAGE-mierzy, HANDHELD-podreczny, IDENTITY-tozsamosc, INVOLVE-obejmoje, MALFORMED-znieksztalcony, MALICIOUS-zlosliwe, OCCURED-wystapił, REFLECT-odwzierciedla, REVOKED-uniewaznione, ROGUE-lobuz, SUITED-pasuje,  SELF-GRADING-samoocena, SPOOFING-falszowanie, SNIFFING-wachanie, THOROUGH-dokladny, VIOLATE-porusza, VOLATILITY-zmiennosc, , RESIDES-mieszka, MITIGATE-lagodzic, REVEAL-ujawnia, SMISHING, PHISHING, WIDESPREAD-rozpowszechnione, PREDICTIVE-prorocze, INDICATOR-wskaznik, PARTAKING IN-brac udzial,  UTILITY-media, DEEPFAKES, MALWARE, RANSOMWARE, MFA, , SCAMMERS-oszustwa, FRAUD, INSIDER THREATS, SABOTAGE, THEFT, ESPIONAGE, BOTNET, OWASP(open web application security project), DETECT and PREVENT, , Actor-Action, RESEMBLE-przypominac, POSE A GREATEST RISK-stwarzac najwieksze zagrozenie, SOPHISTICATED ATTACKERS-wyrafinowani napastnicy, ,   RETRIEVE-odzyskac, , , , INTEGRITY-uczciwosc, , subdue-pokonac, violation-naruszenie, severity of the event-waga zdarzenia, warrant-nakaz, order of volatility-rzad zmiennosci, swap-wymienic, law enforcement-egzekwowanie prawa, seize-chwycic, seized-zajete, perpetrator to forge-sprawca falszowania, severity of the security brech-waga naruszenia bezpieczenstwa, , , intact-nienaruszony, deterrent-odstraszajacy, portability-ruchliwosc, prioprietary-prawnie zastrzezone, render-oddac/udzielac, , preventative-zapobiegawcze, , violating-naruszenie, reasonable-rozsadny,espionage-szpiegostwo,,pose a risk-stwarzac ryzyko,, intimidation-zastraszanie, hoax-zart, scarcity-niedostatek,deter-powstrzymac, 
 
 ## waiting room
 
