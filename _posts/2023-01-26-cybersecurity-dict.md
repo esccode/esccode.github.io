@@ -65,7 +65,7 @@ hoax-żart
 
 ### I
 
-inheritance-dziedzictwo,intimidation-zastraszanie,INDICATOR-wskaznik,intact-nienaruszony
+Inheritance-dziedzictwo,Intimidation-zastraszanie,INDICATOR-wskaznik,Intact-nienaruszony
 
 ### L
 
