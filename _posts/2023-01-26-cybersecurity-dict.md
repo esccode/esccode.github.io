@@ -24,6 +24,7 @@ aside: true
   - [I](#i)
   - [L](#l)
   - [N](#n)
+  - [M](#m)
   - [R](#r)
   - [S](#s)
   - [U](#u)
@@ -57,15 +58,15 @@ FRAUDULENT-nieuczciwy, FUZZING-rozmyte,
 
 ### G
 
-genuine-autentyczny,GUAGE-mierzy
+Genuine-autentyczny,GUAGE-mierzy
 
 ### H
 
-hoax-żart
+Hoax-żart,Harvest-zniwa
 
 ### I
 
-Inheritance-dziedzictwo,Intimidation-zastraszanie,INDICATOR-wskaznik,Intact-nienaruszony
+Inheritance-dziedzictwo,Intimidation-zastraszanie,INDICATOR-wskaznik,Intact-nienaruszony,IDENTITY-tozsamosc, INVOLVE-obejmoje,
 
 ### L
 
@@ -75,9 +76,13 @@ Lateral-boczny
 
 nefarious-nikczemny
 
+### M
+
+MALFORMED-znieksztalcony, MALICIOUS-zlosliwe,
+
 ### R
 
-resemble-przypominac, remediate-zaradzic
+Resemble-przypominac, Remediate-zaradzic,REFLECT-odwzierciedla, REVOKED-uniewaznione, ROGUE-lobuz,
 
 ### S
 
@@ -88,7 +93,7 @@ Surveillance-nadzór,Scarcity-niedostatek,SOPHISTICATED ATTACKERS-wyrafinowani n
 unattended-bez opieki
 
 
-precautions-srodki ostroznosci,, HANDHELD-podreczny, IDENTITY-tozsamosc, INVOLVE-obejmoje, MALFORMED-znieksztalcony, MALICIOUS-zlosliwe, OCCURED-wystapił, REFLECT-odwzierciedla, REVOKED-uniewaznione, ROGUE-lobuz, SPOOFING-falszowanie, , THOROUGH-dokladny, VIOLATE-porusza, VOLATILITY-zmiennosc, , RESIDES-mieszka, MITIGATE-lagodzic, REVEAL-ujawnia, SMISHING, PHISHING, WIDESPREAD-rozpowszechnione, PREDICTIVE-prorocze, , PARTAKING IN-brac udzial,  UTILITY-media, DEEPFAKES, MALWARE, RANSOMWARE, MFA, , SCAMMERS-oszustwa, FRAUD, INSIDER THREATS, SABOTAGE, THEFT, ESPIONAGE, BOTNET, OWASP(open web application security project), DETECT and PREVENT, , Actor-Action, RESEMBLE-przypominac, POSE A GREATEST RISK-stwarzac najwieksze zagrozenie, , ,   RETRIEVE-odzyskac, , , , INTEGRITY-uczciwosc, , subdue-pokonac, violation-naruszenie, , warrant-nakaz, order of volatility-rzad zmiennosci, swap-wymienic, law enforcement-egzekwowanie prawa, seize-chwycic, seized-zajete, perpetrator to forge-sprawca falszowania, , , , , , portability-ruchliwosc, prioprietary-prawnie zastrzezone, render-oddac/udzielac, , preventative-zapobiegawcze, , violating-naruszenie, reasonable-rozsadny,espionage-szpiegostwo,,pose a risk-stwarzac ryzyko,, , hoax-zart, ,deter-powstrzymac, 
+precautions-srodki ostroznosci,, HANDHELD-podreczny,   OCCURED-wystapił,  SPOOFING-falszowanie, , THOROUGH-dokladny, VIOLATE-porusza, VOLATILITY-zmiennosc, , RESIDES-mieszka, MITIGATE-lagodzic, REVEAL-ujawnia, SMISHING, PHISHING, WIDESPREAD-rozpowszechnione, PREDICTIVE-prorocze, , PARTAKING IN-brac udzial,  UTILITY-media, DEEPFAKES, MALWARE, RANSOMWARE, MFA, , SCAMMERS-oszustwa, FRAUD, INSIDER THREATS, SABOTAGE, THEFT, ESPIONAGE, BOTNET, OWASP(open web application security project), DETECT and PREVENT, , Actor-Action, RESEMBLE-przypominac, POSE A GREATEST RISK-stwarzac najwieksze zagrozenie, , ,   RETRIEVE-odzyskac, , , , INTEGRITY-uczciwosc, , subdue-pokonac, violation-naruszenie, , warrant-nakaz, order of volatility-rzad zmiennosci, swap-wymienic, law enforcement-egzekwowanie prawa, seize-chwycic, seized-zajete, perpetrator to forge-sprawca falszowania, , , , , , portability-ruchliwosc, prioprietary-prawnie zastrzezone, render-oddac/udzielac, , preventative-zapobiegawcze, , violating-naruszenie, reasonable-rozsadny,espionage-szpiegostwo,,pose a risk-stwarzac ryzyko,, , hoax-zart, ,deter-powstrzymac, 
 
 ## waiting room
 
