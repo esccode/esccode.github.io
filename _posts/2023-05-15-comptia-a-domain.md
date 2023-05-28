@@ -224,6 +224,7 @@ aside: true
   - File and folder attributes
   - inheritance
 - Run as administrator vs. standard user
+  - User Account Control(UAC)
 - BitLocker
 - BitLocker To Go
 - Encrypting File System(EFS)
