@@ -20,6 +20,7 @@ aside: true
   - [E](#e)
   - [F](#f)
   - [G](#g)
+  - [H](#h)
   - [I](#i)
   - [L](#l)
   - [N](#n)
@@ -57,6 +58,10 @@ FRAUDULENT-nieuczciwy, FUZZING-rozmyte,
 ### G
 
 genuine-autentyczny,GUAGE-mierzy
+
+### H
+
+hoax-żart
 
 ### I
 
