@@ -38,6 +38,7 @@ aside: true
   - [3.4 Given a scenario, troubleshoot common mobile OS and application issues](#34-given-a-scenario-troubleshoot-common-mobile-os-and-application-issues)
   - [3.5 Given a scenario, troubleshoot common mobile OS and application security issues](#35-given-a-scenario-troubleshoot-common-mobile-os-and-application-security-issues)
 - [Domain 4.0 Operational Procedures](#domain-40-operational-procedures)
+  - [4.1 GIven a scenario, implement best practices with documentation and support systems information management](#41-given-a-scenario-implement-best-practices-with-documentation-and-support-systems-information-management)
   - [4.8 Identify the basics of scripting](#48-identify-the-basics-of-scripting)
   - [4.9 Given a scenario, use remote access technologies](#49-given-a-scenario-use-remote-access-technologies)
 - [CompTIA A+ Core (220-1102) Acronym List](#comptia-a-core-220-1102-acronym-list)
@@ -369,6 +370,38 @@ aside: true
   - Leaked personal files/data
 
 ## Domain 4.0 Operational Procedures
+
+### 4.1 GIven a scenario, implement best practices with documentation and support systems information management
+
+- Ticketing systems
+  - User information
+  - Device information
+  - Describe of problems
+  - Categories
+  - Severity
+  - Escalation levels
+  - Clear, concise written communication
+    - Problem description
+    - Progress notes
+    - Problem resolution 
+- Asset management
+  - Inventory lists
+  - Database system
+  - Asset tags and IDs
+  - Procurement life cycle
+  - Warranty and licensing
+  - Assigned users
+- Types of documents
+  - Acceptable use policy(AUP)
+  - Network topology diagram
+  - Regulatory compliance requirements
+    - Splash screens
+  - Incident reports
+  - Standard operating procedures
+    - Procedures for custom installation of software package
+  - New-user setup checklist
+- Knowledge base/articles
+
 
 ### 4.8 Identify the basics of scripting
 
