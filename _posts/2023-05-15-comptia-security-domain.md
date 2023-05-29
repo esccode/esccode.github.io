@@ -408,8 +408,40 @@ aside: true
 ### 2.4 Summarize authentication and authorization design concepts
 
 - Authentication methods
+  - Directory service
+  - Federation
+  - Attestation
+  - Technologies
+    - Time-based one-time password(TOTP)
+    - HMAC-based one-time password(HOTP)
+    - Short message service(SMS)
+    - Token key
+    - Static codes
+    - Authentication applications
+    - Push notifications
+    - Phone call
+  - Smart card authentication
 - Biometrics
+  - Fingerprint
+  - Retina
+  - Iris
+  - Facial
+  - Voice
+  - Vein
+  - Gait analysis
+  - Efficacy acceptance
+  - False rejection
+  - Crossover error rate
 - Multifactor authentication(MFA) factors and attributes
+  - Factors
+    - Something you know
+    - Something you have
+    - Something you are
+  - Attributes
+    - Somewhere you are
+    - Something you can do
+    - Something you exhibit(eksponowac)
+    - Someone you know
 - Authentications authorization, and accounting(AAA)
 - Cloud vs. on-premises requirements
 
