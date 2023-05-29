@@ -40,6 +40,7 @@ aside: true
 - [Domain 4.0 Operational Procedures](#domain-40-operational-procedures)
   - [4.1 GIven a scenario, implement best practices with documentation and support systems information management](#41-given-a-scenario-implement-best-practices-with-documentation-and-support-systems-information-management)
   - [4.2 Explain basic change-management best practices](#42-explain-basic-change-management-best-practices)
+  - [4.3 Given a scenario, implement workstation backups and recovery methods](#43-given-a-scenario-implement-workstation-backups-and-recovery-methods)
   - [4.8 Identify the basics of scripting](#48-identify-the-basics-of-scripting)
   - [4.9 Given a scenario, use remote access technologies](#49-given-a-scenario-use-remote-access-technologies)
 - [CompTIA A+ Core (220-1102) Acronym List](#comptia-a-core-220-1102-acronym-list)
@@ -419,6 +420,20 @@ aside: true
     - Risk level
   - Change board approvals
   - End-user acceptance
+
+### 4.3 Given a scenario, implement workstation backups and recovery methods
+
+- Backup and recovery
+  - Full
+  - Incremental
+  - Differential
+  - Synthetic
+- Backup testing 
+  - Frequency
+- Backup rotation schemes
+  - On site vs. off site
+  - Grandfather-father-son(GFS)
+  - 3-2-1 backup rule
 
 
 ### 4.8 Identify the basics of scripting
