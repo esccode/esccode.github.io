@@ -153,22 +153,78 @@ aside: true
 ### 2.3 Given a scenario, detect, remove, and prevent malware using the appropriate tools and methods
 
 - Malware
+  - Trojan
+  - Rootkit
+  - Virus
+  - Spyware
+  - Ransomware
+  - Keylogger
+  - Boot sector virus
+  - Cryptominers
 - Tools and methods
+  - Recovery mode
+  - Antivirus
+  - Anti-malware
+  - Software firewalls
+  - Anti-phishing training
+  - User education regarding common threats
+  - OS reinstallation
 
 ### 2.4 Explain common social-engineering attacks, threts, and vulnerabilities
 
 - Social engineering
+  - Phishing
+  - Vishing
+  - Shoulder surfing
+  - Whaling
+  - Tailgating
+  - Impersonation
+  - Dumpster diving
+  - Evil twin
 - Threats
+  - Distributed denial of service(DDoS)
+  - Denial of service(DoS)
+  - Zero-day attack
+  - Spoofing
+  - On-path attack
+  - Brute-force attack
+  - Dictionary attack
+  - Insider threat
+  - Structured Query Language(SQL) injection
+  - Cross-site scripting(XSS)
 - Vulnerabilities
+  - Non-compliant system
+  - Unpatched systems
+  - Unprotected systems(missing antivirus/missing firewall)
+  - EOL OSs
+  - Bring your own device(BYOD)
 
 ### 2.5 Given a scenario, manage and configure basic security settings in the Microsoft Windows OS
 
 - Defender Antivirus
+  - Active/deactivate
+  - Updated definitions
 - Firewall
+  - Activate/deactivate
+  - Port security
+  - Application security
 - User and groups
+  - Local vs. Microsoft account
+  - Atandard account
+  - Administrator
+  - Guest user
+  - Power user
 - Login OS options
+  - Username and password
+  - Personal Identification number(PIN)
+  - Fingerprint
+  - Facial recognitions
+  - Single sign-on(SSO)
 - NTFS vs. share permissions
+  - File and folder attributes
+  - inheritance
 - Run as administrator vs. standard user
+  - User Account Control(UAC)
 - BitLocker
 - BitLocker To Go
 - Encrypting File System(EFS)
@@ -177,8 +233,22 @@ aside: true
 
 - Data-at-rest encryption
 - Password best practices
+  - Complexity requirements
+    - Length
+    - Character types
+  - Expiration requirements
+  - Basic input/output system (BIOS)/Unified Extensible Firmware Interfact(UEFI) passwords
 - End-user best practices
+  - User screensaver locks
+  - Log off when not in use
+  - Secure/protect critical hardware(e.g. laptops)
+  - Secure personally identifiable information(PII) and passwords
 - Account management
+  - Restrict user permissions
+  - Restrict login times
+  - Disable guest account
+  - Use failed attempts lockout
+  - Use timeout/screen lock
 - Change default administrator's user account/password
 - Disable AutoRun
 - Disable AutoPlay
@@ -207,8 +277,17 @@ aside: true
 ### 2.8 Given a scenario, use common data destruction and disposal methods
 
 - Physical destruction
+  - Drilling
+  - Shredding
+  - Degaussing
+  - Incinerating
 - Recycling or repurposing best practices
+  - Erasing/wiping
+  - Low-level formatting
+  - Standard formatting
 - Outsourcing concepts
+  - Third-party vendor
+  - Certification of destruction/recycling
 
 ### 2.9 Given a scenario, configure appropriate security setting on small office/home office (SOHO) wireless and wired networks
 
