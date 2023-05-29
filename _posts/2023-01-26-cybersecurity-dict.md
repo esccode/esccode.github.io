@@ -83,7 +83,7 @@ MALFORMED-znieksztalcony, MALICIOUS-zlosliwe,
 
 ### P
 
-PREDICTIVE-prorocze,Pose a risk-stwarzac ryzyko,RETRIEVE-odzyskac,PARTAKING IN-brac udzial,Prioprietary-prawnie zastrzezone
+PREDICTIVE-prorocze,Pose a risk-stwarzac ryzyko,RETRIEVE-odzyskac,PARTAKING IN-brac udzial,Prioprietary-prawnie zastrzezone, Pile a Data-stos danych
 
 ### R
 
