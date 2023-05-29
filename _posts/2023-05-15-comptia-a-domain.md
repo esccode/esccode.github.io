@@ -436,6 +436,16 @@ aside: true
 |APFS|Apple File System|
 |||
 |||
+|The EU GDPR|General Data Protection Regulation|
+|||
+|||
+|PCI-DSS|Payment Card Industry Data Security Standard|
+|PHI|Personal Health Information|
+|PII|Personally Identifiable Information|
+|||
+|||
+|||
+|||
 |||
 |||
 
