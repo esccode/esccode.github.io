@@ -39,6 +39,7 @@ aside: true
   - [3.5 Given a scenario, troubleshoot common mobile OS and application security issues](#35-given-a-scenario-troubleshoot-common-mobile-os-and-application-security-issues)
 - [Domain 4.0 Operational Procedures](#domain-40-operational-procedures)
   - [4.1 GIven a scenario, implement best practices with documentation and support systems information management](#41-given-a-scenario-implement-best-practices-with-documentation-and-support-systems-information-management)
+  - [4.2 Explain basic change-management best practices](#42-explain-basic-change-management-best-practices)
   - [4.8 Identify the basics of scripting](#48-identify-the-basics-of-scripting)
   - [4.9 Given a scenario, use remote access technologies](#49-given-a-scenario-use-remote-access-technologies)
 - [CompTIA A+ Core (220-1102) Acronym List](#comptia-a-core-220-1102-acronym-list)
@@ -401,6 +402,23 @@ aside: true
     - Procedures for custom installation of software package
   - New-user setup checklist
 - Knowledge base/articles
+
+### 4.2 Explain basic change-management best practices
+
+- Documented business processes
+  - Rollback plan
+  - Sandbox testing
+  - Responsible staff member
+- Change management
+  - Request forms
+  - Purpose of the change
+  - Scope of the change
+  - Date and time of the change
+  - Affected systems/impact
+  - Risk analysis
+    - Risk level
+  - Change board approvals
+  - End-user acceptance
 
 
 ### 4.8 Identify the basics of scripting
