@@ -41,6 +41,8 @@ aside: true
   - [4.1 GIven a scenario, implement best practices with documentation and support systems information management](#41-given-a-scenario-implement-best-practices-with-documentation-and-support-systems-information-management)
   - [4.2 Explain basic change-management best practices](#42-explain-basic-change-management-best-practices)
   - [4.3 Given a scenario, implement workstation backups and recovery methods](#43-given-a-scenario-implement-workstation-backups-and-recovery-methods)
+  - [4.4 Given a scenario, use common safety procedures](#44-given-a-scenario-use-common-safety-procedures)
+  - [4.5 Summarize environmental impacts and local environmental controls](#45-summarize-environmental-impacts-and-local-environmental-controls)
   - [4.8 Identify the basics of scripting](#48-identify-the-basics-of-scripting)
   - [4.9 Given a scenario, use remote access technologies](#49-given-a-scenario-use-remote-access-technologies)
 - [CompTIA A+ Core (220-1102) Acronym List](#comptia-a-core-220-1102-acronym-list)
@@ -280,10 +282,10 @@ aside: true
 ### 2.8 Given a scenario, use common data destruction and disposal methods
 
 - Physical destruction
-  - Drilling
-  - Shredding
-  - Degaussing
-  - Incinerating
+  - Drilling(wiercenie)
+  - Shredding(rozdrabnianie)
+  - Degaussing(rozmagnesowanie)
+  - Incinerating(spalanie)
 - Recycling or repurposing best practices
   - Erasing/wiping
   - Low-level formatting
@@ -435,6 +437,21 @@ aside: true
   - Grandfather-father-son(GFS)
   - 3-2-1 backup rule
 
+### 4.4 Given a scenario, use common safety procedures
+
+### 4.5 Summarize environmental impacts and local environmental controls
+
+- Material safety data sheet(MSDS)/documentations for handling and disposal
+  - Proper battery disposal
+  - Proper toner disposal
+  - Proper disposal of other devices and assets
+- Temperature, humidity-level awareness, and proper ventilation
+  - Location/equipment placement
+  - Dust cleanup
+  - Compressed air/vacuums
+- Power surges, under voltage events, and power failures
+  - Battery backup
+  - Surge suppressor(Tłumik przepiec)
 
 ### 4.8 Identify the basics of scripting
 
