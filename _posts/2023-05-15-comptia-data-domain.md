@@ -95,7 +95,9 @@ aside: true
 - Integration
   - Extract, transform, load(ETL)
   - Extract, load, transform(ELT)
-  - Delta load(often use the ELT process, data lakes are meant to hold both unstructured and structured data)
+  - Delta load(moves only recently changed data from the transactional system to data the data warehouse)
+    - Initial load(moves all data from the transactional system to the data warehouse)
+    - Data lakes
   - Application programming
   - Interfaces(APIs)
 - Data collection methods
@@ -104,7 +106,7 @@ aside: true
   - Application programming
   - Interface(API)/web services
   - Survey
-  - Sampling
+  - Sampling(pobieranie próbek)
   - Observation
 
 ### 2.2 Identify common reason for cleansing and profiling datasets
