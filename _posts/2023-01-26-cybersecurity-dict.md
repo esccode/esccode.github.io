@@ -36,7 +36,7 @@ aside: true
 
 ### A
 
-availability-dostepnosc,ABNORMAL-nieprawidlowy, ACCOMPLISHED-osiagniete,ALTERATION(opposite of integrity)-zmiana,AVAILABILITY-dostepnosc,  admissible-dopuszczony,adversary-przeciwnik
+availability-dostepnosc,ABNORMAL-nieprawidlowy, ACCOMPLISHED-osiagniete,ALTERATION(opposite of integrity)-zmiana,AVAILABILITY-dostepnosc,  admissible-dopuszczony,adversary-przeciwnik,Avert-odwrocic
 
 ### B
 
