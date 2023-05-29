@@ -113,10 +113,10 @@ aside: true
 
 - Duplicate data
 - Redundant data
-- Missing values
+- Missing values(MCAR,MAR,MNAR)
 - Invalid data
 - Non-parametric data
-- Data outliers
+- Data outliers(odstajacych)
 - Specification mismatch
 - Data type validation
 
@@ -125,14 +125,14 @@ aside: true
 - Recoding data
   - Numeric
   - Categorical
-- Derived variables
-- Data merge
-- Data blending
-- Concatenation
-- Data append
-- Imputation
+- Derived variables(pochodne zmienne)
+- Data merge(adds columns)
+- Data blending(combine dataset from diffrent resources)
+- Concatenation(combine two strings)
+- Data append(adds rows)
+- Imputation(przypisywanie)
 - Reduction/aggregation
-- Transpose
+- Transpose(swap row and columns)
 - Normalize data
 - Parsing/string manipulation
 
