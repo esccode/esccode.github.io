@@ -30,6 +30,7 @@ aside: true
   - [2.7 Explain the importance of physical security controls](#27-explain-the-importance-of-physical-security-controls)
   - [2.8 Summarize the basic of cryptographic concepts](#28-summarize-the-basic-of-cryptographic-concepts)
 - [Domain 3.0 Implementation](#domain-30-implementation)
+  - [3.8 gIVEN A SCENARIO, implement authentication and authorization solutions](#38-given-a-scenario-implement-authentication-and-authorization-solutions)
 - [Domain 4.0 Operations and Incident Response](#domain-40-operations-and-incident-response)
   - [4.1 Given a scenario, use the appropriate tool to assess organizational security](#41-given-a-scenario-use-the-appropriate-tool-to-assess-organizational-security)
 - [Domain 5.0 Governance, Risk, and Compliance](#domain-50-governance-risk-and-compliance)
@@ -410,12 +411,12 @@ aside: true
 - Authentication methods
   - Directory service
   - Federation
-  - Attestation
+  - Attestation(approved device compliant with company policies)
   - Technologies
     - Time-based one-time password(TOTP)
     - HMAC-based one-time password(HOTP)
     - Short message service(SMS)
-    - Token key
+    - Token key(one-time password provided on a hardware of software token generator)
     - Static codes
     - Authentication applications
     - Push notifications
@@ -427,11 +428,11 @@ aside: true
   - Iris
   - Facial
   - Voice
-  - Vein
-  - Gait analysis
+  - Vein(żyła)
+  - Gait analysis(chód)
   - Efficacy acceptance
   - False rejection
-  - Crossover error rate
+  - Crossover error rate(FAR=false acceptace rate and FRR=false rejection rate)
 - Multifactor authentication(MFA) factors and attributes
   - Factors
     - Something you know
@@ -477,6 +478,37 @@ aside: true
 ### 2.8 Summarize the basic of cryptographic concepts
 
 ## Domain 3.0 Implementation
+
+### 3.8 gIVEN A SCENARIO, implement authentication and authorization solutions
+
+- Authentication management
+  - Password keys(like USB device and works in conjuction with your password to provide multi-factor authentication)
+  - Password vaults(use strong encryption(e.g. AES-256))
+  - **TPM**(Trusted Platform Module normally built into the motherboard of a computer)
+  - **HSM**(Hardware Security Module)
+  - Knowledge-based authentication(KBA normally used by banks)
+- Authentication/authorization
+  - EAP(Extensible Auth Protocol)
+  - Challenge-Handshake
+  - Authentication Protocol(CHAP)
+  - Password Authentication Protocol(**PAP**)
+  - 802.1X
+  - RADIUS(uses UDP and encrypts the passwords only, remote access)
+  - Single sign-on(SSO)(means a user doesn't have to sign into every application they use. the user logs in once and that credential is used for multiple apps)
+  - Security Assertion Markup Language(SAML)(common in on-prem federation scenarios)
+  - Terminal Access Controller Access Control System Plus(**TACACS+**)(admin access to network devices, uses TCP and encrypts the entire session)
+  - OAuth(for internet users to log into third party websites using their Microsoft, Google, Facebook, Twitter etc. accounts without exposing their passwords)
+  - OpenID(loggin into spotify with your FB account)
+  - Kerberos(authorization protocol in Microsoft Azure Directory)
+- Access control scheme
+  - Attribute based access control(ABAC)
+  - Role-based access control(RBAC)(typical mapped to job roles)
+  - Rule-based access control(global rules)
+  - MAC(Mandatory access control)
+  - Discretionary access control(DAC)
+  - Conditional access
+  - Privileged access management(privileged accounts within a domain)
+  - Filesystem permissions(NTFS(Windows), SUID and SGID(Linux))
 
 ## Domain 4.0 Operations and Incident Response
 
