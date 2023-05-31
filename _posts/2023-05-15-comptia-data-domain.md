@@ -200,7 +200,7 @@ Inferential Statistics draws conclusions from our data by making generalizations
   - Performance analysis
     - Tracking measurements against defined goals
     - Basic projections to achieve goals
-  - Exploratory data analysis
+  - Exploratory data analysis(EDA)
     - Use of descriptive statistics to determine observations
   - Link analysis
     - Connections of data points or pathway
