@@ -305,18 +305,18 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 
 ### 4.4 Given a scenario, apply the appropriate type of visualization
 
-- Line chart
-- Pie chart
+- Line chart(compare the values of two variables using two axes)
+- Pie chart(show the proportions of variable values)
 - Bubble chart
-- Scatter plot
-- Bar chart
+- Scatter plot(have both an x-axis and y-axis)
+- Bar chart(Show how data fits into categories)
 - Histogram
 - Waterfall
 - Heat map
 - Geographic map
-- Tree map
+- Tree map(designed for nested datasets)
 - Stacked chart
-- Infographic
+- Infographic(tells a visual story)
 - Word cloud
 
 ### 4.5 Compare and contrast types of reports
