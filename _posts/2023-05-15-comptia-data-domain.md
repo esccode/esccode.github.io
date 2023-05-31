@@ -156,9 +156,50 @@ aside: true
 
 ### 3.1 Given a scenario, apply the appropriate descriptive statistical methods
 
+- Measures of central tendency
+  - Mean
+  - Median
+  - Mode
+- Measures of dispersion
+  - Range
+    - Max
+    - Min
+  - Distribution
+  - Variance
+  - Standard deviation
+- Frequencies/percentages
+- Percent change
+- Percent difference
+- Confidence intervals
+
 ### 3.2 Explain the purpose of inferential statistical methods
 
+- t-tests
+- Z-score
+- p-values
+- Chi-squared
+- Hypothesis testing
+  - Type I error
+  - Type II error
+- Simple linear regression
+- Correlation
+
 ### 3.3 Summarize types of analysis and key analysis techniques
+
+- Process to determine type of analysis
+  - Review/refine business questions
+  - Determine data needs and sources to perform analysis
+  - Scoping/gap analysis
+- Type of analysis
+  - Trend analysis
+    - Comparison of data over time
+  - Performance analysis
+    - Tracking measurements against defined goals
+    - Basic projections to achieve goals
+  - Exploratory data analysis
+    - Use of descriptive statistics to determine observations
+  - Link analysis
+    - Connections of data points or pathway
 
 ### 3.4 Identify common data analytics tools
 
