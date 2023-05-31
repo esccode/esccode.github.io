@@ -186,7 +186,7 @@ Inferential Statistics draws conclusions from our data by making generalizations
   - Type I error(accept)
   - Type II error(reject)
 - Simple linear regression
-- Correlation
+- **Correlation**(Strength of relationship between two variables)(positive correlation(r>0),negative correlation(r<0),no correlation(r=0))
 
 ### 3.3 Summarize types of analysis and key analysis techniques
 
