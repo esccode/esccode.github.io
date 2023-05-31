@@ -253,9 +253,9 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
   - Layout
   - Front size and styles
   - Key chart elements
-    - Title
-    - Labels
-    - Legends
+    - Title(title-30p,heading 1-26p,heading 2-20p,heading 3-16p,Body text-13p)
+    - Labels(to identify each axis)
+    - Legends(desc the symbols and/or colors used to represent different categories)
   - Corporate reporting standards/style guide
     - Branding
     - Color codes
@@ -267,16 +267,16 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
   - Reference dates
     - Report run date
     - Data refresh date
-  - Frequently asked questions(FAQs)
-  - Appendix
+  - Frequently asked questions(FAQs)(answers frequently asked question)
+  - Appendix(include supportive details)
 
 ### 4.3 Given a scenario, use appropriate methods for dashboards development
 
 - Dashboard considerations
   - Data source and attributes
     - Field definitions
-    - Dimensions
-    - Measures
+    - Dimensions(attributes used to divide data into categories or segments)
+    - Measures(quantitive data that will be explored by dashboard users)
   - Continuous/live data feed vs. static data
   - Consumer types
     - C-level executives
