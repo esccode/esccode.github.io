@@ -200,7 +200,7 @@ Inferential Statistics draws conclusions from our data by making generalizations
   - Performance analysis
     - Tracking measurements against defined goals
     - Basic projections to achieve goals
-  - Exploratory data analysis
+  - Exploratory data analysis(EDA)
     - Use of descriptive statistics to determine observations
   - Link analysis
     - Connections of data points or pathway
@@ -245,14 +245,63 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 ### 4.2 Given a scenario, use appropriate design components for reports and dashboards
 
 - Report cover page
+  - Instructions
+  - Summary
+    - Observation and Insights
 - Design elements
+  - Color schemes
+  - Layout
+  - Front size and styles
+  - Key chart elements
+    - Title
+    - Labels
+    - Legends
+  - Corporate reporting standards/style guide
+    - Branding
+    - Color codes
+    - Logos/trademarks
+    - Watermark
 - Documentation elements
+  - Version number
+  - Reference data sources
+  - Reference dates
+    - Report run date
+    - Data refresh date
+  - Frequently asked questions(FAQs)
+  - Appendix
 
 ### 4.3 Given a scenario, use appropriate methods for dashboards development
 
 - Dashboard considerations
+  - Data source and attributes
+    - Field definitions
+    - Dimensions
+    - Measures
+  - Continuous/live data feed vs. static data
+  - Consumer types
+    - C-level executives
+    - Management
+    - External vendor/stakeholders
+    - General public
+    - Technical experts
 - Development process
+  - Mockup/wireframe
+    - Layout/presentation
+    - Flow/navigation
+    - Data store planning
+  - Approval granted
+  - Develop dashboard
+  - Deploy to production
 - Delivery considerations
+  - Subscriptions
+  - Schedule delivery
+  - Interactive(drill down/roll up)
+    - Saved searches
+    - Filtering
+  - Static
+  - Web interface
+  - Dashboard optimization
+  - Access permisssions
 
 ### 4.4 Given a scenario, apply the appropriate type of visualization
 
@@ -273,9 +322,15 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 ### 4.5 Compare and contrast types of reports
 
 - Static vs. dynamic reports
+  - Point-in-time
+  - Teal time
 - Ad-hoc/one-time report
 - Self-service/on-demand
 - Recuring reports
+  - Compliance report(e.g., financial, health, and safety)
+  - Risk and regulatory reports
+  - Operational reports[e.g., performance, key performance indicators(KPIs)]
+- Tactical /research report
 
 ## Domain 5.0 Data Governance, Quality, and Controls
 
