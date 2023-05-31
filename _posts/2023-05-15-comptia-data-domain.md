@@ -156,16 +156,18 @@ aside: true
 
 ### 3.1 Given a scenario, apply the appropriate descriptive statistical methods
 
+Descriptive Statistics describes our data by summarizing it and providing us with visible features
+
 - Measures of central tendency
-  - Mean
-  - Median
-  - Mode
+  - Mean(math average value)
+  - Median(the value in the middle of the sorted dataset)
+  - Mode(most common value in the dataset)
 - Measures of dispersion
   - Range
     - Max
     - Min
   - Distribution
-  - Variance
+  - Variance(the average of the squared differences of each value in the dataset from the mean)
   - Standard deviation
 - Frequencies/percentages
 - Percent change
@@ -173,6 +175,8 @@ aside: true
 - Confidence intervals
 
 ### 3.2 Explain the purpose of inferential statistical methods
+
+Inferential Statistics draws conclusions from our data by making generalizations and predictions
 
 - t-tests
 - Z-score
