@@ -159,18 +159,18 @@ aside: true
 Descriptive Statistics describes our data by summarizing it and providing us with visible features
 
 - Measures of central tendency
-  - Mean(math average value)
-  - Median(the value in the middle of the sorted dataset)
-  - Mode(most common value in the dataset)
+  - **Mean**(math average value)
+  - **Median**(the value in the middle of the sorted dataset)
+  - **Mode**(most common value in the dataset)
 - Measures of dispersion
   - Range
     - Max
     - Min
   - Distribution
-  - Variance(the average of the squared differences of each value in the dataset from the mean)
+  - **Variance**(the average of the squared differences of each value in the dataset from the mean)(symbol σ² used)
   - Standard deviation
 - Frequencies/percentages
-- Percent change
+- Percent change(Normalizes data to be a proportion of 100)
 - Percent difference
 - Confidence intervals
 
@@ -178,13 +178,13 @@ Descriptive Statistics describes our data by summarizing it and providing us wit
 
 Inferential Statistics draws conclusions from our data by making generalizations and predictions
 
-- t-tests
-- Z-score
-- p-values
-- Chi-squared
+- t-tests(compare the means of two groups)
+- Z-score(Describe how many standard deviations a particular measurement is away from the mean)
+- P-values(Probability that test results are not statistically significant)
+- Chi-squared(Determines whether categorical variables are associated)
 - Hypothesis testing
-  - Type I error
-  - Type II error
+  - Type I error(accept)
+  - Type II error(reject)
 - Simple linear regression
 - Correlation
 
