@@ -235,7 +235,7 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 ### 4.1 Given a scenario, translate business requirements to form a report
 
 - Data content
-- Filtering
+- Filtering(limits report content to relevant data)
 - Views
 - Date range
 - Frequency
