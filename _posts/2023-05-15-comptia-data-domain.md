@@ -326,11 +326,11 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
   - Teal time
 - Ad-hoc/one-time report
 - Self-service/on-demand
-- Recuring reports
+- Recuring reports(Generated on a planed schedule)
   - Compliance report(e.g., financial, health, and safety)
   - Risk and regulatory reports
   - Operational reports[e.g., performance, key performance indicators(KPIs)]
-- Tactical /research report
+- Tactical /research report(Tactical report provide information to support short-term decisions, Research report provide information to support significant,strategic decisions)
 
 ## Domain 5.0 Data Governance, Quality, and Controls
 
