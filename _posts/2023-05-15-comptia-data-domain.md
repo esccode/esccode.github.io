@@ -205,6 +205,27 @@ aside: true
 
 The intent of this objectives is NOT to test specific vendor feature sets nor the purposes of the tools.
 
+- Structured Query Language(SQL)
+- Python
+- Microsoft Excel
+- R
+- Rapid mining
+- IBM Cognos
+- IBM SPSS Modeler
+- IBM SPSS
+- SAS
+- Tableau
+- Power BI
+- Qlik
+- MicroStrategy
+- BusinessObjects
+- Apex
+- Dataroma
+- Domo
+- AWS QuickSight
+- Stata
+- Minitab
+
 ## Domain 4.0 Visualization
 
 ### 4.1 Given a scenario, translate business requirements to form a report
