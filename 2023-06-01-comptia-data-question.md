@@ -1,7 +1,6 @@
 ---
 title: Data Practice Questions
 categories:
-- q&a
 - data
 excerpt: |
   ## Data Practice Questions excerpt
