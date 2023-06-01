@@ -47,7 +47,7 @@ CAPTIVE-jeniec, Chain of custody-lancuch dostaw, CONDUCTING-prowadzenia,CAPTURED
 ### D
 
 DECIVE-zawodzic,DEPLOYING-wdraza, DISCLOSURE-ujawnienie, DESTRUCTION-opposite of availability,DIVULGE-ujawniac, dataset-zestaw danych, due-diligence-nalezyta starannosc,
-DATA ACQUISITION-pozyskiwanie danych,data compromise-kompromitacja danych,DEEPFAKES-?,deterrent-odstraszajacy,drawback-wada,Deemed-uznane za
+DATA ACQUISITION-pozyskiwanie danych,data compromise-kompromitacja danych,DEEPFAKES-?,deterrent-odstraszajacy,drawback-wada,Deemed-uznane za,Data resilience-odpornosc danych,
 
 ### E
 

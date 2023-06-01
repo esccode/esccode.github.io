@@ -458,12 +458,12 @@ aside: true
     - Load balances
     - Network interface card(NIC)teaming
   - Power
-    - Uninterruptible power supply(UPS)
-    - Generator
+    - Uninterruptible power supply(UPS)(essentially a battery)
+    - Generator(standby power source)
     - Dual supply
     - Manager power distribution units(PDUs)
 - Replication
-  - Storage area network
+  - Storage area network(SAN)
   - VM
 - On-premises vs. cloud
 - Backup types
@@ -473,7 +473,7 @@ aside: true
   - Differential
   - Tape
   - Disk
-  - Copy
+  - Copy(useful in one-off/add hoc scenario)
   - Network-attached storage(NAS)
   - Storage area network
   - Cloud
