@@ -1,6 +1,7 @@
 ---
 title: Security Practice Questions
 categories:
+- qa
 - cyber
 excerpt: |
   ## Security Practice Questions excerpt

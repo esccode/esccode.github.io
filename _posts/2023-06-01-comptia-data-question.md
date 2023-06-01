@@ -1,6 +1,7 @@
 ---
 title: Data Practice Questions
 categories:
+- qa
 - data
 excerpt: |
   ## Data Practice Questions excerpt
