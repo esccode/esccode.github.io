@@ -116,3 +116,6 @@ Question 4) C. Separation of duties
 Question 5) B. Cable locks
 Question 6) B. Cold
 Question 7) A. A physical control
+
+---
+
