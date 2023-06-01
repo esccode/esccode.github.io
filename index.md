@@ -84,7 +84,7 @@ The table below lists the domains measures by this examination and the extent to
 
 ## Cert Prep CompTIA Data+ DA0-001
 
-### About the Exam
+### About the Exam  
 
 This exam will certify the successful candidate has the knowledge and skills required to transform business requirements in support of data-driven decision by:
 
