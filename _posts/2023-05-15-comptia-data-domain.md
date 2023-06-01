@@ -357,9 +357,9 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
   - Data constraints
   - Cardinality
 - Data classification
-  - Personally identifiable information(PII)
-  - Personal health information(PHI)
-  - Payment card industry(PCI)
+  - Personally identifiable information(PII)(Traceable to a specific person)
+  - Personal health information(PHI)(Covered by HIPAA)
+  - Payment card industry(PCI)(Covered by PCI DSS)
 - Jurisdiction requirements
   - Impact of industry and governmental regulations
 - Data breach reporting
