@@ -485,13 +485,13 @@ aside: true
   - Revert to know state
   - Last known good configuration
   - Live boot media
-- High availability
-  - Scalability
+- High availability(the ability to keep services up and running for long periods of time)
+  - Scalability(the ability of a system to handle of users or work)
 - Restoration order
-- Diversity
-  - Technologies
-  - Vendors
-  - Crypto
+- Diversity(impact of diversity on availability, resiliency,and security)
+  - Technologies(different technology)
+  - Vendors(multiple vendors)
+  - Crypto(multiple algorithms)
   - Controls
 
 ### 2.6 Explain the security implications of embedded and specialized systems
