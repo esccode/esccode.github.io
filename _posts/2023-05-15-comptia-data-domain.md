@@ -380,7 +380,7 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 - Data quality dimensions
   - Data consistency
   - Data accuracy
-  - completeness
+  - Data completeness
   - Data integrity
   - Data attribute limitations
 - Data quality rule and metrics
