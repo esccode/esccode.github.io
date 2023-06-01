@@ -3,8 +3,8 @@ title: Security Practice Questions
 categories:
 - qa
 - cyber
-#excerpt: |
-## Security Practice Questions excerpt
+excerpt: |
+######  Security Practice Questions excerpt
 feature_text: |  
   ## Security Practice Questions feature text
 feature_image: "https://picsum.photos/2560/600?image=733"
