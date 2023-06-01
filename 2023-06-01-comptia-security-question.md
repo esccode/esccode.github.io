@@ -1,6 +1,18 @@
-# CompTIA Security+ (SY0-501) Practice Questions
+---
+title: Security Practice Questions
+categories:
+- q&a
+- cyber
+excerpt: |
+  ## Security Practice Questions excerpt
+feature_text: |  
+  ## Security Practice Questions feature text
+feature_image: "https://picsum.photos/2560/600?image=733"
+image: "https://picsum.photos/2560/600?image=733"
+aside: true
+---
 
-## 6/1/2023
+## CompTIA Security+ (SY0-501) Practice Questions, 6/1/2023
 
 ### Question 1
 

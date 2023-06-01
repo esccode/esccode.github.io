@@ -1,6 +1,18 @@
-# CompTIA Data+ DA0-001 Certification Practice Questions
+---
+title: Data Practice Questions
+categories:
+- q&a
+- cyber
+excerpt: |
+  ## Data Practice Questions excerpt
+feature_text: |  
+  ## Data Practice Questions feature text
+feature_image: "https://picsum.photos/2560/600?image=733"
+image: "https://picsum.photos/2560/600?image=733"
+aside: true
+---
 
-## 6/1/2023
+## CompTIA Data+ DA0-001 Certification Practice Questions, 6/1/2023
 
 ## Question 1
 
