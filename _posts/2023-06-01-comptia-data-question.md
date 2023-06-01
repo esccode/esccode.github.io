@@ -4,7 +4,7 @@ categories:
 - qa
 - data
 excerpt: |
-  ## Data Practice Questions excerpt
+## Data Practice Questions excerpt
 feature_text: |  
   ## Data Practice Questions feature text
 feature_image: "https://picsum.photos/2560/600?image=733"
