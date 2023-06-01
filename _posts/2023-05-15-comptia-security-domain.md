@@ -449,13 +449,49 @@ aside: true
 ### 2.5 Given a scenario, implement cybersecurity resilience
 
 - Redundancy
+  - Geographical dispersal
+  - Disk
+    - Redundant array of inexpensive disks(RAID) levels
+    - Multipath
+  - Network
+    - Load balances
+    - Network interface card(NIC)teaming
+  - Power
+    - Uninterruptible power supply(UPS)
+    - Generator
+    - Dual supply
+    - Manager power distribution units(PDUs)
 - Replication
+  - Storage area network
+  - VM
 - On-premises vs. cloud
 - Backup types
+  - Full
+  - Incremental
+  - Snapshot
+  - Differential
+  - Tape
+  - Disk
+  - Copy
+  - Network-attached storage(NAS)
+  - Storage area network
+  - Cloud
+  - Image
+  - Online vs. Offline
+  - Offsite storage
+    - Distance consideration
 - Non-persistence
+  - Revert to know state
+  - Last known good configuration
+  - Live boot media
 - High availability
+  - Scalability
 - Restoration order
 - Diversity
+  - Technologies
+  - Vendors
+  - Crypto
+  - Controls
 
 ### 2.6 Explain the security implications of embedded and specialized systems
 
