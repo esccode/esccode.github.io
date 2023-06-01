@@ -36,6 +36,7 @@ aside: true
 - [Domain 5.0 Governance, Risk, and Compliance](#domain-50-governance-risk-and-compliance)
 - [5.1 Compare and contrast various types of control](#51-compare-and-contrast-various-types-of-control)
   - [5.2 Explain the importance of applicable regulations, standards, or frameworks that impact organizational security posture](#52-explain-the-importance-of-applicable-regulations-standards-or-frameworks-that-impact-organizational-security-posture)
+  - [5.4 Summarize risk management processes and concepts](#54-summarize-risk-management-processes-and-concepts)
 - [Security+ (SY0-601) Acronym List](#security-sy0-601-acronym-list)
 - [Security+ Proposed Hardware and Software List](#security-proposed-hardware-and-software-list)
 - [Reference](#reference)
@@ -633,6 +634,57 @@ aside: true
     - OS
     - Paalication server
     - Network infrastructure devices
+
+### 5.4 Summarize risk management processes and concepts
+
+- Risk types
+  - External
+  - Internal
+  - Legacy systems
+  - Multiparty
+  - IP theft
+  - Software compliance/licensing
+- Risk management strategies
+  - Acceptance
+  - Avoidance
+  - Transference
+    - Cybersecurity insurance
+  - Mitigation
+- Risk analysis
+  - Risk register
+  - Risk matrix/heat map
+  - Risk control assessment
+  - Risk control self-assessment
+  - Risk awareness
+  - Inherent risk
+  - Residual risk
+  - Control risk
+  - Risk appetite
+  - Regulations that affect risk posture
+  - Risk assessment types
+    - Qualitative
+    - Quantitative
+  - Likelihood of occurrence
+  - Impact
+  - Asset value
+  - Single-loss expectancy(SLE)
+  - Annualized loss expectancy(ALE)
+  - Annualized rate of occurrence(ARO)
+- Disasters
+  - Environmental
+  - Person-made
+  - Internal vs. external
+- Business impact analysis
+  - Recovery time objective(RTO)
+  - Recovery point objective(RPO)
+  - Mean time to repair(MTTR)
+  - Mean time between failures(MTBF)
+  - Functional recovery plans
+  - Single point of failure
+  - Disaster recovery plan(DRP)
+  - Mission essential functions
+  - Identification of critical systems
+  - Site risk assessment
 
 ## Security+ (SY0-601) Acronym List
 
