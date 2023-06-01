@@ -2,7 +2,7 @@
 title: Data Practice Questions
 categories:
 - q&a
-- cyber
+- data
 excerpt: |
   ## Data Practice Questions excerpt
 feature_text: |  
