@@ -5,7 +5,6 @@ categories:
 feature_text: |
   ## Tech writing feature text
 excerpt: |
-  ##
 
 #feature_image: "https://picsum.photos/2560/600?image=733"
 feature_image: "https://picsum.photos/1300/400?image=989"
