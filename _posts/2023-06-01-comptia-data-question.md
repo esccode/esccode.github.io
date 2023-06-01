@@ -3,7 +3,7 @@ title: Data Practice Questions
 categories:
 - qa
 - data
-excerpt: |
+#excerpt: |
 ## Data Practice Questions excerpt
 feature_text: |  
   ## Data Practice Questions feature text
