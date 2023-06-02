@@ -112,7 +112,7 @@ aside: true
 ### 2.2 Identify common reason for cleansing and profiling datasets
 
 - Duplicate data
-- Redundant data
+- Redundant data(The same data is represented in multiple places.)
 - Missing values(MCAR,MAR,MNAR)
 - Invalid data
 - Non-parametric data
