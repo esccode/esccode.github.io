@@ -640,7 +640,7 @@ aside: true
 - Risk types
   - External
   - Internal
-  - Legacy systems
+  - Legacy systems(vulnerabilities to legacy systems tend to increase over time)
   - Multiparty
   - IP theft
   - Software compliance/licensing
@@ -649,7 +649,7 @@ aside: true
   - Avoidance
   - Transference
     - Cybersecurity insurance
-  - Mitigation
+  - Mitigation(The act of reducing risk)
 - Risk analysis
   - Risk register
   - Risk matrix/heat map
@@ -659,7 +659,7 @@ aside: true
   - Inherent risk
   - Residual risk
   - Control risk
-  - Risk appetite
+  - Risk appetite(willing to accept)
   - Regulations that affect risk posture
   - Risk assessment types
     - Qualitative
