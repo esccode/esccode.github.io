@@ -50,11 +50,11 @@ aside: true
   - [Reporting verbs](#reporting-verbs)
 - [First Conditional](#first-conditional)
 - [Phrasal Verbs](#phrasal-verbs)
-- [Grammar Drill - I Wish...+Would](#grammar-drill---i-wishwould)
+- [I Wish...+Would](#i-wishwould)
 - [Confusing Pairs of Words](#confusing-pairs-of-words)
 - [Narrative Tenses](#narrative-tenses)
-- [Grammar Drill - I Wish... - Past Simple/Past Perfect](#grammar-drill---i-wish---past-simplepast-perfect)
-- [Grammar Drill - Wish \& Should for Regrets](#grammar-drill---wish--should-for-regrets)
+- [I Wish... - Past Simple/Past Perfect](#i-wish---past-simplepast-perfect)
+- [Wish \& Should for Regrets](#wish--should-for-regrets)
 - [Passive voice](#passive-voice)
 - [Narrative tenses in the Past perfect continues](#narrative-tenses-in-the-past-perfect-continues)
 - [Reference](#reference)
@@ -175,16 +175,28 @@ These are words that express strong emotions or feelings. Examples include *WOW,
 
 General ongoing, regural, habits, general truths, scheduled activity.
 
-- I go to school.
+- positive
+  - I work in school.
+  - He works
+- negative
+  - I don't work
+  - He doesn't work
+- Do I work in bank?
+- Does she work?
 
 ### Present Perfect
 
 An action started in the past that still true/relevant in the present.
 
-- I have been to school.
-- I've lost my keys.
-- Have you ever been to the United States.
-- I've been to the UK.
+- positive
+  - I have done it
+  - He has done it
+- negative
+  - I haven't done it
+  - He hasn't done it
+- question
+  - Have I seen him?
+  - Has she seen it?
 
 ### Present Continuous
 
@@ -330,7 +342,7 @@ recommend, suggest, remind, warn, promise, insist, tell
   - Don't lend him any money.You'll never get it back
   - I'll phone you back in five minutes.
 
-## Grammar Drill - I Wish...+Would
+## I Wish...+Would
 
 - I wish people wouldn't be late
 - I wish Kim wouldn't talk that much
@@ -369,7 +381,7 @@ recommend, suggest, remind, warn, promise, insist, tell
 
 - Past perfect should start before past simple
 
-## Grammar Drill - I Wish... - Past Simple/Past Perfect
+## I Wish... - Past Simple/Past Perfect
 
 - Past Perfect
   - I wish I had bought that dress
@@ -380,7 +392,7 @@ recommend, suggest, remind, warn, promise, insist, tell
   - I wish I didn\t live abroad
   - I wish you called me more often
 
-## Grammar Drill - Wish & Should for Regrets
+## Wish & Should for Regrets
 
 ## Passive voice
 

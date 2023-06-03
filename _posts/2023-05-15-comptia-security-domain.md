@@ -277,7 +277,7 @@ aside: true
   - *Inteligence fusion*(involves industry and government)
   - Threat feeds()
   - Advisories and bulletins()
-  - Maneuver
+  - Maneuver(assessment techniques that avoid alerting threat actors)
 - **Vulnerability scans**
   - False positives
   - False negatives
