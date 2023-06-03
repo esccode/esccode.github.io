@@ -89,7 +89,7 @@ Deterring-odstraszajacy
 
 ### P
 
-PREDICTIVE-prorocze,Pose a risk-stwarzac ryzyko,RETRIEVE-odzyskac,PARTAKING IN-brac udzial,Prioprietary-prawnie zastrzezone,Pile a Data-stos danych,Precautions-srodki ostroznosci,Prohibited-zabronione,Prerequisite-warunek wstepny
+Proximity-bliskosci,PREDICTIVE-prorocze,Pose a risk-stwarzac ryzyko,RETRIEVE-odzyskac,PARTAKING IN-brac udzial,Prioprietary-prawnie zastrzezone,Pile a Data-stos danych,Precautions-srodki ostroznosci,Prohibited-zabronione,Prerequisite-warunek wstepny
 
 ### R
 
