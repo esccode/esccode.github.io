@@ -97,7 +97,7 @@ Remediate-zaradzic,REFLECT-odwzierciedla,REVOKED-uniewaznione,Rogue host-nieuczc
 
 ### S
 
-Surveillance-nadzór,Scarcity-niedostatek,SOPHISTICATED ATTACKERS-wyrafinowani napastnicy,SNIFFING-wachanie,SUITED-pasuje,SELF-GRADING-samoocena,Severity of the security brech-waga naruszenia bezpieczenstwa,Severity of the event-waga zdarzenia,SCAM-oszustwo,SCAMMERS-oszustwa,,SPOOFING-falszowanie,Subdue-pokonac,
+Surveillance-nadzór,Scarcity-niedostatek,SOPHISTICATED ATTACKERS-wyrafinowani napastnicy,SNIFFING-wachanie,SUITED-pasuje,SELF-GRADING-samoocena,Severity of the security brech-waga naruszenia bezpieczenstwa,Severity of the event-waga zdarzenia,SCAM-oszustwo,SCAMMERS-oszustwa,,SPOOFING-falszowanie,Subdue-pokonac,Swifter-szybciej
 
 ### T
 
