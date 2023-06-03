@@ -38,7 +38,7 @@ aside: true
 
 ### A
 
-Availability-dostepnosc,ABNORMAL-nieprawidlowy,ACCOMPLISHED-osiagniete,ALTERATION(opposite of integrity)-zmiana,AVAILABILITY-dostepnosc,Admissible-dopuszczony,Adversary-przeciwnik,Avert-odwrocic,Accountability-odpowiedzialnosc,Accounting-rachunkowosc
+Availability-dostepnosc,ABNORMAL-nieprawidlowy,ACCOMPLISHED-osiagniete,ALTERATION(opposite of integrity)-zmiana,AVAILABILITY-dostepnosc,Admissible-dopuszczony,Adversary-przeciwnik,Avert-odwrocic,Affable-uprzejmym,Accountability-odpowiedzialnosc,Accounting-rachunkowosc
 
 ### B
 
@@ -73,7 +73,7 @@ Inheritance-dziedzictwo,Intimidation-zastraszanie,INDICATOR-wskaznik,Intact-nien
 
 ### L
 
-Lateral-boczny,Legitimately-legalnie,Latency-czas oczekiwania
+Lateral-boczny,Legitimately-legalnie,Latency-czas oczekiwania,Likable-sympatycznym
 
 ### N
 
@@ -89,7 +89,7 @@ Deterring-odstraszajacy
 
 ### P
 
-PREDICTIVE-prorocze,Pose a risk-stwarzac ryzyko,RETRIEVE-odzyskac,PARTAKING IN-brac udzial,Prioprietary-prawnie zastrzezone,Pile a Data-stos danych,Precautions-srodki ostroznosci
+PREDICTIVE-prorocze,Pose a risk-stwarzac ryzyko,RETRIEVE-odzyskac,PARTAKING IN-brac udzial,Prioprietary-prawnie zastrzezone,Pile a Data-stos danych,Precautions-srodki ostroznosci,Prohibited-zabronione,Prerequisite-warunek wstepny
 
 ### R
 
