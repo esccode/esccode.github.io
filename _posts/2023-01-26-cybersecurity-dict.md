@@ -53,7 +53,7 @@ DATA ACQUISITION-pozyskiwanie danych,data compromise-kompromitacja danych,DEEPFA
 
 ### E
 
-Extortion-wymuszanie,ENCOMPASSES-obejmuje,EVALUATING-oceniac,EMBEDED-osadzone,ENTICING-necac,Explicit-wyrazny
+Extortion-wymuszanie,ENCOMPASSES-obejmuje,EVALUATING-oceniac,EMBEDED-osadzone,ENTICING-necac,Explicit-wyrazny,Espionage-szpiegostwo
 
 ### F
 
@@ -112,7 +112,7 @@ Unattended-bez opieki,UTILITY-media,
 Violates-narusza
 
 
-,, HANDHELD-podreczny,   OCCURED-wystapił,   ,  VIOLATE-porusza, VOLATILITY-zmiennosc, , , MITIGATE-lagodzic,  SMISHING, PHISHING, WIDESPREAD-rozpowszechnione,  , ,   DEEPFAKES, MALWARE, RANSOMWARE, MFA, ,  FRAUD, INSIDER THREATS, SABOTAGE, THEFT, ESPIONAGE, BOTNET, OWASP(open web application security project), DETECT and PREVENT, , Actor-Action,  POSE A GREATEST RISK-stwarzac najwieksze zagrozenie, , ,    , , , , ,  violation-naruszenie, , warrant-nakaz, order of volatility-rzad zmiennosci, swap-wymienic, law enforcement-egzekwowanie prawa, seize-chwycic, seized-zajete, perpetrator to forge-sprawca falszowania, , , , , , portability-ruchliwosc, , render-oddac/udzielac, , preventative-zapobiegawcze, , violating-naruszenie, reasonable-rozsadny,espionage-szpiegostwo,,,, , hoax-zart, , 
+,, HANDHELD-podreczny,   OCCURED-wystapił,   ,  VIOLATE-porusza, VOLATILITY-zmiennosc, , , MITIGATE-lagodzic,  SMISHING, PHISHING, WIDESPREAD-rozpowszechnione,  , ,   DEEPFAKES, MALWARE, RANSOMWARE, MFA, ,  FRAUD, INSIDER THREATS, SABOTAGE, THEFT, ESPIONAGE, BOTNET, OWASP(open web application security project), DETECT and PREVENT, , Actor-Action,  , , ,    , , , , ,  violation-naruszenie, , warrant-nakaz, order of volatility-rzad zmiennosci, swap-wymienic, law enforcement-egzekwowanie prawa, seize-chwycic, seized-zajete, perpetrator to forge-sprawca falszowania, , , , , , portability-ruchliwosc, , render-oddac/udzielac, , preventative-zapobiegawcze, , violating-naruszenie, reasonable-rozsadny,,,,, , hoax-zart, , 
 
 ## waiting room
 
