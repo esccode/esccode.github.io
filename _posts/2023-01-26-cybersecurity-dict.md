@@ -89,11 +89,11 @@ Deterring-odstraszajacy
 
 ### P
 
-PREDICTIVE-prorocze,Pose a risk-stwarzac ryzyko,RETRIEVE-odzyskac,PARTAKING IN-brac udzial,Prioprietary-prawnie zastrzezone, Pile a Data-stos danych,Precautions-srodki ostroznosci
+PREDICTIVE-prorocze,Pose a risk-stwarzac ryzyko,RETRIEVE-odzyskac,PARTAKING IN-brac udzial,Prioprietary-prawnie zastrzezone,Pile a Data-stos danych,Precautions-srodki ostroznosci
 
 ### R
 
-Remediate-zaradzic,REFLECT-odwzierciedla, REVOKED-uniewaznione, ROGUE-lobuz,RESIDES-mieszka,RESEMBLE-przypominac,REVEAL-ujawnia,
+Remediate-zaradzic,REFLECT-odwzierciedla,REVOKED-uniewaznione,Rogue host-nieuczciwy gospodarz,RESIDES-mieszka,RESEMBLE-przypominac,REVEAL-ujawnia,
 
 ### S
 
