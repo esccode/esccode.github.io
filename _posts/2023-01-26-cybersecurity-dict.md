@@ -73,7 +73,7 @@ Inheritance-dziedzictwo,Intimidation-zastraszanie,INDICATOR-wskaznik,Intact-nien
 
 ### L
 
-Lateral-boczny,Legitimately-legalnie
+Lateral-boczny,Legitimately-legalnie,Latency-czas oczekiwania
 
 ### N
 
