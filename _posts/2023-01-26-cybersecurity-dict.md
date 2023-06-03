@@ -93,7 +93,7 @@ PREDICTIVE-prorocze,Pose a risk-stwarzac ryzyko,RETRIEVE-odzyskac,PARTAKING IN-b
 
 ### R
 
-Remediate-zaradzic,REFLECT-odwzierciedla,REVOKED-uniewaznione,Rogue host-nieuczciwy gospodarz,RESIDES-mieszka,RESEMBLE-przypominac,REVEAL-ujawnia,
+Remediate-zaradzic,REFLECT-odwzierciedla,REVOKED-uniewaznione,Rogue host-nieuczciwy gospodarz,RESIDES-mieszka,RESEMBLE-przypominac,REVEAL-ujawnia,Resisted-stawia opor
 
 ### S
 
