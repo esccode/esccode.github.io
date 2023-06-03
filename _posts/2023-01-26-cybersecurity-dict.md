@@ -22,6 +22,7 @@ aside: true
   - [G](#g)
   - [H](#h)
   - [I](#i)
+  - [J](#j)
   - [L](#l)
   - [N](#n)
   - [M](#m)
@@ -70,6 +71,10 @@ Hoax-żart,Harvest-zniwa,Handheld-podreczny,
 ### I
 
 Inheritance-dziedzictwo,Intimidation-zastraszanie,Indicator-wskaznik,Intact-nienaruszony,Identity-tozsamosc,Involve-obejmoje,Integrity-integralnosc
+
+### J
+
+Jeopardize-zagrozic
 
 ### L
 
