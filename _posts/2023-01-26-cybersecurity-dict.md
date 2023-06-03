@@ -54,7 +54,7 @@ DATA ACQUISITION-pozyskiwanie danych,data compromise-kompromitacja danych,DEEPFA
 
 ### E
 
-Extortion-wymuszanie,ENCOMPASSES-obejmuje,EVALUATING-oceniac,EMBEDED-osadzone,ENTICING-necac,Explicit-wyrazny,Espionage-szpiegostwo
+Extortion-wymuszanie,Encompasses-obejmuje,EVALUATING-oceniac,EMBEDED-osadzone,ENTICING-necac,Explicit-wyrazny,Espionage-szpiegostwo
 
 ### F
 
