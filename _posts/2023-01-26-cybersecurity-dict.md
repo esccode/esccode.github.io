@@ -57,19 +57,19 @@ Extortion-wymuszanie,ENCOMPASSES-obejmuje,EVALUATING-oceniac,EMBEDED-osadzone,EN
 
 ### F
 
-FRAUDULENT-nieuczciwy, FUZZING-rozmyte,
+Fraudulent-nieuczciwy,Fuzzing-rozmyte,
 
 ### G
 
-Genuine-autentyczny,GUAGE-mierzy
+Genuine-autentyczny,Guage-mierzy
 
 ### H
 
-Hoax-żart,Harvest-zniwa
+Hoax-żart,Harvest-zniwa,Handheld-podreczny,
 
 ### I
 
-Inheritance-dziedzictwo,Intimidation-zastraszanie,INDICATOR-wskaznik,Intact-nienaruszony,IDENTITY-tozsamosc, INVOLVE-obejmoje,INTEGRITY-uczciwosc
+Inheritance-dziedzictwo,Intimidation-zastraszanie,Indicator-wskaznik,Intact-nienaruszony,Identity-tozsamosc,Involve-obejmoje,Integrity-integralnosc
 
 ### L
 
@@ -112,7 +112,7 @@ Unattended-bez opieki,UTILITY-media,
 Violates-narusza
 
 
-,, HANDHELD-podreczny,   OCCURED-wystapił,   ,  VIOLATE-porusza, VOLATILITY-zmiennosc, , , MITIGATE-lagodzic,  SMISHING, PHISHING, WIDESPREAD-rozpowszechnione,  , ,   DEEPFAKES, MALWARE, RANSOMWARE, MFA, ,  FRAUD, INSIDER THREATS, SABOTAGE, THEFT, ESPIONAGE, BOTNET, OWASP(open web application security project), DETECT and PREVENT, , Actor-Action,  , , ,    , , , , ,  violation-naruszenie, , warrant-nakaz, order of volatility-rzad zmiennosci, swap-wymienic, law enforcement-egzekwowanie prawa, seize-chwycic, seized-zajete, perpetrator to forge-sprawca falszowania, , , , , , portability-ruchliwosc, , render-oddac/udzielac, , preventative-zapobiegawcze, , violating-naruszenie, reasonable-rozsadny,,,,, , hoax-zart, , 
+,,    OCCURED-wystapił,   ,  VIOLATE-porusza, VOLATILITY-zmiennosc, , , MITIGATE-lagodzic,  SMISHING, PHISHING, WIDESPREAD-rozpowszechnione,  , ,   DEEPFAKES, MALWARE, RANSOMWARE, MFA, ,  FRAUD, INSIDER THREATS, SABOTAGE, THEFT, ESPIONAGE, BOTNET, OWASP(open web application security project), DETECT and PREVENT, , Actor-Action,  , , ,    , , , , ,  violation-naruszenie, , warrant-nakaz, order of volatility-rzad zmiennosci, swap-wymienic, law enforcement-egzekwowanie prawa, seize-chwycic, seized-zajete, perpetrator to forge-sprawca falszowania, , , , , , portability-ruchliwosc, , render-oddac/udzielac, , preventative-zapobiegawcze, , violating-naruszenie, reasonable-rozsadny,,,,, , hoax-zart, , 
 
 ## waiting room
 
