@@ -101,7 +101,7 @@ Surveillance-nadzór,Scarcity-niedostatek,SOPHISTICATED ATTACKERS-wyrafinowani n
 
 ### T
 
-THOROUGH-dokladny,
+THOROUGH-dokladny,Threat feeds-zrodla zagrozen
 
 ### U
 
