@@ -49,8 +49,8 @@ CAPTIVE-jeniec, Chain of custody-lancuch dostaw, CONDUCTING-prowadzenia,CAPTURED
 
 ### D
 
-Deter-powstrzymac,DECIVE-zawodzic,DEPLOYING-wdraza, DISCLOSURE-ujawnienie, DESTRUCTION-opposite of availability,DIVULGE-ujawniac, dataset-zestaw danych, due-diligence-nalezyta starannosc,
-DATA ACQUISITION-pozyskiwanie danych,data compromise-kompromitacja danych,DEEPFAKES-?,deterrent-odstraszajacy,drawback-wada,Deemed-uznane za,Data resilience-odpornosc danych,
+Deter-powstrzymac,Decive-zawodzic,Deploying-wdraza, Disclosure-ujawnienie,Destruction-opposite of availability,DIVULGE-ujawniac, dataset-zestaw danych, Due-diligence-nalezyta starannosc,Disguised-przebrany,
+Data acquisition-pozyskiwanie danych,Data compromise-kompromitacja danych,DEEPFAKES-?,Deterrent-odstraszajacy,Drawback-wada,Deemed-uznane za,Data resilience-odpornosc danych,
 
 ### E
 
@@ -94,7 +94,7 @@ Deterring-odstraszajacy
 
 ### P
 
-Proximity-bliskosci,PREDICTIVE-prorocze,Pose a risk-stwarzac ryzyko,RETRIEVE-odzyskac,PARTAKING IN-brac udzial,Prioprietary-prawnie zastrzezone,Pile a Data-stos danych,Precautions-srodki ostroznosci,Prohibited-zabronione,Prerequisite-warunek wstepny
+Phishing scam-podszywanie sie,Proximity-bliskosci,Predictive-prorocze,Pose a risk-stwarzac ryzyko,Retrieve-odzyskac,Partaking in-brac udzial,Prioprietary-prawnie zastrzezone,Pile a Data-stos danych,Precautions-srodki ostroznosci,Prohibited-zabronione,Prerequisite-warunek wstepny
 
 ### R
 
