@@ -50,7 +50,7 @@ CAPTIVE-jeniec, Chain of custody-lancuch dostaw, CONDUCTING-prowadzenia,CAPTURED
 ### D
 
 Deter-powstrzymac,Decive-zawodzic,Deploying-wdraza, Disclosure-ujawnienie,Destruction-opposite of availability,DIVULGE-ujawniac, dataset-zestaw danych, Due-diligence-nalezyta starannosc,Disguised-przebrany,
-Data acquisition-pozyskiwanie danych,Data compromise-kompromitacja danych,DEEPFAKES-?,Deterrent-odstraszajacy,Drawback-wada,Deemed-uznane za,Data resilience-odpornosc danych,
+Data acquisition-pozyskiwanie danych,Data compromise-kompromitacja danych,DEEPFAKES-?,Deterrent-odstraszajacy,Drawback-wada,Deemed-uznane za,Data resilience-odpornosc danych,Doppelganger-sobowtor
 
 ### E
 
@@ -66,11 +66,11 @@ Genuine-autentyczny,Guage-mierzy
 
 ### H
 
-Hoax-żart,Harvest-zniwa,Handheld-podreczny,
+Hoax-żart,Harvest-zniwa,Handheld-podreczny,Hijacked-porwany
 
 ### I
 
-Inheritance-dziedzictwo,Intimidation-zastraszanie,Indicator-wskaznik,Intact-nienaruszony,Identity-tozsamosc,Involve-obejmoje,Integrity-integralnosc
+Inheritance-dziedzictwo,Intimidation-zastraszanie,Indicator-wskaznik,Intact-nienaruszony,Identity-tozsamosc,Involve-obejmoje,Integrity-integralnosc,Inclined-sklonny
 
 ### J
 
@@ -86,7 +86,7 @@ Nefarious-nikczemny,Non-repudiation-niezaprzeczalnosc,
 
 ### M
 
-MALFORMED-znieksztalcony, MALICIOUS-zlosliwe,
+Malformed-znieksztalcony,Malicious-zlosliwe,Malvertising-zlosliwe reklamy
 
 ### O
 
