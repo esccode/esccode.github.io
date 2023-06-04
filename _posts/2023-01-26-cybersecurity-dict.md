@@ -98,7 +98,7 @@ Phishing scam-podszywanie sie,Proximity-bliskosci,Predictive-prorocze,Pose a ris
 
 ### R
 
-Remediate-zaradzic,REFLECT-odwzierciedla,REVOKED-uniewaznione,Rogue host-nieuczciwy gospodarz,RESIDES-mieszka,RESEMBLE-przypominac,REVEAL-ujawnia,Resisted-stawia opor
+Remediate-zaradzic,Reflect-odwzierciedla,Revoked-uniewaznione,Rogue host-nieuczciwy gospodarz,Resides-mieszka,Resemble-przypominac,Reveal-ujawnia,Resisted-stawia opor,Reluctance-niechec
 
 ### S
 
