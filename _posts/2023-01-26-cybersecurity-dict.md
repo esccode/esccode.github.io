@@ -66,7 +66,7 @@ Genuine-autentyczny,Guage-mierzy
 
 ### H
 
-Hoax-żart,Harvest-zniwa,Handheld-podreczny,Hijacked-porwany
+Hoax-żart,Harvest-zniwa,Handheld-podreczny,Hijacked-porwany,Hostile-wrogi
 
 ### I
 
