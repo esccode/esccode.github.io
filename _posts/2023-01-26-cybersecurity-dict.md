@@ -49,7 +49,7 @@ Concealed-ukryty,Captive-jeniec,Chain of custody-lancuch dostaw,Conducting-prowa
 
 ### D
 
-Deter-powstrzymac,Decive-zawodzic,Deploying-wdraza,Disclosure-ujawnienie,Destruction-opposite of availability,DIVULGE-ujawniac,Dataset-zestaw danych,Due-diligence-nalezyta starannosc,Disguised-przebrany,Derives-wywodzi sie,Data acquisition-pozyskiwanie danych,Data compromise-kompromitacja danych,Deepfakes-?,Deterrent-odstraszajacy,Drawback-wada,Deemed-uznane za,Data resilience-odpornosc danych,Doppelganger-sobowtor
+Deter-powstrzymac,Decive-zawodzic,Deploying-wdraza,Disclosure-ujawnienie,Destruction-opposite of availability,DIVULGE-ujawniac,Dataset-zestaw danych,Due-diligence-nalezyta starannosc,Disguised-przebrany,Derives-wywodzi sie,Data acquisition-pozyskiwanie danych,Data compromise-kompromitacja danych,Deepfakes-?,Deterrent-odstraszajacy,Drawback-wada,Deemed-uznane za,Data resilience-odpornosc danych,Doppelganger-sobowtor,Disgruntled-niezawodne
 
 ### E
 
@@ -85,7 +85,7 @@ Nefarious-nikczemny,Non-repudiation-niezaprzeczalnosc,
 
 ### M
 
-Misuse-naduzywanie,Malformed-znieksztalcony,Malicious-zlosliwe,Malvertising-zlosliwe reklamy
+Mint-stwarzac,Misuse-naduzywanie,Malformed-znieksztalcony,Malicious-zlosliwe,Malvertising-zlosliwe reklamy
 
 ### O
 
