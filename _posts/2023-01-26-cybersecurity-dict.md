@@ -105,7 +105,7 @@ Surveillance-nadzór,Scarcity-niedostatek,Sophisticated Attackers-wyrafinowani n
 
 ### T
 
-Thorough-dokladny,Threat feeds-zrodla zagrozen
+Thorough-dokladny,Threat feeds-zrodla zagrozen,Traced-wysledzony
 
 ### U
 
