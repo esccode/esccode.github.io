@@ -85,7 +85,7 @@ Nefarious-nikczemny,Non-repudiation-niezaprzeczalnosc,
 
 ### M
 
-Malformed-znieksztalcony,Malicious-zlosliwe,Malvertising-zlosliwe reklamy
+Misuse-naduzywanie,Malformed-znieksztalcony,Malicious-zlosliwe,Malvertising-zlosliwe reklamy
 
 ### O
 
