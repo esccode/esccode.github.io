@@ -54,7 +54,7 @@ Data acquisition-pozyskiwanie danych,Data compromise-kompromitacja danych,DEEPFA
 
 ### E
 
-Extortion-wymuszanie,Encompasses-obejmuje,EVALUATING-oceniac,EMBEDED-osadzone,ENTICING-necac,Explicit-wyrazny,Espionage-szpiegostwo
+Extortion-wymuszanie,Encompasses-obejmuje,Evaluating-oceniac,Embeded-osadzone,Enticing-necac,Explicit-wyrazny,Espionage-szpiegostwo,Evade-uchylac sie
 
 ### F
 
@@ -90,7 +90,7 @@ Malformed-znieksztalcony,Malicious-zlosliwe,Malvertising-zlosliwe reklamy
 
 ### O
 
-Deterring-odstraszajacy
+Deterring-odstraszajacy,Obfuscate-zaciemniac
 
 ### P
 
@@ -102,15 +102,15 @@ Remediate-zaradzic,Reflect-odwzierciedla,Revoked-uniewaznione,Rogue host-nieuczc
 
 ### S
 
-Surveillance-nadzór,Scarcity-niedostatek,SOPHISTICATED ATTACKERS-wyrafinowani napastnicy,SNIFFING-wachanie,SUITED-pasuje,SELF-GRADING-samoocena,Severity of the security brech-waga naruszenia bezpieczenstwa,Severity of the event-waga zdarzenia,SCAM-oszustwo,SCAMMERS-oszustwa,,SPOOFING-falszowanie,Subdue-pokonac,Swifter-szybciej
+Surveillance-nadzór,Scarcity-niedostatek,Sophisticated Attackers-wyrafinowani napastnicy,Sniffing-wachanie,Suited-pasuje,Self-Grading-samoocena,Severity of the security brech-waga naruszenia bezpieczenstwa,Severity of the event-waga zdarzenia,Scam-oszustwo,Scamers-oszustwa,,Spoofing-falszowanie,Subdue-pokonac,Swifter-szybciej
 
 ### T
 
-THOROUGH-dokladny,Threat feeds-zrodla zagrozen
+Thorough-dokladny,Threat feeds-zrodla zagrozen
 
 ### U
 
-Unattended-bez opieki,UTILITY-media,
+Unattended-bez opieki,Utility-media,
 
 ### V
 
