@@ -70,7 +70,7 @@ Hoax-żart,Harvest-zniwa,Handheld-podreczny,Hijacked-porwany,Hostile-wrogi
 
 ### I
 
-Inheritance-dziedzictwo,Intimidation-zastraszanie,Indicator-wskaznik,Intact-nienaruszony,Identity-tozsamosc,Involve-obejmoje,Integrity-integralnosc,Inclined-sklonny
+Inheritance-dziedzictwo,Intimidation-zastraszanie,Indicator-wskaznik,Intact-nienaruszony,Identity-tozsamosc,Involve-obejmoje,Integrity-integralnosc,Inclined-sklonny,Inject-wstrzyknac
 
 ### J
 
