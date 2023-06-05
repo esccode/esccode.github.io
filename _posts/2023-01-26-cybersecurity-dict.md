@@ -45,7 +45,7 @@ Availability-dostepnosc,Abnormal-nieprawidlowy,Accomplished-osiagniete,Alteratio
 
 ### C
 
-Concealed-ukryty,Captive-jeniec,Chain of custody-lancuch dostaw,Conducting-prowadzenia,Captured-zlapany, Constraints-ograniczenia,Credential harvesting-zbieranie danych uwierzytelniajacych,Counterintelligence-kontrwywiad,Compliance-zgodnosc,Custodian-opiekun,Countermeasure-srodki zaradcze,Confidentiality-poufnosc,Consensus-zgoda,Circumvented-ominiety
+Covertly-potajemnie,Concealed-ukryty,Captive-jeniec,Chain of custody-lancuch dostaw,Conducting-prowadzenia,Captured-zlapany, Constraints-ograniczenia,Credential harvesting-zbieranie danych uwierzytelniajacych,Counterintelligence-kontrwywiad,Compliance-zgodnosc,Custodian-opiekun,Countermeasure-srodki zaradcze,Confidentiality-poufnosc,Consensus-zgoda,Circumvented-ominiety
 
 ### D
 
