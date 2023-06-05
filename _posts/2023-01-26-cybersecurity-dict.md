@@ -94,7 +94,7 @@ Deterring-odstraszajacy,Obfuscate-zaciemniac
 
 ### P
 
-Phishing scam-podszywanie sie,Proximity-bliskosci,Predictive-prorocze,Pose a risk-stwarzac ryzyko,Retrieve-odzyskac,Partaking in-brac udzial,Prioprietary-prawnie zastrzezone,Pile a Data-stos danych,Precautions-srodki ostroznosci,Prohibited-zabronione,Prerequisite-warunek wstepny,Prominence-rozglos
+Precompute-wstepne obliczenia,Phishing scam-podszywanie sie,Proximity-bliskosci,Predictive-prorocze,Pose a risk-stwarzac ryzyko,Retrieve-odzyskac,Partaking in-brac udzial,Prioprietary-prawnie zastrzezone,Pile a Data-stos danych,Precautions-srodki ostroznosci,Prohibited-zabronione,Prerequisite-warunek wstepny,Prominence-rozglos
 
 ### R
 
