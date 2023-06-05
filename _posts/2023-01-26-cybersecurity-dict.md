@@ -39,7 +39,7 @@ aside: true
 
 ### A
 
-Availability-dostepnosc,ABNORMAL-nieprawidlowy,ACCOMPLISHED-osiagniete,ALTERATION(opposite of integrity)-zmiana,AVAILABILITY-dostepnosc,Admissible-dopuszczony,Adversary-przeciwnik,Avert-odwrocic,Affable-uprzejmym,Accountability-odpowiedzialnosc,Accounting-rachunkowosc
+Availability-dostepnosc,Abnormal-nieprawidlowy,Accomplished-osiagniete,Alteration-zmiana,Admissible-dopuszczony,Adversary-przeciwnik,Avert-odwrocic,Affable-uprzejmym,Accountability-odpowiedzialnosc,Accounting-rachunkowosc,Apparent-pozorny
 
 ### B
 
@@ -94,7 +94,7 @@ Deterring-odstraszajacy,Obfuscate-zaciemniac
 
 ### P
 
-Phishing scam-podszywanie sie,Proximity-bliskosci,Predictive-prorocze,Pose a risk-stwarzac ryzyko,Retrieve-odzyskac,Partaking in-brac udzial,Prioprietary-prawnie zastrzezone,Pile a Data-stos danych,Precautions-srodki ostroznosci,Prohibited-zabronione,Prerequisite-warunek wstepny
+Phishing scam-podszywanie sie,Proximity-bliskosci,Predictive-prorocze,Pose a risk-stwarzac ryzyko,Retrieve-odzyskac,Partaking in-brac udzial,Prioprietary-prawnie zastrzezone,Pile a Data-stos danych,Precautions-srodki ostroznosci,Prohibited-zabronione,Prerequisite-warunek wstepny,Prominence-rozglos
 
 ### R
 
