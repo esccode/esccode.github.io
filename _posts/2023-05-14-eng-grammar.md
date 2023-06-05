@@ -57,6 +57,7 @@ aside: true
 - [Wish \& Should for Regrets](#wish--should-for-regrets)
 - [Passive voice](#passive-voice)
 - [Narrative tenses in the Past perfect continues](#narrative-tenses-in-the-past-perfect-continues)
+- [Modern Medicine](#modern-medicine)
 - [Reference](#reference)
 
 ## English grammar, parts of speech
@@ -397,6 +398,10 @@ recommend, suggest, remind, warn, promise, insist, tell
 ## Passive voice
 
 ## Narrative tenses in the Past perfect continues
+
+## Modern Medicine
+
+- vocabulary: - diagnosis (n.); to diagnose (v.), - prescription (n.); to prescribe (v.), - allergy (n.); allergic (adj.), - immunisation (n.); to immunise (v.), - treatment, - disease, - antibiotics, - allergic reaction
 
 ## Reference
 
