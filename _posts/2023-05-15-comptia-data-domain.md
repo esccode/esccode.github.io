@@ -130,7 +130,7 @@ aside: true
 - Data blending(combine dataset from diffrent resources)
 - Concatenation(combine two strings)
 - Data append(adds rows)
-- Imputation(przypisywanie)
+- Imputation(the process of replacing missing data with substituted values)
 - Reduction/aggregation
 - Transpose(swap row and columns)
 - Normalize data
