@@ -497,9 +497,26 @@ aside: true
 ### 2.6 Explain the security implications of embedded and specialized systems
 
 - Embedded systems
+  - Raspberry Pi
+  - Field-programmable gate arrey(FPGA)
+  - Arduino
 - Supervisory control and data acquisition(SCADA)/industrial control system(ICS)
+  - Facilities
+  - Industrial
+  - Manufacturing
+  - Energy
+  - Logistics
 - Internet of Things(loT)
+  - Sensors
+  - Smart devices
+  - Wearables
+  - Facility automation
+  - Weak defaults
 - Specialized
+  - Medical systems
+  - Vehicles
+  - Aircraft
+  - Smart meters
 - Voice over IP(VoIP)
 - Heating, ventilation, air conditioning(HVAC)
 - Drones
@@ -508,7 +525,21 @@ aside: true
 - Surveillance systems
 - System on chip(SoC)
 - Communication considerations
+  - 5G
+  - Narrow-band
+  - Baseband radio
+  - Subscriber identity module(SIM)cards
+  - Zigbee
 - Constraints
+  - Power
+  - Compute
+  - Network
+  - Crypto
+  - Inability to patch
+  - Authentication
+  - Range
+  - Cost
+  - Implied trust
 
 ### 2.7 Explain the importance of physical security controls
 
