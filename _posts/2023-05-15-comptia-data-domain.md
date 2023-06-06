@@ -146,7 +146,7 @@ aside: true
   - Aggregate functions
   - System functions
 - Query optimization
-  - Parametrization
+  - Parametrization(prevent from SQL injection)
   - Indexing
   - Temporary table in the query set
   - Subset of records
