@@ -134,7 +134,9 @@ aside: true
 - Reduction/aggregation
 - Transpose(swap row and columns)
 - Normalize data
-- Parsing/string manipulation
+- Parsing/string manipulation( (or string handling) is the process of 
+changing, parsing, splicing, pasting, or analyzing strings. SQL 
+is used for managing data in a relational database)
 
 ### 2.4 Explain common techniques for data manipulation and query optimization
 
