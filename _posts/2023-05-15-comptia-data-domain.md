@@ -140,8 +140,10 @@ dataset for visualization and analysis)
 ### 2.4 Explain common techniques for data manipulation and query optimization
 
 - Data manipulation
-  - Filtering
-  - Sorting
+  - Filtering(Filters allow you to show or hide information on your sheet 
+based on selected criteria.)
+  - Sorting(Sorting lets you organize all or part of your data in ascending or 
+descending order.)
   - Date functions
   - Logical functions
   - Aggregate functions
