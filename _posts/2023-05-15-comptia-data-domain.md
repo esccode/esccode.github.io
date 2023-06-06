@@ -126,17 +126,16 @@ aside: true
   - Numeric
   - Categorical
 - Derived variables(pochodne zmienne)
-- Data merge(adds columns)
-- Data blending(combine dataset from diffrent resources)
+- Data merge(adds columns,the process of combining two or more data sets into a single data set)
+- Data blending(combine dataset from diffrent resources and creating a single, unique,
+dataset for visualization and analysis)
 - Concatenation(combine two strings)
 - Data append(adds rows)
 - Imputation(the process of replacing missing data with substituted values)
 - Reduction/aggregation
 - Transpose(swap row and columns)
 - Normalize data
-- Parsing/string manipulation( (or string handling) is the process of 
-changing, parsing, splicing, pasting, or analyzing strings. SQL 
-is used for managing data in a relational database)
+- Parsing/string manipulation( (or string handling) is the process of changing, parsing, splicing pasting, or analyzing strings. SQL is used for managing data in a relational database)
 
 ### 2.4 Explain common techniques for data manipulation and query optimization
 
