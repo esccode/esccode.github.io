@@ -130,7 +130,7 @@ aside: true
 - Data blending(combine dataset from diffrent resources and creating a single, unique,
 dataset for visualization and analysis)
 - Concatenation(combine two strings)
-- Data append(adds rows)
+- Data append(adds rows,  a process that involves adding new data elements to an existing database)
 - Imputation(the process of replacing missing data with substituted values)
 - Reduction/aggregation
 - Transpose(swap row and columns)
