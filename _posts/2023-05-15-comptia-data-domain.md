@@ -96,7 +96,7 @@ aside: true
   - Extract, transform, load(ETL)
   - Extract, load, transform(ELT)
   - Delta load(moves only recently changed data from the transactional system to data the data warehouse)
-    - Initial load(moves all data from the transactional system to the data warehouse)
+    - Initial load(moves all data from the transactional system to the data warehouse,)
     - Data lakes
   - Application programming
   - Interfaces(APIs)
