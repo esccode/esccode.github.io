@@ -96,7 +96,7 @@ aside: true
   - Extract, transform, load(ETL)
   - Extract, load, transform(ELT)
   - Delta load(moves only recently changed data from the transactional system to data the data warehouse)
-    - Initial load(moves all data from the transactional system to the data warehouse)
+    - Initial load(moves all data from the transactional system to the data warehouse,)
     - Data lakes
   - Application programming
   - Interfaces(APIs)
@@ -126,27 +126,30 @@ aside: true
   - Numeric
   - Categorical
 - Derived variables(pochodne zmienne)
-- Data merge(adds columns)
-- Data blending(combine dataset from diffrent resources)
+- Data merge(adds columns,the process of combining two or more data sets into a single data set)
+- Data blending(combine dataset from diffrent resources and creating a single, unique,
+dataset for visualization and analysis)
 - Concatenation(combine two strings)
-- Data append(adds rows)
-- Imputation(przypisywanie)
+- Data append(adds rows,  a process that involves adding new data elements to an existing database)
+- Imputation(the process of replacing missing data with substituted values)
 - Reduction/aggregation
 - Transpose(swap row and columns)
 - Normalize data
-- Parsing/string manipulation
+- Parsing(means to break data into parts)/string manipulation((or string handling) is the process of changing, parsing, splicing pasting, or analyzing strings. SQL is used for managing data in a relational database)
 
 ### 2.4 Explain common techniques for data manipulation and query optimization
 
 - Data manipulation
-  - Filtering
-  - Sorting
+  - Filtering(Filters allow you to show or hide information on your sheet 
+based on selected criteria.)
+  - Sorting(Sorting lets you organize all or part of your data in ascending or 
+descending order.)
   - Date functions
   - Logical functions
   - Aggregate functions
   - System functions
 - Query optimization
-  - Parametrization
+  - Parametrization(prevent from SQL injection)
   - Indexing
   - Temporary table in the query set
   - Subset of records

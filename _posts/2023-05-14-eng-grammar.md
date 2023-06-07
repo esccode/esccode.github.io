@@ -58,6 +58,7 @@ aside: true
 - [Passive voice](#passive-voice)
 - [Narrative tenses in the Past perfect continues](#narrative-tenses-in-the-past-perfect-continues)
 - [Modern Medicine](#modern-medicine)
+- [Be About to + Infinitive](#be-about-to--infinitive)
 - [Reference](#reference)
 
 ## English grammar, parts of speech
@@ -402,6 +403,8 @@ recommend, suggest, remind, warn, promise, insist, tell
 ## Modern Medicine
 
 - vocabulary: - diagnosis (n.); to diagnose (v.), - prescription (n.); to prescribe (v.), - allergy (n.); allergic (adj.), - immunisation (n.); to immunise (v.), - treatment, - disease, - antibiotics, - allergic reaction
+
+## Be About to + Infinitive
 
 ## Reference
 
