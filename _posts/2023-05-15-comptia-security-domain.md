@@ -567,7 +567,7 @@ aside: true
 - Lighting
 - Fencing
 - Fire suppression
->|Class|Type|Suppression material|
+- >?|Class|Type|Suppression material|
 |---|---|---|
 |A|Common combustibles|Watre,soda acid(a dry powder or liquid chemical)|
 |B|Liquids|CO2,halon,soda acid|
@@ -604,11 +604,12 @@ aside: true
 
 ### 2.8 Summarize the basic of cryptographic concepts
 
-- Digital signatures
-- Key length
+- Digital signatures(encrypted hash of a message, encrypted with the sender's private key)
+- Key length(large keys tend to be more secure, Since 2015, NIST recommands a minimum of 2048-bit keys for RSA)
 - Key stretching
 - Salting
-- Hashing
+- Hashing(one-way function that scrambles plain text to produce a unique message digest)
+- ?Encryption(two-way function;what is encrytped can be decrypted with the proper key)
 - Key exchange
 - Elliptic-curve cryptography
 - Perfect forward secrecy
