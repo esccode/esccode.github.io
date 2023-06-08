@@ -49,7 +49,7 @@ Covertly-potajemnie,Concealed-ukryty,Captive-jeniec,Chain of custody-lancuch dos
 
 ### D
 
-Deter-powstrzymac,Decive-zawodzic,Deploying-wdraza,Disclosure-ujawnienie,Destruction-opposite of availability,DIVULGE-ujawniac,Dataset-zestaw danych,Due-diligence-nalezyta starannosc,Disguised-przebrany,Derives-wywodzi sie,Data acquisition-pozyskiwanie danych,Data compromise-kompromitacja danych,Deepfakes-?,Deterrent-odstraszajacy,Drawback-wada,Deemed-uznane za,Data resilience-odpornosc danych,Doppelganger-sobowtor,Disgruntled-niezadowolony
+Deter-powstrzymac,Decive-zawodzic,Deploying-wdraza,Disclosure-ujawnienie,Destruction-opposite of availability,DIVULGE-ujawniac,Dataset-zestaw danych,Due-diligence-nalezyta starannosc,Disguised-przebrany,Derives-wywodzi sie,Data acquisition-pozyskiwanie danych,Data compromise-kompromitacja danych,Deepfakes-?,Deterrent-odstraszajacy,Deterrence-odstraszanie,Drawback-wada,Deemed-uznane za,Data resilience-odpornosc danych,Doppelganger-sobowtor,Disgruntled-niezadowolony
 
 ### E
 
