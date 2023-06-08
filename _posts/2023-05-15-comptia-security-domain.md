@@ -543,11 +543,11 @@ aside: true
 
 ### 2.7 Explain the importance of physical security controls
 
-- Bollards/barricades
+- Bollards(stop car moving after point)/barricades
 - Access control vestibules
 - Badges
 - Alarms
-- Signage
+- Signage(discourage intruders)
 - Cameras
   - Motion recognition
   - Object detection
