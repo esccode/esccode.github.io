@@ -567,7 +567,7 @@ aside: true
 - Lighting
 - Fencing
 - Fire suppression
-- >?|Class|Type|Suppression material|
+>?|Class|Type|Suppression material|
 |---|---|---|
 |A|Common combustibles|Watre,soda acid(a dry powder or liquid chemical)|
 |B|Liquids|CO2,halon,soda acid|
