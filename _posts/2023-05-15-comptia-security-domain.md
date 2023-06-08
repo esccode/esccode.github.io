@@ -574,6 +574,7 @@ aside: true
 |C|Electrical|CO2,halon|
 |D|Metal|Dry powder|
 |K|Kitchen|Wet chemicals|
+
 - Sensors
   - Motion detection
   - Noise detection
@@ -602,6 +603,56 @@ aside: true
   - Third-party solutions
 
 ### 2.8 Summarize the basic of cryptographic concepts
+
+- Digital signatures
+- Key length
+- Key stretching
+- Salting
+- Hashing
+- Key exchange
+- Elliptic-curve cryptography
+- Perfect forward secrecy
+- Quantum
+  - Communications
+  - Computing
+- Post-quantum
+- Ephemeral
+- Modes of operation
+  - Authenticated
+  - Unauthenticated
+  - Counter
+- Blockchain
+  - Public ledgers
+- Cipher suites
+  - Stream
+  - Block
+- Symmetric vs. asymmetric
+- Lightweight ctyptography
+- Steganography
+  - Audio
+  - Video
+  - Image
+- Homomorphic encryption
+- Common use cases
+  - Low power devices
+  - Low latency
+  - High resiliency
+  - Supporting confidentiality
+  - Supporting integrity
+  - Supporting obfuscation
+  - Supporting authentication
+  - Supporting non-repudiation
+- Limitation
+  - Speed
+  - Size
+  - Weak keys
+  - Time
+  - Longevity
+  - Predictability
+  - Reuse
+  - Entropy
+  - Computational overheads
+  - Resource vs. security constraints
 
 ## Domain 3.0 Implementation
 
