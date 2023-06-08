@@ -585,7 +585,7 @@ aside: true
 - Visitor logs
 - Faraday cages(prevents wireless or cellular phones)
 - Air gap
-- Screened subnet(previously known as demilitarized zone)
+- Screened subnet(previously known as demilitarized zone)(like DMZ)
 - Protected cable distribution
 - Secure area
   - Air gap
@@ -595,10 +595,10 @@ aside: true
   - Cold aisle
 - Secure data destruction
   - Burning
-  - Shredding
-  - Pulping
-  - Pulverizing
-  - Degaussing
+  - Shredding(shred a metal hard drive into powder)
+  - Pulping(if burning is not available, pulping, which turns the data into paper mache, is the best option)
+  - Pulverizing(use a hammer and smash frive into pieces, or drill through all the platters)
+  - Degaussing(create a stronge magnetic field that erases data on some media and destroy electronics)
   - Third-party solutions
 
 ### 2.8 Summarize the basic of cryptographic concepts
