@@ -53,7 +53,7 @@ Deter-powstrzymac,Decive-zawodzic,Deploying-wdraza,Disclosure-ujawnienie,Destruc
 
 ### E
 
-Extortion-wymuszanie,Encompasses-obejmuje,Evaluating-oceniac,Embeded-osadzone,Enticing-necac,Explicit-wyrazny,Espionage-szpiegostwo,Evade-uchylac sie
+Efficacy-skutecznosc,Extortion-wymuszanie,Encompasses-obejmuje,Evaluating-oceniac,Embeded-osadzone,Enticing-necac,Explicit-wyrazny,Espionage-szpiegostwo,Evade-uchylac sie
 
 ### F
 

@@ -567,6 +567,13 @@ aside: true
 - Lighting
 - Fencing
 - Fire suppression
+>|Class|Type|Suppression material|
+|---|---|---|
+|A|Common combustibles|Watre,soda acid(a dry powder or liquid chemical)|
+|B|Liquids|CO2,halon,soda acid|
+|C|Electrical|CO2,halon|
+|D|Metal|Dry powder|
+|K|Kitchen|Wet chemicals|
 - Sensors
   - Motion detection
   - Noise detection
