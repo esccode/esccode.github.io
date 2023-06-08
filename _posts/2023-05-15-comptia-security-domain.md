@@ -30,7 +30,7 @@ aside: true
   - [2.7 Explain the importance of physical security controls](#27-explain-the-importance-of-physical-security-controls)
   - [2.8 Summarize the basic of cryptographic concepts](#28-summarize-the-basic-of-cryptographic-concepts)
 - [Domain 3.0 Implementation](#domain-30-implementation)
-  - [3.8 gIVEN A SCENARIO, implement authentication and authorization solutions](#38-given-a-scenario-implement-authentication-and-authorization-solutions)
+  - [3.8 Given a scenario, implement authentication and authorization solutions](#38-given-a-scenario-implement-authentication-and-authorization-solutions)
 - [Domain 4.0 Operations and Incident Response](#domain-40-operations-and-incident-response)
   - [4.1 Given a scenario, use the appropriate tool to assess organizational security](#41-given-a-scenario-use-the-appropriate-tool-to-assess-organizational-security)
 - [Domain 5.0 Governance, Risk, and Compliance](#domain-50-governance-risk-and-compliance)
@@ -656,7 +656,7 @@ aside: true
 
 ## Domain 3.0 Implementation
 
-### 3.8 gIVEN A SCENARIO, implement authentication and authorization solutions
+### 3.8 Given a scenario, implement authentication and authorization solutions
 
 - Authentication management
   - Password keys(like USB device and works in conjuction with your password to provide multi-factor authentication)
