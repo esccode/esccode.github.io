@@ -577,13 +577,13 @@ aside: true
 - Sensors
   - Motion detection
   - Noise detection
-  - Proximity reader
-  - Moisture detection
+  - Proximity reader(nearness)
+  - Moisture detection(humidity)
   - Cards
   - Temperature
 - Drones
 - Visitor logs
-- Faraday cages
+- Faraday cages(prevents wireless or cellular phones)
 - Air gap
 - Screened subnet(previously known as demilitarized zone)
 - Protected cable distribution
