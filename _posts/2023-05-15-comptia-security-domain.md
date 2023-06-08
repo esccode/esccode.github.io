@@ -611,9 +611,9 @@ aside: true
 - Hashing(one-way function that scrambles plain text to produce a unique message digest)
 - ?Encryption(two-way function;what is encrytped can be decrypted with the proper key)
 - Key exchange
-- Elliptic-curve cryptography
+- Elliptic-curve cryptography(small, fast key that is used for encryption in small mobile devices)
 - Perfect forward secrecy
-- Quantum
+- Quantum()
   - Communications
   - Computing
 - Post-quantum
@@ -627,13 +627,13 @@ aside: true
 - Cipher suites
   - Stream
   - Block
-- Symmetric vs. asymmetric
+- Symmetric vs. asymmetric(Symetric relies on the use of a shared secret key. Asymmetric- public-privates key pairs for communication between parties.)
 - Lightweight ctyptography
-- Steganography
+- Steganography(a computer file,message,image, or video is cancealed within another file,message,image,or video)
   - Audio
   - Video
   - Image
-- Homomorphic encryption
+- Homomorphic encryption(allows users to run calculation on data while it is still encrypted)
 - Common use cases
   - Low power devices
   - Low latency
