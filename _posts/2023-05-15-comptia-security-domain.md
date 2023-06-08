@@ -607,7 +607,7 @@ aside: true
 - Digital signatures(encrypted hash of a message, encrypted with the sender's private key)
 - Key length(large keys tend to be more secure, Since 2015, NIST recommands a minimum of 2048-bit keys for RSA)
 - Key stretching
-- Salting
+- Salting(random data that is used as an additional input to a one-way function that hashes data, a password or passphrase)
 - Hashing(one-way function that scrambles plain text to produce a unique message digest)
 - ?Encryption(two-way function;what is encrytped can be decrypted with the proper key)
 - Key exchange
