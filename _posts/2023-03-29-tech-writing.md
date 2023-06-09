@@ -12,6 +12,8 @@ image: "https://picsum.photos/2560/600?image=733"
 aside: true
 ---
 
+
+
 - [Skill set](#skill-set)
 - [Characteristics](#characteristics)
 - [Similar titles](#similar-titles)
