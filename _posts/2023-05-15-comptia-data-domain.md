@@ -197,7 +197,7 @@ Inferential Statistics draws conclusions from our data by making generalizations
   - Review/refine business questions
   - Determine data needs and sources to perform analysis
   - Scoping/gap analysis
-- Type of analysis
+- Type of analysis(defined by measuring a trend on historical data to predict a future outcome)
   - Trend analysis
     - Comparison of data over time
   - Performance analysis
