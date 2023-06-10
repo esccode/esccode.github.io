@@ -198,14 +198,14 @@ Inferential Statistics draws conclusions from our data by making generalizations
   - Determine data needs and sources to perform analysis
   - Scoping/gap analysis(difference between the desired state and current state)
 - Type of analysis(defined by measuring a trend on historical data to predict a future outcome)
-  - Trend analysis
+  - Trend analysis(Forecasting future values)
     - Comparison of data over time
   - Performance analysis
     - Tracking measurements against defined goals
     - Basic projections to achieve goals
   - Exploratory data analysis(EDA)
     - Use of descriptive statistics to determine observations
-  - Link analysis
+  - Link analysis(A network, a node, and a link)
     - Connections of data points or pathway
 
 ### 3.4 Identify common data analytics tools
