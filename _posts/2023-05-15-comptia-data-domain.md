@@ -166,7 +166,7 @@ Descriptive Statistics describes our data by summarizing it and providing us wit
   - **Median**(the value in the middle of the sorted dataset)
   - **Mode**(most common value in the dataset)
 - Measures of dispersion
-  - Range
+  - Range( R = Hs – Ls)
     - Max
     - Min
   - Distribution
