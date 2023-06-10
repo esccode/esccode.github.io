@@ -173,7 +173,7 @@ Descriptive Statistics describes our data by summarizing it and providing us wit
   - **Variance**(the average of the squared differences of each value in the dataset from the mean)(symbol σ² used)
   - Standard deviation
 - Frequencies/percentages
-- Percent change(Normalizes data to be a proportion of 100)
+- Percent change(Normalizes data to be a proportion of 100,subtracting the newest value from the last value, dividing that number by the last value, and then multiplying by 100%)
 - Percent difference
 - Confidence intervals
 
