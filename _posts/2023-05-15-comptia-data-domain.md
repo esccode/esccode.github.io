@@ -181,7 +181,8 @@ Descriptive Statistics describes our data by summarizing it and providing us wit
 
 Inferential Statistics draws conclusions from our data by making generalizations and predictions
 
-- t-tests(compare the means of two groups)
+- t-tests(compare the means of two groups.A t-test is used as 
+a hypothesis testing tool, which allows testing of an assumption applicable to a population)
 - Z-score(Describe how many standard deviations a particular measurement is away from the mean)
 - P-values(Probability that test results are not statistically significant)
 - Chi-squared(Determines whether categorical variables are associated)
