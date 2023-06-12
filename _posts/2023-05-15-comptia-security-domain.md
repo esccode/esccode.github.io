@@ -612,8 +612,8 @@ aside: true
 - Hashing(one-way function that scrambles plain text to produce a unique message digest)
 - ?Encryption(two-way function;what is encrytped can be decrypted with the proper key)
 - Key exchange
-- Elliptic-curve cryptography(small, fast key that is used for encryption in small mobile devices)
-- Perfect forward secrecy
+- Elliptic-curve cryptography((ECC)small, fast key that is used for encryption in small mobile devices)
+- Perfect forward secrecy(PFS)
 - Quantum()
   - Communications
   - Computing
