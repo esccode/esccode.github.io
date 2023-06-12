@@ -31,6 +31,7 @@ aside: true
   - [2.8 Summarize the basic of cryptographic concepts](#28-summarize-the-basic-of-cryptographic-concepts)
 - [Domain 3.0 Implementation](#domain-30-implementation)
   - [3.8 Given a scenario, implement authentication and authorization solutions](#38-given-a-scenario-implement-authentication-and-authorization-solutions)
+  - [3.9 Given a scenario, implement public key infrastructure](#39-given-a-scenario-implement-public-key-infrastructure)
 - [Domain 4.0 Operations and Incident Response](#domain-40-operations-and-incident-response)
   - [4.1 Given a scenario, use the appropriate tool to assess organizational security](#41-given-a-scenario-use-the-appropriate-tool-to-assess-organizational-security)
 - [Domain 5.0 Governance, Risk, and Compliance](#domain-50-governance-risk-and-compliance)
@@ -688,6 +689,13 @@ aside: true
   - Conditional access
   - Privileged access management(privileged accounts within a domain)
   - Filesystem permissions(NTFS(Windows), SUID and SGID(Linux))
+
+### 3.9 Given a scenario, implement public key infrastructure
+
+- Public key infrastructure(PKI)
+- Types of certificates
+- Certificate formats
+- Concepts
 
 ## Domain 4.0 Operations and Incident Response
 
