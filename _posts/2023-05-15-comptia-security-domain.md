@@ -649,7 +649,7 @@ aside: true
   - Size
   - Weak keys
   - Time
-  - Longevity
+  - Longevity(a measure of the confidence that people have in a given cipher)
   - Predictability
   - Reuse
   - Entropy
