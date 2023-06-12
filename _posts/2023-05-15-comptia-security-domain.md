@@ -618,7 +618,7 @@ aside: true
   - Communications
   - Computing
 - Post-quantum
-- Ephemeral
+- Ephemeral(Using ephemeral session keys means that any future compromise of the server will not translate into an attack on recorded data)
 - Modes of operation
   - Authenticated
   - Unauthenticated
