@@ -639,7 +639,7 @@ aside: true
   - Low power devices
   - Low latency
   - High resiliency
-  - Supporting confidentiality
+  - Supporting confidentiality( is used for both data-at-rest (file encryption) and data-in-transit (transport encryption))
   - Supporting integrity
   - Supporting obfuscation
   - Supporting authentication
