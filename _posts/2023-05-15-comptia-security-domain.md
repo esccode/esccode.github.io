@@ -693,9 +693,43 @@ aside: true
 ### 3.9 Given a scenario, implement public key infrastructure
 
 - Public key infrastructure(PKI)
+  - Key management
+  - Certificate authority(CA)
+  - Intermediate CA
+  - Registration authority(RA)
+  - Certificate revocation list(CRL)
+  - Certificate attributes
+  - Online Certificate Status
+  - Protocol(OCSP)
+  - Certificate signing request(CSR)
+  - CN
+  - Subject alternative name
+  - Expriation
 - Types of certificates
+  - Wildcard
+  - Subject alternative name
+  - Code signing
+  - Self-signed
+  - MAchine/computer
+  - Email
+  - User
+  - Root
+  - Domain validation
+  - Extended validation
 - Certificate formats
+  - Distinguished encoding rules(DER)
+  - Privacy enhanced mail(PEM)
+  - Personal information exchange(PFX)
+  - cer
+  - P12
+  - P78
 - Concepts
+  - Online vs. offline CA
+  - Stapling
+  - Pinning
+  - Trust model
+  - Key escrow
+  - Certificate chaining
 
 ## Domain 4.0 Operations and Incident Response
 
