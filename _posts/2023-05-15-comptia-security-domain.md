@@ -726,7 +726,7 @@ aside: true
 - Concepts
   - Online vs. offline CA
   - Stapling
-  - Pinning
+  - Pinning(technique used to associate hosts with their public key)
   - Trust model
   - Key escrow
   - Certificate chaining
