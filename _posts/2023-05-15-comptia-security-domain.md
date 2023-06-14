@@ -707,7 +707,7 @@ aside: true
   - Expriation
 - Types of certificates
   - Wildcard
-  - Subject alternative name
+  - Subject alternative name(SAN)(certificate enables you use one certificate to secure hosts with different name)
   - Code signing
   - Self-signed
   - MAchine/computer
