@@ -457,7 +457,7 @@ aside: true
     - Multipath
   - Network
     - Load balances
-    - Network interface card(NIC)teaming
+    - Network interface card(NIC)teaming(also known as Load Balancing/Failover (LBFO) in the Microsoft world)
   - Power
     - Uninterruptible power supply(UPS)(essentially a battery)
     - Generator(standby power source)
@@ -703,14 +703,14 @@ aside: true
   - Protocol(OCSP)
   - Certificate signing request(CSR)
   - CN
-  - Subject alternative name
+  - Subject alternative name(SAN)
   - Expriation
 - Types of certificates
   - Wildcard
   - Subject alternative name(SAN)(certificate enables you use one certificate to secure hosts with different name)
   - Code signing
   - Self-signed
-  - MAchine/computer
+  - Machine/computer
   - Email
   - User
   - Root
