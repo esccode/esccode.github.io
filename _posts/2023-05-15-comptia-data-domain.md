@@ -129,7 +129,7 @@ aside: true
 - Data merge(adds columns,the process of combining two or more data sets into a single data set)
 - Data blending(combine dataset from diffrent resources and creating a single, unique,
 dataset for visualization and analysis)
-- Concatenation(combine two strings)
+- Concatenation(The CONCAT() function adds two or more strings together)
 - Data append(adds rows,  a process that involves adding new data elements to an existing database)
 - Imputation(the process of replacing missing data with substituted values)
 - Reduction/aggregation
