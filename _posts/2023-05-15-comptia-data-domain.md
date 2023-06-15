@@ -149,7 +149,9 @@ descending order.)
   - Aggregate functions
   - System functions
 - Query optimization
-  - Parametrization(prevent from SQL injection)
+  - Parametrization(prevent from SQL injection. A parameter takes a 
+value only when the query is executed, allowing the query to be 
+reused with different values and purposes)
   - Indexing
   - Temporary table in the query set
   - Subset of records
