@@ -30,7 +30,7 @@ aside: true
   - [2.7 Explain the importance of physical security controls](#27-explain-the-importance-of-physical-security-controls)
   - [2.8 Summarize the basic of cryptographic concepts](#28-summarize-the-basic-of-cryptographic-concepts)
 - [Domain 3.0 Implementation](#domain-30-implementation)
-  - [3.4](#34)
+  - [3.4 Given a scenario, install and configure wireless security settings](#34-given-a-scenario-install-and-configure-wireless-security-settings)
   - [3.8 Given a scenario, implement authentication and authorization solutions](#38-given-a-scenario-implement-authentication-and-authorization-solutions)
   - [3.9 Given a scenario, implement public key infrastructure](#39-given-a-scenario-implement-public-key-infrastructure)
 - [Domain 4.0 Operations and Incident Response](#domain-40-operations-and-incident-response)
@@ -660,7 +660,35 @@ aside: true
 
 ## Domain 3.0 Implementation
 
-### 3.4 
+### 3.4 Given a scenario, install and configure wireless security settings
+
+- Cryptographic protocols
+  - WiFi Protected Access 2(WPA2)
+  - WiFi Protected Access 3(WPA3)
+  - Counter-mode/CBC-MAC Protocol(CCMP)
+  - Simultaneous Authentication of Equals(SAE)
+- Authentication protocols
+  - Extensible Authentication
+  - Protocol(EAP)
+  - Protected Extensible
+  - Authentication Protocol(PEAP)
+  - EAP-FAST
+  - EAP-TLS
+  - EAP-TTLS
+  - IEE 802.1X
+  - Remote Authentication Dial-in User Service(RADIUS)Ferderation
+- Methods
+  - Pre-shared key(PSK) vs. Enterprise vs. Open
+  - WiFi Protected Setup(WPS)
+  - Captive portals
+- Instalation considerations
+  - Site surveys
+  - Heat maps
+  - Wifi analyzes
+  - Channel overlaps
+  - Wireless access point(WAP)placement
+  - Controller and access point security
+- 
 
 ### 3.8 Given a scenario, implement authentication and authorization solutions
 
