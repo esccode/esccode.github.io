@@ -65,7 +65,7 @@ aside: true
 - Alphanumeric
 - Currency
 - Text
-- Discrete vs. continuous
+- Discrete vs. continuous(Discrete data is a numerical type of data that includes numbers with fixed data values determined by counting. Continuous data includes complex numbers and varying data values that are measured over a specific time interval.)
 - Categorical/dimension (**Categorical** data(qualitative))
 - Images
 - Audio
@@ -129,11 +129,11 @@ aside: true
 - Data merge(adds columns,the process of combining two or more data sets into a single data set)
 - Data blending(combine dataset from diffrent resources and creating a single, unique,
 dataset for visualization and analysis)
-- Concatenation(combine two strings)
+- Concatenation(The CONCAT() function adds two or more strings together)
 - Data append(adds rows,  a process that involves adding new data elements to an existing database)
 - Imputation(the process of replacing missing data with substituted values)
 - Reduction/aggregation
-- Transpose(swap row and columns)
+- Transpose(swap row and columns, is where the data in the rows are turned into columns, and the data in the columns is turned into rows)
 - Normalize data
 - Parsing(means to break data into parts)/string manipulation((or string handling) is the process of changing, parsing, splicing pasting, or analyzing strings. SQL is used for managing data in a relational database)
 
@@ -149,7 +149,9 @@ descending order.)
   - Aggregate functions
   - System functions
 - Query optimization
-  - Parametrization(prevent from SQL injection)
+  - Parametrization(prevent from SQL injection. A parameter takes a 
+value only when the query is executed, allowing the query to be 
+reused with different values and purposes)
   - Indexing
   - Temporary table in the query set
   - Subset of records
