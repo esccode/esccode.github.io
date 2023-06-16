@@ -30,6 +30,7 @@ aside: true
   - [2.7 Explain the importance of physical security controls](#27-explain-the-importance-of-physical-security-controls)
   - [2.8 Summarize the basic of cryptographic concepts](#28-summarize-the-basic-of-cryptographic-concepts)
 - [Domain 3.0 Implementation](#domain-30-implementation)
+  - [3.4](#34)
   - [3.8 Given a scenario, implement authentication and authorization solutions](#38-given-a-scenario-implement-authentication-and-authorization-solutions)
   - [3.9 Given a scenario, implement public key infrastructure](#39-given-a-scenario-implement-public-key-infrastructure)
 - [Domain 4.0 Operations and Incident Response](#domain-40-operations-and-incident-response)
@@ -472,11 +473,11 @@ aside: true
   - Incremental
   - Snapshot
   - Differential
-  - Tape
+  - Tape(most suitable system for data storage requiring large capacity)
   - Disk
   - Copy(useful in one-off/add hoc scenario)
   - Network-attached storage(NAS)
-  - Storage area network
+  - Storage area network(SAN)
   - Cloud
   - Image
   - Online vs. Offline
@@ -658,6 +659,8 @@ aside: true
   - Resource vs. security constraints
 
 ## Domain 3.0 Implementation
+
+### 3.4 
 
 ### 3.8 Given a scenario, implement authentication and authorization solutions
 
