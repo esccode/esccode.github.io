@@ -671,7 +671,7 @@ aside: true
   - Extensible Authentication Protocol(EAP)
   - Protected Extensible
   - Authentication Protocol(PEAP)
-  - EAP-FAST
+  - EAP-FAST(developed by Cisco, it replaced LEAP, which was insecure)
   - EAP-TLS
   - EAP-TTLS
   - IEE 802.1X
