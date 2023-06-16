@@ -663,13 +663,12 @@ aside: true
 ### 3.4 Given a scenario, install and configure wireless security settings
 
 - Cryptographic protocols
-  - WiFi Protected Access 2(WPA2)
-  - WiFi Protected Access 3(WPA3)
-  - Counter-mode/CBC-MAC Protocol(CCMP)
+  - WiFi Protected Access 2(WPA2)(support only 128 bits)
+  - WiFi Protected Access 3(WPA3)(256-bit AES)
+  - Counter-mode/CBC-MAC Protocol(CCMP)(used with WPA2, which replaced WEP and WPA)
   - Simultaneous Authentication of Equals(SAE)
 - Authentication protocols
-  - Extensible Authentication
-  - Protocol(EAP)
+  - Extensible Authentication Protocol(EAP)
   - Protected Extensible
   - Authentication Protocol(PEAP)
   - EAP-FAST
