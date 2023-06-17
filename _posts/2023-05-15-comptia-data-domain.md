@@ -187,7 +187,7 @@ Inferential Statistics draws conclusions from our data by making generalizations
 a hypothesis testing tool, which allows testing of an assumption applicable to a population)
 - Z-score(Describe how many standard deviations a particular measurement is away from the mean)
 - P-values(Probability that test results are not statistically significant)
-- Chi-squared(Determines whether categorical variables are associated)
+- Chi-squared(compares the size of the difference between the expected result and the actual result)
 - Hypothesis testing
   - Type I error(accept)
   - Type II error(reject,false negative)
