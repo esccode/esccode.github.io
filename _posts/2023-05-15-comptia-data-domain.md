@@ -190,7 +190,7 @@ a hypothesis testing tool, which allows testing of an assumption applicable to a
 - Chi-squared(Determines whether categorical variables are associated)
 - Hypothesis testing
   - Type I error(accept)
-  - Type II error(reject)
+  - Type II error(reject,false negative)
 - Simple linear regression
 - **Correlation**(Strength of relationship between two variables)(positive correlation(r>0),negative correlation(r<0),no correlation(r=0))
 
