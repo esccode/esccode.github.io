@@ -177,7 +177,7 @@ Descriptive Statistics describes our data by summarizing it and providing us wit
 - Frequencies/percentages
 - Percent change(Normalizes data to be a proportion of 100,subtracting the newest value from the last value, dividing that number by the last value, and then multiplying by 100%)
 - Percent difference
-- Confidence intervals
+- Confidence intervals(The calculation of values that describes the certainty or uncertainty of an estimate made on the analysis)
 
 ### 3.2 Explain the purpose of inferential statistical methods
 
