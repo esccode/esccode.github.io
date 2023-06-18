@@ -882,6 +882,13 @@ aside: true
 
 ### 5.3 Explain the importance of policies to organizational security.
 
+- Personnel
+- Diversity of training techniques
+- Third-party risk management
+- Data
+- Credential policies
+- Organizational policies
+
 ### 5.4 Summarize risk management processes and concepts
 
 - Risk types
