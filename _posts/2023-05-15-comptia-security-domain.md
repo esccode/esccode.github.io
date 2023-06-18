@@ -883,11 +883,50 @@ aside: true
 ### 5.3 Explain the importance of policies to organizational security.
 
 - Personnel
+  - Acceptable use policy
+  - Job rotation
+  - Mandatory vacation
+  - Separation of duties
+  - Least privilege
+  - Clean desk space
+  - Background checks
+  - Non-disclosure agreement(NDA)
+  - Social media analysis
+  - Onboarding
+  - Offboarding
+  - User training
+    - Gamification
+    - Capture the flag
+    - phishing campaigns
+      - Phishing simulations
+    - Computer-based training(CBT)
+    - Role-based training
 - Diversity of training techniques
 - Third-party risk management
+  - Vendors
+  - Supply chain
+  - Business partners
+  - Service level agreement(SLA)
+  - Memorandum of understanding(MOU)
+  - Measurement systems analysis(MSA)
+  - Business partnership agreement(BPA)
+  - End of life(EOL)
+  - End of service life(EOSL)
+  - NDA
 - Data
+  - Classification
+  - Governance
+  - Retention
 - Credential policies
+  - Personnel
+  - Third-party
+  - Devices
+  - Service accounts
+  - Administrator/root accounts
 - Organizational policies
+  - Change management
+  - Change control
+  - Asset management
 
 ### 5.4 Summarize risk management processes and concepts
 
