@@ -30,15 +30,27 @@ aside: true
   - [2.7 Explain the importance of physical security controls](#27-explain-the-importance-of-physical-security-controls)
   - [2.8 Summarize the basic of cryptographic concepts](#28-summarize-the-basic-of-cryptographic-concepts)
 - [Domain 3.0 Implementation](#domain-30-implementation)
+  - [3.1 Given a scenario, implement secure protocols.](#31-given-a-scenario-implement-secure-protocols)
+  - [3.2 Given a scenario, implement host or application security solutions.](#32-given-a-scenario-implement-host-or-application-security-solutions)
+  - [3.3 Given a scenario, implement secure network designs.](#33-given-a-scenario-implement-secure-network-designs)
   - [3.4 Given a scenario, install and configure wireless security settings](#34-given-a-scenario-install-and-configure-wireless-security-settings)
+  - [3.5 Given a scenario, implement secure mobile solutions.](#35-given-a-scenario-implement-secure-mobile-solutions)
+  - [3.6 Given a scenario, apply cybersecurity solutions to the cloud.](#36-given-a-scenario-apply-cybersecurity-solutions-to-the-cloud)
+  - [3.7 Given a scenario, implement identity and account management controls.](#37-given-a-scenario-implement-identity-and-account-management-controls)
   - [3.8 Given a scenario, implement authentication and authorization solutions](#38-given-a-scenario-implement-authentication-and-authorization-solutions)
   - [3.9 Given a scenario, implement public key infrastructure](#39-given-a-scenario-implement-public-key-infrastructure)
 - [Domain 4.0 Operations and Incident Response](#domain-40-operations-and-incident-response)
   - [4.1 Given a scenario, use the appropriate tool to assess organizational security](#41-given-a-scenario-use-the-appropriate-tool-to-assess-organizational-security)
+  - [4.2 Summarize the importance of policies, processes, and procedures for incident response.](#42-summarize-the-importance-of-policies-processes-and-procedures-for-incident-response)
+  - [4.3 Given an incident, utilize appropriate data sources to support an investigation.](#43-given-an-incident-utilize-appropriate-data-sources-to-support-an-investigation)
+  - [4.4 Given an incident,apply mitigation techniques or controls to secure an environment.](#44-given-an-incidentapply-mitigation-techniques-or-controls-to-secure-an-environment)
+  - [4.5 Explain the key aspects of digital forensics.](#45-explain-the-key-aspects-of-digital-forensics)
 - [Domain 5.0 Governance, Risk, and Compliance](#domain-50-governance-risk-and-compliance)
 - [5.1 Compare and contrast various types of control](#51-compare-and-contrast-various-types-of-control)
   - [5.2 Explain the importance of applicable regulations, standards, or frameworks that impact organizational security posture](#52-explain-the-importance-of-applicable-regulations-standards-or-frameworks-that-impact-organizational-security-posture)
+  - [5.3 Explain the importance of policies to organizational security.](#53-explain-the-importance-of-policies-to-organizational-security)
   - [5.4 Summarize risk management processes and concepts](#54-summarize-risk-management-processes-and-concepts)
+  - [5.5 Explain privacy and sensitive data concepts in relation to security.](#55-explain-privacy-and-sensitive-data-concepts-in-relation-to-security)
 - [Security+ (SY0-601) Acronym List](#security-sy0-601-acronym-list)
 - [Security+ Proposed Hardware and Software List](#security-proposed-hardware-and-software-list)
 - [Reference](#reference)
@@ -660,6 +672,12 @@ aside: true
 
 ## Domain 3.0 Implementation
 
+### 3.1 Given a scenario, implement secure protocols.
+
+### 3.2 Given a scenario, implement host or application security solutions.
+
+### 3.3 Given a scenario, implement secure network designs.
+
 ### 3.4 Given a scenario, install and configure wireless security settings
 
 - Cryptographic protocols
@@ -687,7 +705,12 @@ aside: true
   - Channel overlaps
   - Wireless access point(WAP)placement
   - Controller and access point security
-- 
+
+### 3.5 Given a scenario, implement secure mobile solutions.
+
+### 3.6 Given a scenario, apply cybersecurity solutions to the cloud.
+
+### 3.7 Given a scenario, implement identity and account management controls.
 
 ### 3.8 Given a scenario, implement authentication and authorization solutions
 
@@ -812,6 +835,14 @@ aside: true
 - Password crackers
 - Data sanitization
 
+### 4.2 Summarize the importance of policies, processes, and procedures for incident response.
+
+### 4.3 Given an incident, utilize appropriate data sources to support an investigation.
+
+### 4.4 Given an incident,apply mitigation techniques or controls to secure an environment.
+
+### 4.5 Explain the key aspects of digital forensics.
+
 ## Domain 5.0 Governance, Risk, and Compliance
 
 ## 5.1 Compare and contrast various types of control
@@ -848,6 +879,8 @@ aside: true
     - OS
     - Paalication server
     - Network infrastructure devices
+
+### 5.3 Explain the importance of policies to organizational security.
 
 ### 5.4 Summarize risk management processes and concepts
 
@@ -899,6 +932,8 @@ aside: true
   - Mission essential functions
   - Identification of critical systems
   - Site risk assessment
+
+### 5.5 Explain privacy and sensitive data concepts in relation to security.
 
 ## Security+ (SY0-601) Acronym List
 
