@@ -187,11 +187,11 @@ Inferential Statistics draws conclusions from our data by making generalizations
 a hypothesis testing tool, which allows testing of an assumption applicable to a population)
 - Z-score(Describe how many standard deviations a particular measurement is away from the mean)
 - P-values(Probability that test results are not statistically significant)
-- Chi-squared(compares the size of the difference between the expected result and the actual result)
+- Chi-squared(compares the size of the difference between the expected result and the actual result,two types:Goodness of fit and test of independence)
 - Hypothesis testing
   - Type I error(accept)
   - Type II error(reject,false negative)
-- Simple linear regression
+- Simple linear regression(analysis will typically involve an x and y scatter plot with a line)
 - **Correlation**(Strength of relationship between two variables)(positive correlation(r>0),negative correlation(r<0),no correlation(r=0))
 
 ### 3.3 Summarize types of analysis and key analysis techniques
