@@ -843,6 +843,22 @@ aside: true
 
 ### 4.5 Explain the key aspects of digital forensics.
 
+- Documentation/evidence
+- Acquisition
+- On-premises vs. cloud
+  - Right-to-audit clauses
+  - Regulatory/jurisdiction
+  - Data breach notification laws
+- Integrity
+  - Hashing
+  - Checksums
+  - Provenance
+- Preservation
+- E-discovery
+- Data recovery
+- Non-repudiation
+- Strategic intelligence/counterintelligence
+
 ## Domain 5.0 Governance, Risk, and Compliance
 
 ## 5.1 Compare and contrast various types of control
