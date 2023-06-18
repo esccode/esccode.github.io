@@ -844,7 +844,27 @@ aside: true
 ### 4.5 Explain the key aspects of digital forensics.
 
 - Documentation/evidence
+  - Legal hold
+  - Video
+  - Admissibility
+  - Chain of custody
+  - Timelines of sequence of events
+    - Time stamps
+    - Time offset
+  - Tags
+  - Reports
+  - Event logs
+  - Interviews
 - Acquisition
+  - Order of volatility
+  - Disk
+  - Random-access memory(RAM)
+  - Swap/pagefile
+  - Firmware
+  - Snapshot
+  - Cache
+  - Network
+  - Artifacts
 - On-premises vs. cloud
   - Right-to-audit clauses
   - Regulatory/jurisdiction
