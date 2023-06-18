@@ -935,6 +935,40 @@ aside: true
 
 ### 5.5 Explain privacy and sensitive data concepts in relation to security.
 
+- Organizational consequences of privacy and data breaches
+  - Reputation damage
+  - Identity theft
+  - Fines
+  - IP theft
+- Notifications of breaches
+  - Escalation
+  - Public notifications and disclosures
+- Data types
+  - Classifications
+    - Public
+    - Private
+    - Sensitive
+    - Confidential
+    - Critical
+    - Proprietary
+  - Personally identifiable information(PII)
+  - Health information
+  - Financial information
+  - Government data
+  - Customer data
+- Privacy enhancing technologies
+  - Data minimization
+  - Data masking
+  - Tokenization
+  - Anonymization
+  - Pseudo-anonymization
+- Roles and responsibilities
+  - Data owners
+  - Data controller
+  - Data processor
+  - Data custodian/steward
+  - Data protection officer(DPD)
+
 ## Security+ (SY0-601) Acronym List
 
 The following is a list of acronyms that appear on the Comptia Security+ exam Candidates are encouraged to review the complate list and attain a working knowledge of all listed acronyms as part of a comprehensive exam preparation program.
