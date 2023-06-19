@@ -116,7 +116,7 @@ aside: true
 - Missing values(MCAR-data that is missing completely at random,MAR-data that is missing at random,MNAR-data that is missing not at randoms)
 - Invalid data
 - Non-parametric data
-- Data outliers(odstajacych)
+- Data outliers(virtualization tool easy to identify outlier is Boxplot)
 - Specification mismatch
 - Data type validation
 
