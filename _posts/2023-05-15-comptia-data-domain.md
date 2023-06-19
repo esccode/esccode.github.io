@@ -384,7 +384,7 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
   - Data field to data type validation
   - Number of data points
 - Data quality dimensions
-  - Data consistency
+  - Data consistency(dimension of data quality ensures that data stored in multiple locations is the sames)
   - Data accuracy
   - Data completeness
   - Data integrity
