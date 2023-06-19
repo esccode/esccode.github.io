@@ -113,7 +113,7 @@ aside: true
 
 - Duplicate data
 - Redundant data(The same data is represented in multiple places.)
-- Missing values(MCAR,MAR,MNAR)
+- Missing values(MCAR-data that is missing completely at random,MAR-data that is missing at random,MNAR-data that is missing not at randoms)
 - Invalid data
 - Non-parametric data
 - Data outliers(odstajacych)
