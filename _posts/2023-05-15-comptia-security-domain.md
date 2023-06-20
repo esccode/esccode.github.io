@@ -708,6 +708,59 @@ aside: true
 
 ### 3.5 Given a scenario, implement secure mobile solutions.
 
+- Connections methods and receivers
+  - Cellural
+  - WiFi
+  - Bluetooth
+  - NFC
+  - Infrared
+  - USB
+  - Point-to-point
+  - Point-to-multipoint
+  - Global Positioning System(GPS)
+  - RFID
+- Mobile device management(MDM)
+  - Application management
+  - Content management
+  - Remote wipe
+  - Geofencing
+  - Geolocation
+  - Screen locks
+  - Push notifications
+  - Password and PINs
+  - Biometrics
+  - Context-aware authentication
+  - Containerization
+  - Full device encryption
+- Mobile device
+  - MicroSD hardware security module(HSM)
+  - MDM/Unified Endpoint Management(UEM)
+  - Mobile application management(MAM)
+  - SEAndroid
+- Enforcement and monitoring of:
+  - Third-party application stores
+  - Rooting/jailbreaking
+  - Sideloading
+  - Custom firmware
+  - Carrier unlocking
+  - Firmware oven-the-air(OTA)updates
+  - Camera use
+  - SMS/Multimedia Messaging Service(MMS)Rich Communication Services(RCS)
+  - External media
+  - USB On-The-Go(USB OTG)
+  - Recoding microphone
+  - GPS tagging
+  - Wifi direct/ad hoc
+  - Tethering
+  - Hotspot
+  - Payment methods
+- Deployment models
+  - Bring your own device(BYOD)
+  - Corporate-owned personally enabled(COPE)
+  - Choose your own device(CYOD)
+  - Corporate-owned
+  - Virtual desktop infrastructure(VDI)
+
 ### 3.6 Given a scenario, apply cybersecurity solutions to the cloud.
 
 - Cloud security controls
