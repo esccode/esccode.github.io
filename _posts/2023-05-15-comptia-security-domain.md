@@ -1177,7 +1177,7 @@ aside: true
   - Data breach notification laws
 - Integrity
   - Hashing
-  - Checksums
+  - Checksums(The output of a hash function. chmod Linux command for managing file permissions.)
   - Provenance
 - Preservation
 - E-discovery
