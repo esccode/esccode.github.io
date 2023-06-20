@@ -837,6 +837,18 @@ aside: true
 
 ### 4.2 Summarize the importance of policies, processes, and procedures for incident response.
 
+- Incident response plans
+- Incident response process
+- Exercises
+- Attack frameworks
+- Stakeholders management
+- Communication plan
+- Disaster recovery plan
+- Business continuity plan
+- Continuity of operations planning(COOP)
+- Incident response team
+- Retention policies
+
 ### 4.3 Given an incident, utilize appropriate data sources to support an investigation.
 - Vulnerability scan output
 - SIEM dashboards
