@@ -779,6 +779,29 @@ aside: true
   - Dynamic Host Configuration Protocol(DHCP) snooping
   - Media access control(MAC)filtering
 - Network appliances
+  - Jump servers
+  - Proxy servers
+    - Forward
+    - Reverse
+  - Network-based intrusion detection system(NIDS)/network-based intrusion prevention system(NIPS)
+    - Signature-based
+    - Heuristic/behavior
+    - Anomaly
+    - Inline vs. passive
+  - HSM
+  - Sensors
+  - Collectors
+  - Aggregators
+  - Firewalls
+    - Web application firewall(WAF)
+    - NGFW
+    - StatefulStateless
+    - Unified threat management(UTM)
+    - Network address translation(NAT)gateway
+    - Content/URL filter
+    - Open-source vs. prioprietary
+    - Hardware vs. software
+    - Appliance vs. host-based vs. virtual
 - Access control list(ACL)
 - Route security
 - Quality of service(QoS)
