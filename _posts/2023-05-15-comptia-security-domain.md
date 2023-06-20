@@ -968,8 +968,7 @@ aside: true
   - Knowledge-based authentication(KBA normally used by banks)
 - Authentication/authorization
   - EAP(Extensible Auth Protocol)
-  - Challenge-Handshake
-  - Authentication Protocol(CHAP)
+  - Challenge-Handshake Authentication Protocol(CHAP)
   - Password Authentication Protocol(**PAP**)
   - 802.1X
   - RADIUS(uses UDP and encrypts the passwords only, remote access)
@@ -1154,7 +1153,7 @@ aside: true
   - Legal hold
   - Video
   - Admissibility
-  - Chain of custody
+  - Chain of custody(The record of evidence history from collection, to presentation in court, to disposal.)
   - Timelines of sequence of events
     - Time stamps
     - Time offset
