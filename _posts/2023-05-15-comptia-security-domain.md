@@ -995,7 +995,7 @@ aside: true
   - Certificate authority(CA)
   - Intermediate CA
   - Registration authority(RA)
-  - Certificate revocation list(CRL)
+  - Certificate revocation list(CRL)(A list of certificates that were revoked before their expiration date)
   - Certificate attributes
   - Online Certificate Status
   - Protocol(OCSP)
