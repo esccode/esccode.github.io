@@ -278,7 +278,7 @@ aside: true
 - Legacy platforms
 - Impacts
   - Data loss
-  - Data breaches
+  - Data breaches(When confidential or private data is read, copied, or changed without authorization. Data breach events may have notification and reporting requirements.)
   - Data exfiltration
   - Identity theft
   - Financial
@@ -999,7 +999,7 @@ aside: true
   - Certificate attributes
   - Online Certificate Status
   - Protocol(OCSP)
-  - Certificate signing request(CSR)(A Base64 ASCII file that a subject sends to a CA to get a certificate)
+  - Certificate signing request(CSR)(A Base64 ASCII file that a subject sends to a CA to get a certificates)
   - CN
   - Subject alternative name(SAN)
   - Expriation
@@ -1053,7 +1053,7 @@ aside: true
   - scanless
   - dnsenum
   - Nessus
-  - Cuckoo
+  - Cuckoo( Implementation of a sandbox for malware analysis.)
 - File manipulation
   - head
   - tail
