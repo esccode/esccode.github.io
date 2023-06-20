@@ -674,6 +674,32 @@ aside: true
 
 ### 3.1 Given a scenario, implement secure protocols.
 
+- Protocols
+  - Domain Name System Security Extensions(DNSSEC)
+  - SSH
+  - Secure/Multipurpose Internet Mail Extensions(S/MIME)
+  - Secure Real-time Transport Protocol(SRTP)
+  - Lightweight Directory Access Protocol Over SSL(LDAPS)
+  - File Transfer Protocol, Secure(FTPS)
+  - SSH File Transfer Protocol(SFTP)
+  - Simple Network Management Protocol, version 3(SNMP3)
+  - Hypertext transfer protocol over SSL?TLS(HTTPS)
+  - IPSec
+    - Authentication header(AH)/Encapsulating Security Payloads(ESP)
+    - Tunnel/transport
+  - Post Office Protocol(POP)/Internet Message Access Protocol(IMAP)
+- Use cases
+  - Voice and video
+  - Time synchronization
+  - Email and web
+  - File transfer
+  - Directory services
+  - Remote access
+  - Domain name resolution
+  - Routnig and switching
+  - Network address allocation
+  - Subscription services
+
 ### 3.2 Given a scenario, implement host or application security solutions.
 
 ### 3.3 Given a scenario, implement secure network designs.
