@@ -747,6 +747,29 @@ aside: true
 
 ### 3.3 Given a scenario, implement secure network designs
 
+- Load balancing
+  - Active/active
+  - Active/passive
+  - Scheduling
+  - Virtual IP
+  - Persistence
+- Network segmentation
+  - 
+- Virtual private network(VPN)
+- DNS
+- Network access control(NAC)
+- Out-of-band management
+- Port security
+- Network appliances
+- Access control list(ACL)
+- Route security
+- Quality of service(QoS)
+- Implications of IPv6
+- Port spanning/port mirroring
+  - Port taps
+- Monitoring services
+- File integrity monitors
+
 ### 3.4 Given a scenario, install and configure wireless security settings
 
 - Cryptographic protocols
