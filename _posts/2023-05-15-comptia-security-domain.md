@@ -1354,7 +1354,7 @@ aside: true
   - Data owners
   - Data controller
   - Data processor
-  - Data custodian/steward
+  - Data custodian/steward(An individual who is responsible for managing the system on which data assets are stored, including being responsible for enforcing access control, encryption, and backup/recovery measures)
   - Data protection officer(DPD)
 
 ## Security+ (SY0-601) Acronym List
