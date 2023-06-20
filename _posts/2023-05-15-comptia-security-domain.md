@@ -754,12 +754,30 @@ aside: true
   - Virtual IP
   - Persistence
 - Network segmentation
-  - 
+  - Virtual local area network(VLAN)
+  - Screened subnet(previously know as demilitarized zone)
+  - East-west traffic
+  - External
+  - Intranet
+  - Zero Trust
 - Virtual private network(VPN)
+  - Always-on
+  - Split tunenel vs. full tunnel
+  - Remote access vs. site-to-site
+  - IPSec
+  - SSL/TLS
+  - HTML5
+  - Layer 2 tunneling protocol(L2TP)
 - DNS
 - Network access control(NAC)
+  - Agent and agentless
 - Out-of-band management
 - Port security
+  - Broadcast storm prevention
+  - Bridge Protocol Data Unit(BPDU) guard
+  - Loop prevention
+  - Dynamic Host Configuration Protocol(DHCP) snooping
+  - Media access control(MAC)filtering
 - Network appliances
 - Access control list(ACL)
 - Route security
