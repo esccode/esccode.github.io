@@ -30,9 +30,9 @@ aside: true
   - [2.7 Explain the importance of physical security controls](#27-explain-the-importance-of-physical-security-controls)
   - [2.8 Summarize the basic of cryptographic concepts](#28-summarize-the-basic-of-cryptographic-concepts)
 - [Domain 3.0 Implementation](#domain-30-implementation)
-  - [3.1 Given a scenario, implement secure protocols.](#31-given-a-scenario-implement-secure-protocols)
-  - [3.2 Given a scenario, implement host or application security solutions.](#32-given-a-scenario-implement-host-or-application-security-solutions)
-  - [3.3 Given a scenario, implement secure network designs.](#33-given-a-scenario-implement-secure-network-designs)
+  - [3.1 Given a scenario, implement secure protocols](#31-given-a-scenario-implement-secure-protocols)
+  - [3.2 Given a scenario, implement host or application security solutions](#32-given-a-scenario-implement-host-or-application-security-solutions)
+  - [3.3 Given a scenario, implement secure network designs](#33-given-a-scenario-implement-secure-network-designs)
   - [3.4 Given a scenario, install and configure wireless security settings](#34-given-a-scenario-install-and-configure-wireless-security-settings)
   - [3.5 Given a scenario, implement secure mobile solutions.](#35-given-a-scenario-implement-secure-mobile-solutions)
   - [3.6 Given a scenario, apply cybersecurity solutions to the cloud.](#36-given-a-scenario-apply-cybersecurity-solutions-to-the-cloud)
@@ -672,7 +672,7 @@ aside: true
 
 ## Domain 3.0 Implementation
 
-### 3.1 Given a scenario, implement secure protocols.
+### 3.1 Given a scenario, implement secure protocols
 
 - Protocols
   - Domain Name System Security Extensions(DNSSEC)
@@ -700,9 +700,52 @@ aside: true
   - Network address allocation
   - Subscription services
 
-### 3.2 Given a scenario, implement host or application security solutions.
+### 3.2 Given a scenario, implement host or application security solutions
 
-### 3.3 Given a scenario, implement secure network designs.
+- Endpoint protection
+  - Antivirus
+  - Anti-malvare
+  - Endpoint detection and response(EDR)
+  - DLP
+  - Next-generation firewall(NGFW)
+  - Host-based intrusion prevention system(HIPS)
+  - Host-based intrusion detection system(HIDS)
+  - Host based firewall
+- Boot integrity
+  - Boot security/Unified Extensible Firmware Interfact(UEFI)
+  - Measured boot
+  - Boot attestation
+- Database
+  - Tokenization
+  - Salting
+  - Hashing
+- Application security
+  - Input validations
+  - Secure cooking
+  - Hypertext Transfer Protocol(HTTP)headers
+  - Code signing
+  - Allow list
+  - Block list/deny list
+  - Secure coding practices
+  - Static code analysis
+    - Manual code review
+  - Dynamic code analysis
+  - Fuzzing
+- Hardening
+  - Open ports and services
+  - Registry
+  - Disk encryption
+  - OS
+  - Patch management
+    - Third-party updates
+    - Auto-updates
+- Self-encrypting drive(SED)/full-disk encryption(FDE)
+  - Opal
+- Hardware root or trust
+- Trusted Platform Module(TPM)
+- Sandboxing
+
+### 3.3 Given a scenario, implement secure network designs
 
 ### 3.4 Given a scenario, install and configure wireless security settings
 
