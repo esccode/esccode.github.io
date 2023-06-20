@@ -838,8 +838,57 @@ aside: true
 ### 4.2 Summarize the importance of policies, processes, and procedures for incident response.
 
 ### 4.3 Given an incident, utilize appropriate data sources to support an investigation.
+- Vulnerability scan output
+- SIEM dashboards
+  - Sensor
+  - Sensitivity
+  - Trends
+  - Alerts
+  - Correlation
+- Log files
+  - Network
+  - System
+  - Application
+  - Security
+  - Web
+  - DNS
+  - Authentication
+  - Dump files
+  - VoIP and call managers
+  - Session initiation Protocol(SIP)traffic
+- syslog/rsyslog/syslog-ng
+- journalctl
+- NXLog
+- Bandwidth monitors
+- Metadata
+  - Email
+  - Mobile
+  - Web
+  - File
+- Netflow/sFlow
+  - Netflow
+  - SFlow
+  - IPFIX
+- Protocol analyzer output
 
 ### 4.4 Given an incident,apply mitigation techniques or controls to secure an environment.
+
+- Reconfigure andpoint security solutions
+  - Application approved list
+  - Application blocklist/deny list
+  - Quarantine
+- Configuration changes
+  - Firewall rules
+  - MDM
+  - DLP
+  - Content filter/URL filter
+  - Update or revoke certificates
+- isolation
+- Containment
+- Segmentation
+- SOAR
+  - Runbooks
+  - Playbooks
 
 ### 4.5 Explain the key aspects of digital forensics.
 
