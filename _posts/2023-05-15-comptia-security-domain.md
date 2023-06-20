@@ -999,7 +999,7 @@ aside: true
   - Certificate attributes
   - Online Certificate Status
   - Protocol(OCSP)
-  - Certificate signing request(CSR)
+  - Certificate signing request(CSR)(A Base64 ASCII file that a subject sends to a CA to get a certificate)
   - CN
   - Subject alternative name(SAN)
   - Expriation
