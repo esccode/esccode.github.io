@@ -184,7 +184,7 @@ Descriptive Statistics describes our data by summarizing it and providing us wit
 Inferential Statistics draws conclusions from our data by making generalizations and predictions
 
 - t-tests(A test used to *compare two groups* when determining whether there is a significant difference between the means of both groups)
-- Z-score(Describe how many standard deviations a particular measurement is away from the mean)
+- Z-score(A value that shows how many standard deviations a data point is from the mean)
 - P-values(Probability that test results are not statistically significant)
 - Chi-squared(compares the size of the difference between the expected result and the actual result,two types:Goodness of fit and test of independence)
 - Hypothesis testing
