@@ -53,7 +53,7 @@ aside: true
   - Online analytical processing(**OLAP**)(A class of software that allows complex analysis to be conducted on large databases without negatively affecting transactional systems)
 - Schema concepts
   - Snowflake(The relational model of fact and dimension tables that looks like a snowflake, in which dimension tables are joined to a single fact table and also other dimension tables)
-  - Star
+  - Star(The relational model of fact and dimension tables that looks like a star, in which all dimension tables are joined to a single fact table)
 - Slowly changing dimensions
   - Keep current information
   - Keep historical and current information
