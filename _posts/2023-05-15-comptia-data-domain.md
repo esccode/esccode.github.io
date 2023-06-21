@@ -116,7 +116,7 @@ aside: true
 - Missing values(MCAR-data that is missing completely at random,MAR-data that is missing at random,MNAR-data that is missing not at randoms)
 - Invalid data
 - Non-parametric data
-- Data outliers(virtualization tool easy to identify outlier is Boxplot)
+- Data outliers(Values in the data set that don't seem to be within the norm of all the other data)
 - Specification mismatch
 - Data type validation
 
@@ -311,7 +311,7 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 ### 4.4 Given a scenario, apply the appropriate type of visualization
 
 - Line chart(compare the values of two variables using two axes)
-- Pie chart(show the proportions of variable values)
+- Pie chart(A circle broken into slices to represent percentages of information)
 - Bubble chart
 - Scatter plot(have both an x-axis and y-axis)
 - Bar chart(Show how data fits into categories)
