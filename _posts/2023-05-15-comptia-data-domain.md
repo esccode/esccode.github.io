@@ -185,7 +185,7 @@ Inferential Statistics draws conclusions from our data by making generalizations
 
 - t-tests(A test used to *compare two groups* when determining whether there is a significant difference between the means of both groups)
 - Z-score(A value that shows how many standard deviations a data point is from the mean)
-- P-values(Probability that test results are not statistically significant)
+- P-values(A value in statistical tests that tells the probability that an observed difference occurred by chance)
 - Chi-squared(compares the size of the difference between the expected result and the actual result,two types:Goodness of fit and test of independence)
 - Hypothesis testing
   - Type I error(An error that occurs when the *correct hypothesis is rejected* and the *incorrect hypothesis is accepted*; also known as *false positive*)
