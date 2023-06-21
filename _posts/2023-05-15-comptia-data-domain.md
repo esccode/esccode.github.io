@@ -52,7 +52,7 @@ aside: true
   - Online transactional processing(**OLTP**) (A class of software that allows large numbers of database transactions in real time, typically over the internet)
   - Online analytical processing(**OLAP**)(A class of software that allows complex analysis to be conducted on large databases without negatively affecting transactional systems)
 - Schema concepts
-  - Snowflake
+  - Snowflake(The relational model of fact and dimension tables that looks like a snowflake, in which dimension tables are joined to a single fact table and also other dimension tables)
   - Star
 - Slowly changing dimensions
   - Keep current information
