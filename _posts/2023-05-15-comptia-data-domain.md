@@ -93,8 +93,8 @@ aside: true
 ### 2.1 Explain data acquisition concepts
 
 - Integration
-  - Extract, transform, load(ETL)
-  - Extract, load, transform(ELT)
+  - Extract, transform, load(ETL is the most commonly used method for *data warehouses*)
+  - Extract, load, transform(ELT is the most commonly used method for *data lakes*)
   - Delta load(moves only recently changed data from the transactional system to data the data warehouse)
     - Initial load(moves all data from the transactional system to the data warehouse,)
     - Data lakes
