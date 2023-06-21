@@ -189,8 +189,8 @@ a hypothesis testing tool, which allows testing of an assumption applicable to a
 - P-values(Probability that test results are not statistically significant)
 - Chi-squared(compares the size of the difference between the expected result and the actual result,two types:Goodness of fit and test of independence)
 - Hypothesis testing
-  - Type I error(accept)
-  - Type II error(reject,false negative)
+  - Type I error(An error that occurs when the *correct hypothesis is rejected* and the *incorrect hypothesis is accepted*; also known as *false positive*)
+  - Type II error(An error that occurs when the *incorrect hypothesis is accepted* and the *correct hypothesis is rejected*; also known as *false negative*)
 - Simple linear regression(analysis will typically involve an x and y scatter plot with a line)
 - **Correlation**(Strength of relationship between two variables)(positive correlation(r>0),negative correlation(r<0),no correlation(r=0))
 
