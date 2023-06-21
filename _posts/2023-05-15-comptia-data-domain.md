@@ -164,8 +164,8 @@ reused with different values and purposes)
 Descriptive Statistics describes our data by summarizing it and providing us with visible features
 
 - Measures of central tendency
-  - **Mean**(math average value)
-  - **Median**(the value in the middle of the sorted dataset)
+  - **Mean**(The average of a set of numbers, calculated by adding all the values and then dividing that sum by the total number of values)
+  - **Median**(The middle number within a group of sorted numbersF)
   - **Mode**(most common value in the dataset)
 - Measures of dispersion
   - Range( R = Hs – Ls)
@@ -290,7 +290,7 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
     - General public
     - Technical experts
 - Development process
-  - Mockup/wireframe
+  - Mockup/wireframe(mockup To draw out a potential layout)
     - Layout/presentation
     - Flow/navigation
     - Data store planning
