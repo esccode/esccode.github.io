@@ -265,7 +265,7 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
     - Branding
     - Color codes
     - Logos/trademarks
-    - Watermark
+    - Watermark(Information displayed as an overlay on a report indicating content is *confidential or should not be printed or distributed*)
 - Documentation elements
   - Version number
   - Reference data sources
@@ -316,7 +316,7 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 - Scatter plot(have both an x-axis and y-axis)
 - Bar chart(Show how data fits into categories)
 - Histogram
-- Waterfall
+- Waterfall(A chart that visualizes performance over time with a series of columns)
 - Heat map
 - Geographic map
 - Tree map(designed for nested datasets)
