@@ -260,7 +260,7 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
   - Key chart elements
     - Title(title-30p,heading 1-26p,heading 2-20p,heading 3-16p,Body text-13p)
     - Labels(to identify each axis)
-    - Legends(desc the symbols and/or colors used to represent different categories)
+    - Legends(A labeling element that lets you know which color represents which value in a visual)
   - Corporate reporting standards/style guide
     - Branding
     - Color codes
