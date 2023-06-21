@@ -349,7 +349,7 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 - Security requirements
   - Data encryption
   - Data transmission
-  - De-identify data/data masking
+  - De-identify data/data masking(masking The act of hiding the original value of data by showing something else in its place; *also known as anonymization*)
 - Storage environment requirements
   - Shared drive vs. cloud based vs. local storage
 - Use requirements
