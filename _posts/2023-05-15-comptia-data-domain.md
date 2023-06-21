@@ -321,7 +321,7 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 - Heat map
 - Geographic map
 - Tree map(designed for nested datasets)
-- Stacked chart
+- Stacked chart(A chart that breaks the bar or column into separate portions, each representing an additional data point)
 - Infographic(tells a visual story)
 - Word cloud
 
