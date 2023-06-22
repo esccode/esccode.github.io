@@ -1073,9 +1073,9 @@ aside: true
 - Forensics
   - dd
   - Memdump
-  - WinHex
+  - WinHex(Forensics tool for Windows that allows collection and inspection of binary code in disk and memory images.)
   - FTK imager
-  - Autopsy
+  - Autopsy(The Sleuth Kit is an open source collection of command line and programming libraries for disk imaging and file analysis. Autopsy is a graphical frontend for these tools and also provides a case management/workflow tool. Also known as Sleuth Kit)
 - Exploitation frameworks
 - Password crackers
 - Data sanitization
