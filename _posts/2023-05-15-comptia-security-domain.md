@@ -1211,7 +1211,7 @@ aside: true
   - Center for Internet Security(CSI)
   - National Institute of Standards and Technology(NIST) Risk Management Framework(RMF)/Cybersecurity Framework(CSF)
   - International Organization for Standardization(ISO)27001/27002/27701/31000
-  - SSAE SOC2 Type I/II
+  - SSAE SOC2 Type I/II(*Audit* specifications designed to ensure that cloud/hosting providers meet professional standards. A SOC2 Type II report is created for a restricted audience, while SOC3 reports are provided for general consumption)
   - Cloud security alliance
   - Cloud control matrix
   - Reference architecture
