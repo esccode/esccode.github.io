@@ -919,7 +919,7 @@ aside: true
     - cloud(VPC)endpoint
     - Container security
 - Solutions
-  - CASB
+  - CASB((cloud access security broker) Enterprise management software designed to mediate access to cloud services by users across all types of devices.)
   - Application security
   - Next-generation secure web gateway(SWG)
   - Firewall considerations in a cloud environment
