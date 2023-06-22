@@ -123,7 +123,7 @@ aside: true
   - Serial Bus(USB) cable
   - Malicious flash drive
   - Card cloning
-  - Skimming
+  - Skimming(Duplicating a smart card by reading (skimming) the confidential data stored on it. Also known as skimming.)
 - **Adversarial artificial intelligence(AI)**
   - Tained training data for machine learning(ML)
   - Security of machine learning algorithms
