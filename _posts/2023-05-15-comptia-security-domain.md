@@ -600,11 +600,11 @@ aside: true
 - Drones
 - Visitor logs
 - Faraday cages(prevents wireless or cellular phones)
-- Air gap
+- Air gap(A type of network isolation that physically separates a network from all other networks.)
 - Screened subnet(previously known as demilitarized zone)(like DMZ)
 - Protected cable distribution
 - Secure area
-  - Air gap
+  - Air gap(like secure area demilitarized zone (DMZ).)
   - Vault
   - Safe
   - Hot aisle
