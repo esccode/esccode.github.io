@@ -830,7 +830,7 @@ aside: true
 - Methods
   - Pre-shared key(PSK) vs. Enterprise vs. Open
   - WiFi Protected Setup(WPS)
-  - Captive portals
+  - Captive portals(A web page or website to which a client is redirected before being granted full network access.)
 - Instalation considerations
   - Site surveys
   - Heat maps
