@@ -543,7 +543,7 @@ aside: true
   - Narrow-band
   - Baseband radio
   - Subscriber identity module(SIM)cards
-  - Zigbee
+  - Zigbee(Low-power wireless communications open source protocol used primarily for home automation. ZigBee uses radio frequencies in the 2.4 GHz band and a mesh topology.)
 - Constraints
   - Power
   - Compute
