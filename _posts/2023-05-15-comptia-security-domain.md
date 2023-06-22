@@ -137,7 +137,7 @@ aside: true
 ### 1.3 Given a scenario, analyze potential indicators associated with application attacks
 
 - Privilege escalation
-- Cross-site scripting
+- Cross-site scripting(XSS, A malicious script hosted on the attacker's site or coded in a link injected onto a trusted site designed to compromise clients browsing the trusted site, circumventing the browser's security model of trusted zones.)
 - Injections
   - Structured query language(SQL)
   - Dynamic-link library(DLL)
