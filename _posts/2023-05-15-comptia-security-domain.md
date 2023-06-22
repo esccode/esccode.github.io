@@ -872,10 +872,10 @@ aside: true
   - SEAndroid
 - Enforcement and monitoring of:
   - Third-party application stores
-  - Rooting/jailbreaking
+  - Rooting/jailbreaking(the user to obtain root privileges, sideload apps, change or add carriers, and customize the interface. iOS jailbreaking is accomplished by booting the device with a patched kernel. For most exploits, this can only be done when the device is attached to a computer when it boots (*tethered* jailbreak).)
   - Sideloading
   - Custom firmware
-  - Carrier unlocking
+  - Carrier unlocking(enables a smartphone to be switched to a diffrent mobile network provider)
   - Firmware oven-the-air(OTA)updates
   - Camera use
   - SMS/Multimedia Messaging Service(MMS)Rich Communication Services(RCS)
