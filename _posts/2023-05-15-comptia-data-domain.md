@@ -314,7 +314,7 @@ The intent of this objectives is NOT to test specific vendor feature sets nor th
 - Pie chart(A circle broken into slices to represent percentages of information)
 - Bubble chart
 - Scatter plot(have both an x-axis and y-axis)
-- Bar chart(Show how data fits into categories)
+- Bar chart(Show how data fits into categories,a bar chart reads horizontally, while a column chart reads vertically)
 - Histogram
 - Waterfall(A chart that visualizes performance over time with a series of columns)
 - Heat map
