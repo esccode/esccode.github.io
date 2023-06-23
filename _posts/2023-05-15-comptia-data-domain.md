@@ -171,7 +171,7 @@ Descriptive Statistics describes our data by summarizing it and providing us wit
   - Range( R = Hs – Ls)
     - Max
     - Min
-  - Distribution
+  - Distribution(*normal distribution* A bell-shaped curve that depicts the data distribution for a data set)
   - **Variance**(the average of the squared differences of each value in the dataset from the mean)(symbol σ² used)
   - Standard deviation(A value that shows how dispersed the data is in relationship to the mean of all of the data)
 - Frequencies/percentages
