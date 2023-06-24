@@ -436,7 +436,7 @@ aside: true
     - Authentication applications
     - Push notifications
     - Phone call
-  - Smart card authentication
+  - Smart card authentication(means programming cryptographic information onto a card equipped with a secure processing chip. The chip stores the user's digital certificate, the private key associated with the certificate, and a personal identification number (PIN) used to activate the card.)
 - Biometrics
   - Fingerprint
   - Retina
