@@ -855,7 +855,8 @@ aside: true
 - Mobile device management(MDM)
   - Application management
   - Content management
-  - Remote wipe
+  - Remote wipe(security feature for mobile device management that allows you to remotely clear data from a lost or stolen 
+mobile device)
   - Geofencing
   - Geolocation
   - Screen locks
@@ -931,7 +932,7 @@ aside: true
 ### 3.7 Given a scenario, implement identity and account management controls.
 
 - Identity
-  - Identity provider(IdP)( In a federated network, the service that holds the user account and performs authentication.)
+  - Identity provider(IdP)( In a federated network, the service that holds the user account and performs authentication.s)
   - Attributes
   - Certificates
   - Tokens
