@@ -931,7 +931,7 @@ aside: true
 ### 3.7 Given a scenario, implement identity and account management controls.
 
 - Identity
-  - Identity provider(IdP)
+  - Identity provider(IdP)( In a federated network, the service that holds the user account and performs authentication.)
   - Attributes
   - Certificates
   - Tokens
