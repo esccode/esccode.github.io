@@ -788,7 +788,7 @@ aside: true
     - Heuristic/behavior
     - Anomaly
     - Inline vs. passive
-  - HSM
+  - HSM(is a network appliance designed to perform centralized PKI management for a network of devices. This means that it can act as an archive or escrow for keys in case of loss or damage)
   - Sensors
   - Collectors
   - Aggregators
