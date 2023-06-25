@@ -1191,9 +1191,9 @@ mobile device)
 ## 5.1 Compare and contrast various types of control
 
 - Category
-  - Managerial
-  - Operational
-  - Technical
+  - Managerial(Policies and procedures defined by org's security policy, other regulations and requirements)
+  - Operational(are executed by complany personnel during their day-to-day operations)
+  - Technical(involves the hardware or software mechanisms implemented by IT team to reduce risk)
 - Control type
   - Preventive
   - Detective
