@@ -1195,8 +1195,8 @@ mobile device)
   - Operational(are executed by complany personnel during their day-to-day operations)
   - Technical(involves the hardware or software mechanisms implemented by IT team to reduce risk)
 - Control type
-  - Preventive
-  - Detective
+  - Preventive(Deployed to thwart or stop unwanted or unauthorized activity form occuring)
+  - Detective(Deployed to discover or detect unwanted or unauthorized activity)
   - Corrective
   - Deterrent(deployed to discourage violation of security policies)
   - Compensating
