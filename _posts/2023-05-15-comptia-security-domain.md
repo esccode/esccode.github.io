@@ -945,7 +945,7 @@ mobile device)
   - Service accounts(a service account is type of administrator account used to run an application, example: account to run an anti-virus application)
 - Account policies
   - Password complexity
-  - Password history
+  - Password history(prevents someone from reusing the same password)
   - Password reuse
   - Network location
   - Geofencing
