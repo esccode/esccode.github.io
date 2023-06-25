@@ -987,7 +987,7 @@ mobile device)
   - Discretionary access control(DAC)(every object has an owner, and the owner can grant or deny access to any other subject)
   - Conditional access
   - Privileged access management(privileged accounts within a domain)
-  - Filesystem permissions(NTFS(Windows), SUID and SGID(Linux))
+  - Filesystem permissions(NTFS(Windows), SUID and SGID(Linux, read=4,write=2,execute=1))
 
 ### 3.9 Given a scenario, implement public key infrastructure
 
