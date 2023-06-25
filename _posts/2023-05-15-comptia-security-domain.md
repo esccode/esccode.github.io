@@ -940,7 +940,7 @@ mobile device)
   - Smart cards(a credit card-loke token with a certificate embedded on a chip;it is used in conjunction with a pin.Physical card)
 - Account types
   - User account(standard user account with limited privileges)
-  - Shared and generic accounts/credentials
+  - Shared and generic accounts/credentials(Generic account is default andmin accounts created by manufacturers)
   - Guest accounts(a legacy account that was designed to give limited access to a single computer without the need to creat a user account, normally disabled)
   - Service accounts(a service account is type of administrator account used to run an application, example: account to run an anti-virus application)
 - Account policies
