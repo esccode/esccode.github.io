@@ -933,11 +933,11 @@ mobile device)
 
 - Identity
   - Identity provider(IdP)( In a federated network, the service that holds the user account and performs authentications like Azure Active Directory is the identity provider for Office 365)
-  - Attributes
+  - Attributes(unique property in a user's account details, such as employee ID)
   - Certificates
   - Tokens
   - SSH keys
-  - Smart cards
+  - Smart cards(a credit card-loke token with a certificate embedded on a chip;it is used in conjunction with a pin)
 - Account types
   - User account
   - Shared and generic accounts/credentials
