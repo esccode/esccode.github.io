@@ -1198,7 +1198,7 @@ mobile device)
   - Preventive
   - Detective
   - Corrective
-  - Deterrent
+  - Deterrent(deployed to discourage violation of security policies)
   - Compensating
   - Physical
 
