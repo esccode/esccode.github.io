@@ -941,7 +941,7 @@ mobile device)
 - Account types
   - User account(standard user account with limited privileges)
   - Shared and generic accounts/credentials
-  - Guest accounts
+  - Guest accounts(a legacy account that was designed to give limited access to a single computer without the need to creat a user account, normally disabled)
   - Service accounts
 - Account policies
   - Password complexity
