@@ -939,7 +939,7 @@ mobile device)
   - SSH keys(linux server, instead of using username and password)
   - Smart cards(a credit card-loke token with a certificate embedded on a chip;it is used in conjunction with a pin.Physical card)
 - Account types
-  - User account
+  - User account(standard user account with limited privileges)
   - Shared and generic accounts/credentials
   - Guest accounts
   - Service accounts
