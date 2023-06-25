@@ -942,7 +942,7 @@ mobile device)
   - User account(standard user account with limited privileges)
   - Shared and generic accounts/credentials
   - Guest accounts(a legacy account that was designed to give limited access to a single computer without the need to creat a user account, normally disabled)
-  - Service accounts(a service account is type of administrator account used to run an application)
+  - Service accounts(a service account is type of administrator account used to run an application, example: account to run an anti-virus application)
 - Account policies
   - Password complexity
   - Password history
