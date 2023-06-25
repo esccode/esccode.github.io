@@ -951,7 +951,7 @@ mobile device)
   - Geofencing
   - Geotagging
   - Geolocation
-  - Time-based logins
+  - Time-based logins(employees may be restricted to accessing the network between 7 am and 6 pm)
   - Access policies
   - Account permissions
   - Account audits
