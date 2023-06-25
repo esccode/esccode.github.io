@@ -932,26 +932,26 @@ mobile device)
 ### 3.7 Given a scenario, implement identity and account management controls.
 
 - Identity
-  - Identity provider(IdP)( In a federated network, the service that holds the user account and performs authentication.s)
-  - Attributes
-  - Certificates
-  - Tokens
-  - SSH keys
-  - Smart cards
+  - Identity provider(IdP)( In a federated network, the service that holds the user account and performs authentications like Azure Active Directory is the identity provider for Office 365)
+  - Attributes(unique property in a user's account details, such as employee ID)
+  - Certificates(a digital certificate where two keys are generated, a public key and a private key.The private kay is used for identity)
+  - Tokens(a digital token, such as a SAML token used for federation services, or a token used by Open Authentication(OAuth2))
+  - SSH keys(linux server, instead of using username and password)
+  - Smart cards(a credit card-loke token with a certificate embedded on a chip;it is used in conjunction with a pin.Physical card)
 - Account types
-  - User account
-  - Shared and generic accounts/credentials
-  - Guest accounts
-  - Service accounts
+  - User account(standard user account with limited privileges)
+  - Shared and generic accounts/credentials(Generic account is default andmin accounts created by manufacturers)
+  - Guest accounts(a legacy account that was designed to give limited access to a single computer without the need to creat a user account, normally disabled)
+  - Service accounts(a service account is type of administrator account used to run an application, example: account to run an anti-virus application)
 - Account policies
   - Password complexity
-  - Password history
+  - Password history(prevents someone from reusing the same password)
   - Password reuse
   - Network location
   - Geofencing
   - Geotagging
   - Geolocation
-  - Time-based logins
+  - Time-based logins(employees may be restricted to accessing the network between 7 am and 6 pm)
   - Access policies
   - Account permissions
   - Account audits
