@@ -932,7 +932,7 @@ mobile device)
 ### 3.7 Given a scenario, implement identity and account management controls.
 
 - Identity
-  - Identity provider(IdP)( In a federated network, the service that holds the user account and performs authentication.s)
+  - Identity provider(IdP)( In a federated network, the service that holds the user account and performs authentications like Azure Active Directory is the identity provider for Office 365)
   - Attributes
   - Certificates
   - Tokens
