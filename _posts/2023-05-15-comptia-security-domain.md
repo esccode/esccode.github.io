@@ -1195,12 +1195,12 @@ mobile device)
   - Operational(are executed by complany personnel during their day-to-day operations)
   - Technical(involves the hardware or software mechanisms implemented by IT team to reduce risk)
 - Control type
-  - Preventive(Deployed to thwart or stop unwanted or unauthorized activity form occuring)
-  - Detective(Deployed to discover or detect unwanted or unauthorized activity)
-  - Corrective
-  - Deterrent(deployed to discourage violation of security policies)
-  - Compensating
-  - Physical
+  - Preventive(Deployed to thwart or *stop unwanted or unauthorized activity* form occuring)
+  - Detective(Deployed to *discover or detect* unwanted or unauthorized activity)
+  - Corrective(modifies the env to *return systems to normal* after an unwanted or unauthorized activity has occurred)
+  - Deterrent(deployed to *discourage violation* of security policies)
+  - Compensating(provide *options to other existing controls* to aid in enforcement of security policies)
+  - Physical(a control you can *physically touch*)
 
 ### 5.2 Explain the importance of applicable regulations, standards, or frameworks that impact organizational security posture
 
