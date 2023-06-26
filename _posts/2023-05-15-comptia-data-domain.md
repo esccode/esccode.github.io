@@ -322,7 +322,7 @@ simplified, real-time access to business data for decision-makers across the com
 - Geographic map
 - Tree map(designed for nested datasets)
 - Stacked chart(A chart that breaks the bar or column into separate portions, each representing an additional data point)
-- Infographic(tells a visual story)
+- Infographic(tells a visual story.Is any combination of visuals, artwork, photos, and language that tells the story of your data in a compelling and graphically appealing way.)
 - Word cloud(is a visual representation of the words used in a particular body of texts)
 
 ### 4.5 Compare and contrast types of reports
