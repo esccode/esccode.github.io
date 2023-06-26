@@ -313,7 +313,7 @@ simplified, real-time access to business data for decision-makers across the com
 
 - Line chart(compare the values of two variables using two axes)
 - Pie chart(A circle broken into slices to represent percentages of information)
-- Bubble chart
+- Bubble chart(This visual will allow you to add a third variable or dimension of the data as represented by the size of the dot (or bubble).)
 - Scatter plot(have both an x-axis and y-axis)
 - Bar chart(Show how data fits into categories,a bar chart reads horizontally, while a column chart reads vertically)
 - Histogram
