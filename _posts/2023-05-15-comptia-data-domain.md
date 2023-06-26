@@ -318,12 +318,12 @@ simplified, real-time access to business data for decision-makers across the com
 - Bar chart(Show how data fits into categories,a bar chart reads horizontally, while a column chart reads vertically)
 - Histogram
 - Waterfall(A chart that visualizes performance over time with a series of columns)
-- Heat map
+- Heat map(is any visual that uses color to draw attention to a “hot” spot)
 - Geographic map
 - Tree map(designed for nested datasets)
 - Stacked chart(A chart that breaks the bar or column into separate portions, each representing an additional data point)
 - Infographic(tells a visual story)
-- Word cloud
+- Word cloud(is a visual representation of the words used in a particular body of texts)
 
 ### 4.5 Compare and contrast types of reports
 
