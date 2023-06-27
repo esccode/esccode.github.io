@@ -335,7 +335,7 @@ account)
 *Dynamic reports* provide deep insights, and allow users to interact with the data rather than just view it.)
   - Point-in-time
   - Teal time
-- Ad-hoc/one-time report
+- Ad-hoc/one-time report(Ad hoc reports are generated as needed for a one-timeuse, in a visual format relevant to the audience.)
 - Self-service/on-demand
 - Recuring reports(Generated on a planed schedule)
   - Compliance report(e.g., financial, health, and safety. Presenting information sto auditors that show that your company is adhering to all the 
