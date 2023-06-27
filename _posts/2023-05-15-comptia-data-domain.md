@@ -332,7 +332,7 @@ account)
 ### 4.5 Compare and contrast types of reports
 
 - Static vs. dynamic reports(*Static reporting* requires pulling up various reports from different sources and analyzing insights from a longer time period in order to provide a snapshot of data while 
-*Dynamic reports* provide deep insights, and allow users to interact with the data rather than just view it. ()
+*Dynamic reports* provide deep insights, and allow users to interact with the data rather than just view it.)
   - Point-in-time
   - Teal time
 - Ad-hoc/one-time report
