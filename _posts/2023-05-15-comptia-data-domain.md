@@ -243,7 +243,9 @@ simplified, real-time access to business data for decision-makers across the com
 - Data content
 - Filtering(limits report content to relevant data)
 - Views
-- Date range
+- Date range(custom report that allows you either to 
+select a month to include in the report or to choose specific 
+start and end dates for the data included in the report.)
 - Frequency
 - Audience for report
   - Distribution list(The people who are in your audience, who will receive a report or dashboard)
