@@ -335,7 +335,8 @@ start and end dates for the data included in the report.)
 - Ad-hoc/one-time report
 - Self-service/on-demand
 - Recuring reports(Generated on a planed schedule)
-  - Compliance report(e.g., financial, health, and safety)
+  - Compliance report(e.g., financial, health, and safety. Presenting information to auditors that show that your company is adhering to all the 
+requirements set by the government and regulatory agency)
   - Risk and regulatory reports
   - Operational reports[e.g., performance, key performance indicators(KPIs)]
 - Tactical /research report(Tactical report provide information to support short-term decisions, Research report provide information to support significant,strategic decisions)
