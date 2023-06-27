@@ -246,7 +246,7 @@ simplified, real-time access to business data for decision-makers across the com
 - Date range
 - Frequency
 - Audience for report
-  - Distribution list
+  - Distribution list(The people who are in your audience, who will receive a report or dashboard)
 
 ### 4.2 Given a scenario, use appropriate design components for reports and dashboards
 
