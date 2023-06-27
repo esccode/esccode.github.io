@@ -247,7 +247,9 @@ simplified, real-time access to business data for decision-makers across the com
 select a month to include in the report or to choose specific 
 start and end dates for the data included in the report.)
 - Frequency
-- Audience for report
+- Audience for report(Concerning dashboard best practices in design, your audience 
+is one of the most important principles you have to take into 
+account)
   - Distribution list(The people who are in your audience, who will receive a report or dashboard)
 
 ### 4.2 Given a scenario, use appropriate design components for reports and dashboards
@@ -335,7 +337,7 @@ start and end dates for the data included in the report.)
 - Ad-hoc/one-time report
 - Self-service/on-demand
 - Recuring reports(Generated on a planed schedule)
-  - Compliance report(e.g., financial, health, and safety. Presenting information to auditors that show that your company is adhering to all the 
+  - Compliance report(e.g., financial, health, and safety. Presenting information sto auditors that show that your company is adhering to all the 
 requirements set by the government and regulatory agency)
   - Risk and regulatory reports
   - Operational reports[e.g., performance, key performance indicators(KPIs)]
