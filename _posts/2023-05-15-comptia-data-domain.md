@@ -247,9 +247,7 @@ simplified, real-time access to business data for decision-makers across the com
 select a month to include in the report or to choose specific 
 start and end dates for the data included in the report.)
 - Frequency
-- Audience for report(Concerning dashboard best practices in design, your audience 
-is one of the most important principles you have to take into 
-account)
+- Audience for report(Concerning dashboard best practices in design, your audience is one of the most important principles you have to take into account)
   - Distribution list(The people who are in your audience, who will receive a report or dashboard)
 
 ### 4.2 Given a scenario, use appropriate design components for reports and dashboards
