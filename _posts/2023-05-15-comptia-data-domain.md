@@ -321,7 +321,7 @@ account)
 - Scatter plot(have both an x-axis and y-axis.This visual will allow you to add a third variable or dimension of the data as represented by the size of the dot (or bubble).)
 - Bar chart(Show how data fits into categories,a bar chart reads horizontally, while a column chart reads vertically)
 - Histogram
-- Waterfall(A chart that visualizes performance over time with a series of columns)
+- Waterfall(A waterfall visualization shows how an initial value is increased and decreased by a series of intermediate values, leading to a final cumulative value shown in the far right column)
 - Heat map(is any visual that uses color to draw attention to a “hot” spot)
 - Geographic map
 - Tree map(designed for nested datasets)
