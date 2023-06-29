@@ -323,7 +323,7 @@ account)
 - Histogram
 - Waterfall(A waterfall visualization shows how an initial value is increased and decreased by a series of intermediate values, leading to a final cumulative value shown in the far right column)
 - Heat map(is any visual that uses color to draw attention to a “hot” spot)
-- Geographic map
+- Geographic map(The purpose of the Geographic map is to support the analysis f geospatial data through the use of interactive voisualization. Map visualization is used to analyze and display geographically related data and present it in the form of maps)
 - Tree map(designed for nested datasets)
 - Stacked chart(A chart that breaks the bar or column into separate portions, each representing an additional data point)
 - Infographic(tells a visual story.Is any combination of visuals, artwork, photos, and language that tells the story of your data in a compelling and graphically appealing way.)
