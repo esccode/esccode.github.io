@@ -1095,7 +1095,7 @@ to continue operating with minimal disruption in the event of a
 disaster)
 - Continuity of operations planning(COOP)
 - Incident response team
-- Retention policies
+- Retention policies( is a key part of the lifecycle of a record. It describes how long a business needs to keep a piece of information (a record), where it’s stored, and how to dispose of the record when its time)
 
 ### 4.3 Given an incident, utilize appropriate data sources to support an investigation.
 - Vulnerability scan output
