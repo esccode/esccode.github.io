@@ -1089,8 +1089,10 @@ mobile device)
 - Attack frameworks
 - Stakeholders management
 - Communication plan
-- Disaster recovery plan
-- Business continuity plan
+- Disaster recovery plan(refers more specifically to the steps and technologies for recovering from a disruptive event, especially as it pertains to restoring lost data, infrastructure failure, or other technological components.)
+- Business continuity plan( is a strategy businesses put in place 
+to continue operating with minimal disruption in the event of a 
+disaster)
 - Continuity of operations planning(COOP)
 - Incident response team
 - Retention policies
