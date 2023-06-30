@@ -1207,7 +1207,8 @@ disaster)
 ### 5.2 Explain the importance of applicable regulations, standards, or frameworks that impact organizational security posture
 
 - Regulations, standards, and legislations
-  - General Data Protection Regulation(GDPR)
+  - General Data Protection Regulation(GDPR)(is a set of rules designed to give EU citizens more control over their personal data. It aims to simplify the regulatory environment for business so both citizens and businesses in the European Union can fully 
+benefit from the digital economy.)
   - National,territory, or state laws
   - Payment Card Industry Data Security Standard (PCI DSS)
 - Key frameworks
