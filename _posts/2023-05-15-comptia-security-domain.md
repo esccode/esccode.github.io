@@ -1315,7 +1315,7 @@ disaster)
 - Business impact analysis
   - Recovery time objective(RTO)
   - Recovery point objective(RPO)(describes a period of time in which an enterprise’s operations must be restored following a disruptive event, e.g., a cyberattack, natural disaster, or communications failure.)
-  - Mean time to repair(MTTR)
+  - Mean time to repair(MTTR)( is the average time it takes to recover from a product or system failure. This includes the full time of the outage—from the time the system or product fails to the time that it becomes fully operational again.)
   - Mean time between failures(MTBF)(measures the predicted 
 time that passes between one previous failure of a mechanical/
 electrical system to the next failure during normal operation. In 
