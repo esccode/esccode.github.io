@@ -1314,7 +1314,7 @@ disaster)
   - Internal vs. external
 - Business impact analysis
   - Recovery time objective(RTO)
-  - Recovery point objective(RPO)
+  - Recovery point objective(RPO)(describes a period of time in which an enterprise’s operations must be restored following a disruptive event, e.g., a cyberattack, natural disaster, or communications failure.)
   - Mean time to repair(MTTR)
   - Mean time between failures(MTBF)(measures the predicted 
 time that passes between one previous failure of a mechanical/
