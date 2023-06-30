@@ -1213,7 +1213,7 @@ benefit from the digital economy.)
   - Payment Card Industry Data Security Standard (PCI DSS)( is a widely accepted set of policies and procedures intended to optimize the security of credit, debit and cash card transactions and protect cardholders against misuse of their personal information)
 - Key frameworks
   - Center for Internet Security(CSI)
-  - National Institute of Standards and Technology(NIST) Risk Management Framework(RMF)/Cybersecurity Framework(CSF)
+    - National Institute of Standards and Technology(NIST) Risk Management Framework(RMF)/Cybersecurity Framework(CSF)
   - International Organization for Standardization(ISO)27001/27002/27701/31000
   - SSAE SOC2 Type I/II(*Audit* specifications designed to ensure that cloud/hosting providers meet professional standards. A SOC2 Type II report is created for a restricted audience, while SOC3 reports are provided for general consumption)
   - Cloud security alliance
@@ -1308,7 +1308,7 @@ benefit from the digital economy.)
   - Asset value
   - Single-loss expectancy(SLE)
   - Annualized loss expectancy(ALE)
-  - Annualized rate of occurrence(ARO)
+  - Annualized rate of occurrence(ARO)(is described as an estimated frequency of the threat occurring in one year. ARO is used to calculate ALE (annualized loss expectancy))
 - Disasters
   - Environmental
   - Person-made
