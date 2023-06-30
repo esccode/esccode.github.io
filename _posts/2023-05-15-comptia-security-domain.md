@@ -1316,7 +1316,10 @@ disaster)
   - Recovery time objective(RTO)
   - Recovery point objective(RPO)
   - Mean time to repair(MTTR)
-  - Mean time between failures(MTBF)
+  - Mean time between failures(MTBF)(measures the predicted 
+time that passes between one previous failure of a mechanical/
+electrical system to the next failure during normal operation. In 
+simpler terms, MTBF helps you predict how long an asset can run before the next unplanned breakdown happens.)
   - Functional recovery plans
   - Single point of failure
   - Disaster recovery plan(DRP)
