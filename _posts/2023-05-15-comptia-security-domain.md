@@ -1217,7 +1217,7 @@ benefit from the digital economy.)
   - International Organization for Standardization(ISO)27001/27002/27701/31000(27001-international standard on how to manage information security,27002-improve the management of information,27701-improve a privacy information management system(PIMS),31000-managing risk)
   - SSAE SOC2 Type I/II(*Audit* specifications designed to ensure that cloud/hosting providers meet professional standards. A SOC2 Type II report is created for a restricted audience, while SOC3 reports are provided for general consumption)
   - Cloud security alliance(not for profit organization)
-  - Cloud control matrix(to assess the overall risk of a cloud provider)
+  - Cloud control matrix(CCM)(to assess the overall risk of a cloud provider)
   - Reference architecture
 - Benchmarks/secure configuration guides
   - Platform/vendor-specific guides
