@@ -1347,7 +1347,7 @@ simpler terms, MTBF helps you predict how long an asset can run before the next 
     - Confidential
     - Critical
     - Proprietary
-  - Personally identifiable information(PII)
+  - Personally identifiable information(PII)(any information that can identify an individual(name,SSN,birthdate/place,biometric,records))
   - Health information
   - Financial information
   - Government data
