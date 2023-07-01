@@ -1193,11 +1193,11 @@ disaster)
 ## 5.1 Compare and contrast various types of control
 
 - Category
-  - Managerial(Policies and procedures defined by org's security policy, other regulations and requirements)
-  - Operational(are executed by complany personnel during their day-to-day operations)
-  - Technical(involves the hardware or software mechanisms implemented by IT team to reduce risk)
+  - Managerial(Procedural mechanisms that focus on the mechanics of the risk management process)
+  - Operational(Processes that we put in place to manage technology in a secure manner)
+  - Technical(Use technological means to meet a security objective  )
 - Control type
-  - Preventive(Deployed to thwart or *stop unwanted or unauthorized activity* form occuring)
+  - Preventive(Stops an adversary from violating security policies)
   - Detective(Deployed to *discover or detect* unwanted or unauthorized activity)
   - Corrective(modifies the env to *return systems to normal* after an unwanted or unauthorized activity has occurred)
   - Deterrent(deployed to *discourage violation* of security policies)
