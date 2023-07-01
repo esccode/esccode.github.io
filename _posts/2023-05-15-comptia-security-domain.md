@@ -1222,8 +1222,8 @@ benefit from the digital economy.)
 - Benchmarks/secure configuration guides
   - Platform/vendor-specific guides
     - Web server
-    - OS
-    - Paalication server
+    - OS(vendors have guides that detail the best practices for installing their operating systems)
+    - Application server
     - Network infrastructure devices
 
 ### 5.3 Explain the importance of policies to organizational security.
