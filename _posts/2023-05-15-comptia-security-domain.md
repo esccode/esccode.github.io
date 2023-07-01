@@ -1306,9 +1306,10 @@ benefit from the digital economy.)
   - Likelihood of occurrence
   - Impact
   - Asset value
-  - Single-loss expectancy(SLE)
+  - Single-loss expectancy(SLE)(SLE tells us what 
+kind of monetary loss we can expect if an asset is compromised because of a risk. Calculating SLE requires knowledge of the asset value (AV) and the range of loss that can be expected if a risk is exploited, which is known as the exposure factor (EF).)
   - Annualized loss expectancy(ALE)
-  - Annualized rate of occurrence(ARO)(is described as an estimated frequency of the threat occurring in one year. ARO is used to calculate ALE (annualized loss expectancy))
+  - Annualized rate of occurrence(ARO)(is described as an estimated frequency of the threat occurring in one year. ARO is used to scalculate ALE (annualized loss expectancy))
 - Disasters
   - Environmental
   - Person-made
