@@ -1241,7 +1241,7 @@ benefit from the digital economy.)
   - Onboarding(process of integrating a new employee into a company)
   - Offboarding(process to the formal separation between an employee and the company through resignation, termination, or retirement)
   - User training
-    - Gamification
+    - Gamification(used in computer-based training to provide employees with a question/challenges)
     - Capture the flag
     - phishing campaigns
       - Phishing simulations
