@@ -1242,7 +1242,7 @@ benefit from the digital economy.)
   - Offboarding(process to the formal separation between an employee and the company through resignation, termination, or retirement)
   - User training
     - Gamification(used in computer-based training to provide employees with a question/challenges)
-    - Capture the flag
+    - Capture the flag(a security related competition where someone is trying to hack into a resource to gain access to data(red/blue team))
     - phishing campaigns
       - Phishing simulations
     - Computer-based training(CBT)
