@@ -1233,13 +1233,13 @@ benefit from the digital economy.)
   - Job rotation
   - Mandatory vacation
   - Separation of duties
-  - Least privilege
+  - Least privilege(a subject should be given only those privileges necessary to complete their job-related tasks.)
   - Clean desk space(increases the physical security of data by requiring employees to limit what is on their desk)
   - Background checks(potential employees should be extensive background check before being hired)
   - Non-disclosure agreement(NDA)(legal contract intended to **cover confidentialitys**)
   - Social media analysis
-  - Onboarding
-  - Offboarding
+  - Onboarding(process of integrating a new employee into a company)
+  - Offboarding(process to the formal separation between an employee and the company through resignation, termination, or retirement)
   - User training
     - Gamification
     - Capture the flag
