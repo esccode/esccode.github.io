@@ -1235,7 +1235,7 @@ benefit from the digital economy.)
   - Separation of duties
   - Least privilege
   - Clean desk space(increases the physical security of data by requiring employees to limit what is on their desk)
-  - Background checks
+  - Background checks(potential employees should be extensive background check before being hired)
   - Non-disclosure agreement(NDA)(legal contract intended to **cover confidentialitys**)
   - Social media analysis
   - Onboarding
