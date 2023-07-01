@@ -1234,9 +1234,9 @@ benefit from the digital economy.)
   - Mandatory vacation
   - Separation of duties
   - Least privilege
-  - Clean desk space
+  - Clean desk space(increases the physical security of data by requiring employees to limit what is on their desk)
   - Background checks
-  - Non-disclosure agreement(NDA)
+  - Non-disclosure agreement(NDA)(legal contract intended to **cover confidentialitys**)
   - Social media analysis
   - Onboarding
   - Offboarding
