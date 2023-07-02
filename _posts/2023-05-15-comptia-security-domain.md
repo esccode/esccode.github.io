@@ -1250,13 +1250,13 @@ benefit from the digital economy.)
 - Diversity of training techniques
 - Third-party risk management
   - Vendors
-  - Supply chain
+  - Supply chain(a secure chain vendors who are secure, reliable, trustworthy,reputable)
   - Business partners
   - Service level agreement(SLA)
   - Memorandum of understanding(MOU)(similar to SLA)
   - Measurement systems analysis(MSA)(provide a way for an organization to evaluate the *quality of the process* used in their measurement systems)
   - Business partnership agreement(BPA)
-  - End of life(EOL)
+  - End of life(EOL)(point at which a vendor stops selling a product and may limit replacement parts and support)
   - End of service life(EOSL)(product is no longer sold by manufacturer,updates,support agreements are not renewed)
   - NDA(non-disclosure agreement - contract with vendors and suppliers not to disclose the company's confidential information)
 - Data
