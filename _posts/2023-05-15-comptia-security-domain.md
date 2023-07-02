@@ -1253,7 +1253,7 @@ benefit from the digital economy.)
   - Supply chain
   - Business partners
   - Service level agreement(SLA)
-  - Memorandum of understanding(MOU)
+  - Memorandum of understanding(MOU)(similar to SLA)
   - Measurement systems analysis(MSA)
   - Business partnership agreement(BPA)
   - End of life(EOL)
