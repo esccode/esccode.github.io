@@ -1254,11 +1254,11 @@ benefit from the digital economy.)
   - Business partners
   - Service level agreement(SLA)
   - Memorandum of understanding(MOU)(similar to SLA)
-  - Measurement systems analysis(MSA)
+  - Measurement systems analysis(MSA)(provide a way for an organization to evaluate the *quality of the process* used in their measurement systems)
   - Business partnership agreement(BPA)
   - End of life(EOL)
-  - End of service life(EOSL)
-  - NDA
+  - End of service life(EOSL)(product is no longer sold by manufacturer,updates,support agreements are not renewed)
+  - NDA(non-disclosure agreement - contract with vendors and suppliers not to disclose the company's confidential information)
 - Data
   - Classification
   - Governance
