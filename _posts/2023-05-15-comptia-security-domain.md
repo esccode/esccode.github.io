@@ -1264,7 +1264,7 @@ benefit from the digital economy.)
   - Governance
   - Retention
 - **Credential policies**
-  - P*ersonnel*(avoid using shared accounts unless necessary)
+  - *Personnel*(avoid using shared accounts unless necessary)
   - Third-party
   - Devices
   - Service accounts
