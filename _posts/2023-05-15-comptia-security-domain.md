@@ -1192,10 +1192,10 @@ disaster)
 
 ## 5.1 Compare and contrast various types of control
 
-- Category
-  - Managerial(Procedural mechanisms that focus on the mechanics of the risk management process)
-  - Operational(Processes that we put in place to manage technology in a secure manner)
-  - Technical(Use technological means to meet a security objective  )
+- **Category**
+  - *Managerial*(Procedural mechanisms that focus on the mechanics of the risk management process)
+  - *Operational*(Processes that we put in place to manage technology in a secure manner)
+  - *Technical*(Use technological means to meet a security objective  )
 - Control type
   - Preventive(Stops an adversary from violating security policies)
   - Detective(Deployed to *discover or detect* unwanted or unauthorized activity)
