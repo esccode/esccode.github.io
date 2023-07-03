@@ -1269,7 +1269,7 @@ benefit from the digital economy.)
   - Devices
   - Service accounts
   - Administrator/root accounts
-- *Organizational policies*
+- **Organizational policies**
   - Change management
   - Change control
   - Asset management
