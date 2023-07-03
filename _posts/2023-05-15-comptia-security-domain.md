@@ -1247,7 +1247,7 @@ benefit from the digital economy.)
       - Phishing simulations
     - Computer-based training(CBT)
     - Role-based training
-- *Diversity of training techniques*
+- **Diversity of training techniques**
 - **Third-party risk management**
   - Vendors
   - Supply chain(a secure chain vendors who are secure, reliable, trustworthy,reputable)
