@@ -347,8 +347,9 @@ tracking, measuring, and analyzing a business’s regular deliverables and metri
 
 ### 5.1 Summarize important data governance concepts
 
-- Access requirements
-  - Role-based
+- **Access requirements**
+  - *Role-based*(Role-based access control (RBAC), also known as role-based 
+security, is an access control method that assigns permissions to end-users based on their role within your organization)
   - User group-based
   - Data use agreements
   - Release approvals
