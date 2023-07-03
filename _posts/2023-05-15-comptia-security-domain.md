@@ -1262,7 +1262,7 @@ benefit from the digital economy.)
 - **Data**
   - *Classification*(is process of labeling data)
   - *Governance*(oversight and management that describes security controls)
-  - Retention
+  - *Retention*(unnecessary retention increases liability and risk)
 - **Credential policies**
   - *Personnel*(avoid using shared accounts unless necessary)
   - Third-party
