@@ -1260,8 +1260,8 @@ benefit from the digital economy.)
   - End of service life(EOSL)(product is no longer sold by manufacturer,updates,support agreements are not renewed)
   - NDA(non-disclosure agreement - contract with vendors and suppliers not to disclose the company's confidential information)
 - **Data**
-  - Classification
-  - Governance
+  - *Classification*(is process of labeling data)
+  - *Governance*(oversight and management that describes security controls)
   - Retention
 - **Credential policies**
   - *Personnel*(avoid using shared accounts unless necessary)
