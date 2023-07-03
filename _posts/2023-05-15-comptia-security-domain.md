@@ -1266,9 +1266,9 @@ benefit from the digital economy.)
 - **Credential policies**
   - *Personnel*(avoid using shared accounts unless necessary)
   - Third-party
-  - Devices
-  - Service accounts
-  - Administrator/root accounts
+  - *Devices*(Default password should be changed on devices with generic accounts)
+  - *Service accounts*(MAy run as local service accounts with same rights as user)
+  - *Administrator/root accounts*(require periodic pass changes and enforce pass complexity)
 - **Organizational policies**
   - Change management
   - Change control
