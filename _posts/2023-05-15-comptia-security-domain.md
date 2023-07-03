@@ -1152,7 +1152,7 @@ disaster)
 
 ### 4.5 Explain the key aspects of digital forensics.
 
-- Documentation/evidence
+- **Documentation/evidence**
   - Legal hold
   - Video
   - Admissibility
@@ -1164,7 +1164,7 @@ disaster)
   - Reports
   - Event logs
   - Interviews
-- Acquisition
+- **Acquisition**
   - Order of volatility
   - Disk
   - Random-access memory(RAM)
@@ -1174,11 +1174,11 @@ disaster)
   - Cache
   - Network
   - Artifacts
-- On-premises vs. cloud
+- **On-premises vs. cloud**
   - Right-to-audit clauses
   - Regulatory/jurisdiction
   - Data breach notification laws
-- Integrity
+- **Integrity**
   - Hashing
   - Checksums(The output of a hash function. chmod Linux command for managing file permissions.)
   - Provenance
