@@ -1271,7 +1271,7 @@ benefit from the digital economy.)
   - *Administrator/root accounts*(require periodic pass changes and enforce pass complexity)
 - **Organizational policies**
   - Change management
-  - Change control
+  - Change control(refers to the process of evaluating a change request within an organization and decided if it should go ahead)
   - Asset management
 
 ### 5.4 Summarize risk management processes and concepts
