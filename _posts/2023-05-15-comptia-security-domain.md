@@ -1248,7 +1248,7 @@ benefit from the digital economy.)
     - Computer-based training(CBT)
     - Role-based training
 - Diversity of training techniques
-- Third-party risk management
+- **Third-party risk management**
   - Vendors
   - Supply chain(a secure chain vendors who are secure, reliable, trustworthy,reputable)
   - Business partners
@@ -1259,12 +1259,12 @@ benefit from the digital economy.)
   - End of life(EOL)(point at which a vendor stops selling a product and may limit replacement parts and support)
   - End of service life(EOSL)(product is no longer sold by manufacturer,updates,support agreements are not renewed)
   - NDA(non-disclosure agreement - contract with vendors and suppliers not to disclose the company's confidential information)
-- Data
+- **Data**
   - Classification
   - Governance
   - Retention
-- Credential policies
-  - Personnel
+- **Credential policies**
+  - P*ersonnel*(avoid using shared accounts unless necessary)
   - Third-party
   - Devices
   - Service accounts
