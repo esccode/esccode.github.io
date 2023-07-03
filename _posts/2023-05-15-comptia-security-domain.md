@@ -1276,20 +1276,20 @@ benefit from the digital economy.)
 
 ### 5.4 Summarize risk management processes and concepts
 
-- Risk types
+- **Risk types**
   - External
   - Internal
   - Legacy systems(vulnerabilities to legacy systems tend to increase over time)
   - Multiparty
   - IP theft
   - Software compliance/licensing
-- Risk management strategies
+- **Risk management strategies**
   - Acceptance
   - Avoidance
   - Transference
     - Cybersecurity insurance
   - Mitigation(The act of reducing risk)
-- Risk analysis
+- **Risk analysis**
   - Risk register
   - Risk matrix/heat map
   - Risk control assessment
@@ -1310,11 +1310,11 @@ benefit from the digital economy.)
 kind of monetary loss we can expect if an asset is compromised because of a risk. Calculating SLE requires knowledge of the asset value (AV) and the range of loss that can be expected if a risk is exploited, which is known as the exposure factor (EF).)
   - Annualized loss expectancy(ALE)
   - Annualized rate of occurrence(ARO)(is described as an estimated frequency of the threat occurring in one year. ARO is used to scalculate ALE (annualized loss expectancy))
-- Disasters
+- **Disasters**
   - Environmental
   - Person-made
   - Internal vs. external
-- Business impact analysis
+- **Business impact analysis**
   - Recovery time objective(RTO)(is the duration of time and a service level within which a business process must be restored after a disaster in order to avoid unacceptable consequences associated with a break in continuity.)
   - Recovery point objective(RPO)(describes a period of time in which an enterprise’s operations must be restored following a disruptive event, e.g., a cyberattack, natural disaster, or communications failure.)
   - Mean time to repair(MTTR)( is the average time it takes to recover from a product or system failure. This includes the full time of the outage—from the time the system or product fails to the time that it becomes fully operational again.)
