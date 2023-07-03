@@ -1206,12 +1206,12 @@ disaster)
 
 ### 5.2 Explain the importance of applicable regulations, standards, or frameworks that impact organizational security posture
 
-- Regulations, standards, and legislations
+- **Regulations, standards, and legislations**
   - General Data Protection Regulation(**GDPR**)(is a set of rules designed to give EU citizens more control over their personal data. It aims to simplify the regulatory environment for business so both citizens and businesses in the European Union can fully 
 benefit from the digital economy.)
   - National,territory, or state laws
   - Payment Card Industry Data Security Standard (**PCI DSS**)( is a widely accepted set of policies and procedures intended to optimize the security of credit, debit and cash card transactions and protect cardholders against misuse of their personal information)
-- Key frameworks
+- **Key frameworks**
   - Center for Internet Security(CSI)
     - National Institute of Standards and Technology(NIST) Risk Management Framework(RMF)/Cybersecurity Framework(CSF)
   - International Organization for Standardization(ISO)27001/27002/27017/27701/31000(27001-international standard on how to manage information security,27002-improve the management of information,27017-provide guidelines related to the secure use of cloud computing,27701-improve a privacy information management system(PIMS),31000-managing risk)
@@ -1219,7 +1219,7 @@ benefit from the digital economy.)
   - Cloud security alliance(not for profit organization)
   - Cloud control matrix(CCM)(to assess the overall risk of a cloud provider)
   - Reference architecture
-- Benchmarks/secure configuration guides
+- **Benchmarks/secure configuration guides**
   - Platform/vendor-specific guides
     - Web server
     - OS(vendors have guides that detail the best practices for installing their operating systems)
