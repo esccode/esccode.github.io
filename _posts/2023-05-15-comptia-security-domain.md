@@ -1272,7 +1272,7 @@ benefit from the digital economy.)
 - **Organizational policies**
   - *Change management*(policy that details how changes will be processed in an organization.**Guidance on the process**)
   - *Change control*(refers to the process of evaluating a change request within an organization and decided if it should go ahead. **The process in action**)
-  - Asset management
+  - *Asset management*(tagged and recorded in an asset registry, includes periodic(usually annual) audits need to be carried out to ensure that all assets are accounted for.)
 
 ### 5.4 Summarize risk management processes and concepts
 
