@@ -1196,13 +1196,13 @@ disaster)
   - *Managerial*(Procedural mechanisms that focus on the mechanics of the risk management process)
   - *Operational*(Processes that we put in place to manage technology in a secure manner)
   - *Technical*(Use technological means to meet a security objective  )
-- Control type
-  - Preventive(Stops an adversary from violating security policies)
-  - Detective(Deployed to *discover or detect* unwanted or unauthorized activity)
-  - Corrective(modifies the env to *return systems to normal* after an unwanted or unauthorized activity has occurred)
-  - Deterrent(deployed to *discourage violation* of security policies)
-  - Compensating(provide *options to other existing controls* to aid in enforcement of security policies)
-  - Physical(a control you can *physically touch*)
+- **Control type**
+  - *Preventive*(Stops an adversary from violating security policies)
+  - *Detective*(Deployed to *discover or detect* unwanted or unauthorized activity)
+  - *Corrective*(modifies the env to *return systems to normal* after an unwanted or unauthorized activity has occurred)
+  - *Deterrent*(deployed to *discourage violation* of security policies)
+  - *Compensating*(provide *options to other existing controls* to aid in enforcement of security policies)
+  - *Physical*(a control you can *physically touch*)
 
 ### 5.2 Explain the importance of applicable regulations, standards, or frameworks that impact organizational security posture
 
