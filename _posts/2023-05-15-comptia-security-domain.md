@@ -1228,7 +1228,7 @@ benefit from the digital economy.)
 
 ### 5.3 Explain the importance of policies to organizational security.
 
-- Personnel
+- *Personnel*
   - Acceptable use policy
   - Job rotation
   - Mandatory vacation
@@ -1247,7 +1247,7 @@ benefit from the digital economy.)
       - Phishing simulations
     - Computer-based training(CBT)
     - Role-based training
-- Diversity of training techniques
+- *Diversity of training techniques*
 - **Third-party risk management**
   - Vendors
   - Supply chain(a secure chain vendors who are secure, reliable, trustworthy,reputable)
@@ -1269,7 +1269,7 @@ benefit from the digital economy.)
   - Devices
   - Service accounts
   - Administrator/root accounts
-- Organizational policies
+- *Organizational policies*
   - Change management
   - Change control
   - Asset management
