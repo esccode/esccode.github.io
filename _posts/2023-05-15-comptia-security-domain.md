@@ -1228,7 +1228,7 @@ benefit from the digital economy.)
 
 ### 5.3 Explain the importance of policies to organizational security.
 
-- *Personnel*
+- **Personnel**
   - Acceptable use policy
   - Job rotation
   - Mandatory vacation
