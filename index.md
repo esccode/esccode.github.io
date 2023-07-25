@@ -27,10 +27,12 @@ aside: false
   - [Exam Objectives(Domains)](#exam-objectivesdomains-1)
   - [Differentiate Yourself With Data](#differentiate-yourself-with-data)
   - [Jobs You Can Land With CompTIA Data+](#jobs-you-can-land-with-comptia-data)
+  - [Reference data+](#reference-data)
+- [Comptia data+](#comptia-data)
 - [Cert Prep Cambridge English Qualifications](#cert-prep-cambridge-english-qualifications)
   - [FCE(B2)](#fceb2)
   - [CAE(C1)](#caec1)
-- [References](#references)
+- [Reference Cambridge Cert](#reference-cambridge-cert)
 
 ## Cert Prep CompTIA Security+ SY0-601
 
@@ -140,6 +142,10 @@ Make yourself a valuable team member. Data literacy means you're more employable
 |---|---|  
 | Data Architect | Data Analyst |
 
+### Reference data+
+
+[Esccode data+](https://esccode.github.io/data/2023/06/04/cdd/)
+[Comptia data+](https://www.comptia.org/certifications/data)
 ---
 
 ## Cert Prep Cambridge English Qualifications
@@ -174,7 +180,7 @@ Make yourself a valuable team member. Data literacy means you're more employable
 
 ---
 
-## References
+## Reference Cambridge Cert
 
 [Comptia Web](https://www.comptia.org/certifications)
 [Cambrige PL Courses](https://cambridge.pl/cennik/)
