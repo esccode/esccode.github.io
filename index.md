@@ -28,11 +28,10 @@ aside: false
   - [Differentiate Yourself With Data](#differentiate-yourself-with-data)
   - [Jobs You Can Land With CompTIA Data+](#jobs-you-can-land-with-comptia-data)
   - [Reference data+](#reference-data)
-- [Comptia data+](#comptia-data)
 - [Cert Prep Cambridge English Qualifications](#cert-prep-cambridge-english-qualifications)
   - [FCE(B2)](#fceb2)
   - [CAE(C1)](#caec1)
-- [Reference Cambridge Cert](#reference-cambridge-cert)
+  - [Reference Cambridge Cert](#reference-cambridge-cert)
 
 ## Cert Prep CompTIA Security+ SY0-601
 
@@ -144,8 +143,9 @@ Make yourself a valuable team member. Data literacy means you're more employable
 
 ### Reference data+
 
-[Esccode data+](https://esccode.github.io/data/2023/06/04/cdd/)
-[Comptia data+](https://www.comptia.org/certifications/data)
+[theesccode data+](https://esccode.github.io/data/2023/06/04/cdd/)
+[comptia data+](https://www.comptia.org/certifications/data)
+
 ---
 
 ## Cert Prep Cambridge English Qualifications
@@ -178,9 +178,7 @@ Make yourself a valuable team member. Data literacy means you're more employable
 | No. of papers: | 4 |  
 | Exam length: | About 4 hours |  
 
----
-
-## Reference Cambridge Cert
+### Reference Cambridge Cert
 
 [Comptia Web](https://www.comptia.org/certifications)
 [Cambrige PL Courses](https://cambridge.pl/cennik/)
