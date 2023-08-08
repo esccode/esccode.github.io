@@ -61,7 +61,7 @@ collections:
     output: true
     description: "Posts List" # The post list page content
     feature_text: |
-    Welcome to the blog
+    @esccode
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
