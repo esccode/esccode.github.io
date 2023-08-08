@@ -61,7 +61,6 @@ collections:
     output: true
     description: "Posts List" # The post list page content
     feature_text: |
-    @esccode
     Welcome to the blog
     feature_image: "https://picsum.photos/2560/600?image=866"
 
