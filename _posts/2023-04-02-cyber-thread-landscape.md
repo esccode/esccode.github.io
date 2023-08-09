@@ -8,6 +8,32 @@ aside: true
 
 ---
 
+- [Protect against Malware and Ransomware](#protect-against-malware-and-ransomware)
+- [Protect against Phishing and Smishing](#protect-against-phishing-and-smishing)
+- [Protect against Business Email Compromise (BEC)](#protect-against-business-email-compromise-bec)
+- [Protect against Botnet and DDoS attacks](#protect-against-botnet-and-ddos-attacks)
+  - [Conduct a DDoS Test](#conduct-a-ddos-test)
+  - [System Protection](#system-protection)
+- [Protect against Deepfakes](#protect-against-deepfakes)
+- [Protect against Insider Threats](#protect-against-insider-threats)
+  - [Types of Malicious insider Attacks](#types-of-malicious-insider-attacks)
+  - [Types of Unintentional insider Threats](#types-of-unintentional-insider-threats)
+- [Protect against Unmanaged IoT Devices](#protect-against-unmanaged-iot-devices)
+  - [Drivers of LoT Growth](#drivers-of-lot-growth)
+  - [LoT Vulnerabilities](#lot-vulnerabilities)
+  - [Mirai LoT Botnet](#mirai-lot-botnet)
+- [Protect against Shadow IT](#protect-against-shadow-it)
+  - [Drivers of Shadow IT](#drivers-of-shadow-it)
+  - [Shadow IT Risks](#shadow-it-risks)
+  - [Fundamental Control](#fundamental-control)
+  - [Technology Controls](#technology-controls)
+- [Protect against Supply Chain Attacks and Third-Party Risks](#protect-against-supply-chain-attacks-and-third-party-risks)
+  - [Build TPRM(Third-party suppliers and vendors)](#build-tprmthird-party-suppliers-and-vendors)
+  - [Security Controls for Third-Party Access](#security-controls-for-third-party-access)
+  - [Steps to Reduce Software Supply Chain Risks](#steps-to-reduce-software-supply-chain-risks)
+- [Reference](#reference)
+
+
 
 ### Protect against Malware and Ransomware  
 
@@ -185,7 +211,7 @@ Social engineering attacks designes to trick users.
    - Confirm open-source software is still needed and updated,
    - Consider implementing a secure development standard
 
-## Reference
+### Reference
 
 [SANS BLOG](https://www.sans.org/blog/all-new-ouch-newsletter-out/)  
 [linkedin](https://www.linkedin.com/learning/cybersecurity-careers-and-certifications/cybersecurity-certification-sscp?autoSkip=true&autoplay=true&resume=false)
