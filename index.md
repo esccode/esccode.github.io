@@ -1,10 +1,11 @@
 ---
-title: Personal Education Goals
+title: CompTIA Security+ && CompTIA Data+ && FCE(B2) || CAE(C1)
 categories:
 - interview
 feature_text: |
   ## @esccode
-  CompTIA Security+ && CompTIA Data+ && FCE(B2) || CAE(C1)
+  "Be yourself; everyone else is already taken." - Oscar Wilde
+
 excerpt: |
   # 
 
@@ -184,5 +185,6 @@ Make yourself a valuable team member. Data literacy means you're more employable
 [Cambrige PL Courses](https://cambridge.pl/cennik/)
 [Cambrige PL Exam](http://egzaminy-cambridge.pl/cennik-egzaminow/)
 [English Language Assessment](https://www.cambridgeenglish.org/)
+[Popular quotes](https://www.goodreads.com/quotes)
 
 ---
