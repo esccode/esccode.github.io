@@ -9,8 +9,6 @@ aside: true
 ---
 
 
-## Cybersecurity Threat Landscape
-
 ### Protect against Malware and Ransomware  
 
 1. Make Frequent Backups  
