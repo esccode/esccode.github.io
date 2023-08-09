@@ -9,14 +9,12 @@ image: "https://picsum.photos/2560/600?image=733"
 aside: true
 ---
 
-- [BMC Software](#bmc-software)
-  - [Products and services](#products-and-services)
 - [References](#references)
 - [External Link](#external-link)
 
-## BMC Software
 
-Is an American multinational information technoogy (IT) services and consulting, and Enterprise Software company based in Houston, Texas
+
+**BMC Software** is an American multinational information technoogy (IT) services and consulting, and Enterprise Software company based in Houston, Texas
 
 Gartner has positioned BMC as a Leader for eight consecutive years in Gartner's 2021 Magic Quadrant for IT Service Management Tools for its BMC Helix ITSM solution.
 
