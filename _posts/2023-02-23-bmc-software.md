@@ -9,6 +9,7 @@ image: "https://picsum.photos/2560/600?image=733"
 aside: true
 ---
 
+- [Products and services](#products-and-services)
 - [References](#references)
 - [External Link](#external-link)
 
@@ -25,10 +26,10 @@ The company supports enterprises using mainframes with its Automated Mainframe i
 BMC's Control-M software is an application workflow orchestration platform that allows businesses to run hundreds of batch jobs daily and use the data to optimize complex business operations, such as supply chain management. Users can access all enterprise batch jobs through a single graphical interface. Control-M integrates with distributed storage systems such as HDFS, YARN, MapReduce and Apache Spark. In 2019, the firm made the program available in a Docker container, allowing easy deployment to the public cloud or on-promises. The Software has been named the overall leader in workload automation by Enterprise Management Associates in each report since 2010. In 2020, the firm announced the launch of SaaS-based BMC Helix Control-M application workflow orchestration.  
 The TrueSight suite utilizes AI and machine learning to provide insights and network automation capabilities, and includes TrueSight Operations Management, TrueSight Automation for Networks, TrueSight Automation for Servers, and TrueSight Orchestration.
 
-## References
+### References
 
 [wiki link](https://en.wikipedia.org/wiki/BMC_Software) by wikipedia.
 
-## External Link
+### External Link
 
 [BMC](https://www.bmc.com/) by BMC
