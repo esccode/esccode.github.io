@@ -3,7 +3,7 @@ title: Technical Writer Roles
 categories:
 - trainer
 - data
-- english
+## - english
 feature_text: |
   ## @esccode
   “It is better to be hated for what you are than to be loved for what you are not.” ― Andre Gide, Autumn Leaves
