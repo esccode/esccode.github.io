@@ -2,6 +2,7 @@
 title: Technical Writer Roles
 categories:
 - trainer
+- data
 - english
 feature_text: |
   ## @esccode
