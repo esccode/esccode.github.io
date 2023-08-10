@@ -6,8 +6,9 @@ feature_text: |
   ## @esccode
   “It is better to be hated for what you are than to be loved for what you are not.” ― Andre Gide, Autumn Leaves
 excerpt: |
-#feature_image: "https://picsum.photos/2560/600?image=733"
-feature_image: "https://picsum.photos/1300/400?image=989"
+# feature_image: "https://picsum.photos/1300/400?image=989"
+# image: "https://picsum.photos/2560/600?image=733"
+feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 aside: true
 ---
