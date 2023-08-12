@@ -1,23 +1,34 @@
+---
+title: Privacy Policy
+categories:
+- data
+feature_text: |
+  ## @esccode
 
-# Privacy Policy
+excerpt: |
+  # 
 
-@esccode takes your privacy seriously. To better protect your privacy @esccode provide this privacy policy notice explaining the way your personal information is collected and used.
+#feature_image: "https://picsum.photos/2560/600?image=733"
+feature_image: "https://picsum.photos/1300/400?image=989"
+image: "https://picsum.photos/2560/600?image=733"
+## indexing: true
+## sitemap: false
+aside: false
+---
+
 
 
 ## Collection of Routine Information
 
-This website track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this website. The information is tracked for routine administration and maintenance purposes.
-
+Domain "i-book.pl" is forwarded to "GitHub.com" and  is hosted by "GitHub, Inc."  @esccode as user of "GitHub.com" personaly takes your privacy seriously and do not collect any your personal data. To better protect your privacy @esccode provide this privacy policy notice explaining the way your personal information is collected and used.
 
 ## Cookies
 
-Where necessary, this website uses cookies to store information about a visitor’s preferences and history in order to better serve the visitor and present the visitor with customized content.
-
+User(@esccode) of "GitHub.com" do not responsible for any cookies data and do not collect any cookies data.
 
 ## Advertisement and Other Third Parties
 
 Advertising partners and other third parties may use cookies, scripts and web beacons to track visitors activities on this website in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This website has no access or control over these cookies, scripts and web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
-
 
 ## Links to Third Party Websites
 
