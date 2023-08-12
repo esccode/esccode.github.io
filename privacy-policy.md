@@ -30,7 +30,6 @@ User(@esccode) of "GitHub.com" do not responsible for any cookies data and do no
 
 Advertising partners and other third parties may use cookies, scripts and web beacons to track visitors activities on this website in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This website has no access or control over these cookies, scripts and web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
 
-
 ## Links to Third Party Websites
 
 @esccode have included links on this website for your use and reference. @esccode are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from @esccode own.
