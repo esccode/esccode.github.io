@@ -3,8 +3,7 @@
 
     <head>
     <!-- popup -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <style>
+        <style>
       /* Popup container - can be anything you want */
       .popup {
         position: relative;
@@ -106,20 +105,6 @@
   </head>
 
   <body class="layout-{{ page.layout }}{% if page.title %}  {{ page.title | slugify }}{% endif %}">
-
-    <h2>Popup</h2>
-
-    <div class="popup" onclick="myFunction()">Click me to toggle the popup!
-      <span class="popuptext" id="myPopup">A Simple Popup!</span>
-    </div>
-
-    <script>
-    // When the user clicks on div, open the popup
-    function myFunction() {
-      var popup = document.getElementById("myPopup");
-      popup.classList.toggle("show");
-    }
-    </script>
 
     {% include site-icons.svg %}
 
