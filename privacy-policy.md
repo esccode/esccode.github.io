@@ -28,7 +28,7 @@ As a user @esccode of `GitHub.com` do not responsible for any cookies data and d
 
 ## Advertisement and Other Third Parties
 
-Advertising partners and other third parties may use cookies, scripts and web beacons to track visitors activities on this website in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This website has no access or control over these cookies, scripts and web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
+Advertising partners and other third parties may use cookies, scripts and web beacons to track visitors activities on this website in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This website has no access or control over these cookies, scripts and web because that may be used by third parties. Learn how to manage cookie on your browser  [Google’s cookie usage](https://policies.google.com/technologies/cookies).
 
 ## Links to Third Party Websites
 
