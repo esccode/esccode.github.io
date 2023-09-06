@@ -20,7 +20,7 @@ aside: false
 
 ## Collection of Routine Information
 
-Domain `esccode.pl` is forwarded to `GitHub.com` and  is hosted by "GitHub, Inc." @esccode as user of `GitHub.com` personaly takes your privacy seriously and do not collect any your personal data. To better protect your privacy @esccode provide this *Privacy Policy* notice explaining the way your personal information is collected and used.
+Domain `esccode.pl` is forwarded to `GitHub.com` and  is hosted by `GitHub, Inc`. @esccode as a user of `GitHub.com` personaly takes your privacy seriously and do not collect any your personal data. To better protect your privacy @esccode provide this *Privacy Policy* notice explaining the way your personal information is collected and used.
 
 ## Cookies
 
