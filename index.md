@@ -144,7 +144,7 @@ Make yourself a valuable team member. Data literacy means you're more employable
 
 ### Reference data+
 
-[theesccode data+](https://esccode.github.io/data/2023/06/04/cdd/)
+[theesccode data+](https://esccode.github.io/data/2023/08/12/cdd/)
 [comptia data+](https://www.comptia.org/certifications/data)
 
 ---
