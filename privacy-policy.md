@@ -20,11 +20,11 @@ aside: false
 
 ## Collection of Routine Information
 
-Domain "i-book.pl" is forwarded to "GitHub.com" and  is hosted by "GitHub, Inc."  @esccode as user of "GitHub.com" personaly takes your privacy seriously and do not collect any your personal data. To better protect your privacy @esccode provide this privacy policy notice explaining the way your personal information is collected and used.
+Domain `i-book.pl `is forwarded to `GitHub.com` and  is hosted by "GitHub, Inc."  @esccode as user of `GitHub.com` personaly takes your privacy seriously and do not collect any your personal data. To better protect your privacy @esccode provide this privacy policy notice explaining the way your personal information is collected and used.
 
 ## Cookies
 
-User(@esccode) of "GitHub.com" do not responsible for any cookies data and do not collect any cookies data.
+As a user @esccode of `GitHub.com` do not responsible for any cookies data and do not collect any cookies data.
 
 ## Advertisement and Other Third Parties
 
@@ -44,9 +44,9 @@ The security of your personal information is important to @esccode, but remember
 
 This Privacy Policy is effective as of 1/24/2023 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
 
-@esccode reserve the right to update or change @esccode Privacy Policy at any time and you should check this Privacy Policy periodically. If @esccode make any material changes to this Privacy Policy, @esccode will notify by placing a prominent notice on @esccode website.
+@esccode reserve the right to update or change @esccode `Privacy Policy` at any time and you should check this `Privacy Policy` periodically. If @esccode make any material changes to this Privacy Policy, @esccode will notify by placing a prominent notice on @esccode website.
 
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send an email to theesccode@gmail.com.
+For any questions or concerns regarding the `privacy policy`, please send an email to theesccode@gmail.com.
