@@ -154,7 +154,7 @@ Make yourself a valuable team member. Data literacy means you're more employable
 [comptia data+](https://www.comptia.org/certifications/data)
 
 ---
-<!-- start
+
 ## Cert Prep Cambridge English Qualifications
 
 | Examination | Council of Europe Framework Level | UK National Qualifications Framework Level |  
@@ -184,7 +184,7 @@ Make yourself a valuable team member. Data literacy means you're more employable
 | Test format: | Computer or paper-based |  
 | No. of papers: | 4 |  
 | Exam length: | About 4 hours |  
-end-->
+
 
 ### Reference Cambridge Cert
 
