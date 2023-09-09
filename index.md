@@ -84,6 +84,12 @@ The table below lists the domains measures by this examination and the extent to
 |---|---|  
 | IT Auditors | IT Project Manager |  
 
+### Reference security+
+
+[@esccode security+](https://esccode.pl/cyber/2023/08/13/csd/)
+[Comptia security+](https://www.comptia.org/certifications/security)
+
+
 ---
 
 ## Cert Prep CompTIA Data+ DA0-001
@@ -144,11 +150,11 @@ Make yourself a valuable team member. Data literacy means you're more employable
 
 ### Reference data+
 
-[theesccode data+](https://esccode.github.io/data/2023/08/12/cdd/)
+[@esccode data+](https://esccode.github.io/data/2023/08/12/cdd/)
 [comptia data+](https://www.comptia.org/certifications/data)
 
 ---
-
+<!-- start
 ## Cert Prep Cambridge English Qualifications
 
 | Examination | Council of Europe Framework Level | UK National Qualifications Framework Level |  
@@ -178,6 +184,7 @@ Make yourself a valuable team member. Data literacy means you're more employable
 | Test format: | Computer or paper-based |  
 | No. of papers: | 4 |  
 | Exam length: | About 4 hours |  
+end-->
 
 ### Reference Cambridge Cert
 
