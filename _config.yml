@@ -35,7 +35,7 @@ plugins:
 - jemoji
 
 # 3. Gem settings
-paginate: 3 # jekyll-paginate > items per page
+paginate: 6 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 author: esccode # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
