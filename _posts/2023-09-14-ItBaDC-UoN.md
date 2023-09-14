@@ -1,8 +1,7 @@
 ---
 title: Introduction to Blockchain and Digital Currency, University of Nicosia
 categories:
-- cyber
-- data
+- blockchain
 ## - english
 feature_text: |
   ## @esccode
