@@ -138,7 +138,6 @@ Social engineering attacks designes to trick users.
    - Configure strong security
    - Install software updates and patches
 
-
 #### Drivers of LoT Growth
 
 - Rise of cloud computing
