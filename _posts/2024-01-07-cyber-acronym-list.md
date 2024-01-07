@@ -14,16 +14,16 @@ image: "https://picsum.photos/2560/600?image=733"
 aside: true
 ---
 
-- [Acronym List for CompTIA Security+ Exam SY0-601](#acronym-list-for-comptia-security-exam-sy0-601)
+- [Acronym list for CompTIA Security+ Exam](#acronym-list-for-comptia-security-exam)
   - [Letter A](#letter-a)
   - [B](#b)
 
-## Acronym List for CompTIA Security+ Exam SY0-601
+## Acronym list for CompTIA Security+ Exam
 
 ### Letter A  
 
 Acronym | Definition
---------|--------------------------------
+--------|-----------------------------------------------
 `3DES`  | Triple Data Encryption Standard
 `AAA`   | Authentication, Authorization, and Accounting
 `ABAC`  | Attribute-based Access Control
