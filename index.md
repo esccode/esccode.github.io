@@ -30,7 +30,6 @@ aside: false
   - [Differentiate Yourself With Data](#differentiate-yourself-with-data)
   - [Jobs You Can Land With CompTIA Data+](#jobs-you-can-land-with-comptia-data)
   - [Reference data+](#reference-data)
-  - [Reference Cambridge Cert](#reference-cambridge-cert)
 
 ## Cert Prep CompTIA Security+ SY0-601
 
@@ -84,7 +83,6 @@ The table below lists the domains measures by this examination and the extent to
 
 ### Reference security+
 
-[@esccode security+](https://esccode.pl/cyber/2023/08/13/csd/)
 [Comptia security+](https://www.comptia.org/certifications/security)
 
 ---
@@ -147,13 +145,6 @@ Make yourself a valuable team member. Data literacy means you're more employable
 
 ### Reference data+
 
-[@esccode data+](https://esccode.github.io/data/2023/08/12/cdd/)
-[Comptia data+](https://www.comptia.org/certifications/data)
-
----
-
-### Reference Cambridge Cert
-
-[Comptia Web](https://www.comptia.org/certifications)
+[Comptia data+](https://www.comptia.org/certifications/data)  
 
 ---
