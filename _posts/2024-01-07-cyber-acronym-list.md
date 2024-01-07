@@ -24,7 +24,7 @@ Acronym | Definition
 --------|--------------------------------
 `3DES`  | Triple Data Encryption Standard
 `AAA`   | Authentication, Authorization, and Accounting
-`ABAC`  |  Attribute-based Access Control
+`ABAC`  | Attribute-based Access Control
 `ACL`   | Access Control List
 `AD`    | Active Directory
 --------|--------------------------------
