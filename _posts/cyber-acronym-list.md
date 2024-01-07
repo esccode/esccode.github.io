@@ -29,6 +29,7 @@ Acronym | Definition
 --------|--------------------------------
 `AD`    | Active Directory
 --------|--------------------------------
+--------|--------------------------------
 `AES`   | Advanced Encryption Standard
 --------|--------------------------------
 `AES256`| Advanced Encryption Standards 256bit
@@ -38,6 +39,7 @@ Acronym | Definition
 `AI`    | Artificial Intelligence
 --------|--------------------------------
 `AIS`   | Automated Indicator Sharing
+--------|--------------------------------
 --------|--------------------------------
 `ALE`   | Annualized Loss Expectancy
 --------|--------------------------------
