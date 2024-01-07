@@ -22,6 +22,7 @@ aside: false
   - [Test Details](#test-details)
   - [Exam Objectives(Domains)](#exam-objectivesdomains)
   - [Jobs that use CompTIA Security+](#jobs-that-use-comptia-security)
+  - [Reference security+](#reference-security)
 - [Cert Prep CompTIA Data+ DA0-001](#cert-prep-comptia-data-da0-001)
   - [About the Exam](#about-the-exam-1)
   - [Test Details](#test-details-1)
@@ -29,9 +30,6 @@ aside: false
   - [Differentiate Yourself With Data](#differentiate-yourself-with-data)
   - [Jobs You Can Land With CompTIA Data+](#jobs-you-can-land-with-comptia-data)
   - [Reference data+](#reference-data)
-- [Cert Prep Cambridge English Qualifications](#cert-prep-cambridge-english-qualifications)
-  - [FCE(B2)](#fceb2)
-  - [CAE(C1)](#caec1)
   - [Reference Cambridge Cert](#reference-cambridge-cert)
 
 ## Cert Prep CompTIA Security+ SY0-601
@@ -88,7 +86,6 @@ The table below lists the domains measures by this examination and the extent to
 
 [@esccode security+](https://esccode.pl/cyber/2023/08/13/csd/)
 [Comptia security+](https://www.comptia.org/certifications/security)
-
 
 ---
 
@@ -155,43 +152,8 @@ Make yourself a valuable team member. Data literacy means you're more employable
 
 ---
 
-## Cert Prep Cambridge English Qualifications
-
-| Examination | Council of Europe Framework Level | UK National Qualifications Framework Level |  
-|---|---|  
-| CPE (Certificate of Proficiency in English) | C2 | 3 |  
-| CAE (Certificate in Advanced English) | C1 | 2 |  
-| FCE (First Certificate in English) | B2 | 1 |  
-| PET (Preliminary English Test) | B2 | Entry 3 |  
-| KET (Key English Test) | A2 | Entry 2 |  
-
-### FCE(B2)
-
-| Key facts | |
-|---|---|
-| CEFR level: | B2 |  
-| Scale score: | 160-179 |  
-| Test format: | Computer or paper-based |  
-| No. of papers: | 4 |  
-| Exam length: | About 3.5 hours |
-
-### CAE(C1)
-
-| Key facts | |
-|---|---|
-| CEFR level: | C1 |  
-| Scale score: | 180-199 |  
-| Test format: | Computer or paper-based |  
-| No. of papers: | 4 |  
-| Exam length: | About 4 hours |  
-
-
 ### Reference Cambridge Cert
 
 [Comptia Web](https://www.comptia.org/certifications)
-[Cambrige PL Courses](https://cambridge.pl/cennik/)
-[Cambrige PL Exam](http://egzaminy-cambridge.pl/cennik-egzaminow/)
-[English Language Assessment](https://www.cambridgeenglish.org/)
-[Popular quotes](https://www.goodreads.com/quotes)
 
 ---
