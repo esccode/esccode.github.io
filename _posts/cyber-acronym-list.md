@@ -45,21 +45,18 @@ Acronym | Definition
 --------|--------------------------------
 `API`   | Application Programming Interface
 --------|--------------------------------
-`APT` | Advanced Persistent Threat
+`APT`   | Advanced Persistent Threat
 --------|--------------------------------
 `ARO`   | Annualized Rate of Occurrence
 --------|--------------------------------
-|
-  --------|--------------------------------
-  |
-  --------|--------------------------------
-  |
-  --------|--------------------------------
-  |
-  --------|--------------------------------
-  |
-  --------|--------------------------------
-  |
+`ARP`   | Address Resolution Protocol
+--------|--------------------------------
+`ASLR`  | Address Space Layout Randomization
+--------|--------------------------------
+`ASP`   |  Active Server Pages
+--------|--------------------------------
+`ATT&CK`| Adversarial Tactics, Techniques, and Common Knowledge
+--------|--------------------------------
 
 
 
@@ -67,9 +64,7 @@ Acronym | Definition
 
 
 
-`ARP` Address Resolution Protocol
-`ASLR` Address Space Layout Randomization
-`ASP` Active Server Pages
-`ATT&CK` Adversarial Tactics, Techniques, and Common Knowledge
+
+
 
 ### B
