@@ -1,11 +1,11 @@
 ---
 title: CompTIA Security+ SY0-601 Acronym List
-author: @esccode
 categories:
 - cyber
 excerpt: |
 ## Acronym List
 feature_text: |  
+  ## @esccode
 I want to introduce you acronym list for CompTIA Security+ Exam.
 Remember that is essential part of understandings key concepts and technologies in Cybersecurity.
 I am not goint to dive in details in this series, so i recommend do some research via ChatGPT | Google.
