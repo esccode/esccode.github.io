@@ -7,7 +7,7 @@ excerpt: |
 ## Acronym List
 feature_text: |  
 I want to introduce you acronym list for CompTIA Security+ Exam.
-Remember that is essential part of understandings key concepts and technologies in Cyber Cybersecurity.
+Remember that is essential part of understandings key concepts and technologies in Cybersecurity.
 I am not goint to dive in details in this series, so i recommend do some research via ChatGPT | Google.
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
