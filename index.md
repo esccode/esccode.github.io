@@ -1,7 +1,7 @@
 ---
-title: CompTIA Security+ && CompTIA Data+ && FCE(B2) || CAE(C1)
+title: CompTIA Security+ && CompTIA Data+
 categories:
-- interview
+- comptia
 feature_text: |
   ## @esccode
   "If you tell the truth, you don't have to remember anything." - Mark Twain
