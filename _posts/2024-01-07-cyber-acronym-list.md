@@ -15,12 +15,12 @@ aside: true
 ---
 
 - [Acronym List for CompTIA Security+ Exam SY0-601](#acronym-list-for-comptia-security-exam-sy0-601)
-  - [A](#a)
+  - [Letter A](#letter-a)
   - [B](#b)
 
 ## Acronym List for CompTIA Security+ Exam SY0-601
 
-### A  
+### Letter A  
 
 Acronym | Definition
 --------|--------------------------------
