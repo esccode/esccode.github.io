@@ -12,11 +12,11 @@ image: "https://picsum.photos/2560/600?image=733"
 aside: true
 ---
 
-- [Acronym List](#acronym-list)
+- [Acronym List for CompTIA Security+ Exam SY0-601](#acronym-list-for-comptia-security-exam-sy0-601)
   - [A](#a)
   - [B](#b)
 
-## Acronym List
+## Acronym List for CompTIA Security+ Exam SY0-601
 
 ### A  
 
