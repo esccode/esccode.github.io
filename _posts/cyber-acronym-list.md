@@ -3,6 +3,7 @@ title: CompTIA Security+ SY0-601 Acronym List
 categories:
 - cyber
 author: @esccode
+www: esccode.pl
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 aside: true
