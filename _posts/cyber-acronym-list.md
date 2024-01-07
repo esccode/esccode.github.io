@@ -29,27 +29,27 @@ Acronym | Definition
 --------|--------------------------------
 `AD`    | Active Directory
 --------|--------------------------------
-  |
-  --------|--------------------------------
-  |
-  --------|--------------------------------
-  |
-  --------|--------------------------------
-  |
-  --------|--------------------------------
-  |
-  --------|--------------------------------
-  |
-  --------|--------------------------------
-  |
-  --------|--------------------------------
-  |
-  --------|--------------------------------
-  |
-  --------|--------------------------------
-  |
-  --------|--------------------------------
-  |
+`AES`   | Advanced Encryption Standard
+--------|--------------------------------
+`AES256`| Advanced Encryption Standards 256bit
+--------|--------------------------------
+`AH`    | Authentication Header
+--------|--------------------------------
+`AI`    | Artificial Intelligence
+--------|--------------------------------
+`AIS`   | Automated Indicator Sharing
+--------|--------------------------------
+`ALE`   | Annualized Loss Expectancy
+--------|--------------------------------
+`AP`    | Access Point
+--------|--------------------------------
+`API`   | Application Programming Interface
+--------|--------------------------------
+`APT` | Advanced Persistent Threat
+--------|--------------------------------
+`ARO`   | Annualized Rate of Occurrence
+--------|--------------------------------
+|
   --------|--------------------------------
   |
   --------|--------------------------------
@@ -63,17 +63,9 @@ Acronym | Definition
 
 
 
-`AES` Advanced Encryption Standard
-`AES256` Advanced Encryption Standards 256bit
-`AH` Authentication Header
-`AI` Artificial Intelligence
-`AIS` Automated Indicator Sharing
 
-`ALE` Annualized Loss Expectancy
-`AP` Access Point
-`API` Application Programming Interface
-`APT` Advanced Persistent Threat
-`ARO` Annualized Rate of Occurrence
+
+
 
 `ARP` Address Resolution Protocol
 `ASLR` Address Space Layout Randomization
