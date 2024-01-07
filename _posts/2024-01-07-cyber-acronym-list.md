@@ -1,12 +1,14 @@
 ---
 title: CompTIA Security+ SY0-601 Acronym List
+author: @esccode
 categories:
 - cyber
 excerpt: |
 ## Acronym List
 feature_text: |  
-  ## @esccode
-  “Insanity is doing the same thing, over and over again, but expecting different results.” ― Narcotics Anonymous
+I want to introduce you acronym list for CompTIA Security+ Exam.
+Remember that is essential part of understandings key concepts and technologies in Cyber Cybersecurity.
+I am not goint to dive in details in this series, so i recommend do some research via ChatGPT | Google.
 feature_image: "https://picsum.photos/2560/600?image=733"
 image: "https://picsum.photos/2560/600?image=733"
 aside: true
