@@ -23,11 +23,6 @@ aside: true
   - [Jobs that use CompTIA Security+](#jobs-that-use-comptia-security)
   - [Reference security+](#reference-security)
 - [Cert Prep CompTIA Data+ DA0-001](#cert-prep-comptia-data-da0-001)
-  - [About the Exam](#about-the-exam-1)
-  - [Test Details](#test-details-1)
-  - [Exam Objectives(Domains)](#exam-objectivesdomains-1)
-  - [Differentiate Yourself With Data](#differentiate-yourself-with-data)
-  - [Jobs You Can Land With CompTIA Data+](#jobs-you-can-land-with-comptia-data)
   - [Reference data+](#reference-data)
 
 ## Cert Prep CompTIA Security+ SY0-601
@@ -86,61 +81,12 @@ The table below lists the domains measures by this examination and the extent to
 
 ---
 
-## Cert Prep CompTIA Data+ DA0-001
+## Cert Prep CompTIA Data+ DA0-001  
 
-### About the Exam  
+> Passed: February 11, 2024
+> EXP DATE: 02/11/2027
 
-This exam will certify the successful candidate has the knowledge and skills required to transform business requirements in support of data-driven decision by:
-
-- Mining data
-- Manipulating data
-- Applying basic statistical methods
-- Analyzing complex dataset while adhering to governance and quality standars throught the entire data life cycle
-
-This is equivalent to 10-24 montjs of hands-on experience working in a business inteligence report/data analyst job role. These content examples are meant to clerify the test objectives and should not be constructed as a comprehensive listing of all the content of this examination.  
-
-### Test Details
-
-| Test Details | |  
-|---|---|  
-| Required exam | DA0-001 |  
-| Number of questions | Maximum of 90 |  
-| Types of questions | Multiple-choice and performance-based |  
-| Length of test | 90 minutes |  
-| Recommended experience | - 18-24 months of experience in a report/business analyst job role - Exposure to databases and analitical tools - Basic understanding of statistics - Data visualization experience |  
-| Passing score | 775 (on a scale of 100-900) |
-
-### Exam Objectives(Domains)
-
-The table below lists the domains measures by this examination and the extent to which they are represented:  
-
-| **Domain**| **Percentage of Examination** |  
-|---|---|  
-| 1.0 Data Concepts and Environments | 15%  |  
-| 2.0 Data Mining | 25%  |  
-| 3.0 Data Analysis | 23%  |  
-| 4.0 Visualization | 23%  |  
-| 5.0 Data Governance, Quality, and Controls | 14%  |  
-| **Total** | 100% |
-
-### Differentiate Yourself With Data
-
-- *Better Analyze and Interpret Data*  
-Mine data more effectively. Analyze with rigor. Avoide confounding result.
-- *Communicate Insight*  
-Highlight what's important in reports that persuade, not confuse. Help drive better data-driven decisions.
-- *Demonstrate Competency*  
-Make yourself a valuable team member. Data literacy means you're more employable and upwardly mobile.
-
-### Jobs You Can Land With CompTIA Data+
-
-| Rols|---|
-|---|---|  
-| Reporting Analyst| Operations Analyst |  
-|---|---|  
-| Marketing Analyst | Business Intelligence Analyst |  
-|---|---|  
-| Data Architect | Data Analyst |
+If you have any questions about this exam, please do not hesitate to contact me.
 
 ### Reference data+
 
