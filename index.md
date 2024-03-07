@@ -86,7 +86,7 @@ The table below lists the domains measures by this examination and the extent to
 > Passed: February 11, 2024
 > EXP DATE: 02/11/2027
 
-If you have any questions about this exam, please do not hesitate to contact me.
+If you have any questions about CompTIA  exams, please do not hesitate to contact me.
 
 ### Reference data+
 
