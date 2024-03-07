@@ -22,7 +22,7 @@ aside: true
   - [Exam Objectives(Domains)](#exam-objectivesdomains)
   - [Jobs that use CompTIA Security+](#jobs-that-use-comptia-security)
   - [Reference security+](#reference-security)
-- [Cert Prep CompTIA Data+ DA0-001](#cert-prep-comptia-data-da0-001)
+- [CompTIA Data+ DA0-001](#comptia-data-da0-001)
   - [Reference data+](#reference-data)
 
 ## Cert Prep CompTIA Security+ SY0-601
@@ -81,7 +81,7 @@ The table below lists the domains measures by this examination and the extent to
 
 ---
 
-## Cert Prep CompTIA Data+ DA0-001  
+## CompTIA Data+ DA0-001  
 
 > PASSED:   February 11, 2024  
 > EXP DATE: November 11, 2027
