@@ -83,7 +83,7 @@ The table below lists the domains measures by this examination and the extent to
 
 ## Cert Prep CompTIA Data+ DA0-001  
 
-> PASSED:   February 11, 2024
+> PASSED:   February 11, 2024  
 > EXP DATE: November 11, 2027
 
 If you have any questions about CompTIA  exams, please do not hesitate to contact me.
