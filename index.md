@@ -17,16 +17,12 @@ aside: true
 ---
 
 - [CompTIA Security+ SY0-601](#comptia-security-sy0-601)
-  - [Reference security+](#reference-security)
 - [CompTIA Data+ DA0-001](#comptia-data-da0-001)
-  - [Reference data+](#reference-data)
 
 ## CompTIA Security+ SY0-601
 
 > PASSED: April 3, 2024
 > EXP DATE: April 3, 2024
-
-### Reference security+
 
 [Comptia security+](https://www.comptia.org/certifications/security)
 [Code FVB57T3ZJ2B4QP5X](https://www.certmetrics.com/comptia/public/verification.aspx/)
@@ -38,11 +34,9 @@ aside: true
 > PASSED:   February 11, 2024  
 > EXP DATE: February 11, 2027
 
-If you have any questions about CompTIA  exams, please do not hesitate to contact me.
-
-### Reference data+
-
 [Comptia data+](https://www.comptia.org/certifications/data)
 [Code: NHPK7S26K1B41E5N](https://www.certmetrics.com/comptia/public/verification.aspx/)
 
 ---
+
+If you have any questions about CompTIA  exams, please do not hesitate to contact me.
