@@ -29,6 +29,7 @@ aside: true
 ### Reference security+
 
 [Comptia security+](https://www.comptia.org/certifications/security)
+[Code FVB57T3ZJ2B4QP5X](https://www.certmetrics.com/comptia/public/verification.aspx/)
 
 ---
 
@@ -41,6 +42,7 @@ If you have any questions about CompTIA  exams, please do not hesitate to contac
 
 ### Reference data+
 
-[Comptia data+](https://www.comptia.org/certifications/data)  
+[Comptia data+](https://www.comptia.org/certifications/data)
+[Code: NHPK7S26K1B41E5N](https://www.certmetrics.com/comptia/public/verification.aspx/)
 
 ---
