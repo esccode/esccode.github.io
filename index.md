@@ -25,7 +25,6 @@ aside: true
 > EXP DATE: April 3, 2024
 
 [Comptia security+](https://www.comptia.org/certifications/security)
-[Code FVB57T3ZJ2B4QP5X](https://www.certmetrics.com/comptia/public/verification.aspx/)
 
 ---
 
@@ -35,7 +34,6 @@ aside: true
 > EXP DATE: February 11, 2027
 
 [Comptia data+](https://www.comptia.org/certifications/data)
-[Code: NHPK7S26K1B41E5N](https://www.certmetrics.com/comptia/public/verification.aspx/)
 
 ---
 
