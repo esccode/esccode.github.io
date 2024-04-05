@@ -21,7 +21,7 @@ aside: true
 
 ## CompTIA Security+ SY0-601
 
-> PASSED: April 3, 2024
+> PASSED: April 3, 2024  
 > EXP DATE: April 3, 2024
 
 [Comptia security+](https://www.comptia.org/certifications/security)
