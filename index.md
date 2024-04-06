@@ -18,13 +18,12 @@ aside: true
 
 - [CompTIA Security+ SY0-601](#comptia-security-sy0-601)
 - [CompTIA Data+ DA0-001](#comptia-data-da0-001)
+- [Reference](#reference)
 
 ## CompTIA Security+ SY0-601
 
 > PASSED: April 3, 2024  
 > EXP DATE: April 3, 2024
-
-[Comptia security+](https://www.comptia.org/certifications/security)
 
 ---
 
@@ -33,8 +32,10 @@ aside: true
 > PASSED:   February 11, 2024  
 > EXP DATE: February 11, 2027
 
-[Comptia data+](https://www.comptia.org/certifications/data)
+## Reference
 
 ---
+
+[Comptia](https://www.comptia.org/certifications)
 
 If you have any questions about CompTIA  exams, please do not hesitate to contact me.
