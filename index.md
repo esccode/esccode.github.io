@@ -1,5 +1,5 @@
 ---
-title: CompTIA Security+ && CompTIA Data+
+title: CompTIA Certyfication
 categories:
 - comptia
 feature_text: |
