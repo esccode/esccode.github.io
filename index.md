@@ -25,14 +25,10 @@ aside: true
 
 > Training status
 
----
-
 ### CompTIA Security+ SY0-601
 
 > Passed: April 3, 2024  
 > Exp date: April 3, 2024
-
----
 
 ### CompTIA Data+ DA0-001  
 
@@ -40,8 +36,6 @@ aside: true
 > Exp date: February 11, 2027
 
 ### Reference
-
----
 
 [Comptia](https://www.comptia.org/certifications)
 
