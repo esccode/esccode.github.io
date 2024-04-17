@@ -21,25 +21,25 @@ aside: true
 - [CompTIA Data+ DA0-001](#comptia-data-da0-001)
 - [Reference](#reference)
 
-## CompTIA CySA+ CS0-003
+### CompTIA CySA+ CS0-003
 
 > Training status
 
 ---
 
-## CompTIA Security+ SY0-601
+### CompTIA Security+ SY0-601
 
 > Passed: April 3, 2024  
 > Exp date: April 3, 2024
 
 ---
 
-## CompTIA Data+ DA0-001  
+### CompTIA Data+ DA0-001  
 
 > Passed:   February 11, 2024  
 > Exp date: February 11, 2027
 
-## Reference
+### Reference
 
 ---
 
