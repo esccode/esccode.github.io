@@ -37,9 +37,9 @@ plugins:
 # 3. Gem settings
 paginate: 6 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
-author: esccode.pl # jekyll-seo-tag > default author
+author: esccode # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: esccode.pl # jekyll-seo-tag > real name
+  name: esccode # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
     - https://github.com/esccode
 # markdown: CommonMark # Markdown parse settings, CommonMark performs slightly better an others in build time
@@ -61,7 +61,7 @@ collections:
     output: true
     description: "Posts List" # The post list page content
     feature_text: |
-     ## @esccode.pl
+     ## @esccode
     feature_image: "https://picsum.photos/2560/600?image=866"
 
 # 6. Jekyll collections settings
@@ -87,7 +87,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "@esccode.pl" # Site name or title, also used in jekyll-seo-tag
+title: "@esccode" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "comptia, security, data" # Site description and default description, also used in jekyll-seo-tag
 url: "https://esccode.github.io" # Site url, also used in jekyll-seo-tag
