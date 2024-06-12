@@ -16,8 +16,17 @@ image: "https://picsum.photos/2560/600?image=733"
 aside: false
 ---
 
+- [Cookies Policy for esccode.pl](#cookies-policy-for-esccodepl)
+  - [Interpretation and Definitions](#interpretation-and-definitions)
+    - [Interpretation](#interpretation)
+    - [Definitions](#definitions)
+  - [The use of the Cookies](#the-use-of-the-cookies)
+    - [Type of Cookies We Use](#type-of-cookies-we-use)
+    - [Your Choices Regarding Cookies](#your-choices-regarding-cookies)
+    - [More Information about Cookies](#more-information-about-cookies)
+- [Contact Us](#contact-us)
 
-## Cookies Policy
+## Cookies Policy for esccode.pl
 
 Last updated: June 12, 2024  
 
