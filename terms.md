@@ -16,6 +16,27 @@ image: `https://picsum.photos/2560/600?image=733`
 aside: false
 ---
 
+- [Terms and Conditions for esccode.pl](#terms-and-conditions-for-esccodepl)
+- [Interpretation and Definitions](#interpretation-and-definitions)
+  - [Interpretation](#interpretation)
+  - [Definitions](#definitions)
+- [Acknowledgment](#acknowledgment)
+- [Links to Other Websites](#links-to-other-websites)
+- [Termination](#termination)
+- [Limitation of Liability](#limitation-of-liability)
+- [`AS IS` and `AS AVAILABLE` Disclaimer](#as-is-and-as-available-disclaimer)
+- [Governing Law](#governing-law)
+- [Disputes Resolution](#disputes-resolution)
+- [For European Union (EU) Users](#for-european-union-eu-users)
+- [United States Legal Compliance](#united-states-legal-compliance)
+- [Severability and Waiver](#severability-and-waiver)
+  - [Severability](#severability)
+  - [Waiver](#waiver)
+- [Translation Interpretation](#translation-interpretation)
+- [Changes to These Terms and Conditions](#changes-to-these-terms-and-conditions)
+- [Contact Us](#contact-us)
+
+
 ## Terms and Conditions for esccode.pl
 
 Last updated: June 12, 2024
