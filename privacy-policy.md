@@ -16,37 +16,76 @@ image: "https://picsum.photos/2560/600?image=733"
 aside: false
 ---
 
+- [Privacy Policy for esccode.pl](#privacy-policy-for-esccodepl)
+  - [General Data Protection Regulation (GDPR)](#general-data-protection-regulation-gdpr)
+  - [Log Files](#log-files)
+  - [Privacy Policies](#privacy-policies)
+  - [Third Party Privacy Policies](#third-party-privacy-policies)
+  - [Children's Information](#childrens-information)
+  - [Online Privacy Policy Only](#online-privacy-policy-only)
+  - [Consent](#consent)
 
 
-## Collection of Routine Information
+## Privacy Policy for esccode.pl
 
-Domain `esccode.pl` is forwarded to `GitHub.com` and  is hosted by `GitHub, Inc`. @esccode as a user of `GitHub.com` personaly takes your privacy seriously and do not collect any your personal data. To better protect your privacy @esccode provide this *Privacy Policy* notice explaining the way your personal information is collected and used.
+At esccode.pl, accessible from esccode.pl, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by esccode.pl and how we use it.  
 
-## Cookies
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us. Our Privacy Policy was generated with the help of GDPR Privacy Policy Generator  
 
-As a user @esccode of `GitHub.com` do not responsible for any cookies data and do not collect any cookies data.
+### General Data Protection Regulation (GDPR)
 
-## Advertisement and Other Third Parties
+We are a Data Controller of your information.  
 
-Advertising partners and other third parties may use cookies, scripts and web beacons to track visitors activities on this website in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This website has no access or control over these cookies, scripts and web because that may be used by third parties. Learn how to manage cookie on your browser  [Google’s cookie usage](https://policies.google.com/technologies/cookies).
+esccode.pl legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Information we collect and the specific context in which we collect the information:  
 
-## Links to Third Party Websites
+- esccode.pl needs to perform a contract with you
+- You have given esccode.pl permission to do so
+- Processing your personal information is in esccode.pl legitimate interests
+- esccode.pl needs to comply with the law
 
-@esccode have included links on this websites for your use and reference. @esccode are not responsible for the privacy policies on those websites. You should be aware that the privacy policies of these websites may differ from @esccode own.
+esccode.pl will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our policies.  
 
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. If you wish to be informed what Personal Information we hold about you and if you want it to be removed from our systems, please contact us.  
 
-## Security
+In certain circumstances, you have the following data protection rights:  
 
-The security of your personal information is important to @esccode, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While @esccode strive to use commercially acceptable means to protect your personal information, @esccode cannot guarantee its absolute security.
+- The right to access, update or to delete the information we have on you.
+- The right of rectification.
+- The right to object.
+- The right of restriction.
+- The right to data portability
+- The right to withdraw consent
 
+### Log Files
 
-## Changes To This Privacy Policy
+esccode.pl follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.  
 
-This *Privacy Policy* is effective as of 1/24/2023 and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
+### Privacy Policies
 
-@esccode reserve the right to update or change @esccode *Privacy Policy* at any time and you should check this *Privacy Policy* periodically. If @esccode make any material changes to this *Privacy Policy*, @esccode will notify by placing a prominent notice on @esccode website.
+You may consult this list to find the Privacy Policy for each of the advertising partners of esccode.pl.  
 
+Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on esccode.pl, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.  
 
-## Contact Information
+Note that esccode.pl has no access to or control over these cookies that are used by third-party advertisers.  
 
-For any questions or concerns regarding the *Privacy Policy*, please send an email to theesccode@gmail.com.
+### Third Party Privacy Policies
+
+esccode.pl's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options.  
+
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites.  
+
+### Children's Information
+
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.  
+
+esccode.pl does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.  
+
+### Online Privacy Policy Only
+
+Our Privacy Policy applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in esccode.pl. This policy is not applicable to any information collected offline or via channels other than this website.  
+
+### Consent
+
+By using our website, you hereby consent to our Privacy Policy and agree to its terms.  
+
+Generated using GDPR Privacy Policy
