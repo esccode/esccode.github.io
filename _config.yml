@@ -121,9 +121,9 @@ navigation_header:
   url: /blog/
 - title: Categories
   url: /categories/
-- title: policy
+- title: Policy
   url: /privacy-policy/
-- title: terms
+- title: Terms
   url: /terms/
 
 #- title: Search
