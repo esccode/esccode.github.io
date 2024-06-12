@@ -125,6 +125,8 @@ navigation_header:
   url: /privacy-policy/
 - title: Terms
   url: /terms/
+- title: Cookies
+  url: /cookies/
 
 #- title: Search
 #  url: /search/
@@ -140,6 +142,8 @@ navigation_footer:
   url: /privacy-policy/
 - title: terms
   url: /terms/
+- title: cookies
+  url: /cookies/
 - title: blog
   url: /blog/
 - title: categories
