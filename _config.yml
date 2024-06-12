@@ -87,7 +87,7 @@ defaults:
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
-title: "@esccode" # Site name or title, also used in jekyll-seo-tag
+title: "@esccode.pl" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
 description: "comptia, security, data" # Site description and default description, also used in jekyll-seo-tag
 url: "https://esccode.github.io" # Site url, also used in jekyll-seo-tag
