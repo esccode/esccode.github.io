@@ -133,6 +133,8 @@ navigation_footer:
   url: "#top"
 - title: policy
   url: /privacy-policy/
+- title: terms
+  url: /terms/
 - title: blog
   url: /blog/
 - title: categories
