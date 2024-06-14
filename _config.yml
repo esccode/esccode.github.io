@@ -135,7 +135,6 @@ navigation_header:
   url: https://github.com/esccode
 
 navigation_footer:
-- title: theesccode@gmail.com
 - title: home
   url: "#top"
 - title: policy
