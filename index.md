@@ -44,4 +44,3 @@ aside: true
 
 [Comptia](https://www.comptia.org/certifications)
 
-[Contact me](mailto:theesccode@gmail.com)
