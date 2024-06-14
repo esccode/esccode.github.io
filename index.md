@@ -23,7 +23,6 @@ aside: true
 
 ### CompTIA CySA+ CS0-003
 
-
 > Training status
 > [Exam Objectives](https://esccode.pl/cyber/2024/04/12/cs0-003/)  
 > [Buy, it is test book](https://www.naffy.io/esccode-pl/test-irb)
@@ -45,4 +44,4 @@ aside: true
 
 [Comptia](https://www.comptia.org/certifications)
 
-If you have any questions about CompTIA  exams, please do not hesitate to contact me.
+If you have any questions about CompTIA  exams, please do not hesitate to [contact me](mailto:theesccode@gmail.com)
