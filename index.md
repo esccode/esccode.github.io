@@ -44,4 +44,4 @@ aside: true
 
 [Comptia](https://www.comptia.org/certifications)
 
-If you have any questions about CompTIA  exams, please do not hesitate to [contact me](mailto:theesccode@gmail.com)
+[Contact me](mailto:theesccode@gmail.com)
