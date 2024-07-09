@@ -25,7 +25,7 @@ aside: true
 
 > Training status
 > [Exam Objectives](https://esccode.pl/cyber/2024/04/12/cs0-003/)  
-> [Buy, it is test book](https://www.naffy.io/esccode-pl/test-irb)
+> [Buy, Set of sample 85 questions](https://www.naffy.io/esccode-pl/set-of-sample-85-qn-cysa-cs0-003-1an)
 
 ### CompTIA Security+ SY0-601
 
