@@ -33,7 +33,6 @@ aside: true
 > Exp date: April 3, 2024
 > [Exam Objectives](https://esccode.pl/cyber/2023/08/13/sy0-601/)
 
-
 ### CompTIA Data+ DA0-001  
 
 > Passed:   February 11, 2024  
