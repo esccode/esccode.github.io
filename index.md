@@ -16,28 +16,32 @@ sitemap: true
 aside: true
 ---
 
+- [Products](#products)
 - [CompTIA CySA+ CS0-003](#comptia-cysa-cs0-003)
 - [CompTIA Security+ SY0-601](#comptia-security-sy0-601)
 - [CompTIA Data+ DA0-001](#comptia-data-da0-001)
 - [Reference](#reference)
 
+### Products
+
+> [Buy IT consultations](https://www.naffy.io/esccode-pl/)
+
 ### CompTIA CySA+ CS0-003
 
 > Training status
-> [Exam Objectives](https://esccode.pl/cyber/2024/04/12/cs0-003/)  
-> [Buy e-book](https://www.naffy.io/esccode-pl/)
+> [Exam Objectives](https://www.comptia.org/certifications)  
 
 ### CompTIA Security+ SY0-601
 
 > Passed: April 3, 2024  
 > Exp date: April 3, 2024
-> [Exam Objectives](https://esccode.pl/cyber/2023/08/13/sy0-601/)
+> [Exam Objectives](https://www.comptia.org/certifications)
 
 ### CompTIA Data+ DA0-001  
 
 > Passed:   February 11, 2024  
 > Exp date: February 11, 2027
-> [Exam Objectives](https://esccode.pl/data/2023/08/12/da0-001/)
+> [Exam Objectives](https://www.comptia.org/certifications)
 
 ### Reference
 
