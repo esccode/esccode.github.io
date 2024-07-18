@@ -157,7 +157,8 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   GitHub: https://github.com/esccode
   link: https://esccode.github.io
   RSS: /feed.xml
-  Blog: https://esccode.github.io/blog/
+  # Blog: https://esccode.github.io/blog/
+  Linkedin: https://www.linkedin.com/in/jacek-wieteska-b66b511b9/
   Categories: https://esccode.github.io/categories/
   
 
