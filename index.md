@@ -24,7 +24,7 @@ aside: true
 
 ### Products
 
-> [Buy IT consultations](https://www.naffy.io/esccode-pl/)
+> [Buy eBooks: ](https://www.naffy.io/esccode-pl/)
 
 ### CompTIA CySA+ CS0-003
 
