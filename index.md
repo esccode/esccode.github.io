@@ -16,13 +16,13 @@ sitemap: true
 aside: true
 ---
 
-- [Products](#products)
+- [eBooks](#ebooks)
 - [CompTIA CySA+ CS0-003](#comptia-cysa-cs0-003)
 - [CompTIA Security+ SY0-601](#comptia-security-sy0-601)
 - [CompTIA Data+ DA0-001](#comptia-data-da0-001)
 - [Reference](#reference)
 
-### Products
+### eBooks
 
 > [Buy eBooks: ](https://www.naffy.io/esccode-pl/)
 
