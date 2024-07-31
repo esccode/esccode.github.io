@@ -1,5 +1,5 @@
 ---
-title: EscCode content
+title: EscCode validation
 categories:
 - comptia
 feature_text: |
