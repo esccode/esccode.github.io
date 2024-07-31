@@ -1,5 +1,5 @@
 ---
-title: @esccode content
+title: EscCode content
 categories:
 - comptia
 feature_text: |
