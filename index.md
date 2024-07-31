@@ -1,5 +1,5 @@
 ---
-title: CompTIA Certyfication
+title: @esccode content
 categories:
 - comptia
 feature_text: |
