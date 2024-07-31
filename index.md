@@ -54,4 +54,4 @@ aside: true
 [Comptia](https://www.comptia.org/certifications)
 [ICS2](https://www.isc2.org/)
 [Naffy](https://www.naffy.io)
-
+[Credly](https://www.credly.com/)
