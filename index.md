@@ -25,7 +25,7 @@ aside: true
 
 ### eBooks
 
-> [Buy eBooks: ](https://www.naffy.io/esccode-pl/)
+> [Purchase My eBooks Exclusively at Naffy.io ](https://www.naffy.io/esccode-pl/)
 
 ### Credly
 
@@ -52,4 +52,6 @@ aside: true
 ### Reference
 
 [Comptia](https://www.comptia.org/certifications)
+[ICS2](https://www.isc2.org/)
+[Naffy](https://www.naffy.io)
 
