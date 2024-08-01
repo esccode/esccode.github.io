@@ -24,9 +24,10 @@ aside: true
 - [Reference](#reference)
 
 ### eBooks
-> Purchase My eBooks Exclusively
-> [- Naffy.io ](https://www.naffy.io/esccode-pl/)  
-> [- Amazon.com](https://www.amazon.com/dp/B0DBRLR9RM)
+
+> Purchase My eBooks Exclusively:
+> [ Naffy.io ](https://www.naffy.io/esccode-pl/)  
+> [ mazon.com](https://www.amazon.com/dp/B0DBRLR9RM)
 
 ### Credly profile
 
