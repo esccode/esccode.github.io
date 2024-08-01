@@ -27,7 +27,7 @@ aside: true
 
 > Purchase My eBooks Exclusively:
 > [ Naffy.io ](https://www.naffy.io/esccode-pl/)  
-> [ mazon.com](https://www.amazon.com/dp/B0DBRLR9RM)
+> [ Amazon.com](https://www.amazon.com/dp/B0DBRLR9RM)
 
 ### Credly profile
 
