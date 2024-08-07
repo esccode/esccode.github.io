@@ -19,3 +19,76 @@ layout: default
 </main>
 
 {% include site-footer.html %}
+
+<!-- markdown content for cookie -->
+
+<script>
+  // CSS for the cookies consent banner
+  const style = document.createElement('style');
+  style.innerHTML = `
+      #cookieConsent {
+          position: fixed;
+          bottom: 0;
+          left: 0;
+          width: 100%;
+          background-color: #000;
+          color: #fff;
+          text-align: center;
+          padding: 15px;
+          z-index: 1000;
+          display: none;
+      }
+      #cookieConsent a {
+          color: #4CAF50;
+      }
+  `;
+  document.head.appendChild(style);
+
+  // Function to set a cookie
+  function setCookie(name, value, days) {
+      let expires = "";
+      if (days) {
+          let date = new Date();
+          date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+          expires = "; expires=" + date.toUTCString();
+      }
+      document.cookie = name + "=" + (value || "") + expires + "; path=/";
+  }
+
+  // Function to get a cookie by name
+  function getCookie(name) {
+      let nameEQ = name + "=";
+      let ca = document.cookie.split(';');
+      for (let i = 0; i < ca.length; i++) {
+          let c = ca[i];
+          while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+          if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+      }
+      return null;
+  }
+
+  // Function to check if cookies consent has already been given
+  function checkCookieConsent() {
+      let consent = getCookie("cookieConsent");
+      if (!consent) {
+          document.getElementById("cookieConsent").style.display = "block";
+      }
+  }
+
+  // Event listener for the "Got it!" link
+  document.addEventListener('DOMContentLoaded', function() {
+      const consentBanner = document.createElement('div');
+      consentBanner.id = 'cookieConsent';
+      consentBanner.innerHTML = `This website uses [cookies](https://esccode.pl/cookies/) to ensure you get the best experience on our website. 
+          <a href="javascript:void(0);" id="acceptCookies">Got it!</a>`;
+      document.body.appendChild(consentBanner);
+
+      document.getElementById("acceptCookies").addEventListener("click", function() {
+          setCookie("cookieConsent", "accepted", 365);
+          document.getElementById("cookieConsent").style.display = "none";
+      });
+
+      checkCookieConsent();
+  });
+</script>
+
