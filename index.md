@@ -121,7 +121,7 @@ aside: true
     document.addEventListener('DOMContentLoaded', function() {
         const consentBanner = document.createElement('div');
         consentBanner.id = 'cookieConsent';
-        consentBanner.innerHTML = `This website uses cookies to ensure you get the best experience on our website. 
+        consentBanner.innerHTML = `This website uses [cookies](https://esccode.pl/cookies/) to ensure you get the best experience on our website. 
             <a href="javascript:void(0);" id="acceptCookies">Got it!</a>`;
         document.body.appendChild(consentBanner);
 
