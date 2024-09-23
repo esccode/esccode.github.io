@@ -20,9 +20,13 @@ Are you preparing for a data analyst interview and feeling overwhelmed by behavi
 **Why this book?**
 
 1. **Targeted Advice**: It focuses specifically on the needs of data analysts, providing relevant examples and insights.
+2. **Real-Life Application**: Learn how to structure your responses with real-life scenarios that are likely to appear in data analyst interviews.
+3. **Confidence Builder**: Whether you're a first-time interviewee or looking to refine your skills, this book gives you actionable tips to stand out.
+
+Don't miss out on this powerful resource. Prepare with confidence and ace your next interview by using the STAR Method effectively.
 
 
-<!-- Ready to get started? [Grap your copy today](https://www.amazon.com/Mastering-Method-Technical-Writer-Interviews-ebook/dp/B0DG3WZH1L). -->
+You can find it on Amazon [here](https://www.amazon.com/Mastering-STAR-Method-Interview-Success-ebook/dp/B0DH2NL69P).
 
 ### References
 
