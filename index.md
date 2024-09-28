@@ -55,10 +55,10 @@ aside: true
 
 #### Reference
 
-[CompTIA](https://www.comptia.org/certifications)
-[ICS2](https://www.isc2.org/)
-[Naffy](https://www.naffy.io)
-[Credly](https://www.credly.com/)
+[CompTIA](https://www.comptia.org/certifications),
+[ICS2](https://www.isc2.org/),
+[Naffy](https://www.naffy.io),
+[Credly](https://www.credly.com/),
 [UNIC](https://courses.unic.ac.cy/)
 
 <!-- markdown content for cookie -->
