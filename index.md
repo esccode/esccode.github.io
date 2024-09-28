@@ -35,7 +35,7 @@ aside: true
 
 <!-- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="429b7fd2-ead7-40a6-9305-edd2378fe538" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
 
-###  Training status
+### Training status
 
 > UNIC Institute for the future[Free MOOC on Mastering Web3](https://www.unic.ac.cy/iff/education-and-training/free-courses-moocs/mastering-web3-blockchain-cryptocurrencies-nfts-and-the-metaverse/)  
 > CompTIA CySA+ CS0-003 [Exam Objectives](https://www.comptia.org/certifications)  
