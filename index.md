@@ -31,7 +31,7 @@ aside: true
 
 ##### Credly profile
 
-> [Credly profile](https://www.credly.com/users/jacek-wieteska)
+> Credly profile[ Badge Portfolio ](https://www.credly.com/users/jacek-wieteska)
 
 <!-- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="429b7fd2-ead7-40a6-9305-edd2378fe538" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
 
