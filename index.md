@@ -37,9 +37,9 @@ aside: true
 
 ###  Training status
 
-> UNIC Institute for the future[Free MOOC on Mastering Web3](https://www.unic.ac.cy/iff/education-and-training/free-courses-moocs/mastering-web3-blockchain-cryptocurrencies-nfts-and-the-metaverse/)  
-> CompTIA CySA+ CS0-003 [Exam Objectives](https://www.comptia.org/certifications)  
-> ISC2 [ISC2 Certified in Cybersecurity Entry-Level Certification](https://www.isc2.org/certifications/cc)  
+> - UNIC Institute for the future[Free MOOC on Mastering Web3](https://www.unic.ac.cy/iff/education-and-training/free-courses-moocs/mastering-web3-blockchain-cryptocurrencies-nfts-and-the-metaverse/)  
+> - CompTIA CySA+ CS0-003 [Exam Objectives](https://www.comptia.org/certifications)  
+> - ISC2 [ISC2 Certified in Cybersecurity Entry-Level Certification](https://www.isc2.org/certifications/cc)  
 
 ### CompTIA Security+ SY0-601
 
