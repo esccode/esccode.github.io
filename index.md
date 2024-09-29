@@ -46,8 +46,6 @@ aside: true
 > Passed: April 3, 2024  
 > Exp date: April 3, 2027
 > [Exam Objectives](https://www.comptia.org/certifications)
-> ![Markdown Logo file](https://esccode.pl//assets//logos//logo.svg)
-> ![Markdown Logo file](//assets//logos//logo.svg)
 
 ##### CompTIA Data+ DA0-001  
 
