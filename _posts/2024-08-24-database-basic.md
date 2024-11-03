@@ -9,14 +9,6 @@ image: "https://picsum.photos/2560/600?image=733"
 aside: true
 ---
 
-<!-- ## Database Fundamental
-
-### Explain database concepts and the purpose od a database
-
-### Compare and contrast various database structures
-
-### Summarize methods used to interface with databases -->
-
 #### Master the Basics of Databases with "Database Basic Overview"
 
 In today's data-driven world, understanding the fundamentals of databases is essential for anyone looking to advance in technology, data management, or business intelligence. My eBook, [Database Basic Overview: Database Concepts, Structures, and Interfaces](https://www.amazon.com/dp/B0DCV1H46H), is your perfect guide to get started.
@@ -25,4 +17,4 @@ This concise and practical eBook introduces the core concepts of databases, expl
 
 ### References
 
-[Amazon eBook](https://www.amazon.com/dp/B0DCV1H46H)
+[Amazon eBooks](https://www.amazon.com/author/esccode)

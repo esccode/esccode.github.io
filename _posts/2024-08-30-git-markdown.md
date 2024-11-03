@@ -21,4 +21,4 @@ Ready to get started? [Grap your copy today](https://www.amazon.com/dp/B0DFQFFKM
 
 ### References
 
-[Amazon eBook](https://www.amazon.com/stores/Jacek-Wieteska/author/B0DC1KVP9X)
+[Amazon eBooks](https://www.amazon.com/author/esccode)

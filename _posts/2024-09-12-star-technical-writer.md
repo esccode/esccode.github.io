@@ -55,4 +55,4 @@ For more tips and techniques on how to excel in your interview, check out my eBo
 
 ### References
 
-[Amazon eBook](https://www.amazon.com/stores/Jacek-Wieteska/author/B0DC1KVP9X)
+[Amazon eBooks](https://www.amazon.com/author/esccode)

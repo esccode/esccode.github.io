@@ -19,4 +19,4 @@ Dont't wait for a cyber attack - start safeguarding your digital assets today. [
 
 ### References
 
-[Amazon eBook](https://www.amazon.com/stores/Jacek-Wieteska/author/B0DC1KVP9X)
+[Amazon eBooks](https://www.amazon.com/author/esccode)

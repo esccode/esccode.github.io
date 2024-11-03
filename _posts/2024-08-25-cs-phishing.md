@@ -17,7 +17,7 @@ This eBook offers a deep dive into a fictional yet highly realistic investigatio
 
 Whether you're a tech enthusiast, a cybersecurity professional, or simply someone intrigued by the world of digital forensics, this eBook will offer you both an engaging story and a wealth of knowledge.
 
-The eBook is available on Amazon, and the best part? [***It's currently FREE!***](https://www.amazon.com/dp/B0DDJS3719) Don't miss out on this opportunity to explore the high-stakes world of cyber forensics.
+Ready to get started? [Grap your copy today](https://www.amazon.com/dp/B0DDJS3719).
 
 ### References
 

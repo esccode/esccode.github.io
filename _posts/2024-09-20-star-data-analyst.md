@@ -30,4 +30,4 @@ You can find it on Amazon [here](https://www.amazon.com/Mastering-STAR-Method-In
 
 ### References
 
-[Amazon eBooks](https://www.amazon.com/stores/Jacek-Wieteska/author/B0DC1KVP9X)
+[Amazon eBooks](https://www.amazon.com/author/esccode)
