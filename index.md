@@ -19,8 +19,6 @@ aside: true
 - [eBooks Series](#ebooks-series)
 - [Credly profile](#credly-profile)
 - [Training status](#training-status)
-- [CompTIA Security+ SY0-601](#comptia-security-sy0-601)
-- [CompTIA Data+ DA0-001](#comptia-data-da0-001)
 - [Reference](#reference)
 
 #### eBooks Series
@@ -44,18 +42,6 @@ aside: true
 > UNIC Institute for the future[ Free MOOC on Mastering Web3 ](https://www.unic.ac.cy/iff/education-and-training/free-courses-moocs/mastering-web3-blockchain-cryptocurrencies-nfts-and-the-metaverse/)  
 > CompTIA CySA+ CS0-003 [ Exam Objectives ](https://www.comptia.org/certifications)  
 > ISC2 [ ISC2 Certified in Cybersecurity Entry-Level Certification ](https://www.isc2.org/certifications/cc)  
-
-#### CompTIA Security+ SY0-601
-
-> Passed: April 3, 2024  
-> Exp date: April 3, 2027
-> [Exam Objectives](https://www.comptia.org/certifications)
-
-#### CompTIA Data+ DA0-001  
-
-> Passed:   February 11, 2024  
-> Exp date: February 11, 2027
-> [Exam Objectives](https://www.comptia.org/certifications)
 
 #### Reference
 
