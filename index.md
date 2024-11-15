@@ -17,41 +17,41 @@ aside: true
 ---
 
 - [eBooks Series](#ebooks-series)
-  - [Credly profile](#credly-profile)
-  - [Training status](#training-status)
-  - [CompTIA Security+ SY0-601](#comptia-security-sy0-601)
-  - [CompTIA Data+ DA0-001](#comptia-data-da0-001)
+- [Credly profile](#credly-profile)
+- [Training status](#training-status)
+- [CompTIA Security+ SY0-601](#comptia-security-sy0-601)
+- [CompTIA Data+ DA0-001](#comptia-data-da0-001)
 - [Reference](#reference)
 
 #### eBooks Series
 
-![alt text](image.png)
+[![Digital Forensic Case Stories](image.png)](https://www.amazon.com/dp/B0DKG6W579)
 
-![alt text](image-1.png)
+![Data Mastery Series](image-1.png)
 
 > Purchase My eBooks Exclusively:  
 > [Naffy.io ](https://www.naffy.io/esccode-pl/)  
 > [Amazon.com](https://www.amazon.com/author/esccode)
 
-##### Credly profile
+#### Credly profile
 
 > Credly profile[ Badge Portfolio ](https://www.credly.com/users/jacek-wieteska)
 
 <!-- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="429b7fd2-ead7-40a6-9305-edd2378fe538" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
 
-##### Training status
+#### Training status
 
 > UNIC Institute for the future[ Free MOOC on Mastering Web3 ](https://www.unic.ac.cy/iff/education-and-training/free-courses-moocs/mastering-web3-blockchain-cryptocurrencies-nfts-and-the-metaverse/)  
 > CompTIA CySA+ CS0-003 [ Exam Objectives ](https://www.comptia.org/certifications)  
 > ISC2 [ ISC2 Certified in Cybersecurity Entry-Level Certification ](https://www.isc2.org/certifications/cc)  
 
-##### CompTIA Security+ SY0-601
+#### CompTIA Security+ SY0-601
 
 > Passed: April 3, 2024  
 > Exp date: April 3, 2027
 > [Exam Objectives](https://www.comptia.org/certifications)
 
-##### CompTIA Data+ DA0-001  
+#### CompTIA Data+ DA0-001  
 
 > Passed:   February 11, 2024  
 > Exp date: February 11, 2027
