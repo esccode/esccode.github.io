@@ -16,14 +16,18 @@ sitemap: true
 aside: true
 ---
 
-- [eBooks](#ebooks)
+- [eBooks Series](#ebooks-series)
   - [Credly profile](#credly-profile)
   - [Training status](#training-status)
   - [CompTIA Security+ SY0-601](#comptia-security-sy0-601)
   - [CompTIA Data+ DA0-001](#comptia-data-da0-001)
 - [Reference](#reference)
 
-#### eBooks
+#### eBooks Series
+
+![alt text](image.png)
+
+![alt text](image-1.png)
 
 > Purchase My eBooks Exclusively:  
 > [Naffy.io ](https://www.naffy.io/esccode-pl/)  
