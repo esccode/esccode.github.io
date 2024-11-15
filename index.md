@@ -17,6 +17,7 @@ aside: true
 ---
 
 - [eBooks Series](#ebooks-series)
+- [Purchase My eBooks Exclusively:](#purchase-my-ebooks-exclusively)
 - [Credly profile](#credly-profile)
 - [Training status](#training-status)
 - [Reference](#reference)
@@ -26,7 +27,8 @@ aside: true
 [![Digital Forensic Case Stories](image-2.png)](https://www.amazon.com/dp/B0DKG6W579)
 [![Data Mastery Series](image-3.png)](https://www.amazon.com/dp/B0DM6CSP2J)
 
-> Purchase My eBooks Exclusively:  
+#### Purchase My eBooks Exclusively:  
+
 > [Naffy.io ](https://www.naffy.io/esccode-pl/)  
 > [Amazon.com](https://www.amazon.com/author/esccode)
 
