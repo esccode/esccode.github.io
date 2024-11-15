@@ -23,9 +23,9 @@ aside: true
 
 #### eBooks Series
 
-[![Digital Forensic Case Stories](image.png)](https://www.amazon.com/dp/B0DKG6W579)
+[![Digital Forensic Case Stories](image-2.png)](https://www.amazon.com/dp/B0DKG6W579)
 
-![Data Mastery Series](image-1.png)
+[![Data Mastery Series](image-1.png)](https://www.amazon.com/dp/B0DM6CSP2J)
 
 > Purchase My eBooks Exclusively:  
 > [Naffy.io ](https://www.naffy.io/esccode-pl/)  
