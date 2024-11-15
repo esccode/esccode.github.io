@@ -17,7 +17,6 @@ aside: true
 ---
 
 - [eBooks Series](#ebooks-series)
-- [Purchase My eBooks Exclusively:](#purchase-my-ebooks-exclusively)
 - [Credly profile](#credly-profile)
 - [Training status](#training-status)
 - [Reference](#reference)
@@ -28,11 +27,6 @@ aside: true
 [![Data Mastery Series](image-3.png)](https://www.amazon.com/dp/B0DM6CSP2J)
 [![Interview Mastery Series](image-4.png)](https://www.amazon.com/dp/B0DM6P4VYX)
 [![Cybersecurity Mastery Series](image-5.png)](https://www.amazon.com/dp/B0DM6K1JMP)
-
-#### Purchase My eBooks Exclusively:  
-
-> [Naffy.io ](https://www.naffy.io/esccode-pl/)  
-> [Amazon.com](https://www.amazon.com/author/esccode)
 
 #### Credly profile
 
