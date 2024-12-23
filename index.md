@@ -26,7 +26,7 @@ aside: true
 [![Digital Forensic Case Stories](image-2.png)](https://www.amazon.com/dp/B0DKG6W579)
 [![Data Mastery Series](image-3.png)](https://www.amazon.com/dp/B0DM6CSP2J)
 [![Interview Mastery Series](image-4.png)](https://www.amazon.com/dp/B0DM6P4VYX)
-[![Cybersecurity Mastery Series](image-5.png)](https://www.amazon.com/dp/B0DM6K1JMP)
+[![Cybersecurity Mastery Series](image-6.png)](https://www.amazon.com/dp/B0DM6K1JMP)
 
 #### Credly profile
 
