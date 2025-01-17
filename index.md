@@ -27,7 +27,7 @@ aside: true
 [![Data Mastery Series](image-3.png)](https://www.amazon.com/dp/B0DM6CSP2J)
 [![Interview Mastery Series](image-4.png)](https://www.amazon.com/dp/B0DM6P4VYX)
 [![Cybersecurity Mastery Series](image-6.png)](https://www.amazon.com/dp/B0DM6K1JMP)
-[![Naffy.io "Produkty cyfrowe"](image-8.png)](https://www.naffy.io/esccode-pl)
+<!-- [![Naffy.io "Produkty cyfrowe"](image-8.png)](https://www.naffy.io/esccode-pl) -->
 
 #### Credly profile
 
