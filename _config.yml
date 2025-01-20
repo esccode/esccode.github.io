@@ -131,6 +131,8 @@ navigation_header:
   url: /terms/
 - title: Cookies
   url: /cookies/
+- title: Newsletter
+  url: https://dashboard.mailerlite.com/forms/1287779/144061497166792112/share
 
 #- title: Search
 #  url: /search/
