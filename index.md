@@ -49,6 +49,7 @@ aside: true
 [Naffy](https://www.naffy.io),
 [Credly](https://www.credly.com/),
 [UNIC](https://courses.unic.ac.cy/)
+[Amazon](https://www.amazon.com/author/esccode)
 
 <!-- markdown content for cookie -->
 
