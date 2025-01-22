@@ -19,7 +19,6 @@ aside: true
 - [eBooks Series](#ebooks-series)
 - [Credly profile](#credly-profile)
 - [Training status](#training-status)
-- [Reference](#reference)
 
 #### eBooks Series
 
@@ -42,6 +41,8 @@ aside: true
 > CompTIA CySA+ CS0-003 [Exam Objectives ](https://www.comptia.org/certifications)  
 > ISC2 [ISC2 Certified in Cybersecurity Entry-Level Certification ](https://www.isc2.org/certifications/cc)  
 
+---
+<!-- 
 #### Reference
 
 [CompTIA](https://www.comptia.org/certifications),
@@ -49,7 +50,7 @@ aside: true
 [Naffy](https://www.naffy.io),
 [Credly](https://www.credly.com/),
 [UNIC](https://courses.unic.ac.cy/),
-[Amazon](https://www.amazon.com/author/esccode)
+[Amazon](https://www.amazon.com/author/esccode) -->
 
 <!-- markdown content for cookie -->
 
