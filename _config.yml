@@ -121,8 +121,10 @@ navigation_header:
   url: /blog/
 - title: Naffy.io
   url: https://www.naffy.io/esccode-pl/
-- title: Amazon
+- title: Amazon.com
   url: https://www.amazon.com/author/esccode
+- title: Amazon.pl
+  url: https://www.amazon.pl/s?k=wieteska+jacek 
 - title: Categories
   url: /categories/
 - title: Policy
