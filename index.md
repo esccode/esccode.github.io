@@ -16,12 +16,12 @@ sitemap: true
 aside: true
 ---
 
-- [QR Codes for Naffy.io, Amazon.pl, Amazon.com, and Esccode.pl](#qr-codes-for-naffyio-amazonpl-amazoncom-and-esccodepl)
+- [QR: Naffy.io, Amazon.pl, Amazon.com, and Esccode.pl](#qr-naffyio-amazonpl-amazoncom-and-esccodepl)
 - [eBooks Series](#ebooks-series)
 - [Credly profile](#credly-profile)
 - [Training status](#training-status)
 
-#### QR Codes for Naffy.io, Amazon.pl, Amazon.com, and Esccode.pl
+#### QR: Naffy.io, Amazon.pl, Amazon.com, and Esccode.pl
 
 ![QR Codes](image-12.png)
 
