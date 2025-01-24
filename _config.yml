@@ -89,7 +89,7 @@ encoding: utf-8 # Make sure the encoding is right
 lang: en-GB # Set the site language
 title: "@esccode" # Site name or title, also used in jekyll-seo-tag
 logo: "/assets/logos/logo.svg" # Site logo, also used in jekyll-seo-tag
-description: "Books, eBooks, Amazon, Digital Forensic Case Stories, Data Mastery Series, Interview Mastery Series, Cybersecurity Mastery Series" # Site description and default description, also used in jekyll-seo-tag
+description: "Books, eBooks, Amazon, Naffy.io, Digital Forensic Case Stories, Data Mastery Series, Interview Mastery Series, Cybersecurity Mastery Series" # Site description and default description, also used in jekyll-seo-tag
 url: "https://esccode.github.io" # Site url, also used in jekyll-seo-tag
 baseurl: ""
 repo: "https://github.com/esccode"
@@ -117,27 +117,28 @@ favicons: # Favicons are also used in the manifest file. Syntax is 'size: path'
 navigation_header:
 #- title: Elements
 #  url: /elements/
-- title: Blog
-  url: /blog/
+
 - title: Naffy.io
   url: https://www.naffy.io/esccode-pl/
 - title: Amazon.com
   url: https://www.amazon.com/author/esccode
 - title: Amazon.pl
-  url: https://www.amazon.pl/s?k=wieteska+jacek 
+  url: https://www.amazon.pl/s?k=wieteska+jacek
+- title: Blog
+  url: /blog/ 
 - title: Categories
   url: /categories/
-- title: Policy
-  url: /privacy-policy/
-- title: Terms
-  url: /terms/
-- title: Cookies
-  url: /cookies/
+# - title: Policy
+#   url: /privacy-policy/
+# - title: Terms
+#   url: /terms/
+# - title: Cookies
+#   url: /cookies/
 # - title: Newsletter
 #   url: https://dashboard.mailerlite.com/forms/1287779/144061497166792112/share
-- title: GitHub
-  # url: https://i-book.pl
-  url: https://github.com/esccode
+# - title: GitHub
+#   # url: https://i-book.pl
+#   url: https://github.com/esccode
 
 navigation_footer:
 - title: theesccode@gmail.com
@@ -149,10 +150,10 @@ navigation_footer:
   url: /terms/
 - title: cookies
   url: /cookies/
-- title: blog
-  url: /blog/
-- title: categories
-  url: /categories/
+# - title: blog
+#   url: /blog/
+# - title: categories
+#   url: /categories/
 - title: daviddarnes
   url: https://github.com/daviddarnes/alembic
 
@@ -162,9 +163,10 @@ social_links: # Appears in sidebar. Set the urls then uncomment and comment out 
   Facebook: https://www.facebook.com/profile.php?id=61571968313717
   Twitter: https://x.com/theesccode
   Linkedin: https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jacek-w-b66b511b9
+  GitHub: https://github.com/esccode
   RSS: /feed.xml
   Credly: https://www.credly.com/users/jacek-wieteska
-  GitHub: https://github.com/esccode
+  Amazon: https://www.amazon.com/author/esccode
   
   
   # Blog: https://esccode.github.io/blog/
