@@ -16,12 +16,12 @@ sitemap: true
 aside: true
 ---
 
-- [eBooks via QR Code for Easy Access](#ebooks-via-qr-code-for-easy-access)
+- [naffy.io, amazon.pl, amazon.com, esccode.pl](#naffyio-amazonpl-amazoncom-esccodepl)
 - [eBooks Series](#ebooks-series)
 - [Credly profile](#credly-profile)
 - [Training status](#training-status)
 
-#### eBooks via QR Code for Easy Access
+#### naffy.io, amazon.pl, amazon.com, esccode.pl
 
 ![QR Codes](image-12.png)
 
