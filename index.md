@@ -16,9 +16,14 @@ sitemap: true
 aside: true
 ---
 
+- [QR Codes where you can buy my eBooks/books](#qr-codes-where-you-can-buy-my-ebooksbooks)
 - [eBooks Series](#ebooks-series)
 - [Credly profile](#credly-profile)
 - [Training status](#training-status)
+
+#### QR Codes where you can buy my eBooks/books
+
+![QR Codes](image-12.png)
 
 #### eBooks Series
 
@@ -27,7 +32,6 @@ aside: true
 [![Interview Mastery Series](image-4.png)](https://www.amazon.com/dp/B0DM6P4VYX)
 [![Cybersecurity Mastery Series](image-6.png)](https://www.amazon.com/dp/B0DM6K1JMP)
 <!-- [![Naffy.io "Produkty cyfrowe"](image-8.png)](https://www.naffy.io/esccode-pl) -->
-![QR Codes](image-11.png)
 
 #### Credly profile
 
