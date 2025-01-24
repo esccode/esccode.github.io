@@ -16,12 +16,12 @@ sitemap: true
 aside: true
 ---
 
-- [QR Codes where you can buy my eBooks/books](#qr-codes-where-you-can-buy-my-ebooksbooks)
+- [eBooks with QR Codes for Easy Access](#ebooks-with-qr-codes-for-easy-access)
 - [eBooks Series](#ebooks-series)
 - [Credly profile](#credly-profile)
 - [Training status](#training-status)
 
-#### QR Codes where you can buy my eBooks/books
+#### eBooks with QR Codes for Easy Access
 
 ![QR Codes](image-12.png)
 
