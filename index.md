@@ -1,5 +1,5 @@
 ---
-title: EscCode.pl
+title:
 categories:
 - comptia
 feature_text: |
