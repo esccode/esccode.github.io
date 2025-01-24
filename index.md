@@ -16,12 +16,12 @@ sitemap: true
 aside: true
 ---
 
-- [eBooks with QR Codes for Easy Access](#ebooks-with-qr-codes-for-easy-access)
+- [eBooks via QR Code for Easy Access](#ebooks-via-qr-code-for-easy-access)
 - [eBooks Series](#ebooks-series)
 - [Credly profile](#credly-profile)
 - [Training status](#training-status)
 
-#### eBooks with QR Codes for Easy Access
+#### eBooks via QR Code for Easy Access
 
 ![QR Codes](image-12.png)
 
