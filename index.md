@@ -30,9 +30,8 @@ aside: true
 [![Digital Forensic Case Stories](image-2.png)](https://www.amazon.com/dp/B0DKG6W579)
 [![Data Mastery Series](image-3.png)](https://www.amazon.com/dp/B0DM6CSP2J)
 [![Interview Mastery Series](image-4.png)](https://www.amazon.com/dp/B0DM6P4VYX)
-[![Cybersecurity Mastery Series](image-6.png)](https://www.amazon.com/dp/B0DM6K1JMP)
+[![Cybersecurity Mastery Series](image-13.png)](https://www.amazon.com/dp/B0DM6K1JMP)
 <!-- [![Naffy.io "Produkty cyfrowe"](image-8.png)](https://www.naffy.io/esccode-pl) -->
-
 #### Credly profile
 
 > Credly profile [Badge Portfolio](https://www.credly.com/users/jacek-wieteska)
