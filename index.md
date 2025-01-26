@@ -24,7 +24,7 @@ aside: true
 #### eBooks Series
 
 [![Digital Forensic Case Stories](image-16.png)](https://www.amazon.com/dp/B0DKG6W579)
-[![Data Mastery Series](image-15.png)](https://www.amazon.com/dp/B0DM6CSP2J)
+[![Data Mastery Series](image-17.png)](https://www.amazon.com/dp/B0DM6CSP2J)
 [![Interview Mastery Series](image-14.png)](https://www.amazon.com/dp/B0DM6P4VYX)
 [![Cybersecurity Mastery Series](image-13.png)](https://www.amazon.com/dp/B0DM6K1JMP)
 <!-- [![Naffy.io "Produkty cyfrowe"](image-8.png)](https://www.naffy.io/esccode-pl) -->
