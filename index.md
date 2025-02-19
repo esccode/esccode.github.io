@@ -1,13 +1,12 @@
 ---
-title: Data Concepts
+title: EscCode.pl
 categories:
-- 
+- CyberSecurity
 feature_text: |
-  ## @esccode
-  "If you tell the truth, you don't have to remember anything." - Mark Twain
+  # Protecting data by day, decoding it by night, and telling its story in between!
 
 excerpt: |
-  # 
+  # Data Concepts
 #feature_image: "https://picsum.photos/2560/600?image=733"
 feature_image: "https://picsum.photos/1300/400?image=989"
 image: "https://picsum.photos/2560/600?image=733"
