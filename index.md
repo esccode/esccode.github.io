@@ -21,7 +21,7 @@ aside: true
 
 #### eBooks Series
 
-[![eBook Series](image-19.png)](https://www.amazon.com/author/esccode)
+[![eBook Series](image-20.png)](https://www.amazon.com/author/esccode)
 <!-- [![Digital Forensic Case Stories](image-16.png)](https://www.amazon.com/dp/B0DKG6W579)
 [![Interview Mastery Series](image-14.png)](https://www.amazon.com/dp/B0DM6P4VYX)
 [![Data Mastery Series](image-17.png)](https://www.amazon.com/dp/B0DM6CSP2J)
