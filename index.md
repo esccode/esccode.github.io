@@ -18,10 +18,11 @@ aside: true
 - [eBooks Series](#ebooks-series)
 - [Credly Profile](#credly-profile)
 - [Training Status](#training-status)
+- [QR Codes](#qr-codes)
 
 #### eBooks Series
 
-[![eBook Series](image-20.png)](https://www.amazon.com/author/esccode)
+> [![eBook Series](image-20.png)](https://www.amazon.com/author/esccode)
 <!-- [![Digital Forensic Case Stories](image-16.png)](https://www.amazon.com/dp/B0DKG6W579)
 [![Interview Mastery Series](image-14.png)](https://www.amazon.com/dp/B0DM6P4VYX)
 [![Data Mastery Series](image-17.png)](https://www.amazon.com/dp/B0DM6CSP2J)
@@ -39,8 +40,9 @@ aside: true
 > CompTIA CySA+ CS0-003 [Exam Objectives ](https://www.comptia.org/certifications)  
 > ISC2 [ISC2 Certified in Cybersecurity Entry-Level Certification ](https://www.isc2.org/certifications/cc)  
 
+#### QR Codes
 
-![QR Codes](image-12.png)
+> ![QR Codes](image-12.png)
 
 ---
 <!-- 
