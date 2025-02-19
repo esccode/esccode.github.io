@@ -3,7 +3,7 @@ title: EscCode.pl
 categories:
 - CyberSecurity
 feature_text: |
-  # Protecting data by day, decoding it by night, and telling its story in between!
+  ## Protecting data by day, decoding it by night, and telling its story in between!
 
 excerpt: |
   # Data Concepts
