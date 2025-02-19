@@ -41,7 +41,7 @@ aside: true
 > ISC2 [ISC2 Certified in Cybersecurity Entry-Level Certification ](https://www.isc2.org/certifications/cc)  
 
 
-![QR Codes](image-12.png) -->
+![QR Codes](image-12.png)
 
 ---
 <!-- 
