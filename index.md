@@ -3,7 +3,7 @@ title: Books Mastery Series
 categories:
 - CyberSecurity
 feature_text: |
-  ### EscCode.pl
+  ### 
   Protecting data by day, decoding it by night, and telling its story in between!
 
 excerpt: |
