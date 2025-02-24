@@ -23,11 +23,11 @@ aside: true
 
 #### eBooks Series
 
-> [![eBook Series](image-20.png)](https://www.amazon.com/author/esccode)
-<!-- [![Digital Forensic Case Stories](image-16.png)](https://www.amazon.com/dp/B0DKG6W579)
-[![Interview Mastery Series](image-14.png)](https://www.amazon.com/dp/B0DM6P4VYX)
-[![Data Mastery Series](image-17.png)](https://www.amazon.com/dp/B0DM6CSP2J)
-[![Cybersecurity Mastery Series](image-18.png)](https://www.amazon.com/dp/B0DM6K1JMP) -->
+<!-- > [![eBook Series](image-20.png)](https://www.amazon.com/author/esccode) -->
+<!-- [![Digital Forensic Case Stories](image-16.png)](https://www.amazon.com/dp/B0DKG6W579) -->
+[![Code Mastery Series](image-21.png)](https://www.amazon.com/dp/B0DWZ7RTMJ)
+[![Data Mastery Series](image-22.png)](https://www.amazon.com/dp/B0DM6CSP2J)
+[![Cybersecurity Mastery Series](image-23.png)](https://www.amazon.com/dp/B0DM6K1JMP)
 <!-- [![Naffy.io "Produkty cyfrowe"](image-8.png)](https://www.naffy.io/esccode-pl) -->
 #### Credly Profile
 
