@@ -9,7 +9,7 @@ feature_text: |
 excerpt: |
   # Data Concepts
 #feature_image: "https://picsum.photos/2560/600?image=733"
-feature_image: "https://picsum.photos/1300/400?image=789"
+feature_image: "https://picsum.photos/1300/400?image=511"
 # feature_image: "https://picsum.photos/1300/400?image=989"
 image: "https://picsum.photos/2560/600?image=799"
 indexing: true
