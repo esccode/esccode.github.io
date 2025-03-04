@@ -7,10 +7,8 @@ feature_text: |
   Protecting data by day, decoding it by night, and telling its story in between!
 
 excerpt: |
-  # Data Concepts
-#feature_image: "https://picsum.photos/2560/600?image=733"
+  # Data Mastery Series, CyberSecurity Mastery Series, Code Mastery Series
 feature_image: "https://picsum.photos/1300/400?image=511"
-# feature_image: "https://picsum.photos/1300/400?image=989"
 image: "https://picsum.photos/2560/600?image=799"
 indexing: true
 sitemap: true
