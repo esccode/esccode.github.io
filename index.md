@@ -18,7 +18,6 @@ aside: true
 - [eBooks Series](#ebooks-series)
 - [Credly Profile](#credly-profile)
 - [Training Status](#training-status)
-- [QR Codes](#qr-codes)
 
 #### eBooks Series
 
@@ -40,9 +39,9 @@ aside: true
 > CompTIA CySA+ CS0-003 [Exam Objectives ](https://www.comptia.org/certifications)  
 > ISC2 [ISC2 Certified in Cybersecurity Entry-Level Certification ](https://www.isc2.org/certifications/cc)  
 
-#### QR Codes
+<!-- #### QR Codes
 
-> ![QR Codes](image-12.png)
+> ![QR Codes](image-12.png) -->
 
 ---
 <!-- 
