@@ -122,10 +122,12 @@ navigation_header:
   url: https://www.naffy.io/esccode-pl/
 - title: Empik.com
   url: https://www.empik.com/szukaj/produkt?author=jacek+wieteska
-- title: Amazon.com
-  url: https://www.amazon.com/author/esccode
 - title: Amazon.pl
   url: https://www.amazon.pl/s?k=wieteska+jacek
+- title: Amazon.com
+  url: https://www.amazon.com/author/esccode
+- title: Lulu.com
+  url: https://www.lulu.com/search?contributor=Jacek+Wieteska
 # - title: Blog
 #   url: /blog/ 
 # - title: Categories
