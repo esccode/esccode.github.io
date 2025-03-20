@@ -21,6 +21,8 @@ aside: true
 
 #### eBooks Series
 
+👉 [CompTIA Data+ DA0-001 Overview (2nd Edition): Data Concepts, Mining, Analysis, Visualization, Governance, and Practice Questions (Data Mastery Series) 🛒](https://a.co/d/iQTlhhb) #Amazon via @amazon @AmazonKDP  
+
 <!-- > [![eBook Series](image-20.png)](https://www.amazon.com/author/esccode) -->
 <!-- [![Digital Forensic Case Stories](image-16.png)](https://www.amazon.com/dp/B0DKG6W579) -->
 > [![Code Mastery Series](image-21.png)](https://www.amazon.com/dp/B0DWZ7RTMJ)
