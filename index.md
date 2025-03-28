@@ -24,7 +24,7 @@ aside: true
 <!-- [![Digital Forensic Case Stories](image-16.png)](https://www.amazon.com/dp/B0DKG6W579) -->
 > [![Code Mastery Series](image-8.png)](https://www.amazon.com/dp/B0DWZ7RTMJ)
 > [![Data Mastery Series](image-1.png)](https://www.amazon.com/dp/B0DM6CSP2J)
-> [![Cybersecurity Mastery Series](image-23.png)](https://www.amazon.com/dp/B0DM6K1JMP)
+> [![Cybersecurity Mastery Series](image-10.png)](https://www.amazon.com/dp/B0DM6K1JMP)
 <!-- [![Naffy.io "Produkty cyfrowe"](image-8.png)](https://www.naffy.io/esccode-pl) -->
 
 <!-- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="429b7fd2-ead7-40a6-9305-edd2378fe538" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
