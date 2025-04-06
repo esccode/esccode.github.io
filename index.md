@@ -22,7 +22,7 @@ aside: true
 #### eBooks Series
 <!-- > [![eBook Series](image-20.png)](https://www.amazon.com/author/esccode) -->
 <!-- [![Digital Forensic Case Stories](image-16.png)](https://www.amazon.com/dp/B0DKG6W579) -->
-> [![Code Mastery Series](image-8.png)](https://www.amazon.com/dp/B0DWZ7RTMJ)
+> [![Code Mastery Series](image-11.png)](https://www.amazon.com/dp/B0DWZ7RTMJ)
 > [![Data Mastery Series](image-1.png)](https://www.amazon.com/dp/B0DM6CSP2J)
 > [![Cybersecurity Mastery Series](image-10.png)](https://www.amazon.com/dp/B0DM6K1JMP)
 <!-- [![Naffy.io "Produkty cyfrowe"](image-8.png)](https://www.naffy.io/esccode-pl) -->
