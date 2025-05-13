@@ -8,8 +8,8 @@ feature_text: |
 
 excerpt: |
   # Data Mastery Series, CyberSecurity Mastery Series, Code Mastery Series
-feature_image: "https://picsum.photos/1300/400?image=569"
-image: "https://picsum.photos/2560/600?image=569"
+feature_image: "https://picsum.photos/1300/400?image=588"
+image: "https://picsum.photos/2560/600?image=588"
 indexing: true
 sitemap: true
 aside: true
