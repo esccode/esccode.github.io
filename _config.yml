@@ -164,7 +164,7 @@ navigation_footer:
 social_links: # Appears in sidebar. Set the urls then uncomment and comment out as desired
   #Twitter: https://twitter.com/
   #LinkedIn: https://www.linkedin.com/
-  Facebook: https://www.facebook.com/profile.php?id=61571968313717
+  # Facebook: https://www.facebook.com/profile.php?id=61571968313717
   Twitter: https://x.com/theesccode
   Linkedin: https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=jacek-w-b66b511b9
   GitHub: https://github.com/esccode
