@@ -38,6 +38,7 @@ aside: true
 
 > Credly profile [Badge Portfolio](https://www.credly.com/users/jacek-wieteska)
 > <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8c665749-b340-4f58-bfdf-0d7dcca0b7dd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+> <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8c665749-b340-4f58-bfdf-0d7dcca0b7dd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 <!-- #### QR Codes
 
