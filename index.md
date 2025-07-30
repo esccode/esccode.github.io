@@ -16,6 +16,7 @@ aside: true
 ---
 
 - [eBooks Series](#ebooks-series)
+- [Training Status](#training-status)
 - [Credly Profile](#credly-profile)
 
 #### eBooks Series
@@ -28,16 +29,19 @@ aside: true
 <!-- [![Naffy.io "Produkty cyfrowe"](image-8.png)](https://www.naffy.io/esccode-pl) -->
 <!-- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="429b7fd2-ead7-40a6-9305-edd2378fe538" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
 
-<!-- #### Training Status -->
+#### Training Status
 
 <!-- > UNIC Institute for the future [Free MOOC on Mastering Web3](https://www.unic.ac.cy/iff/education-and-training/free-courses-moocs/mastering-web3-blockchain-cryptocurrencies-nfts-and-the-metaverse/)   -->
-<!-- > CompTIA CySA+ CS0-003 [Exam Objectives ](https://www.comptia.org/certifications)   -->
+> CompTIA CySA+ CS0-003 [Exam Objectives ](https://www.comptia.org/certifications)  
+> ISC2 SSCP CySA+ CS0-003 [Exam Objectives ](https://www.isc2.org/certifications/sscp)  
+>
+> Training status doesn't guarantee I'll pass or even take the exam; it means I'm actively studying and preparing.
 <!-- > ISC2 [ISC2 Certified in Cybersecurity Entry-Level Certification ](https://www.isc2.org/certifications/cc)   -->
 
 #### Credly Profile
 
 > [Badge Portfolio](https://www.credly.com/users/jacek-wieteska)
-> <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8c665749-b340-4f58-bfdf-0d7dcca0b7dd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+<!-- > <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="8c665749-b340-4f58-bfdf-0d7dcca0b7dd" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
 
 <!-- #### QR Codes
 
