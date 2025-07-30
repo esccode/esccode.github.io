@@ -35,7 +35,8 @@ aside: true
 > CompTIA CySA+ CS0-003 [Exam Objectives ](https://www.comptia.org/certifications)  
 > ISC2 SSCP CySA+ CS0-003 [Exam Objectives ](https://www.isc2.org/certifications/sscp)  
 >
-> Training status doesn't guarantee I'll pass or even take the exam; it means I'm actively studying and preparing.
+> Training status doesn't guarantee I'll pass or even take the exam;
+> it means I'm actively studying and preparing.
 <!-- > ISC2 [ISC2 Certified in Cybersecurity Entry-Level Certification ](https://www.isc2.org/certifications/cc)   -->
 
 #### Credly Profile
