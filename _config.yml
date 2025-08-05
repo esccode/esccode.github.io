@@ -126,8 +126,8 @@ navigation_header:
   url: https://www.amazon.pl/s?k=wieteska+jacek
 - title: Amazon.com
   url: https://www.amazon.com/author/esccode
-- title: Lulu.com
-  url: https://www.lulu.com/search?contributor=Jacek+Wieteska
+# - title: Lulu.com
+  # url: https://www.lulu.com/search?contributor=Jacek+Wieteska
 - title: Credly Wallet
   url: https://www.credly.com/users/jacek-wieteska
 # - title: Blog
