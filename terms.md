@@ -16,7 +16,7 @@ image: "https://picsum.photos/2560/600?image=733"
 aside: false
 ---
 
-- [Terms and Conditions for esccode.pl](#terms-and-conditions-for-esccodepl)
+- [Terms and Conditions for esccode.github.io](#terms-and-conditions-for-esccodegithubio)
 - [Interpretation and Definitions](#interpretation-and-definitions)
   - [Interpretation](#interpretation)
   - [Definitions](#definitions)
@@ -37,7 +37,7 @@ aside: false
 - [Contact Us](#contact-us)
 
 
-## Terms and Conditions for esccode.pl
+## Terms and Conditions for esccode.github.io
 
 Last updated: June 12, 2024
 
@@ -57,7 +57,7 @@ For the purposes of these Terms and Conditions:
 
 - Country refers to: Poland
 
-- Company (referred to as either `the Company`, `We`, `Us` or `Our` in this Agreement) refers to esccode.pl.
+- Company (referred to as either `the Company`, `We`, `Us` or `Our` in this Agreement) refers to esccode.github.io.
 
 - Device means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
@@ -67,7 +67,7 @@ For the purposes of these Terms and Conditions:
 
 - Third-party Social Media Service means any services or content (including data, information, products or services) provided by a third-party that may be displayed, included or made available by the Service.
 
-- Website refers to esccode.pl, accessible from https://esccode.pl/
+- Website refers to esccode.github.io, accessible from https://esccode.github.io
 
 - You means the individual accessing or using the Service, or the company, or other legal entity on behalf of which such individual is accessing or using the Service, as applicable.
 
