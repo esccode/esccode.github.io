@@ -25,7 +25,7 @@ aside: true
 <!-- > [![Code Mastery Series](image-11.png)](https://www.amazon.com/dp/B0DWZ7RTMJ) -->
 <!-- > [![Data Mastery Series](image-1.png)](https://www.amazon.com/dp/B0DM6CSP2J) -->
 <!-- > [![Cybersecurity Mastery Series](image-10.png)](https://www.amazon.com/dp/B0DM6K1JMP) -->
-> [![Amazon Shop by Series](image-6.png)](https://www.amazon.com/stores/Jacek-Wieteska/author/B0DC1KVP9X)
+> [![Amazon Shop by Series](image-4.png)](https://www.amazon.com/stores/Jacek-Wieteska/author/B0DC1KVP9X)
 <!-- [![Naffy.io "Produkty cyfrowe"](image-8.png)](https://www.naffy.io/esccode-pl) -->
 <!-- <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="429b7fd2-ead7-40a6-9305-edd2378fe538" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script> -->
 
