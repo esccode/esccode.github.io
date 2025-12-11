@@ -33,8 +33,9 @@ aside: true
 
 <!-- > UNIC Institute for the future [Free MOOC on Mastering Web3](https://www.unic.ac.cy/iff/education-and-training/free-courses-moocs/mastering-web3-blockchain-cryptocurrencies-nfts-and-the-metaverse/)   -->
 > CompTIA CySA+ CS0-003 [Exam Objectives ](https://www.comptia.org/certifications)  
+> CompTIA Data+ DA0-002 [Exam Objectives ](https://www.comptia.org/en-eu/certifications/data/)  
 > ISC2 SSCP [Exam Objectives ](https://www.isc2.org/certifications/sscp)  
->
+> 
 > Training status doesn't guarantee I'll pass or even take the exam;
 > it means I'm actively studying and preparing.
 <!-- > ISC2 [ISC2 Certified in Cybersecurity Entry-Level Certification ](https://www.isc2.org/certifications/cc)   -->
