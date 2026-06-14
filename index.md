@@ -32,9 +32,10 @@ aside: true
 #### Training Status
 
 <!-- > UNIC Institute for the future [Free MOOC on Mastering Web3](https://www.unic.ac.cy/iff/education-and-training/free-courses-moocs/mastering-web3-blockchain-cryptocurrencies-nfts-and-the-metaverse/)   -->
-> CompTIA CySA+ CS0-003 [Exam Objectives ](https://www.comptia.org/certifications)  
+> CompTIA CySA+ CS0-003 [Exam Objectives ](https://www.comptia.org/en-us/certifications/cybersecurity-analyst/v3/)  
 > CompTIA Data+ DA0-002 [Exam Objectives ](https://www.comptia.org/en-eu/certifications/data/)  
-> CompTIA Tech+  FC0-U71 [Exam Objectives ](https://www.comptia.org/en-us/certifications/tech/)  
+> CompTIA Tech+ FC0-U71 [Exam Objectives ](https://www.comptia.org/en-us/certifications/tech/)  
+> CompTIA SecAI+ CY0-001 [Exam Objectives ](https://www.comptia.org/en-us/certifications/secai/)  
 > 
 > Training status doesn't guarantee I'll pass or even take the exam;
 > it means I'm actively studying and preparing.
